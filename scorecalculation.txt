@@ -1,0 +1,2 @@
+(defrule START::moduletagcalculation
+  (object (is-a OBJECT) (

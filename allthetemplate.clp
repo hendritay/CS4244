@@ -21,7 +21,7 @@
 	(slot moduledescription)
 	(slot MC)
 	(slot modulepriority)
-	(slot moduletagscore)
+	(slot moduletagscore (create-accessor read-write)
  )
 
 (defclass MODULEPREQ
@@ -52,7 +52,7 @@
   (slot semester)  
  )
  
- (defclass REQUIREMENT)
+ (defclass REQUIREMENT
     (is-a USER)
 	(slot username)
 	(slot UE)
@@ -62,7 +62,27 @@
 	(slot focusarea)
 	(slot modulepersem)
 	(slot graduatefrom) 
+	
   )
+  
+  (defclass FOCUSAREA
+      (is-a USER)
+	  (slot moduleid)
+	  (slot type)
+   )
+   
+  
+  
+ (defclass SCORE
+   (is-a USER)
+   (slot focusscoreprimary)
+   (slot focussecondary)
+   (slot interestedmodule)
+  )
+  
+ 
+  
+  
   
   
  
