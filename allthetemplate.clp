@@ -22,7 +22,7 @@
 	(slot MC)
 	(slot modulepriority)
 	(slot moduletagscore)
-)
+ )
 
 (defclass modulepreq
   (is-a OBJECT)
@@ -50,5 +50,13 @@
   (slot starttime)
   (slot endtime)
   (slot semester)  
+ )
+ 
+ (defclass requirement)
+    (is-a OBJECT)
+	(slot UE)
+	(slot SS)
+	(slot breadth)
+	(slot GEM)
  )
  
