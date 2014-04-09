@@ -1,0 +1,862 @@
+ACC1002, Students who have passed FNA1002 are not allowed to take ACC1002.
+ACC1002X, Students who have passed CS1304 or EC3212 or BK1003 or BZ1002 or BH1002 or BZ1002E or BH1002E or FNA1002E or FNA1002X are not allowed to take ACC1002X.
+ACC1006, Students who have passed FNA1006 are not allowed to take ACC1006.
+ACC2002, BH2002 or BZ3102 or BK2001 or FNA2002 or IE4242
+ACC3601, BH3111 or BZ3101 or BK3106 or FNA3111
+ACC3602, Students who have passed FNA3112 are not allowed to take ACC3602.
+ACC3603, Students who have passed FNA3121 are not allowed to take ACC3603.
+ACC3604, Students who have passed FNA3122 or LL4055 are not allowed to take ACC3604.
+ACC3605, Students who have passed FNA3127 or LL4056 are not allowed to take ACC3605.
+ACC3606, Students who have passed FNA3123 are not allowed to take ACC3606.
+ACC3611, Students who have passed FNA3124 or LL4065 are not allowed to take ACC3611.
+ACC3612, Students who have passed FNA3125 are not allowed to take ACC3612.
+ACC3613, Students who have passed FNA3128 are not allowed to take ACC3613.
+ACC3614, Students who have passed FNA3126 are not allowed to take ACC3614.
+ACC3615, Students who have passed FNA3129 are not allowed to take ACC3615.
+ACC4611, Students who have passed FNA4114 are not allowed to take ACC4611.
+AR1102, All non-architecture students
+AR1326, All non-architecture students
+AR2102, All non-architecture students
+AR3102, All non-architecture students
+AR3102A, All non-architecture students
+AR4102, All non-architecture students
+AR4104, All non architecture students
+BN2201, DY103 Physiology, LSM3212 Human Physiology, PY1105 Physiology I, PY1106 Physiology II
+BN2401, EE2023 Signals and Systems
+BN3401, Students from the Dept of Electrical and Computer Engineering
+BSP1004, SSB2212 or BH1004 or BZ1004 or BK1006 or GEK1009 or GEM1009k or SSD1203 or BSP1004A or BSP1004B
+BSP1004X, SSB2212 or BH1004 or BZ1004 or BK1006 or GEK1009 or GEM1009k or SSD1203 or BSP1004A or BSP1004B
+BSP1005, BH1005 or BZ1006 or BK1008 or All Econs major students.
+BSP2001, (BH2001 or BZ2001 or EC1101 or EC1101E or EC1310 or EC1301 or EC3341 or EC4102 or All Econs major students) and All BBA(Acc) students. EC2102.
+BSP2005, BH2005 or BZ2005
+BSP3001A, BSP3001 or BSP3001B or BSP3001C or BSP3001D or BSP3001E
+BSP3001B, BSP3001 or BSP3001A or BSP3001C or BSP3001D or BSP3001E
+BSP3001C, BSP3001 or BSP3001A or BSP3001B or BSP3001D or BSP3001E
+BSP4512, BH4512 or BZ4812A or BK4009.
+CE5611, CE5610 Precast and Retrofitting Technology (taken in Semester 2, AY2008/09 or earlier)
+CG1108, EG1108/EE1002
+CG2271, CS2271
+CG3204L, CS2105 Introduction to Computer Networks, CS3103 Computer Networks & Protocols and CS3103L Computer Networks Laboratory
+CG4001, EE4001 B.Eng. Dissertation CP4101 B.Comp. Dissertation
+CH2141 / CL2241, CL2241 and CL2141
+CH2297 / GEK2047, GEK2047
+CH3248, CH3244 Topics in Contemporary China and HY3248 People's Republic of China, 1949-1989
+CH4401, CH4660
+CH4660, CH4401, CH4401S
+CL2103, CL2203
+CL3208, CH4201
+CM1121, CM1501 or CM1503
+CM1161, CN1111 or CN1111FC
+CM1402, CM1401 – Chemistry for Life Sciences
+CM1502, CM1131 or CM1101
+CM2192A, CM2192
+CM3253, CM2263 and CM3262
+CM3312, Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+CM4274, CM4221
+CN1111, CM1161, CN1111FC
+CN1111E, TC1101
+CN2116E, TC2106
+CN2125E, TC2115
+CN3124E, TC3114
+CN4118E, TC4118
+CN4210E, TC4210
+CN4227E, TC4227
+CN5173, CN4231
+CP3108A, CS3108A
+CP3108B, CS3108B
+CP3109, CS3109
+CP3208, CS3208
+CP3880, CS3880
+CP4101, CS4101
+CS1010, CG1101, CS1010E, CS1010FC, CS1010S, CS1101, CS1101C, CS1101S. Engineering and Science students who require this module for their majors/minors are not allowed to read it as ULR-Breadth.
+CS1010E, CG1101, CS1010, CS1010FC, CS1010S, CS1101, CS1101C, CS1101S
+CS1010FC, CS1010 or its equivalent
+CS1010R, CG1101, CS1010, CS1010E, CS1101, CS1101C, CZ1102, IT1002, Engineering students
+CS1010S, CG1101, CS1010, CS1010E, CS1010FC, CS1101, CS1101C, CS1101S
+CS1020, CG1102, CG1103, CS1020E, CS1102, CS1102C, CS1102S, CS2020
+CS1020E, CG1102, CG1103, CS1020, CS1102, CS1102C, CS1102S, CS2020
+CS1231, MA1100
+CS1231R, MA1100
+CS2010, CG1102, CS1102, CS1102C, CS1102S, CS2020
+CS2020, CG1102, CG1103, CS1020, CS1020E, CS2010, CS1102, CS1102C, CS1102S
+CS2100, CS1104 or Students from Department of ECE
+CS2100R, CS1104 or Students from Department of ECE
+CS2101, CS2103 Software Engineering, IS2101 Business Technical Communication or its equivalent, ES2002, ES2007S, ES2007D, CG1413, EG1413, ES2002, ES2007S, ES2007D, CG1413 and EG1413
+CS2102, CS2102S, IT2002
+CS2102R, CS2102S, IT2002
+CS2103, Science students majoring in Computational Finance, are not allowed to read it as CFM/Breadth. EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS2103T, CS2103 Software Engineering, IS2101 Business Technical Communication or its equivalent.
+CS2105, IT2001, EE3204/E, EE4210. CEG, CPE and EEE students are not allowed to take this module.
+CS2106, CG2271 or EE4214. CEG students are not allowed to take this module.
+CS2106R, CG2271 or EE4214. CEG students are not allowed to take this module.
+CS3103, EE4210 Computer Communication Networks II
+CS3201, CS3215
+CS3202, CS3215 Software Engineering Project
+CS3230, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS3241, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS3242, CS4342
+CS3243, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS3243R, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS3247, CS4213
+CS3284, CS4201, CS4202, CS4203, CS4204.
+CS4340, CS5245 (old code).
+CS4880, TR3002 New Venture Creation
+CS5230, CS4230
+DSC2006, BH2006 or BZ2003 or BK2006 or IE3120. All Industrial &amp; Systems (ISE) students
+DSC2008, ST1131/ST1131A Introduction to Statistics, ST1232 Statistics for Life Sciences and ST2334 Probability and Statistics.
+DSC3201, BH3201 or BZ3402 or BK3505 or IE4220 or CS5262. All Industrial &amp; Systems Engineering (ISE) students
+DSC3202, BH3202 or BZ3414 or BK3206
+DSC3203, BH3203 or BZ3404 or BK3501
+DSC3213, CS4244
+DSC3216, BH3216 or BZ3405 or BK3509 or BK3519. All Industrial &amp; Systems Engineering (ISE) students
+EC1101E, EC1301/EC1310, EC1311, BK1008, BZ1006/BH1005/BSP1005, USSE01, USE2301. All BBA, BAC, BBA(Hons) and BAC(Hons) students are not allowed to take EC1101E.
+EC1301, EC1101E, EC1311, BK1008, BZ1006/BH1005/BSP1005, USSE01, USE2301, EC1310, BSP2001/BH2001/BZ2001. All BBA, BAC, BBA(Hons) and BAC(Hons) students are not allowed to take EC1301.
+EC2101, EC2151
+EC2102, EC2152, BSP2001
+EC2104, EC3311, any MA module that is not MA1301 or MA1301FC or MA1311 or MA1312 or MA1421.
+EC2303, All ST and SA modules, DSC1007, MQ2205, GM2303, BK1004, EC2231
+EC2373 / SSA2220, EC2202 and SSA2220 and PP5215
+EC2374, EC3220, EC2222
+EC3101, EC2121, EC3201, EC3151
+EC3102, EC2122, EC3201, EC3152
+EC3303, ST3131, SA3101, EC3231
+EC3304, EC3237
+EC3312, EC3240, MA4264
+EC3322, EC2207, EC3227
+EC3332, EC2204, EC3224
+EC3333, BZ3302/BH3102/FNA3102/FIN3102/BH2004/BZ2004/FNA2004/FIN2004/FIN2004X/ EC3209
+EC3341, EC3205
+EC3351, EC3206
+EC3361, EC3208
+EC3371, EC2203, SE3232, EC3223
+EC3376, EC3373/EC3207, EC3375/EC3211, SE3231, EU3203, EU3214, EC3218
+EC3381, BU2202, EC3235
+EC3384, EC3234
+EC4101, EC4151
+EC4102, EC4152
+EC4332, EC4204
+EC4333, MA3245, EC4209
+EC4341, EC4205
+EC4351, EC4206
+EC4361, EC4208
+EC4371, EC4207
+EC4401, EC4402 or EC4660
+EC4660, EC4401 or EC4401S or EC4402
+EE2020, EE2006
+EE2020E, EE2006E
+EE2021, EE2004 and EE2005
+EE2021E, EE2004E and EE2005E
+EE2022, EE3505
+EE2023, EE2009 Signals, EE2010 Systems & Control
+EE3031, TR3001 New Product Development EE3001 Project MT4003 Engineering Product Development
+EE3031E, TM4209, EE3001E
+EE3032, EE2001 Project CG3002 Embedded Systems Design Project
+EE3104C, EE3104
+EE3131C, EE3103 Communications
+EE3331C, EE2010 Systems & Control
+EE3431C, EE3406, EE2004, PC3235
+EE3431E, EE3406E, EE2004E
+EE3501C, EE3501
+EE4001, CG4001
+EE4210, CS3103
+EE4210E, CS3103
+EE4212, CS4243
+EE4213, CS4243
+EE4410A, EE4410
+EE4431, EE4413 Low Dimensional Electronic Devices
+EE5903, EE4214 (Applicable to undergraduate students only). MCH5205, TD5103 (Applicable to graduate students only).
+EE5907R, TD5133
+EG1108, CG1108/EE1002
+EG1109, EG1109FC
+EG3301, ESP3902: Major Design Project 1 (4 MC) ESP3903: Major Design Project 2 (4 MC) BN2203: Introduction to Bioengineering Design (4 MC) BN3101: Biomedical Engineering Design (6 MC) CG3002: Embedded Systems Design Project (6 MC) EE3001: Project (4 MC) EE3031: Innovation & Enterprise I (4 MC) EE3032: Innovation & Enterprise II (6 MC) IE3100R: Systems Design Project (8 MC) ME3101: Mechanical Systems Design I (4 MC) ME3102: Mechanical Systems Design II (4 MC) ESE4501: Design Project (4 MC) MLE3103: Materials Design and Selection (4 MC) MLE4102: Design Project (4 MC)
+EG4301, ESP4901: Research Project (12 MC) BN4101R: B.Eng. Dissertation (12 MC) CN4118R: B.Eng. Dissertation (10 MC) CG4001: B.Eng. Dissertation (12 MC) EE4001: B.Eng. Dissertation (12 MC) IE4100: B.Eng. Dissertation (12 MC) ME4101: B.Eng. Dissertation (12 MC) CE4104: B.Eng. Dissertation (8 MC) ESE4502: B.Eng. Dissertation (12 MC) MLE4101: B.Eng. Dissertation (12 MC)
+EL1101E / GEK1011, GEK1011
+EL2201, EL2101
+EL2211, EL2111
+EL4401, EL4660
+EL4660, EL4401
+EM1201, AR1000, BE1000, ID1000, ET1000 / NK1001 / EA1101 / EG1471 / ES1301 /ES1101 / ES1102 and EM1101
+EM1202, AR1000, BE1000, ID1000, ET1000 / NK1001 / EA1101 / EG1471 / ES1301 /ES1101 / ES1102 and EM1101
+EN1101E / GEK1000, EN2101E, GEK1000
+EN2202, EN3274 Critical Reading
+EN2203, EN2113
+EN3261 / EU3217, EU3217
+EN4232 / AS4232, AS4232
+EN4401, EN4660
+EN4660, EN4401
+ES1102, AR1000, BE1000, ID1000, ET1000/NK1001/EA1101/EG1471/ES1301/ES1101, EM1101.
+ES1501A, 1. Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module. 2.FOE students will be exempted from ES1531 and ES2331 if they have successfully completed ES1501%. 3.However, ES1531 and ES2331 is optional for FOE stdents who have successfully completed ES1501%.
+ES1501Q, 1. Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module. 2. FOE students will be exempted from ES1531 and ES2331 if they have successfully completed ES1501%. 3. However, ES1531 and ES2331 is optional for FOE students who have successfully completed ES1501%.
+ES1531, EG1413, Students who have already read a WP2201 or IEM1201 module, U-town students cannot bid for ES1531.
+ES1541, Those who have taken SP1203, ENV1202, SP2171, U-Town and USP writing modules are precluded from taking ES1541.
+ES2002, CS2301 or IS2101, ES2007D, ES2007S, CG1413, CS2101, UWC2101.
+ES2007S, CG1413, IS2101, CS2101, ES2002, ES2007D, CS2301.
+ES2331, ES1501X, UTown students should not be allowed to bid for the module.
+ESE3001, ESE2401 & ESE3401
+ESP3903, ESP3901 Major Design Project
+EU3228, PS3251
+EU4401, EU4660
+FIN2004, Students who have taken CS2251 or EC3209 or EC3333 or BK2004 or BZ2004 or BH2004 or FNA2004 are not allowed to take FIN2004. 1st Year BSc(PFM), all BSc (RE) and Computational Finance are not allowed to take FIN2004.
+FIN2004X, Students who have taken CS2251 or EC3209 or EC3333 or BK2004 or BZ2004 or BH2004 or FNA2004 are not allowed to take FIN2004. 1st Year BSc(PFM), all BSc (RE) and Computational Finance are not allowed to take FIN2004.
+FIN3101A, BH3101 or BZ3301 or BK3100 or FNA3101 or FE5105 or FIN3101 or FIN3101B or FIN3101C
+FIN3102A, BH3102 or BZ3302 or BK3101 or FNA3102 or FNA3102B/C or FIN3102 or FIN3102B/C or FE5108 or EC3333 or CF3101/QF3101
+FIN3102B, BH3102 or BZ3302 or BK3101 or FNA3102 or FNA3102A/C or FIN3102 or FIN3102A/C or FE5108 or EC3333 or CF3101/QF3101
+FIN3103A, BH3103 or BZ3303 or BK3102 or FNA3103 or FIN3103 or FIN3103B
+FIN3103B, BH3103 or BZ3303 or BK3102 or FNA3103 or FIN3103 or FIN3103A
+FIN3113, BH3113 or BZ3105 or BK3105 or FNA3113
+FIN3116, BH3116 or BZ3312 or BK3109A or FNA3116 or FIN3116A or FIN3116B
+FIN3117, Students who have passed FNA3117 are not allowed to take FIN3117. Not for students who have passed FE5105.
+FIN3118, BH3118 or BZ3305 or FNA3118
+FIN3131, FNA3120A or CF3201/QF3201
+FIN4112G, FIN4112F: Seminars in Finance: Private Equity and Investment Banking
+FIN4112H, FIN4112F: Seminars in Finance: Private Equity and Investment Banking
+FIN4113, FNA4112E
+FMA1201J, Other Freshman Seminar Modules
+FMA1201P, Other Freshman Seminar modules
+FMA1201Q, Other Freshman Seminar Modules
+FMA1201R, Other Freshman Seminar modules
+FMA1203F, Other Freshman Seminar modules
+FMA1203H, Other Freshman Seminar modules
+FMA1206M, Other Freshman Seminar modules
+GE1101E / GEK1001, GEK1001
+GE2101, GE2225
+GE3550A, GE3550B and any other XX3550 module
+GE3550B, GE3550A and any other XX3550 module
+GE4202, GE3880B
+GE4401, GE4660
+GE4660, GE4401
+GEK1012, GEK1006. Not for students majoring in Social Work.
+GEK1022, GEM1022K
+GEK1029T, MNO3313A
+GEK1058, GEK1058A
+GEK1059, EL majors
+GEK1064, PL1101E. Students who have read PL1101E are not allowed to read this module.
+GEK1066, GEK 1052 Community Service and Social Action
+GEK1501, To preclude all Facultyof Engineering, Computer Engineering (CEG) &amp; School of Computing students
+GEK1505, Mathematics majors, Applied Mathematics majors, Computational Finance majors, Quantitative Finance majors, Mathematics with Management Science majors, Physics majors, second major in Mathematics, second major in Financial Mathematics
+GEK1508 / PC1325, Students majoring in Physics are not allowed to take this module
+GEK1509, Students majoring in Physics and Engineering are not allowed to take this module
+GEK1510 / PC1323, Students majoring in Physics are not allowed to take this module.
+GEK1513, To preclude Electrical Engineering, Computer Engineering and School of Computing students (except EE1, CPE1, CEG1, CEC1, COM1) and students who have read IT2001.
+GEK1515, Not for Life Sciences major and student reading Bachelor of Environmental Studies
+GEK1520 / PC1322, Students majoring in Physics are not allowed to take this module.
+GEK1523, To preclude students majoring in Mechanical Engineering
+GEK1524, To preclude students majoring in Mechanical Engineering
+GEK1527, Not for Life Sciences major/minor or Food Sciences & Technology or Pharmacy majors or Bioengineering programs.
+GEK1538, Life Sciences major/minor and student from Bachelor of Environmental Studies Programme
+GEK1544, Engineering students, Mathematics major, Applied Mathematics majors, Computational Finance majors, Quantitative Finance majors, second major in Mathematics, second major in Financial Mathematics, Statistics major, second major in Statistics, Physics major.
+GEK2001 / SSA2202, SSA2202, SE2241
+GEK2005, Not for Real Estate students and first year students
+GEK2013, Not for Real Estate students
+GEM1004FC, GEM1004, PH1101E
+GEM1035, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM1501, CS1305; GEM1501M. All School of Computing students are not allowed to read it as a GEM.
+GEM1536, GEM1902B Junior Seminar: The Darwinian Revolution
+GEM1902A, Only Tembusu College, U Town students may take this module
+GEM1902E, Only Tembusu College, U Town students may take this module
+GEM1902G, Only Tembusu College, U Town students may take this module
+GEM1904, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM1908, This module is currently open only to students of the College of Alice & Peter Tan, University Town. In addition, the module precludes students who are majoring in life sciences, food science, pharmacy, computational biology and bioengineering and students in the School of Medicine, the Faculty of Dentistry and the Alice Lee Centre for Nursing Studies. Students who have taken or are required to take LSM1101, LSM1401, LSM2101 and GEK1529 are also precluded.
+GEM1909, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM1915FC, GEM1912 Jnr Sem: Systems Systems Everywhere (offered at CAPT, UTown) Despite the minimal overlap, the preclusion may be needed to ensure that students who have completed GEM1912 do not have an unfair starting advantage over others who take this module.
+GEM2027, NM4200 Introduction to Public Speaking
+GEM2509, GEM2006 Logic, PH2110 logic, CS1231 Discrete Structures, CS3234 Logic and Formal systems, MA4207 Mathematical Logic, PH2214 Philosophical Logic, MA1100 Fundamental Concepts of Mathematics.
+GEM2900, Not for Statistics Major students
+GEM2903, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM2904, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM3902, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+HR2002, Students who have passed or are reading HR2001 or HR2101 or HR3111 are not allowed to take HR2002
+HY2229 / SSA2204, SSA2204, USE2304
+HY2239 / SSA2203, SSA2203
+HY2242 / SSA2208, SSA2208
+HY2254 / SSA2221, SSA2221
+HY2256 / EU2223, EU2223
+HY3209 / EU3230, EU3230
+HY3242 / EU3231, EU3231
+HY4205 / EU4224, EU4224
+HY4401, HY4660
+HY4660, HY4401
+ID1106, Module not offered to none industrial design students
+IE2100, BH3215, DSC3215
+IE2100E, DSC3215
+IEM1201M, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM1201N, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM1201P, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM1201Q, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM1201R, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM1201S, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM1201T, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM2201E, Students who have already read an I&E II module.
+IEM2201H, Students who have already read an I&E II module.
+IEM2201J, Students who have already read an IEM2201 module.
+IEM2201K, Students who have already read an I&E II module.
+IEM2201L, Students who have already read an I&E II module.
+INM3550, Any other series-internship modules (Note: Students who change major may not do a second internship in their new major)
+IS1103, CS1105/A
+IS1105, CS2250
+IS2101, ES2002, ES2007D, ES2007S, CS2101, CG1413, CS2103T.
+IS2103, CS2261
+IS3101, CS3253
+IS3220, CS3361
+IS3221, CS3264
+IS3222, CS4266
+IS3223, CS4267
+IS3230, CS3254 Information Security Management
+IS3240, CS3265
+IS3241, CS3267
+IS3243, CS3251
+IS4100, IS5110 and CS5212(old code for IS5110)
+IS4224, CS4361
+IS4226, CS4255
+IS4227, CS4258
+IS4240, CS4256
+IS4243, CS4253
+IS4260, CS4260
+IT1001, CS1010 or CS1010E, CS1010FC, CS1010S, CS1101, CS1101C, CS1101S, GEK1511. SoC students and engineering students. Science students requiring this module for their minor should not register it as ULR-Breadth. Arts and Social Science students reading CNM as a subject/concentration and matriculated before AY2001/02 are not allowed to read this module as URL-Breadth
+IT1006, IT1005, CS1010, CS1010E, CG1101, CS1101S, CS1010S or CS1010FC and its equivalent
+IT2001, CS2105, EE3204/E, EE4210; SoC, EEE & CPE students are not allowed to take this module. Arts and social sciences students reading CNM as a subject/concentration are not allowed to read this module as CFM/URL-Breadth.
+IT2002, CS2102 or CS2102S. SoC students and Arts and social sciences students reading CNM as a subject/concentration are not allowed to read this module as CFM/ULR-Breadth.
+JS1101E / GEK1002, GEK1002
+JS2224 / SSA2205, SSA2205
+JS3550, Any other XX3550 internship modules (Note: Students who change major may not do a second internship in their new major)
+JS4401, JS4660
+JS4660, JS4401
+LAB1201, LAM1201 Malay 1
+LAC1201, LAC2202
+LAC2201, LAC2202
+LAF3202, LAF3203
+LAF3203, LAF3202
+LAG3202, LAG3203 German for Academic Purposes
+LAG3203, LAG3202 German 4
+LAH1201, Hindi 1 is intended for students who are complete beginners. It is not suitable for students who are: - native speakers of Hindi or Urdu - students who have studied Hindi, Urdu, Gujarati, Marathi or Punjabi at 'O' or 'A' levels (or equivalents) or have previously undertaken any formal study of Hindi, Urdu, Gujarati or Punjabi for any duration of time - Students who are from India have to provide a complete transcript of subjects studied to prove that they have not taken Hindi at any level.
+LAK3202, LAK3203 Korean for Academic Purpose
+LAK3203, LAK3202 Korean 4
+LAM1201, LAB1201 Bahasa Indonesia 1
+LSM1101, LSM1401
+LSM1301, Must not have GCE ‘A’ Level or H2 Biology or equivalent. Cannot read concurrently with LSM1101, LSM1102, LSM1103, LSM1104 and LSM1202. Student must not have passed LSM1301FC.
+LSM1301FC, Must not have passed A-Level or H2 Biology, or equivalents. Student must not have passed LSM1301.
+LSM1302, Not for Life Sciences major/minor or Food Sciences & Technology or Pharmacy majors or Bioengineering programmes.
+LSM1401, Not for Life Sciences major/minor and student must not have read LSM1101 or its equivalent.
+LSM2201A, LSM3401A/B
+LSM2202A, LSM3402A/B
+LSM3211, GEK2501
+LSM3244, LSM3402A/B
+LSM3255, LSM3271
+MA1101R, EG1401, EG1402, MA1101, MA1311, MA1506, MA1508, FOE students
+MA1102R, EE1401, EE1461, EG1401, EG1402, CE1402, MA1102, MA1312, MA1505, MA1505C, MA1507, MA1521, CEC students, COM students who matriculated on and after 2002 (including poly 2002 intake),FoE students.
+MA1104, MA1104S, MA2207, MA2221, MA2311, MA3208, GM2301, MQ2202, MQ2102, MQ2203, PC1134, PC2201, MA1507, MPE students.
+MA1301, Those with A-level or H2 passes in Mathematics or who have passed any of the modules MA1101R, MA1102R,MA1301FC, MA1505, MA1506, MA1507, MA1508, MA1521, MA1311, MA1312, MA1421, MPE students.
+MA1301FC, Those with A-level or H2 passes in Mathematics. Student must not have passed MA1301.
+MA1312, MA1102R, MA1505, MA1505C, MA1521, FoE students.
+MA1505, MA1102R, MA1312, MA1507, MA1521, MA2311, MA2501, EE1461, PC2174.
+MA1506, MA1101R, MA1311, MA2312, MA1508, MA2501, EE1461, PC2174
+MA1508, MA1101R, MA1311, MA1506
+MA1521, MA1102R, MA1312, MA1505, MA1507, MA2501, FoE students.
+MA2101, MA2101S, MA2101H, MA2201, MA2203, MQ2201, MQ2101, MQ2203.
+MA2108, MA2108S, MA2206, MA2208, MA2221, MA2311, MQ2202, MQ2102, MQ2203, CN2401, EE2401, ME2492.
+MA2108S, MA2108, MA2206, MA2208, MA2221, MA2311, MQ2202, MQ2102, MQ2203, CN2401, EE2401, ME2492.
+MA2213, CE2407, ME3291, CN3421, CN3411, CHE students (for breadth requirements), EVE students (for breadth requirements).
+MA3110, MA2118, MA2118H, MA2205, MQ3202, MA3110S, ST2236.
+MA3110S, MA2118, MA2118H, MA2205, MQ3202, MA3110
+MA3111, MA3111S, EE3002, MPE students.
+MA3111S, MA3111, EE3002, MPE students.
+MA3218, MA2202, MA2202S, EE4103
+MA3227, ME3291
+MA3238 / ST3236, ST3236.
+MA3252, GM2302, MQ2204, CS3252, IC2231, DSC3214, GM3308, MA3235, BH3214, ISE students.
+MA3312, Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+MA4254, MA3235, ISE students.
+MA4255, ME4233
+MA4269, MA3245 Financial Mathematics I MA4257 Financial Mathematics II
+MA5217, MA4247 Complex Analysis II
+MA5260, ST5205
+ME2101E, TM2101
+ME2114E, TM1111
+ME2135E, TM2131
+ME3232, ME3231
+ME3233, ME3231
+ME3241E, TM3241
+ME3251E, TM3251
+ME4261E, TM4261
+ME4262E, TM4262
+MKT1003, Students who have taken EC3230/(EC2210) or CS3261/(IC3243) or PR4201 or BK2003 or BZ1003 or BH1003 are not allowed to take MKT1003. All BSc(Real Estate) students are not allowed to take MKT1003.
+MKT1003X, Students who have taken EC3230/(EC2210) or CS3261/(IC3243) or PR4201 or BK2003 or BZ1003 or BH1003 are not allowed to take MKT1003.
+MKT2401A, BH2401 or BZ3601 or BK3200 or MKT2401B or MKT2401
+MKT2401B, BH2401 or BZ3601 or BK3200 or MKT2401A or MKT2401
+MKT2401C, BH2401 or BZ3601 or BK3200 or MKT2401A or MKT2401B
+MKT2412, BH2412 or BZ3604 or BK3208
+MKT2413, BH2413 or BZ3614 or BK3202 or MKT2413A or MKT2413B
+MKT3402A, BH3402 or BZ3602 or BK3201 or MKT3402A or MKT3402B
+MKT3402B, BH3402 or BZ3602 or BK3201 or MKT3402A or MKT3402B
+MKT3412, BH3412 or BH3412A or BH3412B or BZ3612 or BK3205 or MKT3412A or MKT3412B
+MKT3418A, BH3418 or BZ3603
+MKT3418B, BH3418 or BZ3603
+MKT3513, EC3312 Game Theory and Applications To Economics MA4264 Game Theory
+MKT4413, BH4413 or BZ4611
+MNO1001, Students who have taken BE2106, EG1423, CS1303, BK2002 or BZ1001 or BH1001 are not allowed to take MNO1001. Students who took or are taking HR2001, HR2101, HR3111 or HR3308 cannot take MNO1001
+MNO1001X, Students who have taken BE2106, EG1423, CS1303, BK2002 or BZ1001 or BH1001 are not allowed to take MNO1001. Students who took or are taking HR2001, HR2101, HR3111 or HR3308 cannot take MNO1001
+MNO2302, BH2302 or BZ3504 or BK3300 or MNO2302A/B or PL3239 or PS3245
+MNO3301, BH3301 or BZ3501 or BK3309M or PS3243
+MNO3303, BH3303 or BZ3502 or BK4309D or BK3309N
+MNO3322, UBZ3001
+MS1102E, MS1101E
+MS3209 / SSA3203, SSA3203
+MS3218, MS4203 The Religious life of the Malays
+MS4401, MS4660
+MS4660, MS4401
+MS5660, MS6660
+MT4003, [TR3001 New Product Development] & [EE3031 Innovations & Enterprise 1]
+MT5011, CE5603 & IE5003
+MT5900, MT5910 LaunchPad: Experiential Entrepreneurship & SDM5990 SDM Research Project
+MUA2187, N/a
+MUA3187, N/A
+MUA3275, All ECE students
+NCC1000, Preclude BFS1001 or NCC1001
+NCC1001, Preclude BFS1001 or NCC1000
+NM1101FC, NM1101E
+NM3202, NM2202
+NM3203, NM3880A
+NM3211, NM2221
+NM3215, MKT3420 Promotional Management
+NM3233, NM3220 Research for Communication Management
+NM3235, NM4215 Corporate Social Responsibility: Research And Practice
+NM3236, NM4201 Ethics in Communication Management
+NM3237, NM4880D Health Communications NM4220 Health Communications
+NM3550, Any other series-internship modules (Note: Students who change major may not do a second internship in their new major)
+NM4102, NM4101
+NM4401, NM4660
+NM4660, NM4401
+NM5201R, IF4880A, IF5201
+NM5660, IF5660
+NM6102, IF5101, NM5101
+NM6660, IF6660
+NUR1118, AY1104 Anatomy PY1105 Physiology I PY1106 Physiology II
+OT5204, N/A
+PC1143, Students who have passed PC1432 are not allowed to take this module.
+PC1144, Students who have passed PC1432 are not allowed to take this module.
+PC1221, 'A' level or H2 pass in Physics or PC1141, or PC1142 or PC1431 or PC1431FC
+PC1222, 'A' level or H2 pass in Physics or PC1143, or PC1144 or PC1432
+PC1431, Students majoring in Physics or students who have passed in PC1141 or PC1142 or PC1433 or PC1431FC are not allowed to take this module.
+PC1431FC, Students majoring in Physics. Students must not have passed PC1431.
+PC1432, Students majoring in Physics or students who have passed in PC1143 or PC1144 are not allowed to take this module
+PC2130, Students who have passed PC2130B are not allowed to take this module.
+PC2130B, Students who passed PC2130 cannot take this module.
+PC2133, Students who have passed PC3235 are not allowed to take PC2133
+PC2232, N.A.
+PC3241, EE2004
+PC3246, N.A
+PC3312, Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+PC4253, EEE or CPE or CEG or MLE5201 students are not allowed to take this module.
+PF2105, Students who have read research methodology.
+PH1102E, GEK1067
+PH2110 / GEM2006, GEM2006, CS3234 and MA4207
+PH2212 / EU2214 / GEK2030, EU2214, GEK2030
+PH2222 / GEK2036, PH3209, GEK2036
+PH2223 / GEK2037, GEK2037
+PH2241, PH3212 Philosophy of Mind
+PH2302 / GEK2039, GEK2039
+PH3202, LL4639E, LL4404 or an equivalent course
+PH3204 / SN3272, SN3272
+PH4550, Any other internship module.
+PH4660, PH4401
+PL2131, UQF2101B
+PL3236, SW3217
+PL3251, PL3880A
+PL4219, PL4880A
+PL4401, PL4660
+PL4660, PL4401
+PL5222R, PL4204
+PR3301, Pharmacy Major
+PR4201, BH1003 or MKT1003 or CS3261
+PS1101E / GEK1003, GEM1003K, GEK1003, PS1101
+PS2203 / EU2203, PS2231, EU2218, PS2201B, PS2218, EU2203
+PS2233 / GEK2024, EU3208, PS2203B, PS3210, GEK2024
+PS2234, PS2204B
+PS2237, PS2207, PS2207B
+PS2239 / GEK2010, GEK2010, GEM2010K, PS2209, PS2209B
+PS2240, PS2210B
+PS2244 / SSA2222, SSA2222
+PS2245, PS2215B, SE2213
+PS2248, PS3205B, PS3250
+PS2249 / GEK2003 / SSA2209, GEK2003, GEM2003K, PS1102, PS2101, PS2101B, SS2209PS, SSA2209
+PS3232, PS3202B
+PS3249 / SSA3205, PS3219B, SSA3205, SS3205PS
+PS3257, PS2102, PS2102B, PS2231B
+PS3258, PS3101B, PS3218B, PS3248
+PS3263, PS2205B, PS2235
+PS3266 / GEK3007, GEK3007 Politics, Music and Society
+PS3550, Any other XX3550 internship modules (Note: Students who change major may not do a second internship in their new major)
+PS4218 / EU4228, EU4228
+PS4401, PS4660
+PS4660, PS4401, PS4401S
+PS4883B, PS3880C
+PS5312R, PS5213, PS6301B
+PS5314R, IZ5102, PS5208, PS6208, PS6301A, PS6401
+QF3312, Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+RE1103, RE2480 Urban and Real Estate Management I
+RE2104, RE2281 Real Estate Asset Market I
+RE2105, RE1182 Principles of Law RE2180 Fundamentals of Real Estate Law
+RE2106, RE3190 Real Estate Marketing
+RE2107, RE4390 Advanced Real Estate Valuation
+RE2201, RE3290 Quantitative Methods in Real Estate
+RE2301, RE3490 GIS for Real Estate
+RE3301, RE3390 Behavioural Studies in Real Estate
+RE4000, RE4181 Dissertation
+RE4001, RE4182 Real Estate Project/Case Study
+RE4302, RE4292 International Real Estate
+SC2214, IF2214
+SC3101 / EU3224, EU3224
+SC3213, IF3213
+SC4221, SC4208A Comparative Analysis of Human Rights
+SC4222, SC4208B Body and Society
+SC4223, SC4214A Health and Social Behaviour
+SC4401, SC4660
+SC4660, SC4401
+SC4882B, SC4215B Citizenship, Nation and Globalization
+SC5102R, SC6101 (obsolete)
+SDM5004, IE5208 Systems Approach to Project Management DTS5720 Systems Engineering Project Management
+SE1101E / GEK1008 / SSA1202, GEK1008, GEM1008K, SSA1202, SS1203SE
+SE2210, SE4215
+SE3218, SE2215
+SE3550, Any other XX3550 module. [Note: Students who change major may not do a second internship in their new major)
+SE4401, SE4660
+SE4660, SE4401
+SE5233R, IZ5103, SE6233
+SN2232, SN2212
+SN3262 / HY3236, HY2228, HY3236, SN2261
+SN3275, SN3291
+SP2251, N.A.
+SSA1201, SS1202SC
+SSA1207, EL, EN or TS majors
+SSA2215, GE2018
+SSB2217, ACC3605; BBA (Accountancy) students are not allowed to take this module. LL4056/A/B Tax Planning and Policy
+SSU2003, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+ST1131, ST1131A, ST1232, ST2334, CE2407, CN3421, EC2231, EC2303, PR2103, DSC2008. Engineering students except ISE students.
+ST1232, ST1131, ST1131A, ST2334, CE2407, CN3421, EC2231, EC2303, PR2103, DSC2008.
+ST2131 / MA2216, MA2216, ST2334, CE2407
+ST2334, ST1131, ST1131A, ST1232, ST2131, MA2216, CE2407, EC2231, EC2303, PR2103, DSC2008. ME students taking or having taken ME4273. All ISE students.
+ST3131, ST2335, EC3231, EC3303
+ST3312, Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+ST4238 / MA4251, MA4251
+SW2106, SW2103
+SW3217, PL3236 Abnormal Psychology
+SW4401, SW4660
+SW4660, SW4401
+TC2401, TC1402
+TE2003, TE2401
+TE2101, TE1122
+TG1401, TE2102 or TM1401
+TM2401, TE2002 or TC2401 or TC1402 or TM1402
+TR2201, TR3003
+TR3002, TR3004, TR3005
+TS1101E / GEM1003, GEM1003
+TS3235 / SSA3201, SSA3201
+TS4401, TS4660
+TS4660, TS4401
+UIT2206, Not applicable to USP modules.
+ULT2299E, Not applicable to USP modules.
+UPC2207, Not applicable to USP modules.
+UPI2206, Not applicable to USP modules.
+UQF2101B, Not applicable to USP modules.
+UQF2101F, Not applicable to USP modules.
+UQF2101G, Not applicable to USP First-Tier modules.
+UQF2101H, Not applicable to USP modules.
+UQR2211, Not applicable to USP modules.
+USE2313, Not applicable to USP modules.
+USE2317, Not applicable to USP modules.
+USE2318, Not applicable to USP modules.
+UWC2101C, Not applicable to USP modules.
+UWC2101Y, Not applicable to USP modules.
+UWC2102E, Not applicable to USP modules.
+XFA4402, EC4660
+XFB4002, Integrated honours thesis/dissertation from other faculties
+XFC4101, CS4101 B.Comp. Dissertation or CS4349 Game Research Project
+GEK1000 / EN1101E, EN1101E, EN2101, EN2101E. Students who are majoring in EN, or intend to major in EN should not take GEK1000.
+GEK1001 / GE1101E, GE1101E. Not for students majoring or intend to major in GE.
+GEK1002 / JS1101E, JS1101E. Students majoring in JS are precluded from taking this module.
+GEK1003 / PS1101E, PS1101, GEM1003K, PS1101E. Not for students majoring in PS
+GEK1008 / SE1101E, SE1101E, SSA1202, SS1203SE and GEM1008K. Not for students majoring, or intend to major in SE.
+GEK1011 / EL1101E, EL1101E
+GEK1012, GEK1006. Not for students majoring in Social Work.
+GEK1022, GEM1022K
+GEK1058, GEK1058A
+GEK1059, EL majors
+GEK1064, PL1101E. Students who have read PL1101E are not allowed to read this module.
+GEK1501, To preclude all Facultyof Engineering, Computer Engineering (CEG) &amp; School of Computing students
+GEK1505, Mathematics majors, Applied Mathematics majors, Computational Finance majors, Quantitative Finance majors, Mathematics with Management Science majors, Physics majors, second major in Mathematics, second major in Financial Mathematics
+GEK1508 / PC1325, Students majoring in Physics are not allowed to take this module
+GEK1509, Students majoring in Physics and Engineering are not allowed to take this module
+GEK1510 / PC1323, Students majoring in Physics are not allowed to take this module.
+GEK1513, To preclude Electrical Engineering, Computer Engineering and School of Computing students (except EE1, CPE1, CEG1, CEC1, COM1) and students who have read IT2001.
+GEK1515, Not for Life Sciences major and student reading Bachelor of Environmental Studies
+GEK1520 / PC1322, Students majoring in Physics are not allowed to take this module.
+GEK1523, To preclude students majoring in Mechanical Engineering
+GEK1524, To preclude students majoring in Mechanical Engineering
+GEK1527, Not for Life Sciences major/minor or Food Sciences & Technology or Pharmacy majors or Bioengineering programs.
+GEK1538, Life Sciences major/minor and student from Bachelor of Environmental Studies Programme
+GEK1544, Engineering students, Mathematics major, Applied Mathematics majors, Computational Finance majors, Quantitative Finance majors, second major in Mathematics, second major in Financial Mathematics, Statistics major, second major in Statistics, Physics major.
+GEK2001 / SSA2202, SSA2202, SE2241
+GEK2003 / PS2249, PS1102, GEM2003K, SS2209PS, PS2101B, SSA2209, PS2101, PS2249. Not for students majoring in PS.
+GEK2005, Not for Real Estate students and first year students
+GEK2010 / PS2239, PS2209, GEM2010K, PS2209B, PS2239. Not for students majoring in PS
+GEK2013, Not for Real Estate students
+GEK2024 / PS2233, EU3208, PS2203B, PS3210, PS2233
+GEK2030 / PH2212, PH2212, EU2214
+GEK2036 / PH2222, PH2222, PH3209
+GEK2037 / PH2223, PH2223
+GEK2047 / CH2297, CH2297
+GEK3007 / PS3266, PS3266
+GEM1003 / TS1101E, TS1101E
+GEM1004FC, GEM1004, PH1101E
+GEM1501, CS1305; GEM1501M. All School of Computing students are not allowed to read it as a GEM.
+GEM1536, GEM1902B Junior Seminar: The Darwinian Revolution
+GEM1915FC, GEM1912 Jnr Sem: Systems Systems Everywhere (offered at CAPT, UTown) Despite the minimal overlap, the preclusion may be needed to ensure that students who have completed GEM1912 do not have an unfair starting advantage over others who take this module.
+GEM2006 / PH2110, PH2110, CS3234 and MA4207. Not for students majoring in PH.
+GEM2027, NM4200 Introduction to Public Speaking
+GEM2509, GEM2006 Logic, PH2110 logic, CS1231 Discrete Structures, CS3234 Logic and Formal systems, MA4207 Mathematical Logic, PH2214 Philosophical Logic, MA1100 Fundamental Concepts of Mathematics.
+GEM2900, Not for Statistics Major students
+SSA1201, SS1202SC
+SSA1202 / SE1101E, GEK1008, GEM1008K, SE1101E, SS1203SE, Students majoring in SE are precluded from taking this module.
+SSA1207, EL, EN or TS majors
+SSA2202 / GEK2001, SE2241, GEK2001
+SSA2203 / HY2239, HY2239. Students majoring in HY are precluded from taking this module.
+SSA2204 / HY2229, HY2229, USE2304. Students majoring in HY or SE are precluded from taking this module.
+SSA2205 / JS2224, JS2224. Students majoring in JS are precluded from taking this module.
+SSA2208 / HY2242, HY2242. Students majoring in HY are precluded from taking this module.
+SSA2209 / PS2249, GEK2003, GEM2003K, PS1102, PS2101B, PS2101, PS2249, SS2209PS. Students majoring in PS are precluded from taking this module.
+SSA2215, GE2018
+SSA2220 / EC2373, EC2202 and EC2373 and PP5215
+SSA2221 / HY2254, HY2254
+SSA2222 / PS2244, PS2244
+SSA3201 / TS3235, TS3235. Students who are majoring in TS, or intend to major in TS should not take SSA3201.
+SSA3203 / MS3209, MS3209. Students majoring in MS are precluded from taking this module.
+SSA3205 / PS3249, PS3219B, SS3205PS, PS3249. Students majoring in PS are precluded from taking this module.
+SSB2217, ACC3605; BBA (Accountancy) students are not allowed to take this module. LL4056/A/B Tax Planning and Policy
+ACC1002X, Students who have passed CS1304 or EC3212 or BK1003 or BZ1002 or BH1002 or BZ1002E or BH1002E or FNA1002E or FNA1002X are not allowed to take ACC1002X.
+ACC1006, Students who have passed FNA1006 are not allowed to take ACC1006.
+ACC2002, BH2002 or BZ3102 or BK2001 or FNA2002 or IE4242
+BSP1004X, SSB2212 or BH1004 or BZ1004 or BK1006 or GEK1009 or GEM1009k or SSD1203 or BSP1004A or BSP1004B
+BSP1005, BH1005 or BZ1006 or BK1008 or All Econs major students.
+BSP2001, (BH2001 or BZ2001 or EC1101 or EC1101E or EC1310 or EC1301 or EC3341 or EC4102 or All Econs major students) and All BBA(Acc) students. EC2102.
+BSP2005, BH2005 or BZ2005
+BSP4512, BH4512 or BZ4812A or BK4009.
+CH2141 / CL2241, CL2241 and CL2141
+CH2297 / GEK2047, GEK2047
+CH3248, CH3244 Topics in Contemporary China and HY3248 People's Republic of China, 1949-1989
+CL2103, CL2203
+CL2241 / CH2141, CH2141 and CL2141
+CL3208, CH4201
+CS1010E, CG1101, CS1010, CS1010FC, CS1010S, CS1101, CS1101C, CS1101S
+CS1020E, CG1102, CG1103, CS1020, CS1102, CS1102C, CS1102S, CS2020
+CS1231, MA1100
+CS2010, CG1102, CS1102, CS1102C, CS1102S, CS2020
+CS2102, CS2102S, IT2002
+CS2103, Science students majoring in Computational Finance, are not allowed to read it as CFM/Breadth. EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS2105, IT2001, EE3204/E, EE4210. CEG, CPE and EEE students are not allowed to take this module.
+CS2106, CG2271 or EE4214. CEG students are not allowed to take this module.
+CS3103, EE4210 Computer Communication Networks II
+CS3230, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS3241, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS3243, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+DSC2006, BH2006 or BZ2003 or BK2006 or IE3120. All Industrial &amp; Systems (ISE) students
+DSC2008, ST1131/ST1131A Introduction to Statistics, ST1232 Statistics for Life Sciences and ST2334 Probability and Statistics.
+DSC3201, BH3201 or BZ3402 or BK3505 or IE4220 or CS5262. All Industrial &amp; Systems Engineering (ISE) students
+DSC3202, BH3202 or BZ3414 or BK3206
+DSC3203, BH3203 or BZ3404 or BK3501
+DSC3213, CS4244
+DSC3216, BH3216 or BZ3405 or BK3509 or BK3519. All Industrial &amp; Systems Engineering (ISE) students
+EC1301, EC1101E, EC1311, BK1008, BZ1006/BH1005/BSP1005, USSE01, USE2301, EC1310, BSP2001/BH2001/BZ2001. All BBA, BAC, BBA(Hons) and BAC(Hons) students are not allowed to take EC1301.
+EC2101, EC2151
+EC2102, EC2152, BSP2001
+EC2104, EC3311, any MA module that is not MA1301 or MA1301FC or MA1311 or MA1312 or MA1421.
+EC2303, All ST and SA modules, DSC1007, MQ2205, GM2303, BK1004, EC2231
+EC2373 / SSA2220, EC2202 and SSA2220 and PP5215
+EC2374, EC3220, EC2222
+EC3101, EC2121, EC3201, EC3151
+EC3102, EC2122, EC3201, EC3152
+EC3303, ST3131, SA3101, EC3231
+EC3304, EC3237
+EC3312, EC3240, MA4264
+EC3322, EC2207, EC3227
+EC3332, EC2204, EC3224
+EC3333, BZ3302/BH3102/FNA3102/FIN3102/BH2004/BZ2004/FNA2004/FIN2004/FIN2004X/ EC3209
+EC3341, EC3205
+EC3351, EC3206
+EC3361, EC3208
+EC3371, EC2203, SE3232, EC3223
+EC3376, EC3373/EC3207, EC3375/EC3211, SE3231, EU3203, EU3214, EC3218
+EC3381, BU2202, EC3235
+EC3384, EC3234
+EE2020, EE2006
+EE2022, EE3505
+EE3331C, EE2010 Systems & Control
+EE3431C, EE3406, EE2004, PC3235
+EG1108, CG1108/EE1002
+EG1109, EG1109FC
+EL1101E / GEK1011, GEK1011
+EL2201, EL2101
+EL2211, EL2111
+EN1101E / GEK1000, EN2101E, GEK1000
+EN2202, EN3274 Critical Reading
+EN2203, EN2113
+EN3261 / EU3217, EU3217
+EU2203 / PS2203, PS2203, PS2231, EU2218, PS2201B, PS2218
+EU2214 / PH2212, PH2212, GEK2030
+EU2223 / HY2256, HY2256
+EU3217 / EN3261, EN3261
+EU3224 / SC3101, SC3101
+EU3228, PS3251
+EU3230 / HY3209, HY3209
+EU3231 / HY3242, HY3242
+FIN2004X, Students who have taken CS2251 or EC3209 or EC3333 or BK2004 or BZ2004 or BH2004 or FNA2004 are not allowed to take FIN2004. 1st Year BSc(PFM), all BSc (RE) and Computational Finance are not allowed to take FIN2004.
+FIN3101A, BH3101 or BZ3301 or BK3100 or FNA3101 or FE5105 or FIN3101 or FIN3101B or FIN3101C
+FIN3102A, BH3102 or BZ3302 or BK3101 or FNA3102 or FNA3102B/C or FIN3102 or FIN3102B/C or FE5108 or EC3333 or CF3101/QF3101
+FIN3102B, BH3102 or BZ3302 or BK3101 or FNA3102 or FNA3102A/C or FIN3102 or FIN3102A/C or FE5108 or EC3333 or CF3101/QF3101
+FIN3103A, BH3103 or BZ3303 or BK3102 or FNA3103 or FIN3103 or FIN3103B
+FIN3103B, BH3103 or BZ3303 or BK3102 or FNA3103 or FIN3103 or FIN3103A
+FIN3113, BH3113 or BZ3105 or BK3105 or FNA3113
+FIN3116, BH3116 or BZ3312 or BK3109A or FNA3116 or FIN3116A or FIN3116B
+FIN3117, Students who have passed FNA3117 are not allowed to take FIN3117. Not for students who have passed FE5105.
+FIN3118, BH3118 or BZ3305 or FNA3118
+FIN3131, FNA3120A or CF3201/QF3201
+GE1101E / GEK1001, GEK1001
+HY2229 / SSA2204, SSA2204, USE2304
+HY2239 / SSA2203, SSA2203
+HY2242 / SSA2208, SSA2208
+HY2254 / SSA2221, SSA2221
+HY2256 / EU2223, EU2223
+HY3209 / EU3230, EU3230
+HY3236 / SN3262, HY2228, SN2261, SN3262
+HY3242 / EU3231, EU3231
+IS1105, CS2250
+IT1001, CS1010 or CS1010E, CS1010FC, CS1010S, CS1101, CS1101C, CS1101S, GEK1511. SoC students and engineering students. Science students requiring this module for their minor should not register it as ULR-Breadth. Arts and Social Science students reading CNM as a subject/concentration and matriculated before AY2001/02 are not allowed to read this module as URL-Breadth
+IT1006, IT1005, CS1010, CS1010E, CG1101, CS1101S, CS1010S or CS1010FC and its equivalent
+IT2001, CS2105, EE3204/E, EE4210; SoC, EEE & CPE students are not allowed to take this module. Arts and social sciences students reading CNM as a subject/concentration are not allowed to read this module as CFM/URL-Breadth.
+IT2002, CS2102 or CS2102S. SoC students and Arts and social sciences students reading CNM as a subject/concentration are not allowed to read this module as CFM/ULR-Breadth.
+JS1101E / GEK1002, GEK1002
+JS2224 / SSA2205, SSA2205
+LAB1201, LAM1201 Malay 1
+LAC1201, LAC2202
+LAC2201, LAC2202
+LAF3202, LAF3203
+LAF3203, LAF3202
+LAG3202, LAG3203 German for Academic Purposes
+LAG3203, LAG3202 German 4
+LAH1201, Hindi 1 is intended for students who are complete beginners. It is not suitable for students who are: - native speakers of Hindi or Urdu - students who have studied Hindi, Urdu, Gujarati, Marathi or Punjabi at 'O' or 'A' levels (or equivalents) or have previously undertaken any formal study of Hindi, Urdu, Gujarati or Punjabi for any duration of time - Students who are from India have to provide a complete transcript of subjects studied to prove that they have not taken Hindi at any level.
+LAK3202, LAK3203 Korean for Academic Purpose
+LAK3203, LAK3202 Korean 4
+LAM1201, LAB1201 Bahasa Indonesia 1
+LSM1301, Must not have GCE ‘A’ Level or H2 Biology or equivalent. Cannot read concurrently with LSM1101, LSM1102, LSM1103, LSM1104 and LSM1202. Student must not have passed LSM1301FC.
+MA1101R, EG1401, EG1402, MA1101, MA1311, MA1506, MA1508, FOE students
+MA1102R, EE1401, EE1461, EG1401, EG1402, CE1402, MA1102, MA1312, MA1505, MA1505C, MA1507, MA1521, CEC students, COM students who matriculated on and after 2002 (including poly 2002 intake),FoE students.
+MA1104, MA1104S, MA2207, MA2221, MA2311, MA3208, GM2301, MQ2202, MQ2102, MQ2203, PC1134, PC2201, MA1507, MPE students.
+MA1301, Those with A-level or H2 passes in Mathematics or who have passed any of the modules MA1101R, MA1102R,MA1301FC, MA1505, MA1506, MA1507, MA1508, MA1521, MA1311, MA1312, MA1421, MPE students.
+MA1312, MA1102R, MA1505, MA1505C, MA1521, FoE students.
+MA1505, MA1102R, MA1312, MA1507, MA1521, MA2311, MA2501, EE1461, PC2174.
+MA1506, MA1101R, MA1311, MA2312, MA1508, MA2501, EE1461, PC2174
+MA1521, MA1102R, MA1312, MA1505, MA1507, MA2501, FoE students.
+MA2101, MA2101S, MA2101H, MA2201, MA2203, MQ2201, MQ2101, MQ2203.
+MA2108, MA2108S, MA2206, MA2208, MA2221, MA2311, MQ2202, MQ2102, MQ2203, CN2401, EE2401, ME2492.
+MA2213, CE2407, ME3291, CN3421, CN3411, CHE students (for breadth requirements), EVE students (for breadth requirements).
+MA2216 / ST2131, ST2131, ST2334, CE2407
+MA3110, MA2118, MA2118H, MA2205, MQ3202, MA3110S, ST2236.
+MA3111, MA3111S, EE3002, MPE students.
+MA3218, MA2202, MA2202S, EE4103
+MA3227, ME3291
+MA3238 / ST3236, ST3236.
+MA3252, GM2302, MQ2204, CS3252, IC2231, DSC3214, GM3308, MA3235, BH3214, ISE students.
+MA4251 / ST4238, MA3237, MA3239, GM3310, ST4238, ISE students.
+MA4254, MA3235, ISE students.
+MA4255, ME4233
+MA4269, MA3245 Financial Mathematics I MA4257 Financial Mathematics II
+MKT1003X, Students who have taken EC3230/(EC2210) or CS3261/(IC3243) or PR4201 or BK2003 or BZ1003 or BH1003 are not allowed to take MKT1003.
+MKT2401A, BH2401 or BZ3601 or BK3200 or MKT2401B or MKT2401
+MKT2401B, BH2401 or BZ3601 or BK3200 or MKT2401A or MKT2401
+MKT2401C, BH2401 or BZ3601 or BK3200 or MKT2401A or MKT2401B
+MKT2412, BH2412 or BZ3604 or BK3208
+MKT2413, BH2413 or BZ3614 or BK3202 or MKT2413A or MKT2413B
+MKT3402B, BH3402 or BZ3602 or BK3201 or MKT3402A or MKT3402B
+MKT3412, BH3412 or BH3412A or BH3412B or BZ3612 or BK3205 or MKT3412A or MKT3412B
+MKT3418A, BH3418 or BZ3603
+MKT3418B, BH3418 or BZ3603
+MKT3513, EC3312 Game Theory and Applications To Economics MA4264 Game Theory
+MNO1001X, Students who have taken BE2106, EG1423, CS1303, BK2002 or BZ1001 or BH1001 are not allowed to take MNO1001. Students who took or are taking HR2001, HR2101, HR3111 or HR3308 cannot take MNO1001
+MNO2302, BH2302 or BZ3504 or BK3300 or MNO2302A/B or PL3239 or PS3245
+MNO3301, BH3301 or BZ3501 or BK3309M or PS3243
+MNO3303, BH3303 or BZ3502 or BK4309D or BK3309N
+MNO3322, UBZ3001
+MS1102E, MS1101E
+MS3209 / SSA3203, SSA3203
+MS3218, MS4203 The Religious life of the Malays
+MT4003, [TR3001 New Product Development] & [EE3031 Innovations & Enterprise 1]
+NM3202, NM2202
+NM3203, NM3880A
+NM3211, NM2221
+NM3215, MKT3420 Promotional Management
+NM3233, NM3220 Research for Communication Management
+NM3235, NM4215 Corporate Social Responsibility: Research And Practice
+NM3236, NM4201 Ethics in Communication Management
+NM3237, NM4880D Health Communications NM4220 Health Communications
+NUR1118, AY1104 Anatomy PY1105 Physiology I PY1106 Physiology II
+PC1143, Students who have passed PC1432 are not allowed to take this module.
+PC1144, Students who have passed PC1432 are not allowed to take this module.
+PC1221, 'A' level or H2 pass in Physics or PC1141, or PC1142 or PC1431 or PC1431FC
+PC1222, 'A' level or H2 pass in Physics or PC1143, or PC1144 or PC1432
+PC1322 / GEK1520, Students majoring in Physics are not allowed to take this module
+PC1323 / GEK1510, Students majoring in Physics are not allowed to take this module
+PC1325 / GEK1508, Students majoring in Physics are not allowed to take this module
+PC1431, Students majoring in Physics or students who have passed in PC1141 or PC1142 or PC1433 or PC1431FC are not allowed to take this module.
+PC1432, Students majoring in Physics or students who have passed in PC1143 or PC1144 are not allowed to take this module
+PC2130, Students who have passed PC2130B are not allowed to take this module.
+PC3241, EE2004
+PC3246, N.A
+PC4253, EEE or CPE or CEG or MLE5201 students are not allowed to take this module.
+PH1102E, GEK1067
+PH2110 / GEM2006, GEM2006, CS3234 and MA4207
+PH2212 / EU2214 / GEK2030, EU2214, GEK2030
+PH2222 / GEK2036, PH3209, GEK2036
+PH2223 / GEK2037, GEK2037
+PH2241, PH3212 Philosophy of Mind
+PH2302 / GEK2039, GEK2039
+PH3202, LL4639E, LL4404 or an equivalent course
+PH3204 / SN3272, SN3272
+PL2131, UQF2101B
+PL3236, SW3217
+PL3251, PL3880A
+PS1101E / GEK1003, GEM1003K, GEK1003, PS1101
+PS2203 / EU2203, PS2231, EU2218, PS2201B, PS2218, EU2203
+PS2233 / GEK2024, EU3208, PS2203B, PS3210, GEK2024
+PS2234, PS2204B
+PS2237, PS2207, PS2207B
+PS2239 / GEK2010, GEK2010, GEM2010K, PS2209, PS2209B
+PS2240, PS2210B
+PS2244 / SSA2222, SSA2222
+PS2245, PS2215B, SE2213
+PS2248, PS3205B, PS3250
+PS2249 / GEK2003 / SSA2209, GEK2003, GEM2003K, PS1102, PS2101, PS2101B, SS2209PS, SSA2209
+PS3232, PS3202B
+PS3249 / SSA3205, PS3219B, SSA3205, SS3205PS
+PS3257, PS2102, PS2102B, PS2231B
+PS3258, PS3101B, PS3218B, PS3248
+PS3263, PS2205B, PS2235
+PS3266 / GEK3007, GEK3007 Politics, Music and Society
+SC2214, IF2214
+SC3101 / EU3224, EU3224
+SC3213, IF3213
+SE1101E / GEK1008 / SSA1202, GEK1008, GEM1008K, SSA1202, SS1203SE
+SE2210, SE4215
+SE3218, SE2215
+SN2232, SN2212
+SN3262 / HY3236, HY2228, HY3236, SN2261
+SN3272 / PH3204, PH3204
+SN3275, SN3291
+SP2251, N.A.
+ST2131 / MA2216, MA2216, ST2334, CE2407
+ST2334, ST1131, ST1131A, ST1232, ST2131, MA2216, CE2407, EC2231, EC2303, PR2103, DSC2008. ME students taking or having taken ME4273. All ISE students.
+ST3131, ST2335, EC3231, EC3303
+ST3236 / MA3238, MA3238. All ISE students.
+SW3217, PL3236 Abnormal Psychology
+TR2201, TR3003
+TR3002, TR3004, TR3005
+TS1101E / GEM1003, GEM1003
+TS3235 / SSA3201, SSA3201

@@ -1,0 +1,2530 @@
+ACC1002, Students who have passed FNA1002 are not allowed to take ACC1002.
+ACC1002X, Students who have passed CS1304 or EC3212 or BK1003 or BZ1002 or BH1002 or BZ1002E or BH1002E or FNA1002E or FNA1002X are not allowed to take ACC1002X.
+ACC1006, Students who have passed FNA1006 are not allowed to take ACC1006.
+ACC2002, BH2002 or BZ3102 or BK2001 or FNA2002 or IE4242
+ACC3601, BH3111 or BZ3101 or BK3106 or FNA3111
+ACC3602, Students who have passed FNA3112 are not allowed to take ACC3602.
+ACC3603, Students who have passed FNA3121 are not allowed to take ACC3603.
+ACC3604, Students who have passed FNA3122 or LL4055 are not allowed to take ACC3604.
+ACC3605, Students who have passed FNA3127 or LL4056 are not allowed to take ACC3605.
+ACC3606, Students who have passed FNA3123 are not allowed to take ACC3606.
+ACC3611, Students who have passed FNA3124 or LL4065 are not allowed to take ACC3611.
+ACC3612, Students who have passed FNA3125 are not allowed to take ACC3612.
+ACC3613, Students who have passed FNA3128 are not allowed to take ACC3613.
+ACC3614, Students who have passed FNA3126 are not allowed to take ACC3614.
+ACC3615, Students who have passed FNA3129 are not allowed to take ACC3615.
+ACC4611, Students who have passed FNA4114 are not allowed to take ACC4611.
+ACC4612A, Nil
+ACC4612C, Nil
+ACC4612E, Nil
+ACC4619, Nil
+ACC4629, Nil
+AR1102, All non-architecture students
+AR1326, All non-architecture students
+AR1721, Nil
+AR1724, NIL
+AR2102, All non-architecture students
+AR2151, Nil
+AR2225, Nil
+AR2327, NIL
+AR2723, Nil
+AR3102, All non-architecture students
+AR3102A, All non-architecture students
+AR3152, Nil
+AR3721, NIL
+AR4102, All non-architecture students
+AR4104, All non architecture students
+AR4142, Nil
+AR4223, Nil
+AR4323, Nil
+AR5011, NIL
+AR5221, Nil
+AR5321, Nil
+AR5952J, NIL
+AR5952M, Nil
+AR5952Z, NIL
+AR5953L, Nil
+AR5953N, Nil
+BFS1001, Nil
+BHD4001, Nil
+BHD4001A, Nil
+BHD4001B, Nil
+BHD4001C, Nil
+BLD3001, Nil
+BLD3002, Nil
+BLD3003, Nil
+BLD3004, NIL
+BN2001, Nil
+BN2103, Nil
+BN2201, DY103 Physiology, LSM3212 Human Physiology, PY1105 Physiology I, PY1106 Physiology II
+BN2203, NIL
+BN2401, EE2023 Signals and Systems
+BN3401, Students from the Dept of Electrical and Computer Engineering
+BN3501, Nil
+BN4101R, Nil
+BN4201, Nil
+BN4203, Nil
+BN4402, Nil
+BN4404, Nil
+BSP1004, SSB2212 or BH1004 or BZ1004 or BK1006 or GEK1009 or GEM1009k or SSD1203 or BSP1004A or BSP1004B
+BSP1004X, SSB2212 or BH1004 or BZ1004 or BK1006 or GEK1009 or GEM1009k or SSD1203 or BSP1004A or BSP1004B
+BSP1005, BH1005 or BZ1006 or BK1008 or All Econs major students.
+BSP2001, (BH2001 or BZ2001 or EC1101 or EC1101E or EC1310 or EC1301 or EC3341 or EC4102 or All Econs major students) and All BBA(Acc) students. EC2102.
+BSP2005, BH2005 or BZ2005
+BSP3001A, BSP3001 or BSP3001B or BSP3001C or BSP3001D or BSP3001E
+BSP3001B, BSP3001 or BSP3001A or BSP3001C or BSP3001D or BSP3001E
+BSP3001C, BSP3001 or BSP3001A or BSP3001B or BSP3001D or BSP3001E
+BSP4512, BH4512 or BZ4812A or BK4009.
+CE2112, Nil
+CE2183, Nil
+CE3101, Nil
+CE3102, Nil
+CE3116, Nil
+CE3132, Nil
+CE3155, Nil
+CE3165, Nil
+CE4103, Nil
+CE4104, Nil
+CE4221, Nil
+CE4231, Nil
+CE4247, Nil
+CE4258, Nil
+CE4282, Nil
+CE5105, Nil
+CE5106, Nil
+CE5107, Nil
+CE5207, Nil
+CE5308, NIL
+CE5313, NIL
+CE5603, Nil
+CE5604, Nil
+CE5611, CE5610 Precast and Retrofitting Technology (taken in Semester 2, AY2008/09 or earlier)
+CE5805, Nil
+CE5881, Nil
+CE5883A, Nil
+CG1108, EG1108/EE1002
+CG2271, CS2271
+CG3204L, CS2105 Introduction to Computer Networks, CS3103 Computer Networks & Protocols and CS3103L Computer Networks Laboratory
+CG4001, EE4001 B.Eng. Dissertation CP4101 B.Comp. Dissertation
+CH1101E, Nil
+CH2141 / CL2241, CL2241 and CL2141
+CH2223, NIl
+CH2273, Nil
+CH2291, Nil
+CH2297 / GEK2047, GEK2047
+CH3223, Nil
+CH3226, Nil
+CH3229, Nil
+CH3248, CH3244 Topics in Contemporary China and HY3248 People's Republic of China, 1949-1989
+CH3295, NIL
+CH4244, NIL
+CH4261, NIL
+CH4281, NIL
+CH4401, CH4660
+CH4660, CH4401, CH4401S
+CH5225, NIL
+CH5225R, NIL
+CH5242, Nil
+CH5242R, Nil
+CH5660, NIL
+CH5880, Nil
+CH5880R, Nil
+CH6201, Nil
+CH6245, Nil
+CH6262, Nil
+CL1101E, Nil
+CL2103, CL2203
+CL2260, Nil
+CL2281, Nil
+CL2291, NIL
+CL3205, Nil
+CL3208, CH4201
+CL3211, Nil
+CL3281, Nil
+CM1121, CM1501 or CM1503
+CM1161, CN1111 or CN1111FC
+CM1191, NIL
+CM1402, CM1401 – Chemistry for Life Sciences
+CM1502, CM1131 or CM1101
+CM2101, Nil
+CM2111, NIL
+CM2121, Nil
+CM2142, NIL
+CM2161, Nil
+CM2191, NIL
+CM2192, NIL
+CM2192A, CM2192
+CM2288, Nil
+CM2289, Nil
+CM3181, Nil
+CM3193, Nil
+CM3194, Nil
+CM3211, Nil
+CM3222, Nil
+CM3225, Nil
+CM3232, Nil
+CM3251, None
+CM3253, CM2263 and CM3262
+CM3261, Nil
+CM3262, Nil
+CM3264, Nil
+CM3265, Nil
+CM3288, Nil
+CM3289, Nil
+CM3291, Nil
+CM3292, Nil
+CM3295, Nil
+CM3296, Nil
+CM3301, Nil
+CM3302, Nil
+CM3303, Nil
+CM3312, Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+CM4199A, Nil
+CM4199B, Nil
+CM4201, Nil
+CM4214, Nil
+CM4236, Nil
+CM4241, Nil
+CM4242, Nil
+CM4268, Nil
+CM4269, Nil
+CM4271, Nil
+CM4274, CM4221
+CM5225, Nil
+CM5237, Nil
+CM5245, Nil
+CM5262, Nil
+CN1111, CM1161, CN1111FC
+CN1111E, TC1101
+CN2108, Nil
+CN2116, Nil
+CN2116E, TC2106
+CN2121, Nil
+CN2122, Nil
+CN2125, Nil
+CN2125E, TC2115
+CN3108, Nil
+CN3109, Nil
+CN3124, Nil
+CN3124E, TC3114
+CN3132, Nil
+CN3135, NIL
+CN3421, Nil
+CN4118E, TC4118
+CN4118R, Nil
+CN4121, NIL
+CN4122, Nil
+CN4123E, Nil
+CN4201R, Nil
+CN4203R, NIL
+CN4208E, NIL
+CN4210E, TC4210
+CN4223R, Nil
+CN4227E, TC4227
+CN4227R, Nil
+CN4238R, Nil
+CN4240R, Nil
+CN4246R, Nil
+CN4248, NIL
+CN5111, Nil
+CN5173, CN4231
+CP3101A, Nil
+CP3101B, Nil
+CP3106, NIL
+CP3108A, CS3108A
+CP3108B, CS3108B
+CP3109, CS3109
+CP3200, Nil
+CP3201, NIL
+CP3208, CS3208
+CP3209, Nil
+CP3880, CS3880
+CP4101, CS4101
+CS1010, CG1101, CS1010E, CS1010FC, CS1010S, CS1101, CS1101C, CS1101S. Engineering and Science students who require this module for their majors/minors are not allowed to read it as ULR-Breadth.
+CS1010E, CG1101, CS1010, CS1010FC, CS1010S, CS1101, CS1101C, CS1101S
+CS1010FC, CS1010 or its equivalent
+CS1010R, CG1101, CS1010, CS1010E, CS1101, CS1101C, CZ1102, IT1002, Engineering students
+CS1010S, CG1101, CS1010, CS1010E, CS1010FC, CS1101, CS1101C, CS1101S
+CS1020, CG1102, CG1103, CS1020E, CS1102, CS1102C, CS1102S, CS2020
+CS1020E, CG1102, CG1103, CS1020, CS1102, CS1102C, CS1102S, CS2020
+CS1231, MA1100
+CS1231R, MA1100
+CS2010, CG1102, CS1102, CS1102C, CS1102S, CS2020
+CS2020, CG1102, CG1103, CS1020, CS1020E, CS2010, CS1102, CS1102C, CS1102S
+CS2100, CS1104 or Students from Department of ECE
+CS2100R, CS1104 or Students from Department of ECE
+CS2101, CS2103 Software Engineering, IS2101 Business Technical Communication or its equivalent, ES2002, ES2007S, ES2007D, CG1413, EG1413, ES2002, ES2007S, ES2007D, CG1413 and EG1413
+CS2102, CS2102S, IT2002
+CS2102R, CS2102S, IT2002
+CS2103, Science students majoring in Computational Finance, are not allowed to read it as CFM/Breadth. EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS2103R, Nil
+CS2103T, CS2103 Software Engineering, IS2101 Business Technical Communication or its equivalent.
+CS2104R, Nil
+CS2105, IT2001, EE3204/E, EE4210. CEG, CPE and EEE students are not allowed to take this module.
+CS2105R, Nil
+CS2106, CG2271 or EE4214. CEG students are not allowed to take this module.
+CS2106R, CG2271 or EE4214. CEG students are not allowed to take this module.
+CS2107, Nil
+CS3103, EE4210 Computer Communication Networks II
+CS3103L, None
+CS3201, CS3215
+CS3202, CS3215 Software Engineering Project
+CS3210, NIL
+CS3211, Nil
+CS3217, Nil
+CS3218, NIL
+CS3223, Nil
+CS3225, Nil
+CS3230, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS3230R, NIL
+CS3233, Nil
+CS3233R, NIL
+CS3234, Nil
+CS3240, NIL
+CS3241, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS3241R, NIL
+CS3242, CS4342
+CS3243, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS3243R, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS3245, NIL
+CS3247, CS4213
+CS3249, NIL
+CS3282, Nil
+CS3284, CS4201, CS4202, CS4203, CS4204.
+CS3343, NIL
+CS3882, Nil
+CS4215, NIL
+CS4218, Nil
+CS4220, Nil
+CS4222, Nil
+CS4231, Nil
+CS4236, Nil
+CS4242, NIL
+CS4243R, Nil
+CS4244, Nil
+CS4246R, NIL
+CS4247, Nil
+CS4248R, Nil
+CS4340, CS5245 (old code).
+CS4347, Nil
+CS4880, TR3002 New Venture Creation
+CS5214, Nil
+CS5218, Nil
+CS5222, NIL
+CS5230, CS4230
+CS5231, Nil
+CS5232, Nil
+CS5233, Nil
+CS5241, Nil
+CS5272, Nil
+CS5331, Nil
+CS5342, Nil
+CZ5226, Nil
+DSC1007, NIL
+DSC1007X, NIL
+DSC2006, BH2006 or BZ2003 or BK2006 or IE3120. All Industrial &amp; Systems (ISE) students
+DSC2008, ST1131/ST1131A Introduction to Statistics, ST1232 Statistics for Life Sciences and ST2334 Probability and Statistics.
+DSC3201, BH3201 or BZ3402 or BK3505 or IE4220 or CS5262. All Industrial &amp; Systems Engineering (ISE) students
+DSC3202, BH3202 or BZ3414 or BK3206
+DSC3203, BH3203 or BZ3404 or BK3501
+DSC3213, CS4244
+DSC3216, BH3216 or BZ3405 or BK3509 or BK3519. All Industrial &amp; Systems Engineering (ISE) students
+DSC3222M, Nil
+DSC3224, Nil
+DSC3226, Nil
+DSC3229, NIL
+DSC4211C, Nil
+DSC4211G, Nil
+DSC4219, NIL
+DSC5121, NIL
+DSC5211A, NIL
+EC1101E, EC1301/EC1310, EC1311, BK1008, BZ1006/BH1005/BSP1005, USSE01, USE2301. All BBA, BAC, BBA(Hons) and BAC(Hons) students are not allowed to take EC1101E.
+EC1301, EC1101E, EC1311, BK1008, BZ1006/BH1005/BSP1005, USSE01, USE2301, EC1310, BSP2001/BH2001/BZ2001. All BBA, BAC, BBA(Hons) and BAC(Hons) students are not allowed to take EC1301.
+EC2101, EC2151
+EC2102, EC2152, BSP2001
+EC2104, EC3311, any MA module that is not MA1301 or MA1301FC or MA1311 or MA1312 or MA1421.
+EC2303, All ST and SA modules, DSC1007, MQ2205, GM2303, BK1004, EC2231
+EC2373 / SSA2220, EC2202 and SSA2220 and PP5215
+EC2374, EC3220, EC2222
+EC3101, EC2121, EC3201, EC3151
+EC3102, EC2122, EC3201, EC3152
+EC3303, ST3131, SA3101, EC3231
+EC3304, EC3237
+EC3312, EC3240, MA4264
+EC3322, EC2207, EC3227
+EC3332, EC2204, EC3224
+EC3333, BZ3302/BH3102/FNA3102/FIN3102/BH2004/BZ2004/FNA2004/FIN2004/FIN2004X/ EC3209
+EC3341, EC3205
+EC3351, EC3206
+EC3352, Nil
+EC3361, EC3208
+EC3371, EC2203, SE3232, EC3223
+EC3375, NIL
+EC3376, EC3373/EC3207, EC3375/EC3211, SE3231, EU3203, EU3214, EC3218
+EC3377, NIL
+EC3381, BU2202, EC3235
+EC3384, EC3234
+EC3394, NIL
+EC3396, Nil
+EC3551, NIL
+EC3880B, Nil
+EC4101, EC4151
+EC4102, EC4152
+EC4324, Nil
+EC4332, EC4204
+EC4333, MA3245, EC4209
+EC4341, EC4205
+EC4351, EC4206
+EC4361, EC4208
+EC4371, EC4207
+EC4394, Nil
+EC4401, EC4402 or EC4660
+EC4660, EC4401 or EC4401S or EC4402
+EC4880, NIL
+EC5326R, Nil
+EC5332R, Nil
+EE1003, NIL
+EE2011, Nil
+EE2011E, NIL
+EE2012, Nil
+EE2020, EE2006
+EE2020E, EE2006E
+EE2021, EE2004 and EE2005
+EE2021E, EE2004E and EE2005E
+EE2022, EE3505
+EE2023, EE2009 Signals, EE2010 Systems & Control
+EE2024, NIL
+EE2031, Nil
+EE2032, Nil
+EE3013C, Nil
+EE3013E, Nil
+EE3031, TR3001 New Product Development EE3001 Project MT4003 Engineering Product Development
+EE3031E, TM4209, EE3001E
+EE3032, EE2001 Project CG3002 Embedded Systems Design Project
+EE3104C, EE3104
+EE3131C, EE3103 Communications
+EE3304, Nil
+EE3331C, EE2010 Systems & Control
+EE3407, Nil
+EE3407E, NIL
+EE3431C, EE3406, EE2004, PC3235
+EE3431E, EE3406E, EE2004E
+EE3501C, EE3501
+EE3501E, NIL
+EE4001, CG4001
+EE4104, Nil
+EE4110, Nil
+EE4112E, NIL
+EE4114, Nil
+EE4210, CS3103
+EE4210E, CS3103
+EE4212, CS4243
+EE4213, CS4243
+EE4218, Nil
+EE4302, Nil
+EE4306, Nil
+EE4307, Nil
+EE4401, Nil
+EE4408, Nil
+EE4410A, EE4410
+EE4415, Nil
+EE4415E, NIL
+EE4431, EE4413 Low Dimensional Electronic Devices
+EE4432, Nil
+EE4434, Nil
+EE4509, Nil
+EE4511, Nil
+EE4603, Nil
+EE4605, Nil
+EE5903, EE4214 (Applicable to undergraduate students only). MCH5205, TD5103 (Applicable to graduate students only).
+EE5904R, Nil
+EE5907R, TD5133
+EG1108, CG1108/EE1002
+EG1109, EG1109FC
+EG1310, nil
+EG1603, Nil
+EG2201A, nil
+EG2401, Nil
+EG2603A, Nil
+EG2604, Nil
+EG2605, Nil
+EG2606A, Nil
+EG2606B, Nil
+EG3301, ESP3902: Major Design Project 1 (4 MC) ESP3903: Major Design Project 2 (4 MC) BN2203: Introduction to Bioengineering Design (4 MC) BN3101: Biomedical Engineering Design (6 MC) CG3002: Embedded Systems Design Project (6 MC) EE3001: Project (4 MC) EE3031: Innovation & Enterprise I (4 MC) EE3032: Innovation & Enterprise II (6 MC) IE3100R: Systems Design Project (8 MC) ME3101: Mechanical Systems Design I (4 MC) ME3102: Mechanical Systems Design II (4 MC) ESE4501: Design Project (4 MC) MLE3103: Materials Design and Selection (4 MC) MLE4102: Design Project (4 MC)
+EG3601, Nil
+EG3602, Nil
+EG4301, ESP4901: Research Project (12 MC) BN4101R: B.Eng. Dissertation (12 MC) CN4118R: B.Eng. Dissertation (10 MC) CG4001: B.Eng. Dissertation (12 MC) EE4001: B.Eng. Dissertation (12 MC) IE4100: B.Eng. Dissertation (12 MC) ME4101: B.Eng. Dissertation (12 MC) CE4104: B.Eng. Dissertation (8 MC) ESE4502: B.Eng. Dissertation (12 MC) MLE4101: B.Eng. Dissertation (12 MC)
+EL1101E / GEK1011, GEK1011
+EL2201, EL2101
+EL2211, EL2111
+EL3202, Nil
+EL3208, Nil
+EL3209, Nil
+EL3252, Nil
+EL3258, Nil
+EL3880F, Nil
+EL4216, NIL
+EL4254, NIL
+EL4255, NIL
+EL4401, EL4660
+EL4660, EL4401
+EL4880A, Nil
+EL5250R, Nil
+EL5252R, Nil
+EL5253R, NIL
+EL5270R, NIL
+EL5880BR, NIL
+EM1201, AR1000, BE1000, ID1000, ET1000 / NK1001 / EA1101 / EG1471 / ES1301 /ES1101 / ES1102 and EM1101
+EM1202, AR1000, BE1000, ID1000, ET1000 / NK1001 / EA1101 / EG1471 / ES1301 /ES1101 / ES1102 and EM1101
+EN1101E / GEK1000, EN2101E, GEK1000
+EN2201, Nil
+EN2202, EN3274 Critical Reading
+EN2203, EN2113
+EN2271, Nil
+EN3222, Nil
+EN3229, Nil
+EN3241, Nil
+EN3249, Nil
+EN3261 / EU3217, EU3217
+EN3265, Nil
+EN3880A, NIL
+EN4223, NIL
+EN4226, NIL
+EN4232 / AS4232, AS4232
+EN4247, NIL
+EN4262, NIL
+EN4401, EN4660
+EN4660, EN4401
+EN5242R, Nil
+EN5247R, Nil
+EN5253R, NIL
+EN5880AR, Nil
+EN5883R, NIL
+ENV2102, NIL
+ENV3101, NIL
+ES1000, Nil
+ES1102, AR1000, BE1000, ID1000, ET1000/NK1001/EA1101/EG1471/ES1301/ES1101, EM1101.
+ES1501A, 1. Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module. 2.FOE students will be exempted from ES1531 and ES2331 if they have successfully completed ES1501%. 3.However, ES1531 and ES2331 is optional for FOE stdents who have successfully completed ES1501%.
+ES1501Q, 1. Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module. 2. FOE students will be exempted from ES1531 and ES2331 if they have successfully completed ES1501%. 3. However, ES1531 and ES2331 is optional for FOE students who have successfully completed ES1501%.
+ES1531, EG1413, Students who have already read a WP2201 or IEM1201 module, U-town students cannot bid for ES1531.
+ES1541, Those who have taken SP1203, ENV1202, SP2171, U-Town and USP writing modules are precluded from taking ES1541.
+ES2002, CS2301 or IS2101, ES2007D, ES2007S, CG1413, CS2101, UWC2101.
+ES2007S, CG1413, IS2101, CS2101, ES2002, ES2007D, CS2301.
+ES2331, ES1501X, UTown students should not be allowed to bid for the module.
+ESE2401, Nil
+ESE3001, ESE2401 & ESE3401
+ESE4403, Nil
+ESE4405, NIL
+ESE4407, NIL
+ESE4502, Nil
+ESE5401, Nil
+ESE5405, Nil
+ESE5602, Nil
+ESP1104, Nil
+ESP2110, Nil
+ESP3903, ESP3901 Major Design Project
+ESP4402, Nil
+ESP4901, Nil
+EU1101E, NIL
+EU3228, PS3251
+EU4401, EU4660
+FDP2001, NIL
+FDP2002, NIL
+FIN2004, Students who have taken CS2251 or EC3209 or EC3333 or BK2004 or BZ2004 or BH2004 or FNA2004 are not allowed to take FIN2004. 1st Year BSc(PFM), all BSc (RE) and Computational Finance are not allowed to take FIN2004.
+FIN2004X, Students who have taken CS2251 or EC3209 or EC3333 or BK2004 or BZ2004 or BH2004 or FNA2004 are not allowed to take FIN2004. 1st Year BSc(PFM), all BSc (RE) and Computational Finance are not allowed to take FIN2004.
+FIN3101A, BH3101 or BZ3301 or BK3100 or FNA3101 or FE5105 or FIN3101 or FIN3101B or FIN3101C
+FIN3102A, BH3102 or BZ3302 or BK3101 or FNA3102 or FNA3102B/C or FIN3102 or FIN3102B/C or FE5108 or EC3333 or CF3101/QF3101
+FIN3102B, BH3102 or BZ3302 or BK3101 or FNA3102 or FNA3102A/C or FIN3102 or FIN3102A/C or FE5108 or EC3333 or CF3101/QF3101
+FIN3103A, BH3103 or BZ3303 or BK3102 or FNA3103 or FIN3103 or FIN3103B
+FIN3103B, BH3103 or BZ3303 or BK3102 or FNA3103 or FIN3103 or FIN3103A
+FIN3113, BH3113 or BZ3105 or BK3105 or FNA3113
+FIN3116, BH3116 or BZ3312 or BK3109A or FNA3116 or FIN3116A or FIN3116B
+FIN3117, Students who have passed FNA3117 are not allowed to take FIN3117. Not for students who have passed FE5105.
+FIN3118, BH3118 or BZ3305 or FNA3118
+FIN3129, NIL
+FIN3130, NIL
+FIN3131, FNA3120A or CF3201/QF3201
+FIN4112G, FIN4112F: Seminars in Finance: Private Equity and Investment Banking
+FIN4112H, FIN4112F: Seminars in Finance: Private Equity and Investment Banking
+FIN4112K, NIL
+FIN4113, FNA4112E
+FIN4116, Nil
+FIN4119, NIL
+FMA1201J, Other Freshman Seminar Modules
+FMA1201P, Other Freshman Seminar modules
+FMA1201Q, Other Freshman Seminar Modules
+FMA1201R, Other Freshman Seminar modules
+FMA1203F, Other Freshman Seminar modules
+FMA1203H, Other Freshman Seminar modules
+FMA1206M, Other Freshman Seminar modules
+FMC1201, Nil
+FMC1203, Nil
+FMD1201, NIL
+FMS1201D, Nil
+FMS1202C, Nil
+FMS1203S, Nil
+FMS1204P, Nil
+FMS1204S, Nil
+FMS1205M, NIl
+FMS1205P, Nil
+FMS1207C, Nil
+FMS1207P, Nil
+FMS1209C, Nil
+FMS1209M, Nil
+FMS1210C, Nil
+FMS1210M, Nil
+FMS1215B, Nil
+FMS1221B, Nil
+FMS1224B, NIL
+FSP4003, Nil
+FST2102A, Nil
+FST2106, Nil
+FST2201, Nil
+FST2288, Nil
+FST2289, Nil
+FST3181, Nil
+FST3201, Nil
+FST3288, Nil
+FST3289, Nil
+FST4102, Nil
+FST4103, Nil
+FST4199, Nil
+FST4202, Nil
+FST5203, NIL
+GE1101E / GEK1001, GEK1001
+GE2101, GE2225
+GE2202, NIL
+GE2206, NIL
+GE2218, NIL
+GE2220, NIL
+GE3204, NIL
+GE3206, NIL
+GE3216, Nil
+GE3221, Nil
+GE3240, Nil
+GE3242, Nil
+GE3243, Nil
+GE3550A, GE3550B and any other XX3550 module
+GE3550B, GE3550A and any other XX3550 module
+GE3551, NIL
+GE4202, GE3880B
+GE4207, Nil
+GE4211, Nil
+GE4218, Nil
+GE4401, GE4660
+GE4660, GE4401
+GE5211, Nil
+GE5212, Nil
+GE5660, Nil
+GE6216, NIL
+GE6660, Nil
+GE6770, Nil
+GEK1012, GEK1006. Not for students majoring in Social Work.
+GEK1022, GEM1022K
+GEK1029T, MNO3313A
+GEK1048, NIL
+GEK1054, Nil
+GEK1055, NIL
+GEK1056, Nil
+GEK1058, GEK1058A
+GEK1059, EL majors
+GEK1062, NIL
+GEK1064, PL1101E. Students who have read PL1101E are not allowed to read this module.
+GEK1066, GEK 1052 Community Service and Social Action
+GEK1501, To preclude all Facultyof Engineering, Computer Engineering (CEG) &amp; School of Computing students
+GEK1505, Mathematics majors, Applied Mathematics majors, Computational Finance majors, Quantitative Finance majors, Mathematics with Management Science majors, Physics majors, second major in Mathematics, second major in Financial Mathematics
+GEK1508 / PC1325, Students majoring in Physics are not allowed to take this module
+GEK1509, Students majoring in Physics and Engineering are not allowed to take this module
+GEK1510 / PC1323, Students majoring in Physics are not allowed to take this module.
+GEK1513, To preclude Electrical Engineering, Computer Engineering and School of Computing students (except EE1, CPE1, CEG1, CEC1, COM1) and students who have read IT2001.
+GEK1515, Not for Life Sciences major and student reading Bachelor of Environmental Studies
+GEK1519 / PC1327, Nil
+GEK1520 / PC1322, Students majoring in Physics are not allowed to take this module.
+GEK1522, Nil
+GEK1522T, NIL
+GEK1523, To preclude students majoring in Mechanical Engineering
+GEK1524, To preclude students majoring in Mechanical Engineering
+GEK1527, Not for Life Sciences major/minor or Food Sciences & Technology or Pharmacy majors or Bioengineering programs.
+GEK1531, Nil
+GEK1536, Nil
+GEK1538, Life Sciences major/minor and student from Bachelor of Environmental Studies Programme
+GEK1540, None
+GEK1544, Engineering students, Mathematics major, Applied Mathematics majors, Computational Finance majors, Quantitative Finance majors, second major in Mathematics, second major in Financial Mathematics, Statistics major, second major in Statistics, Physics major.
+GEK1547, Nil
+GEK1548, Nil
+GEK1900, NIL
+GEK2001 / SSA2202, SSA2202, SE2241
+GEK2005, Not for Real Estate students and first year students
+GEK2013, Not for Real Estate students
+GEK2042, Nil
+GEK2044, Nil
+GEK2506, Nil
+GEK2508, Nil
+GEM1004FC, GEM1004, PH1101E
+GEM1023, Nil
+GEM1033, Nil
+GEM1035, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM1036, NIL
+GEM1501, CS1305; GEM1501M. All School of Computing students are not allowed to read it as a GEM.
+GEM1536, GEM1902B Junior Seminar: The Darwinian Revolution
+GEM1537, Nil
+GEM1902A, Only Tembusu College, U Town students may take this module
+GEM1902E, Only Tembusu College, U Town students may take this module
+GEM1902G, Only Tembusu College, U Town students may take this module
+GEM1902M, Nil
+GEM1902N, Nil
+GEM1902S, NIL
+GEM1904, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM1908, This module is currently open only to students of the College of Alice & Peter Tan, University Town. In addition, the module precludes students who are majoring in life sciences, food science, pharmacy, computational biology and bioengineering and students in the School of Medicine, the Faculty of Dentistry and the Alice Lee Centre for Nursing Studies. Students who have taken or are required to take LSM1101, LSM1401, LSM2101 and GEK1529 are also precluded.
+GEM1909, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM1912B, NIL
+GEM1912D, Nil
+GEM1915FC, GEM1912 Jnr Sem: Systems Systems Everywhere (offered at CAPT, UTown) Despite the minimal overlap, the preclusion may be needed to ensure that students who have completed GEM1912 do not have an unfair starting advantage over others who take this module.
+GEM1916A, Nil
+GEM2022, NIL
+GEM2027, NM4200 Introduction to Public Speaking
+GEM2509, GEM2006 Logic, PH2110 logic, CS1231 Discrete Structures, CS3234 Logic and Formal systems, MA4207 Mathematical Logic, PH2214 Philosophical Logic, MA1100 Fundamental Concepts of Mathematics.
+GEM2900, Not for Statistics Major students
+GEM2901, nil
+GEM2903, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM2904, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM3901, NIL
+GEM3902, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GL1101E, Nil
+GL2102, NIL
+GL2103, NIL
+HR2002, Students who have passed or are reading HR2001 or HR2101 or HR3111 are not allowed to take HR2002
+HY1101E, NIL
+HY2216, NIL
+HY2229 / SSA2204, SSA2204, USE2304
+HY2232, NIL
+HY2239 / SSA2203, SSA2203
+HY2242 / SSA2208, SSA2208
+HY2254 / SSA2221, SSA2221
+HY2256 / EU2223, EU2223
+HY2259, NIL
+HY3201, NIL
+HY3209 / EU3230, EU3230
+HY3226, NIL
+HY3242 / EU3231, EU3231
+HY3248, NIL
+HY3252, Nil
+HY4205 / EU4224, EU4224
+HY4211, Nil
+HY4215, Nil
+HY4216, Nil
+HY4222, NIL
+HY4401, HY4660
+HY4660, HY4401
+ID1106, Module not offered to none industrial design students
+ID1112, Nil
+ID1121, Nil
+ID2106, NIL
+ID2112, NIL
+ID2122, Nil
+ID2324, NIL
+ID3041, NA
+ID3106, NIL
+ID3124, NIL
+ID4106, Nil
+ID5021, Nil
+ID5151, Nil
+ID5351, Nil
+ID5770, NA
+ID5951, Nil
+ID5951A, Nil
+ID5951B, Nil
+ID5951C, Nil
+ID5951D, Nil
+ID5951E, Nil
+ID6770, NA
+IE2100, BH3215, DSC3215
+IE2100E, DSC3215
+IE2130, Nil
+IE2130E, NIL
+IE2140, Nil
+IE2140E, NIL
+IE2150, Nil
+IE2150E, NIL
+IE3010E, NIL
+IE3100E, NIL
+IE3100R, Nil
+IE4100, Nil
+IE4100E, NIL
+IE4220, Nil
+IE4220E, NIL
+IE4230, Nil
+IE4230E, NIL
+IE5108, Nil
+IE5211, Nil
+IEM1201M, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM1201N, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM1201P, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM1201Q, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM1201R, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM1201S, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM1201T, Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module.
+IEM2201E, Students who have already read an I&E II module.
+IEM2201H, Students who have already read an I&E II module.
+IEM2201J, Students who have already read an IEM2201 module.
+IEM2201K, Students who have already read an I&E II module.
+IEM2201L, Students who have already read an I&E II module.
+INM3550, Any other series-internship modules (Note: Students who change major may not do a second internship in their new major)
+IS1103, CS1105/A
+IS1105, CS2250
+IS1112, NIL
+IS2101, ES2002, ES2007D, ES2007S, CS2101, CG1413, CS2103T.
+IS2102, NIL
+IS2103, CS2261
+IS2104, NIL
+IS2150, NIL
+IS3101, CS3253
+IS3150, NIL
+IS3220, CS3361
+IS3221, CS3264
+IS3222, CS4266
+IS3223, CS4267
+IS3230, CS3254 Information Security Management
+IS3240, CS3265
+IS3241, CS3267
+IS3242, NIL
+IS3243, CS3251
+IS3250, NA
+IS3260, Nil
+IS4100, IS5110 and CS5212(old code for IS5110)
+IS4150, NIL
+IS4203, NIL
+IS4224, CS4361
+IS4226, CS4255
+IS4227, CS4258
+IS4240, CS4256
+IS4243, CS4253
+IS4260, CS4260
+IT1001, CS1010 or CS1010E, CS1010FC, CS1010S, CS1101, CS1101C, CS1101S, GEK1511. SoC students and engineering students. Science students requiring this module for their minor should not register it as ULR-Breadth. Arts and Social Science students reading CNM as a subject/concentration and matriculated before AY2001/02 are not allowed to read this module as URL-Breadth
+IT1006, IT1005, CS1010, CS1010E, CG1101, CS1101S, CS1010S or CS1010FC and its equivalent
+IT2001, CS2105, EE3204/E, EE4210; SoC, EEE & CPE students are not allowed to take this module. Arts and social sciences students reading CNM as a subject/concentration are not allowed to read this module as CFM/URL-Breadth.
+IT2002, CS2102 or CS2102S. SoC students and Arts and social sciences students reading CNM as a subject/concentration are not allowed to read this module as CFM/ULR-Breadth.
+JS1101E / GEK1002, GEK1002
+JS2101, Nil
+JS2213, NIL
+JS2224 / SSA2205, SSA2205
+JS2226, NIL
+JS2230, Nil
+JS3101, Nil
+JS3208, Nil
+JS3210, NIL
+JS3211, Nil
+JS3230, Nil
+JS3550, Any other XX3550 internship modules (Note: Students who change major may not do a second internship in their new major)
+JS4209, Nil
+JS4214, Nil
+JS4216, Nil
+JS4217, Nil
+JS4227, Nil
+JS4401, JS4660
+JS4660, JS4401
+JS5201R, Nil
+JS5660R, Nil
+LA4202, Nil
+LA4212, Nil
+LA4702, NIL
+LA5222, NIL
+LAB1201, LAM1201 Malay 1
+LAB2201, NIL
+LAB3201, NIL
+LAB3202, NIL
+LAB4201, Nil
+LAB4202, Nil
+LAC1201, LAC2202
+LAC2201, LAC2202
+LAC3201, Nil
+LAC3202, Nil
+LAC3204, Nil
+LAC4202, NIL
+LAF1201, NIL
+LAF2201, NIL
+LAF3202, LAF3203
+LAF3203, LAF3202
+LAF4202, Nil
+LAG1201, NIL
+LAG2201, NIL
+LAG3202, LAG3203 German for Academic Purposes
+LAG3203, LAG3202 German 4
+LAG4202, Nil
+LAH1201, Hindi 1 is intended for students who are complete beginners. It is not suitable for students who are: - native speakers of Hindi or Urdu - students who have studied Hindi, Urdu, Gujarati, Marathi or Punjabi at 'O' or 'A' levels (or equivalents) or have previously undertaken any formal study of Hindi, Urdu, Gujarati or Punjabi for any duration of time - Students who are from India have to provide a complete transcript of subjects studied to prove that they have not taken Hindi at any level.
+LAH2201, Nil
+LAH3202, Nil
+LAI1731, Nil
+LAI1732, Nil
+LAJ1201, NIL
+LAJ2201, NIL
+LAJ2202, NIL
+LAJ2203, NIL
+LAJ3201, NIL
+LAJ3202, NIL
+LAK1201, NIL
+LAK2201, Nil
+LAK3202, LAK3203 Korean for Academic Purpose
+LAK3203, LAK3202 Korean 4
+LAK4202, Nil
+LAL1201, NIL
+LAL2201, Nil
+LAM1201, LAB1201 Bahasa Indonesia 1
+LAM2201, NIL
+LAM3201, NIL
+LAM3202, NIL
+LAR1201, NIL
+LAR2201, NIL
+LAR3202, Nil
+LAR4202, Nil
+LAT1201, NIL
+LAT2201, Nil
+LAT3201, Nil
+LAT3202, NIL
+LAT4201, NIL
+LAT4202, NIL
+LAV1201, NIL
+LAV2201, Nil
+LAV3201, Nil
+LAV3202, Nil
+LAV4202, NA
+LL4061, Nil
+LL4082, Nil
+LL4133, Nil
+LL4134, Nil
+LL4202, NIL
+LL4234, Nil
+LSM1101, LSM1401
+LSM1102, Nil
+LSM1103, Nil
+LSM1104, Nil
+LSM1202, Nil
+LSM1301, Must not have GCE ‘A’ Level or H2 Biology or equivalent. Cannot read concurrently with LSM1101, LSM1102, LSM1103, LSM1104 and LSM1202. Student must not have passed LSM1301FC.
+LSM1301FC, Must not have passed A-Level or H2 Biology, or equivalents. Student must not have passed LSM1301.
+LSM1302, Not for Life Sciences major/minor or Food Sciences & Technology or Pharmacy majors or Bioengineering programmes.
+LSM1303, Nil
+LSM1401, Not for Life Sciences major/minor and student must not have read LSM1101 or its equivalent.
+LSM2101, Nil
+LSM2102, Nil
+LSM2103, Nil
+LSM2201A, LSM3401A/B
+LSM2202A, LSM3402A/B
+LSM2203, Nil
+LSM2241, Nil
+LSM2251, Nil
+LSM2288, Nil
+LSM2289, Nil
+LSM3211, GEK2501
+LSM3212, Nil
+LSM3213, Nil
+LSM3214, Nil
+LSM3221, Nil
+LSM3223, Nil
+LSM3224, NIL
+LSM3225, Nil
+LSM3232, Nil
+LSM3241, Nil
+LSM3242, Nil
+LSM3243, Nil
+LSM3244, LSM3402A/B
+LSM3255, LSM3271
+LSM3256, NIL
+LSM3257, Nil
+LSM3262, Nil
+LSM3264, Nil
+LSM3266, Nil
+LSM3272, Nil
+LSM3288, Nil
+LSM3289, Nil
+LSM4199, Nil
+LSM4214, Nil
+LSM4215, Nil
+LSM4221, Nil
+LSM4222, Nil
+LSM4223, Nil
+LSM4225, Nil
+LSM4231, Nil
+LSM4234, Nil
+LSM4241, Nil
+LSM4243, Nil
+LSM4244, Nil
+LSM4253, NIL
+LSM4255, Nil
+LSM4262, NIL
+LSM4264, Nil
+LSM4265, NIL
+MA1101R, EG1401, EG1402, MA1101, MA1311, MA1506, MA1508, FOE students
+MA1102R, EE1401, EE1461, EG1401, EG1402, CE1402, MA1102, MA1312, MA1505, MA1505C, MA1507, MA1521, CEC students, COM students who matriculated on and after 2002 (including poly 2002 intake),FoE students.
+MA1104, MA1104S, MA2207, MA2221, MA2311, MA3208, GM2301, MQ2202, MQ2102, MQ2203, PC1134, PC2201, MA1507, MPE students.
+MA1301, Those with A-level or H2 passes in Mathematics or who have passed any of the modules MA1101R, MA1102R,MA1301FC, MA1505, MA1506, MA1507, MA1508, MA1521, MA1311, MA1312, MA1421, MPE students.
+MA1301FC, Those with A-level or H2 passes in Mathematics. Student must not have passed MA1301.
+MA1312, MA1102R, MA1505, MA1505C, MA1521, FoE students.
+MA1505, MA1102R, MA1312, MA1507, MA1521, MA2311, MA2501, EE1461, PC2174.
+MA1506, MA1101R, MA1311, MA2312, MA1508, MA2501, EE1461, PC2174
+MA1508, MA1101R, MA1311, MA1506
+MA1521, MA1102R, MA1312, MA1505, MA1507, MA2501, FoE students.
+MA2101, MA2101S, MA2101H, MA2201, MA2203, MQ2201, MQ2101, MQ2203.
+MA2108, MA2108S, MA2206, MA2208, MA2221, MA2311, MQ2202, MQ2102, MQ2203, CN2401, EE2401, ME2492.
+MA2108S, MA2108, MA2206, MA2208, MA2221, MA2311, MQ2202, MQ2102, MQ2203, CN2401, EE2401, ME2492.
+MA2213, CE2407, ME3291, CN3421, CN3411, CHE students (for breadth requirements), EVE students (for breadth requirements).
+MA2219, NIL
+MA2288, Nil
+MA2289, Nil
+MA3110, MA2118, MA2118H, MA2205, MQ3202, MA3110S, ST2236.
+MA3110S, MA2118, MA2118H, MA2205, MQ3202, MA3110
+MA3111, MA3111S, EE3002, MPE students.
+MA3111S, MA3111, EE3002, MPE students.
+MA3201, Nil
+MA3215, Nil
+MA3218, MA2202, MA2202S, EE4103
+MA3227, ME3291
+MA3233, Nil
+MA3238 / ST3236, ST3236.
+MA3252, GM2302, MQ2204, CS3252, IC2231, DSC3214, GM3308, MA3235, BH3214, ISE students.
+MA3259, Nil
+MA3266, Nil
+MA3288, Nil
+MA3289, Nil
+MA3312, Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+MA4199, Nil
+MA4207, Nil
+MA4211, Nil
+MA4229, Nil
+MA4252, Nil
+MA4254, MA3235, ISE students.
+MA4255, ME4233
+MA4263, Nil
+MA4266, Nil
+MA4269, MA3245 Financial Mathematics I MA4257 Financial Mathematics II
+MA4291, Nil
+MA4292, Nil
+MA5198, NIL
+MA5204, Nil
+MA5206, NIL
+MA5210, Nil
+MA5216, Nil
+MA5217, MA4247 Complex Analysis II
+MA5220, Nil
+MA5232, Nil
+MA5241, NIL
+MA5248, Nil
+MA5250, NIL
+MA5260, ST5205
+MA5295, NIL
+MA6235, NIL
+MA6252, Nil
+MA6292, NIL
+ME2101, Nil
+ME2101E, TM2101
+ME2114, Nil
+ME2114E, TM1111
+ME2135, Nil
+ME2135E, TM2131
+ME2143, Nil
+ME2143E, Nil
+ME3000, Nil
+ME3001, Nil
+ME3102, Nil
+ME3221, Nil
+ME3232, ME3231
+ME3233, ME3231
+ME3241, Nil
+ME3241E, TM3241
+ME3251, Nil
+ME3251E, TM3251
+ME3281, None
+ME3291, Nil
+ME4101, Nil
+ME4101A, Nil
+ME4105, Nil
+ME4212, Nil
+ME4213, Nil
+ME4225, Nil
+ME4225E, Nil
+ME4227, NIL
+ME4231, Nil
+ME4241, Nil
+ME4246, Nil
+ME4253, Nil
+ME4255, Nil
+ME4261, Nil
+ME4261E, TM4261
+ME4262, Nil
+ME4262E, TM4262
+ME4265, Nil
+ME4284, Nil
+ME5506, Nil
+ME5609, Nil
+MIC1000, Nil
+MKT1003, Students who have taken EC3230/(EC2210) or CS3261/(IC3243) or PR4201 or BK2003 or BZ1003 or BH1003 are not allowed to take MKT1003. All BSc(Real Estate) students are not allowed to take MKT1003.
+MKT1003X, Students who have taken EC3230/(EC2210) or CS3261/(IC3243) or PR4201 or BK2003 or BZ1003 or BH1003 are not allowed to take MKT1003.
+MKT2401A, BH2401 or BZ3601 or BK3200 or MKT2401B or MKT2401
+MKT2401B, BH2401 or BZ3601 or BK3200 or MKT2401A or MKT2401
+MKT2401C, BH2401 or BZ3601 or BK3200 or MKT2401A or MKT2401B
+MKT2412, BH2412 or BZ3604 or BK3208
+MKT2413, BH2413 or BZ3614 or BK3202 or MKT2413A or MKT2413B
+MKT3402A, BH3402 or BZ3602 or BK3201 or MKT3402A or MKT3402B
+MKT3402B, BH3402 or BZ3602 or BK3201 or MKT3402A or MKT3402B
+MKT3412, BH3412 or BH3412A or BH3412B or BZ3612 or BK3205 or MKT3412A or MKT3412B
+MKT3413, Nil
+MKT3415, Nil
+MKT3418A, BH3418 or BZ3603
+MKT3418B, BH3418 or BZ3603
+MKT3424, Nil
+MKT3429, NIL
+MKT3513, EC3312 Game Theory and Applications To Economics MA4264 Game Theory
+MKT4411, Nil
+MKT4413, BH4413 or BZ4611
+MKT4419, NIL
+MLE1101, Nil
+MLE2103, Nil
+MLE2104, NIL
+MLE2105, NIL
+MLE3101, NIL
+MLE4101, Nil
+MLE4101R, Nil
+MLE4202, Nil
+MLE4203, Nil
+MLE4206, Nil
+MLE4207, Nil
+MLE4208, Nil
+MNO1001, Students who have taken BE2106, EG1423, CS1303, BK2002 or BZ1001 or BH1001 are not allowed to take MNO1001. Students who took or are taking HR2001, HR2101, HR3111 or HR3308 cannot take MNO1001
+MNO1001X, Students who have taken BE2106, EG1423, CS1303, BK2002 or BZ1001 or BH1001 are not allowed to take MNO1001. Students who took or are taking HR2001, HR2101, HR3111 or HR3308 cannot take MNO1001
+MNO2007, NIL
+MNO2009, Nil
+MNO2302, BH2302 or BZ3504 or BK3300 or MNO2302A/B or PL3239 or PS3245
+MNO3301, BH3301 or BZ3501 or BK3309M or PS3243
+MNO3303, BH3303 or BZ3502 or BK4309D or BK3309N
+MNO3313J, NIL
+MNO3322, UBZ3001
+MNO3323, Nil
+MNO3329, NIL
+MNO3330, Nil
+MNO4313C, Nil
+MNO4315, NIL
+MNO4319, NIL
+MS1102E, MS1101E
+MS2211, NIL
+MS2213, NIL
+MS3209 / SSA3203, SSA3203
+MS3212, Nil
+MS3215, Nil
+MS3216, NIL
+MS3218, MS4203 The Religious life of the Malays
+MS4201, Nil
+MS4401, MS4660
+MS4660, MS4401
+MS4880A, NIL
+MS5201, Nil
+MS5660, MS6660
+MS6660, Nil
+MT4003, [TR3001 New Product Development] & [EE3031 Innovations & Enterprise 1]
+MT5002, Nil
+MT5004, Nil
+MT5007, Nil
+MT5009, Nil
+MT5010, Nil
+MT5011, CE5603 & IE5003
+MT5012, Nil
+MT5016, NIL
+MT5880B, NIL
+MT5900, MT5910 LaunchPad: Experiential Entrepreneurship & SDM5990 SDM Research Project
+MT5901, Nil
+MT5902, NIL
+MT5911, Nil
+MT5912, Nil
+MT5913, Nil
+MUA1107, Nil
+MUA1108, Nil
+MUA1109, Nil
+MUA1110, Nil
+MUA1112, Nil
+MUA1114, Nil
+MUA1116, Nil
+MUA1150, Nil
+MUA1153, Nil
+MUA1154, Nil
+MUA1156, Nil
+MUA1161, Nil
+MUA1162, Nil
+MUA1163, NIL
+MUA1171, NIL
+MUA1181, NIL
+MUA1191, Nil
+MUA1193, Nil
+MUA1196, Nil
+MUA2106, Nil
+MUA2107, Nil
+MUA2108, Nil
+MUA2109, Nil
+MUA2110, Nil
+MUA2112, Nil
+MUA2120, NIL
+MUA2128, NIL
+MUA2153, Nil
+MUA2154, Nil
+MUA2155, Nil
+MUA2156, Nil
+MUA2161, Nil
+MUA2162, Nil
+MUA2171, None
+MUA2174, None
+MUA2175, NIL
+MUA2176, NIL
+MUA2181, NIL
+MUA2183, NIL
+MUA2187, N/a
+MUA2191, Nil
+MUA2192, Nil
+MUA2193, Nil
+MUA2196, Nil
+MUA2255, Nil
+MUA2256, Nil
+MUA3105, Nil
+MUA3107, Nil
+MUA3108, Nil
+MUA3109, Nil
+MUA3110, Nil
+MUA3112, Nil
+MUA3114, Nil
+MUA3120, NIL
+MUA3128, Nil
+MUA3130, NIL
+MUA3132, NIL
+MUA3153, Nil
+MUA3154, Nil
+MUA3156, Nil
+MUA3161, Nil
+MUA3162, Nil
+MUA3173, Nil
+MUA3174, Nil
+MUA3175, NIL
+MUA3176, NIL
+MUA3187, N/A
+MUA3191, Nil
+MUA3195, Nil
+MUA3206, NIL
+MUA3209, Nil
+MUA3210, Nil
+MUA3211, Nil
+MUA3212, Nil
+MUA3214, Nil
+MUA3219, NIL
+MUA3220, NIL
+MUA3255, Nil
+MUA3256, Nil
+MUA3264, NIL
+MUA3275, All ECE students
+MUA4107, Nil
+MUA4108, Nil
+MUA4153, Nil
+MUA4154, Nil
+MUA4161, Nil
+MUA4162, Nil
+MUA4172, Nil
+MUA4174, Nil
+MUA4175, NIL
+MUA4176, Nil
+MUA4191, Nil
+MUA4203, Nil
+MUA4205, Nil
+MUA4215, Nil
+MUA4219, Nil
+MUA4220, Nil
+MUA4228, Nil
+MUA4229, Nil
+MUA4231, NIL
+MUA4232, NIL
+MUA5108, Nil
+MUA5110, Nil
+MUA5112, Nil
+MUA5114, Nil
+MUA5156, Nil
+MUA5158, Nil
+MUA5195, Nil
+MUA5196, Nil
+MUH1115, Nil
+MUH1116, Nil
+MUH2116, NIL
+MUH3203, Nil
+MUH4202, NIL
+MUL3203, NIL
+MUT1121, Nil
+MUT1122, Nil
+MUT2118, Nil
+MUT3114, Nil
+MUT3204, Nil
+MUT3205, NIL
+MUT3206, Nil
+MUT3207, Nil
+MUT4203, Nil
+NCC1000, Preclude BFS1001 or NCC1001
+NCC1001, Preclude BFS1001 or NCC1000
+NM1101E, Nil
+NM1101FC, NM1101E
+NM2101, Nil
+NM2103, NIL
+NM2104, NIL
+NM2201, Nil
+NM2203, NIL
+NM2212, NIL
+NM2213, NIL
+NM2219, NIL
+NM2220, Nil
+NM2302, Nil
+NM3202, NM2202
+NM3203, NM3880A
+NM3204, NIL
+NM3205, NIL
+NM3211, NM2221
+NM3214, NIL
+NM3215, MKT3420 Promotional Management
+NM3217, Nil
+NM3219, NIL
+NM3221, Nil
+NM3223, NIL
+NM3224, NIL
+NM3227, NIL
+NM3229, Nil
+NM3233, NM3220 Research for Communication Management
+NM3235, NM4215 Corporate Social Responsibility: Research And Practice
+NM3236, NM4201 Ethics in Communication Management
+NM3237, NM4880D Health Communications NM4220 Health Communications
+NM3550, Any other series-internship modules (Note: Students who change major may not do a second internship in their new major)
+NM3551, Nil
+NM4102, NM4101
+NM4202, NIL
+NM4207, NIL
+NM4208, Nil
+NM4209, Nil
+NM4210, NIL
+NM4212, Nil
+NM4218, NIL
+NM4221, NIL
+NM4226, Nil
+NM4229, Nil
+NM4401, NM4660
+NM4660, NM4401
+NM4883B, Nil
+NM5201R, IF4880A, IF5201
+NM5205R, NIL
+NM5212R, Nil
+NM5214R, NIL
+NM5215R, Nil
+NM5660, IF5660
+NM6102, IF5101, NM5101
+NM6203, Nil
+NM6211, NIL
+NM6660, IF6660
+NUR1108, NIL
+NUR1109, Nil
+NUR1115, Nil
+NUR1116, Nil
+NUR1118, AY1104 Anatomy PY1105 Physiology I PY1106 Physiology II
+NUR2107, Nil
+NUR2116, Nil
+NUR2118, Nil
+NUR3114, Nil
+NUR3115, Nil
+NUR3116, Nil
+NUR4101, Nil
+NUR4102, Nil
+NUR4104, Nil
+OT5203, Nil
+OT5204, N/A
+OT5205, Nil
+OT5206, Nil
+OT5301, NIL
+PA2106, Nil
+PA2106A, Nil
+PC1143, Students who have passed PC1432 are not allowed to take this module.
+PC1144, Students who have passed PC1432 are not allowed to take this module.
+PC1221, 'A' level or H2 pass in Physics or PC1141, or PC1142 or PC1431 or PC1431FC
+PC1222, 'A' level or H2 pass in Physics or PC1143, or PC1144 or PC1432
+PC1431, Students majoring in Physics or students who have passed in PC1141 or PC1142 or PC1433 or PC1431FC are not allowed to take this module.
+PC1431FC, Students majoring in Physics. Students must not have passed PC1431.
+PC1432, Students majoring in Physics or students who have passed in PC1143 or PC1144 are not allowed to take this module
+PC2130, Students who have passed PC2130B are not allowed to take this module.
+PC2130B, Students who passed PC2130 cannot take this module.
+PC2131, Nil
+PC2133, Students who have passed PC3235 are not allowed to take PC2133
+PC2193, Nil
+PC2230, Nil
+PC2232, N.A.
+PC2239, Nil
+PC2288, Nil
+PC2289, Nil
+PC3130, Nil
+PC3193, Nil
+PC3233, Nil
+PC3236, Nil
+PC3239, Nil
+PC3241, EE2004
+PC3243, Nil
+PC3246, N.A
+PC3251, None
+PC3267, Nil
+PC3288, Nil
+PC3289, Nil
+PC3312, Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+PC4199, Nil
+PC4199R, Nil
+PC4232, Nil
+PC4240, Nil
+PC4242, Nil
+PC4243, Nil
+PC4245, Nil
+PC4253, EEE or CPE or CEG or MLE5201 students are not allowed to take this module.
+PC4262, Nil
+PC4264, Nil
+PC4274, Nil
+PC5198, Nil
+PC5202, Nil
+PC5203, Nil
+PC5206, NIL
+PC5207, NIL
+PC5210, Nil
+PC5212, Nil
+PC5213, Nil
+PC5228, Nil
+PC5239, Nil
+PC5288, Nil
+PC5289, Nil
+PF1103, Nil
+PF1104, Nil
+PF1105, NIL
+PF2103, Nil
+PF2104, NIL
+PF2105, Students who have read research methodology.
+PF2108, Nil
+PF2203, Nil
+PF2303, NIL
+PF3102, Nil
+PF3103, NIL
+PF3201, Nil
+PF3204, Nil
+PF3303, NIL
+PF4101, Nil
+PF4103, NIL
+PF4203, NIL
+PF4304, NIL
+PF4305, NIL
+PF4307, NIL
+PH1102E, GEK1067
+PH2110 / GEM2006, GEM2006, CS3234 and MA4207
+PH2202, NIL
+PH2212 / EU2214 / GEK2030, EU2214, GEK2030
+PH2222 / GEK2036, PH3209, GEK2036
+PH2223 / GEK2037, GEK2037
+PH2241, PH3212 Philosophy of Mind
+PH2302 / GEK2039, GEK2039
+PH3202, LL4639E, LL4404 or an equivalent course
+PH3203, NIL
+PH3204 / SN3272, SN3272
+PH3206, NIL
+PH4201, NIL
+PH4205, Nil
+PH4206, Nil
+PH4216, NIL
+PH4241, Nil
+PH4401, Nil
+PH4550, Any other internship module.
+PH4660, PH4401
+PH5430, Nil
+PH5430R, Nil
+PH5660, Nil
+PH6320, Nil
+PH6660, Nil
+PH6760, Nil
+PH6770, Nil
+PL1101E, Nil
+PL2131, UQF2101B
+PL2132, NIL
+PL3231, NIL
+PL3232, NIL
+PL3233, Nil
+PL3234, NIL
+PL3235, Nil
+PL3236, SW3217
+PL3237, Nil
+PL3238, NIL
+PL3241, NIL
+PL3243, Nil
+PL3249, NIL
+PL3250, Nil
+PL3251, PL3880A
+PL3256, Nil
+PL3281D, Nil
+PL3282, NIL
+PL3282C, NIL
+PL3284, NIL
+PL3285, NIL
+PL3286, NIL
+PL3288, Nil
+PL3551, Nil
+PL4202, NIL
+PL4205, Nil
+PL4207, NIL
+PL4208, NIL
+PL4218, NIL
+PL4219, PL4880A
+PL4221, NIL
+PL4222, NIL
+PL4224, NIL
+PL4226, NIL
+PL4228, NIL
+PL4229, NIL
+PL4231, Nil
+PL4234, Nil
+PL4235, Nil
+PL4401, PL4660
+PL4660, PL4401
+PL4880I, Nil
+PL4880J, Nil
+PL5222R, PL4204
+PL5225R, Nil
+PP5138, Nil
+PP5141, Nil
+PP5142, Nil
+PP5209, NIL
+PP5223, Nil
+PP5241J, Nil
+PP5241K, Nil
+PP5242K, Nil
+PP5246, Nil
+PP5255, Nil
+PP5294, Nil
+PP5411, Nil
+PP5412, Nil
+PP5413, Nil
+PP5414, Nil
+PR1102, Nil
+PR2102, Nil
+PR2105, Nil
+PR2202, Nil
+PR2288, Nil
+PR2289, Nil
+PR3103, Nil
+PR3104, Nil
+PR3105, Nil
+PR3106, Nil
+PR3107, Nil
+PR3288, Nil
+PR3289, Nil
+PR3301, Pharmacy Major
+PR4102, Nil
+PR4104, Nil
+PR4105, Nil
+PR4106, Nil
+PR4199, Nil
+PR4201, BH1003 or MKT1003 or CS3261
+PR4206, Nil
+PR5113, Nil
+PR5130, Nil
+PR5133, Nil
+PR5136, Nil
+PR5150, NIL
+PR5151, NIL
+PR5152, NIL
+PR5153, NIL
+PR5154, NIL
+PR5198, Nil
+PR5212, NIL
+PR5216, NIL
+PR5217, Nil
+PR5220, Nil
+PR5230, Nil
+PR5239, Nil
+PR5250, NIL
+PR5251, NIL
+PR5252, NIL
+PR5302, Nil
+PS1101E / GEK1003, GEM1003K, GEK1003, PS1101
+PS2203 / EU2203, PS2231, EU2218, PS2201B, PS2218, EU2203
+PS2233 / GEK2024, EU3208, PS2203B, PS3210, GEK2024
+PS2234, PS2204B
+PS2237, PS2207, PS2207B
+PS2239 / GEK2010, GEK2010, GEM2010K, PS2209, PS2209B
+PS2240, PS2210B
+PS2244 / SSA2222, SSA2222
+PS2245, PS2215B, SE2213
+PS2248, PS3205B, PS3250
+PS2249 / GEK2003 / SSA2209, GEK2003, GEM2003K, PS1102, PS2101, PS2101B, SS2209PS, SSA2209
+PS3232, PS3202B
+PS3249 / SSA3205, PS3219B, SSA3205, SS3205PS
+PS3257, PS2102, PS2102B, PS2231B
+PS3258, PS3101B, PS3218B, PS3248
+PS3262, Nil
+PS3263, PS2205B, PS2235
+PS3265, Nil
+PS3266 / GEK3007, GEK3007 Politics, Music and Society
+PS3550, Any other XX3550 internship modules (Note: Students who change major may not do a second internship in their new major)
+PS3551, NIL
+PS3880B, Nil
+PS3880H, Nil
+PS4202, Nil
+PS4203, Nil
+PS4209, Nil
+PS4218 / EU4228, EU4228
+PS4220, Nil
+PS4225, Nil
+PS4227, Nil
+PS4401, PS4660
+PS4660, PS4401, PS4401S
+PS4882D, NIL
+PS4882H, Nil
+PS4883A, Nil
+PS4883B, PS3880C
+PS5312R, PS5213, PS6301B
+PS5314R, IZ5102, PS5208, PS6208, PS6301A, PS6401
+PS5316R, Nil
+PS5603R, Nil
+PY1106, Nil
+QF3101, Nil
+QF3312, Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+QF4199, Nil
+QF5202, NIL
+QF5206, Nil
+QF5210, Nil
+RE1103, RE2480 Urban and Real Estate Management I
+RE1104, Nil
+RE2104, RE2281 Real Estate Asset Market I
+RE2105, RE1182 Principles of Law RE2180 Fundamentals of Real Estate Law
+RE2106, RE3190 Real Estate Marketing
+RE2107, RE4390 Advanced Real Estate Valuation
+RE2201, RE3290 Quantitative Methods in Real Estate
+RE2301, RE3490 GIS for Real Estate
+RE3105, NIL
+RE3106, NIL
+RE3201, NIL
+RE3211, NIL
+RE3212, NIL
+RE3221, NIL
+RE3222, NIL
+RE3301, RE3390 Behavioural Studies in Real Estate
+RE4000, RE4181 Dissertation
+RE4001, RE4182 Real Estate Project/Case Study
+RE4210, Nil
+RE4213, Nil
+RE4220, Nil
+RE4223, Nil
+RE4302, RE4292 International Real Estate
+SC1101E, NIL
+SC2101, NIL
+SC2202, Nil
+SC2204, NIL
+SC2209, Nil
+SC2211, Nil
+SC2212, NIL
+SC2214, IF2214
+SC2215, NIL
+SC2220, Nil
+SC2221, NIL
+SC3101 / EU3224, EU3224
+SC3203, NIL
+SC3206, Nil
+SC3208, NIL
+SC3211, NIL
+SC3213, IF3213
+SC3214, NIL
+SC3216, Nil
+SC3219, Nil
+SC3222, NIL
+SC3227, Nil
+SC3551, NIL
+SC4101, NIL
+SC4210, Nil
+SC4218, Nil
+SC4220, Nil
+SC4221, SC4208A Comparative Analysis of Human Rights
+SC4222, SC4208B Body and Society
+SC4223, SC4214A Health and Social Behaviour
+SC4225, NIL
+SC4401, SC4660
+SC4660, SC4401
+SC4882B, SC4215B Citizenship, Nation and Globalization
+SC5102R, SC6101 (obsolete)
+SC5215R, NIL
+SDM5002, Nil
+SDM5003, Nil
+SDM5004, IE5208 Systems Approach to Project Management DTS5720 Systems Engineering Project Management
+SE1101E / GEK1008 / SSA1202, GEK1008, GEM1008K, SSA1202, SS1203SE
+SE2210, SE4215
+SE2217, Nil
+SE2218T, Nil
+SE2223, Nil
+SE2226, Nil
+SE2660, Nil
+SE3211, Nil
+SE3216, Nil
+SE3218, SE2215
+SE3220, Nil
+SE3224, NIL
+SE3226, NIL
+SE3550, Any other XX3550 module. [Note: Students who change major may not do a second internship in their new major)
+SE3660, Nil
+SE4401, SE4660
+SE4660, SE4401
+SE5221R, Nil
+SE5223R, NIL
+SE5229R, Nil
+SE5233R, IZ5103, SE6233
+SE5241R, NIL
+SN1101E, NIL
+SN2232, SN2212
+SN2233, NIL
+SN2271, Nil
+SN2277, NIL
+SN3262 / HY3236, HY2228, HY3236, SN2261
+SN3274, Nil
+SN3275, SN3291
+SP1230, Nil
+SP2171, Nil
+SP2174, Nil
+SP2251, N.A.
+SP3172, Nil
+SP3176, Nil
+SP3202, Nil
+SPH2104, NIL
+SPH3102, NIL
+SPH3103, NIL
+SSA1201, SS1202SC
+SSA1207, EL, EN or TS majors
+SSA1208, Nil
+SSA2214, Nil
+SSA2215, GE2018
+SSB1204, Nil
+SSB1204T, NIL
+SSB2217, ACC3605; BBA (Accountancy) students are not allowed to take this module. LL4056/A/B Tax Planning and Policy
+SSD2213, NIL
+SSS1207, NIL
+SSU2000, Nil
+SSU2001, Nil
+SSU2003, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+SSU2004 / GEM2905, Nil
+ST1131, ST1131A, ST1232, ST2334, CE2407, CN3421, EC2231, EC2303, PR2103, DSC2008. Engineering students except ISE students.
+ST1232, ST1131, ST1131A, ST2334, CE2407, CN3421, EC2231, EC2303, PR2103, DSC2008.
+ST2131 / MA2216, MA2216, ST2334, CE2407
+ST2132, nil
+ST2288, Nil
+ST2289, nil
+ST2334, ST1131, ST1131A, ST1232, ST2131, MA2216, CE2407, EC2231, EC2303, PR2103, DSC2008. ME students taking or having taken ME4273. All ISE students.
+ST3131, ST2335, EC3231, EC3303
+ST3232, nil
+ST3240, nil
+ST3241, nil
+ST3247, nil
+ST3288, nil
+ST3289, NIL
+ST3312, Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+ST4199, nil
+ST4238 / MA4251, MA4251
+ST4240, nil
+ST4242, nil
+ST4245, nil
+ST5217, NIL
+SW1101E, NIL
+SW2101, NIL
+SW2104, NIL
+SW2105, NIL
+SW2106, SW2103
+SW3101, Nil
+SW3103A, Nil
+SW3104, Nil
+SW3213, Nil
+SW3216, Nil
+SW3217, PL3236 Abnormal Psychology
+SW3219, Nil
+SW3551, NIL
+SW4213, Nil
+SW4214, Nil
+SW4216, Nil
+SW4401, SW4660
+SW4660, SW4401
+SW5106R, Nil
+SW5213R, NIL
+SW5253R, NIL
+SX1991, Nil
+SX1992, Nil
+SX1994, Nil
+SX1996, Nil
+SX2991, Nil
+SX2995, Nil
+SX2996, Nil
+SX2997, Nil
+SX3971, Nil
+SX3972, Nil
+SX3973, Nil
+SX3974, Nil
+SX3992, Nil
+SX3993, Nil
+SX3994, Nil
+SX3996, Nil
+TC1401, NIL
+TC1422, NIL
+TC2401, TC1402
+TE2002, Nil
+TE2003, TE2401
+TE2101, TE1122
+TE3201, Nil
+TE3801, Nil
+TE4001, Nil
+TG1401, TE2102 or TM1401
+TG2415, NIL
+TG3001, NIL
+TG3101A, Nil
+TG3101B, Nil
+TM2401, TE2002 or TC2401 or TC1402 or TM1402
+TM3101, NIL
+TM4101, NIL
+TM4209, NIL
+TM4264, Nil
+TP5026, Nil
+TP5028, Nil
+TR2201, TR3003
+TR2202, Nil
+TR3001, Nil
+TR3002, TR3004, TR3005
+TS1101E / GEM1003, GEM1003
+TS2217, Nil
+TS2234, Nil
+TS2236, NIL
+TS2240, Nil
+TS3103, NIL
+TS3233, Nil
+TS3234, Nil
+TS3235 / SSA3201, SSA3201
+TS3237, Nil
+TS3240, Nil
+TS3243, Nil
+TS3246, Nil
+TS3247, Nil
+TS4213, NIL
+TS4217, NIL
+TS4401, TS4660
+TS4660, TS4401
+TS4880B, NIL
+TS5101R, NIL
+TS5212R, NIL
+UAR2201, Nil
+UD5628, NIL
+UIS3901, Nil
+UIS3901S, Nil
+UIS3911, Nil
+UIS3911HY, Nil
+UIS3911NM, Nil
+UIS3911PH, Nil
+UIS3911PL, Nil
+UIS3911PS, Nil
+UIS3911SC, Nil
+UIS3911SN, Nil
+UIS3912, Nil
+UIS3912HY, Nil
+UIS3921, Nil
+UIS3921R, Nil
+UIS3922, Nil
+UIS3922R, Nil
+UIS3923, Nil
+UIS3923R, Nil
+UIS3924, Nil
+UIS3924R, Nil
+UIS3931, Nil
+UIS3932, Nil
+UIS3933, Nil
+UIS3934, Nil
+UIS3941, Nil
+UIS3941R, Nil
+UIS3942, Nil
+UIS3942R, Nil
+UIS3943, Nil
+UIS3943R, Nil
+UIS3944, Nil
+UIS3944R, Nil
+UIS4911, Nil
+UIS4912, Nil
+UIS4913, Nil
+UIS4921, Nil
+UIS4921R, Nil
+UIS4922, Nil
+UIS4922R, Nil
+UIS4923, Nil
+UIS4923R, Nil
+UIS4924, Nil
+UIS4924R, Nil
+UIS4931, Nil
+UIS4932, Nil
+UIS4933, Nil
+UIS4934, Nil
+UIS4941, Nil
+UIS4941R, Nil
+UIS4942, Nil
+UIS4942R, Nil
+UIS4943, Nil
+UIS4943R, Nil
+UIS4944, Nil
+UIS4944R, Nil
+UIT2206, Not applicable to USP modules.
+ULS2202, Nil
+ULT2299E, Not applicable to USP modules.
+UNL2201, Nil
+UNL2206, Nil
+UPC2206, Nil
+UPC2207, Not applicable to USP modules.
+UPI2206, Not applicable to USP modules.
+UQF2101B, Not applicable to USP modules.
+UQF2101F, Not applicable to USP modules.
+UQF2101G, Not applicable to USP First-Tier modules.
+UQF2101H, Not applicable to USP modules.
+UQR2211, Not applicable to USP modules.
+USE2209, Nil
+USE2304, Nil
+USE2307, Nil
+USE2313, Not applicable to USP modules.
+USE2316, Nil
+USE2317, Not applicable to USP modules.
+USE2318, Not applicable to USP modules.
+USP3501, Nil
+USP3506, Nil
+USS2105, Nil
+UWC2101A, Nil
+UWC2101B, Nil
+UWC2101C, Not applicable to USP modules.
+UWC2101H, Nil
+UWC2101S, Nil
+UWC2101Y, Not applicable to USP modules.
+UWC2102E, Not applicable to USP modules.
+XFA4401, Nil
+XFA4402, EC4660
+XFB4001, Nil
+XFB4002, Integrated honours thesis/dissertation from other faculties
+XFC4101, CS4101 B.Comp. Dissertation or CS4349 Game Research Project
+XFE4401, Nil
+YCC1112, NIL
+YCC1114, NIL
+YCC1122, NIL
+YCC1132, NIL
+YHU1201, Nil
+YHU1202, Nil
+YHU1203, Nil
+YHU1204, Nil
+YHU1205, Nil
+YHU1206, Nil
+YID1201, Nil
+YIR1302, Nil
+YIR1321, Nil
+YIR1322, Nil
+YLF1211, Nil
+YLS1201, Nil
+YSS1201, Nil
+YSS1202, Nil
+YSS1203, Nil
+ZB3288, Nil
+ZB3289, Nil
+ZB4199, Nil
+GEK1000 / EN1101E, EN1101E, EN2101, EN2101E. Students who are majoring in EN, or intend to major in EN should not take GEK1000.
+GEK1001 / GE1101E, GE1101E. Not for students majoring or intend to major in GE.
+GEK1002 / JS1101E, JS1101E. Students majoring in JS are precluded from taking this module.
+GEK1003 / PS1101E, PS1101, GEM1003K, PS1101E. Not for students majoring in PS
+GEK1008 / SE1101E, SE1101E, SSA1202, SS1203SE and GEM1008K. Not for students majoring, or intend to major in SE.
+GEK1011 / EL1101E, EL1101E
+GEK1012, GEK1006. Not for students majoring in Social Work.
+GEK1022, GEM1022K
+GEK1048, NIL
+GEK1054, Nil
+GEK1055, NIL
+GEK1056, Nil
+GEK1058, GEK1058A
+GEK1059, EL majors
+GEK1062, NIL
+GEK1064, PL1101E. Students who have read PL1101E are not allowed to read this module.
+GEK1501, To preclude all Facultyof Engineering, Computer Engineering (CEG) &amp; School of Computing students
+GEK1505, Mathematics majors, Applied Mathematics majors, Computational Finance majors, Quantitative Finance majors, Mathematics with Management Science majors, Physics majors, second major in Mathematics, second major in Financial Mathematics
+GEK1508 / PC1325, Students majoring in Physics are not allowed to take this module
+GEK1509, Students majoring in Physics and Engineering are not allowed to take this module
+GEK1510 / PC1323, Students majoring in Physics are not allowed to take this module.
+GEK1513, To preclude Electrical Engineering, Computer Engineering and School of Computing students (except EE1, CPE1, CEG1, CEC1, COM1) and students who have read IT2001.
+GEK1515, Not for Life Sciences major and student reading Bachelor of Environmental Studies
+GEK1519 / PC1327, Nil
+GEK1520 / PC1322, Students majoring in Physics are not allowed to take this module.
+GEK1522, Nil
+GEK1523, To preclude students majoring in Mechanical Engineering
+GEK1524, To preclude students majoring in Mechanical Engineering
+GEK1527, Not for Life Sciences major/minor or Food Sciences & Technology or Pharmacy majors or Bioengineering programs.
+GEK1531, Nil
+GEK1536, Nil
+GEK1538, Life Sciences major/minor and student from Bachelor of Environmental Studies Programme
+GEK1540, None
+GEK1544, Engineering students, Mathematics major, Applied Mathematics majors, Computational Finance majors, Quantitative Finance majors, second major in Mathematics, second major in Financial Mathematics, Statistics major, second major in Statistics, Physics major.
+GEK1547, Nil
+GEK1548, Nil
+GEK1900, NIL
+GEK2001 / SSA2202, SSA2202, SE2241
+GEK2003 / PS2249, PS1102, GEM2003K, SS2209PS, PS2101B, SSA2209, PS2101, PS2249. Not for students majoring in PS.
+GEK2005, Not for Real Estate students and first year students
+GEK2010 / PS2239, PS2209, GEM2010K, PS2209B, PS2239. Not for students majoring in PS
+GEK2013, Not for Real Estate students
+GEK2024 / PS2233, EU3208, PS2203B, PS3210, PS2233
+GEK2030 / PH2212, PH2212, EU2214
+GEK2036 / PH2222, PH2222, PH3209
+GEK2037 / PH2223, PH2223
+GEK2042, Nil
+GEK2044, Nil
+GEK2047 / CH2297, CH2297
+GEK2506, Nil
+GEK2508, Nil
+GEK3007 / PS3266, PS3266
+GEM1003 / TS1101E, TS1101E
+GEM1004FC, GEM1004, PH1101E
+GEM1023, Nil
+GEM1033, Nil
+GEM1036, NIL
+GEM1501, CS1305; GEM1501M. All School of Computing students are not allowed to read it as a GEM.
+GEM1536, GEM1902B Junior Seminar: The Darwinian Revolution
+GEM1537, Nil
+GEM1915FC, GEM1912 Jnr Sem: Systems Systems Everywhere (offered at CAPT, UTown) Despite the minimal overlap, the preclusion may be needed to ensure that students who have completed GEM1912 do not have an unfair starting advantage over others who take this module.
+GEM2006 / PH2110, PH2110, CS3234 and MA4207. Not for students majoring in PH.
+GEM2022, NIL
+GEM2027, NM4200 Introduction to Public Speaking
+GEM2509, GEM2006 Logic, PH2110 logic, CS1231 Discrete Structures, CS3234 Logic and Formal systems, MA4207 Mathematical Logic, PH2214 Philosophical Logic, MA1100 Fundamental Concepts of Mathematics.
+GEM2900, Not for Statistics Major students
+GEM2901, nil
+SSA1201, SS1202SC
+SSA1202 / SE1101E, GEK1008, GEM1008K, SE1101E, SS1203SE, Students majoring in SE are precluded from taking this module.
+SSA1207, EL, EN or TS majors
+SSA1208, Nil
+SSA2202 / GEK2001, SE2241, GEK2001
+SSA2203 / HY2239, HY2239. Students majoring in HY are precluded from taking this module.
+SSA2204 / HY2229, HY2229, USE2304. Students majoring in HY or SE are precluded from taking this module.
+SSA2205 / JS2224, JS2224. Students majoring in JS are precluded from taking this module.
+SSA2208 / HY2242, HY2242. Students majoring in HY are precluded from taking this module.
+SSA2209 / PS2249, GEK2003, GEM2003K, PS1102, PS2101B, PS2101, PS2249, SS2209PS. Students majoring in PS are precluded from taking this module.
+SSA2214, Nil
+SSA2215, GE2018
+SSA2220 / EC2373, EC2202 and EC2373 and PP5215
+SSA2221 / HY2254, HY2254
+SSA2222 / PS2244, PS2244
+SSA3201 / TS3235, TS3235. Students who are majoring in TS, or intend to major in TS should not take SSA3201.
+SSA3203 / MS3209, MS3209. Students majoring in MS are precluded from taking this module.
+SSA3205 / PS3249, PS3219B, SS3205PS, PS3249. Students majoring in PS are precluded from taking this module.
+SSB1204, Nil
+SSB2217, ACC3605; BBA (Accountancy) students are not allowed to take this module. LL4056/A/B Tax Planning and Policy
+SSD2213, NIL
+SSS1207, NIL
+ACC1002X, Students who have passed CS1304 or EC3212 or BK1003 or BZ1002 or BH1002 or BZ1002E or BH1002E or FNA1002E or FNA1002X are not allowed to take ACC1002X.
+ACC1006, Students who have passed FNA1006 are not allowed to take ACC1006.
+ACC2002, BH2002 or BZ3102 or BK2001 or FNA2002 or IE4242
+ACC4612A, Nil
+ACC4612C, Nil
+ACC4612E, Nil
+BSP1004X, SSB2212 or BH1004 or BZ1004 or BK1006 or GEK1009 or GEM1009k or SSD1203 or BSP1004A or BSP1004B
+BSP1005, BH1005 or BZ1006 or BK1008 or All Econs major students.
+BSP2001, (BH2001 or BZ2001 or EC1101 or EC1101E or EC1310 or EC1301 or EC3341 or EC4102 or All Econs major students) and All BBA(Acc) students. EC2102.
+BSP2005, BH2005 or BZ2005
+BSP4512, BH4512 or BZ4812A or BK4009.
+CE2112, Nil
+CE2183, Nil
+CE3101, Nil
+CH1101E, Nil
+CH2141 / CL2241, CL2241 and CL2141
+CH2223, NIl
+CH2273, Nil
+CH2291, Nil
+CH2297 / GEK2047, GEK2047
+CH3223, Nil
+CH3226, Nil
+CH3229, Nil
+CH3248, CH3244 Topics in Contemporary China and HY3248 People's Republic of China, 1949-1989
+CL1101E, Nil
+CL2103, CL2203
+CL2241 / CH2141, CH2141 and CL2141
+CL2260, Nil
+CL2281, Nil
+CL2291, NIL
+CL3205, Nil
+CL3208, CH4201
+CL3211, Nil
+CL3281, Nil
+CN2116, Nil
+CN2121, Nil
+CN2122, Nil
+CS1010E, CG1101, CS1010, CS1010FC, CS1010S, CS1101, CS1101C, CS1101S
+CS1020E, CG1102, CG1103, CS1020, CS1102, CS1102C, CS1102S, CS2020
+CS1231, MA1100
+CS2010, CG1102, CS1102, CS1102C, CS1102S, CS2020
+CS2102, CS2102S, IT2002
+CS2103, Science students majoring in Computational Finance, are not allowed to read it as CFM/Breadth. EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS2105, IT2001, EE3204/E, EE4210. CEG, CPE and EEE students are not allowed to take this module.
+CS2106, CG2271 or EE4214. CEG students are not allowed to take this module.
+CS2107, Nil
+CS3103, EE4210 Computer Communication Networks II
+CS3210, NIL
+CS3211, Nil
+CS3223, Nil
+CS3225, Nil
+CS3230, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS3234, Nil
+CS3241, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+CS3243, EEE and CPE students can only take this module as a technical elective to satisfy the program requirements or UEM but not CFM/ULR-Breadth.
+DSC1007X, NIL
+DSC2006, BH2006 or BZ2003 or BK2006 or IE3120. All Industrial &amp; Systems (ISE) students
+DSC2008, ST1131/ST1131A Introduction to Statistics, ST1232 Statistics for Life Sciences and ST2334 Probability and Statistics.
+DSC3201, BH3201 or BZ3402 or BK3505 or IE4220 or CS5262. All Industrial &amp; Systems Engineering (ISE) students
+DSC3202, BH3202 or BZ3414 or BK3206
+DSC3203, BH3203 or BZ3404 or BK3501
+DSC3213, CS4244
+DSC3216, BH3216 or BZ3405 or BK3509 or BK3519. All Industrial &amp; Systems Engineering (ISE) students
+DSC3224, Nil
+DSC3226, Nil
+DSC5121, NIL
+DSC5211A, NIL
+EC1301, EC1101E, EC1311, BK1008, BZ1006/BH1005/BSP1005, USSE01, USE2301, EC1310, BSP2001/BH2001/BZ2001. All BBA, BAC, BBA(Hons) and BAC(Hons) students are not allowed to take EC1301.
+EC2101, EC2151
+EC2102, EC2152, BSP2001
+EC2104, EC3311, any MA module that is not MA1301 or MA1301FC or MA1311 or MA1312 or MA1421.
+EC2303, All ST and SA modules, DSC1007, MQ2205, GM2303, BK1004, EC2231
+EC2373 / SSA2220, EC2202 and SSA2220 and PP5215
+EC2374, EC3220, EC2222
+EC3101, EC2121, EC3201, EC3151
+EC3102, EC2122, EC3201, EC3152
+EC3303, ST3131, SA3101, EC3231
+EC3304, EC3237
+EC3312, EC3240, MA4264
+EC3322, EC2207, EC3227
+EC3332, EC2204, EC3224
+EC3333, BZ3302/BH3102/FNA3102/FIN3102/BH2004/BZ2004/FNA2004/FIN2004/FIN2004X/ EC3209
+EC3341, EC3205
+EC3351, EC3206
+EC3352, Nil
+EC3361, EC3208
+EC3371, EC2203, SE3232, EC3223
+EC3375, NIL
+EC3376, EC3373/EC3207, EC3375/EC3211, SE3231, EU3203, EU3214, EC3218
+EC3377, NIL
+EC3381, BU2202, EC3235
+EC3384, EC3234
+EC3394, NIL
+EC3396, Nil
+EC3880B, Nil
+EE2020, EE2006
+EE2022, EE3505
+EE3331C, EE2010 Systems & Control
+EE3431C, EE3406, EE2004, PC3235
+EG1108, CG1108/EE1002
+EG1109, EG1109FC
+EL1101E / GEK1011, GEK1011
+EL2201, EL2101
+EL2211, EL2111
+EL3202, Nil
+EL3208, Nil
+EL3209, Nil
+EL3252, Nil
+EL3258, Nil
+EL3880F, Nil
+EN1101E / GEK1000, EN2101E, GEK1000
+EN2201, Nil
+EN2202, EN3274 Critical Reading
+EN2203, EN2113
+EN3222, Nil
+EN3229, Nil
+EN3241, Nil
+EN3249, Nil
+EN3261 / EU3217, EU3217
+EN3265, Nil
+EN3880A, NIL
+EU1101E, NIL
+EU2203 / PS2203, PS2203, PS2231, EU2218, PS2201B, PS2218
+EU2214 / PH2212, PH2212, GEK2030
+EU2223 / HY2256, HY2256
+EU3217 / EN3261, EN3261
+EU3224 / SC3101, SC3101
+EU3228, PS3251
+EU3230 / HY3209, HY3209
+EU3231 / HY3242, HY3242
+FIN2004X, Students who have taken CS2251 or EC3209 or EC3333 or BK2004 or BZ2004 or BH2004 or FNA2004 are not allowed to take FIN2004. 1st Year BSc(PFM), all BSc (RE) and Computational Finance are not allowed to take FIN2004.
+FIN3101A, BH3101 or BZ3301 or BK3100 or FNA3101 or FE5105 or FIN3101 or FIN3101B or FIN3101C
+FIN3102A, BH3102 or BZ3302 or BK3101 or FNA3102 or FNA3102B/C or FIN3102 or FIN3102B/C or FE5108 or EC3333 or CF3101/QF3101
+FIN3102B, BH3102 or BZ3302 or BK3101 or FNA3102 or FNA3102A/C or FIN3102 or FIN3102A/C or FE5108 or EC3333 or CF3101/QF3101
+FIN3103A, BH3103 or BZ3303 or BK3102 or FNA3103 or FIN3103 or FIN3103B
+FIN3103B, BH3103 or BZ3303 or BK3102 or FNA3103 or FIN3103 or FIN3103A
+FIN3113, BH3113 or BZ3105 or BK3105 or FNA3113
+FIN3116, BH3116 or BZ3312 or BK3109A or FNA3116 or FIN3116A or FIN3116B
+FIN3117, Students who have passed FNA3117 are not allowed to take FIN3117. Not for students who have passed FE5105.
+FIN3118, BH3118 or BZ3305 or FNA3118
+FIN3130, NIL
+FIN3131, FNA3120A or CF3201/QF3201
+FST2201, Nil
+GE1101E / GEK1001, GEK1001
+GE2202, NIL
+GE2206, NIL
+GE2218, NIL
+GE2220, NIL
+GE3204, NIL
+GE3206, NIL
+GE3216, Nil
+GE3221, Nil
+GE3242, Nil
+GE3243, Nil
+GL1101E, Nil
+GL2102, NIL
+GL2103, NIL
+HY1101E, NIL
+HY2216, NIL
+HY2229 / SSA2204, SSA2204, USE2304
+HY2232, NIL
+HY2239 / SSA2203, SSA2203
+HY2242 / SSA2208, SSA2208
+HY2254 / SSA2221, SSA2221
+HY2256 / EU2223, EU2223
+HY3201, NIL
+HY3209 / EU3230, EU3230
+HY3226, NIL
+HY3236 / SN3262, HY2228, SN2261, SN3262
+HY3242 / EU3231, EU3231
+HY3248, NIL
+HY3252, Nil
+ID2112, NIL
+ID2122, Nil
+ID3124, NIL
+IE2130, Nil
+IE2140, Nil
+IS1105, CS2250
+IS1112, NIL
+IT1001, CS1010 or CS1010E, CS1010FC, CS1010S, CS1101, CS1101C, CS1101S, GEK1511. SoC students and engineering students. Science students requiring this module for their minor should not register it as ULR-Breadth. Arts and Social Science students reading CNM as a subject/concentration and matriculated before AY2001/02 are not allowed to read this module as URL-Breadth
+IT1006, IT1005, CS1010, CS1010E, CG1101, CS1101S, CS1010S or CS1010FC and its equivalent
+IT2001, CS2105, EE3204/E, EE4210; SoC, EEE & CPE students are not allowed to take this module. Arts and social sciences students reading CNM as a subject/concentration are not allowed to read this module as CFM/URL-Breadth.
+IT2002, CS2102 or CS2102S. SoC students and Arts and social sciences students reading CNM as a subject/concentration are not allowed to read this module as CFM/ULR-Breadth.
+JS1101E / GEK1002, GEK1002
+JS2213, NIL
+JS2224 / SSA2205, SSA2205
+JS2226, NIL
+JS2230, Nil
+JS3208, Nil
+JS3210, NIL
+JS3211, Nil
+JS3230, Nil
+LAB1201, LAM1201 Malay 1
+LAB2201, NIL
+LAB3201, NIL
+LAB3202, NIL
+LAB4201, Nil
+LAB4202, Nil
+LAC1201, LAC2202
+LAC2201, LAC2202
+LAC3201, Nil
+LAC3202, Nil
+LAC3204, Nil
+LAC4202, NIL
+LAF1201, NIL
+LAF2201, NIL
+LAF3202, LAF3203
+LAF3203, LAF3202
+LAF4202, Nil
+LAG1201, NIL
+LAG2201, NIL
+LAG3202, LAG3203 German for Academic Purposes
+LAG3203, LAG3202 German 4
+LAG4202, Nil
+LAH1201, Hindi 1 is intended for students who are complete beginners. It is not suitable for students who are: - native speakers of Hindi or Urdu - students who have studied Hindi, Urdu, Gujarati, Marathi or Punjabi at 'O' or 'A' levels (or equivalents) or have previously undertaken any formal study of Hindi, Urdu, Gujarati or Punjabi for any duration of time - Students who are from India have to provide a complete transcript of subjects studied to prove that they have not taken Hindi at any level.
+LAH2201, Nil
+LAH3202, Nil
+LAJ1201, NIL
+LAJ2201, NIL
+LAJ2202, NIL
+LAJ2203, NIL
+LAJ3201, NIL
+LAJ3202, NIL
+LAK1201, NIL
+LAK2201, Nil
+LAK3202, LAK3203 Korean for Academic Purpose
+LAK3203, LAK3202 Korean 4
+LAK4202, Nil
+LAL1201, NIL
+LAL2201, Nil
+LAM1201, LAB1201 Bahasa Indonesia 1
+LAM2201, NIL
+LAM3201, NIL
+LAM3202, NIL
+LAR1201, NIL
+LAR2201, NIL
+LAR3202, Nil
+LAR4202, Nil
+LAT1201, NIL
+LAT2201, Nil
+LAT3201, Nil
+LAT3202, NIL
+LAT4201, NIL
+LAT4202, NIL
+LAV1201, NIL
+LAV2201, Nil
+LAV3201, Nil
+LAV3202, Nil
+LAV4202, NA
+LL4061, Nil
+LL4082, Nil
+LL4133, Nil
+LL4134, Nil
+LL4234, Nil
+LSM1301, Must not have GCE ‘A’ Level or H2 Biology or equivalent. Cannot read concurrently with LSM1101, LSM1102, LSM1103, LSM1104 and LSM1202. Student must not have passed LSM1301FC.
+LSM1303, Nil
+MA1101R, EG1401, EG1402, MA1101, MA1311, MA1506, MA1508, FOE students
+MA1102R, EE1401, EE1461, EG1401, EG1402, CE1402, MA1102, MA1312, MA1505, MA1505C, MA1507, MA1521, CEC students, COM students who matriculated on and after 2002 (including poly 2002 intake),FoE students.
+MA1104, MA1104S, MA2207, MA2221, MA2311, MA3208, GM2301, MQ2202, MQ2102, MQ2203, PC1134, PC2201, MA1507, MPE students.
+MA1301, Those with A-level or H2 passes in Mathematics or who have passed any of the modules MA1101R, MA1102R,MA1301FC, MA1505, MA1506, MA1507, MA1508, MA1521, MA1311, MA1312, MA1421, MPE students.
+MA1312, MA1102R, MA1505, MA1505C, MA1521, FoE students.
+MA1505, MA1102R, MA1312, MA1507, MA1521, MA2311, MA2501, EE1461, PC2174.
+MA1506, MA1101R, MA1311, MA2312, MA1508, MA2501, EE1461, PC2174
+MA1521, MA1102R, MA1312, MA1505, MA1507, MA2501, FoE students.
+MA2101, MA2101S, MA2101H, MA2201, MA2203, MQ2201, MQ2101, MQ2203.
+MA2108, MA2108S, MA2206, MA2208, MA2221, MA2311, MQ2202, MQ2102, MQ2203, CN2401, EE2401, ME2492.
+MA2213, CE2407, ME3291, CN3421, CN3411, CHE students (for breadth requirements), EVE students (for breadth requirements).
+MA2216 / ST2131, ST2131, ST2334, CE2407
+MA2219, NIL
+MA3110, MA2118, MA2118H, MA2205, MQ3202, MA3110S, ST2236.
+MA3111, MA3111S, EE3002, MPE students.
+MA3201, Nil
+MA3215, Nil
+MA3218, MA2202, MA2202S, EE4103
+MA3227, ME3291
+MA3233, Nil
+MA3238 / ST3236, ST3236.
+MA3252, GM2302, MQ2204, CS3252, IC2231, DSC3214, GM3308, MA3235, BH3214, ISE students.
+MA3259, Nil
+MA3266, Nil
+MA4207, Nil
+MA4211, Nil
+MA4229, Nil
+MA4251 / ST4238, MA3237, MA3239, GM3310, ST4238, ISE students.
+MA4252, Nil
+MA4254, MA3235, ISE students.
+MA4255, ME4233
+MA4263, Nil
+MA4266, Nil
+MA4269, MA3245 Financial Mathematics I MA4257 Financial Mathematics II
+MKT1003X, Students who have taken EC3230/(EC2210) or CS3261/(IC3243) or PR4201 or BK2003 or BZ1003 or BH1003 are not allowed to take MKT1003.
+MKT2401A, BH2401 or BZ3601 or BK3200 or MKT2401B or MKT2401
+MKT2401B, BH2401 or BZ3601 or BK3200 or MKT2401A or MKT2401
+MKT2401C, BH2401 or BZ3601 or BK3200 or MKT2401A or MKT2401B
+MKT2412, BH2412 or BZ3604 or BK3208
+MKT2413, BH2413 or BZ3614 or BK3202 or MKT2413A or MKT2413B
+MKT3402B, BH3402 or BZ3602 or BK3201 or MKT3402A or MKT3402B
+MKT3412, BH3412 or BH3412A or BH3412B or BZ3612 or BK3205 or MKT3412A or MKT3412B
+MKT3413, Nil
+MKT3415, Nil
+MKT3418A, BH3418 or BZ3603
+MKT3418B, BH3418 or BZ3603
+MKT3424, Nil
+MKT3513, EC3312 Game Theory and Applications To Economics MA4264 Game Theory
+MNO1001X, Students who have taken BE2106, EG1423, CS1303, BK2002 or BZ1001 or BH1001 are not allowed to take MNO1001. Students who took or are taking HR2001, HR2101, HR3111 or HR3308 cannot take MNO1001
+MNO2007, NIL
+MNO2009, Nil
+MNO2302, BH2302 or BZ3504 or BK3300 or MNO2302A/B or PL3239 or PS3245
+MNO3301, BH3301 or BZ3501 or BK3309M or PS3243
+MNO3303, BH3303 or BZ3502 or BK4309D or BK3309N
+MNO3313J, NIL
+MNO3322, UBZ3001
+MNO3323, Nil
+MNO3330, Nil
+MS1102E, MS1101E
+MS2211, NIL
+MS2213, NIL
+MS3209 / SSA3203, SSA3203
+MS3212, Nil
+MS3215, Nil
+MS3216, NIL
+MS3218, MS4203 The Religious life of the Malays
+MT4003, [TR3001 New Product Development] & [EE3031 Innovations & Enterprise 1]
+MUA3219, NIL
+MUA3220, NIL
+NM1101E, Nil
+NM2101, Nil
+NM2103, NIL
+NM2104, NIL
+NM2201, Nil
+NM2203, NIL
+NM2212, NIL
+NM2213, NIL
+NM2219, NIL
+NM2220, Nil
+NM2302, Nil
+NM3202, NM2202
+NM3203, NM3880A
+NM3204, NIL
+NM3205, NIL
+NM3211, NM2221
+NM3214, NIL
+NM3215, MKT3420 Promotional Management
+NM3217, Nil
+NM3219, NIL
+NM3221, Nil
+NM3223, NIL
+NM3224, NIL
+NM3227, NIL
+NM3229, Nil
+NM3233, NM3220 Research for Communication Management
+NM3235, NM4215 Corporate Social Responsibility: Research And Practice
+NM3236, NM4201 Ethics in Communication Management
+NM3237, NM4880D Health Communications NM4220 Health Communications
+NUR1116, Nil
+NUR1118, AY1104 Anatomy PY1105 Physiology I PY1106 Physiology II
+PC1143, Students who have passed PC1432 are not allowed to take this module.
+PC1144, Students who have passed PC1432 are not allowed to take this module.
+PC1221, 'A' level or H2 pass in Physics or PC1141, or PC1142 or PC1431 or PC1431FC
+PC1222, 'A' level or H2 pass in Physics or PC1143, or PC1144 or PC1432
+PC1322 / GEK1520, Students majoring in Physics are not allowed to take this module
+PC1323 / GEK1510, Students majoring in Physics are not allowed to take this module
+PC1325 / GEK1508, Students majoring in Physics are not allowed to take this module
+PC1327 / GEK1519, Nil
+PC1431, Students majoring in Physics or students who have passed in PC1141 or PC1142 or PC1433 or PC1431FC are not allowed to take this module.
+PC1432, Students majoring in Physics or students who have passed in PC1143 or PC1144 are not allowed to take this module
+PC2130, Students who have passed PC2130B are not allowed to take this module.
+PC2131, Nil
+PC2193, Nil
+PC2230, Nil
+PC3130, Nil
+PC3193, Nil
+PC3233, Nil
+PC3236, Nil
+PC3241, EE2004
+PC3243, Nil
+PC3246, N.A
+PC3251, None
+PC3267, Nil
+PC4232, Nil
+PC4240, Nil
+PC4242, Nil
+PC4243, Nil
+PC4245, Nil
+PC4253, EEE or CPE or CEG or MLE5201 students are not allowed to take this module.
+PC4262, Nil
+PC4264, Nil
+PC4274, Nil
+PH1102E, GEK1067
+PH2110 / GEM2006, GEM2006, CS3234 and MA4207
+PH2202, NIL
+PH2212 / EU2214 / GEK2030, EU2214, GEK2030
+PH2222 / GEK2036, PH3209, GEK2036
+PH2223 / GEK2037, GEK2037
+PH2241, PH3212 Philosophy of Mind
+PH2302 / GEK2039, GEK2039
+PH3202, LL4639E, LL4404 or an equivalent course
+PH3203, NIL
+PH3204 / SN3272, SN3272
+PH3206, NIL
+PL1101E, Nil
+PL2131, UQF2101B
+PL2132, NIL
+PL3232, NIL
+PL3233, Nil
+PL3234, NIL
+PL3235, Nil
+PL3236, SW3217
+PL3237, Nil
+PL3241, NIL
+PL3243, Nil
+PL3249, NIL
+PL3250, Nil
+PL3251, PL3880A
+PR2202, Nil
+PS1101E / GEK1003, GEM1003K, GEK1003, PS1101
+PS2203 / EU2203, PS2231, EU2218, PS2201B, PS2218, EU2203
+PS2233 / GEK2024, EU3208, PS2203B, PS3210, GEK2024
+PS2234, PS2204B
+PS2237, PS2207, PS2207B
+PS2239 / GEK2010, GEK2010, GEM2010K, PS2209, PS2209B
+PS2240, PS2210B
+PS2244 / SSA2222, SSA2222
+PS2245, PS2215B, SE2213
+PS2248, PS3205B, PS3250
+PS2249 / GEK2003 / SSA2209, GEK2003, GEM2003K, PS1102, PS2101, PS2101B, SS2209PS, SSA2209
+PS3232, PS3202B
+PS3249 / SSA3205, PS3219B, SSA3205, SS3205PS
+PS3257, PS2102, PS2102B, PS2231B
+PS3258, PS3101B, PS3218B, PS3248
+PS3262, Nil
+PS3263, PS2205B, PS2235
+PS3265, Nil
+PS3266 / GEK3007, GEK3007 Politics, Music and Society
+PS3880B, Nil
+PS3880H, Nil
+QF3101, Nil
+SC1101E, NIL
+SC2101, NIL
+SC2202, Nil
+SC2204, NIL
+SC2209, Nil
+SC2211, Nil
+SC2212, NIL
+SC2214, IF2214
+SC2215, NIL
+SC2220, Nil
+SC2221, NIL
+SC3101 / EU3224, EU3224
+SC3203, NIL
+SC3206, Nil
+SC3208, NIL
+SC3211, NIL
+SC3213, IF3213
+SC3214, NIL
+SC3216, Nil
+SC3219, Nil
+SC3222, NIL
+SC3227, Nil
+SE1101E / GEK1008 / SSA1202, GEK1008, GEM1008K, SSA1202, SS1203SE
+SE2210, SE4215
+SE2217, Nil
+SE2223, Nil
+SE2226, Nil
+SE3211, Nil
+SE3216, Nil
+SE3218, SE2215
+SE3220, Nil
+SE3224, NIL
+SE3226, NIL
+SN1101E, NIL
+SN2232, SN2212
+SN2233, NIL
+SN2271, Nil
+SN2277, NIL
+SN3262 / HY3236, HY2228, HY3236, SN2261
+SN3272 / PH3204, PH3204
+SN3274, Nil
+SN3275, SN3291
+SP2251, N.A.
+SPH2104, NIL
+SPH3102, NIL
+SPH3103, NIL
+ST2131 / MA2216, MA2216, ST2334, CE2407
+ST2132, nil
+ST2334, ST1131, ST1131A, ST1232, ST2131, MA2216, CE2407, EC2231, EC2303, PR2103, DSC2008. ME students taking or having taken ME4273. All ISE students.
+ST3131, ST2335, EC3231, EC3303
+ST3232, nil
+ST3236 / MA3238, MA3238. All ISE students.
+ST3240, nil
+ST3241, nil
+ST3247, nil
+SW1101E, NIL
+SW2104, NIL
+SW3101, Nil
+SW3213, Nil
+SW3217, PL3236 Abnormal Psychology
+SW3219, Nil
+TR2201, TR3003
+TR2202, Nil
+TR3001, Nil
+TR3002, TR3004, TR3005
+TS1101E / GEM1003, GEM1003
+TS2217, Nil
+TS2234, Nil
+TS2236, NIL
+TS2240, Nil
+TS3233, Nil
+TS3234, Nil
+TS3235 / SSA3201, SSA3201
+TS3237, Nil
+TS3240, Nil
+TS3243, Nil
+TS3246, Nil
+TS3247, Nil
+YLS1201, Nil
+IE2130, Nil
+IE2140, Nil

@@ -1,0 +1,2530 @@
+ACC1002, Nil
+ACC1002X, Nil
+ACC1006, FNA1002 or ACC1002
+ACC2002, Students must have completed BK1003 or BZ1002 or BH1002 or FNA1002 or FNA1002X or FNA1002E or ACC1002 or ACC1002X or BH1002E or CS1304 or EC3212 or EG1422 before they are allowed to take ACC2002.
+ACC3601, FNA1002 or ACC1002
+ACC3602, FNA2002 or ACC2002
+ACC3603, FNA1002/ACC1002 and FNA2002 (Students who are not enrolled in the accounting or accounting-specialization program should seek Deans Office permission to read the module)
+ACC3604, BSP1004
+ACC3605, FNA1002/ACC1002 and BSP1004
+ACC3606, FNA3111 or ACC3601
+ACC3611, FNA1002/ACC1002 and BSP1004
+ACC3612, FNA2004/FIN2004 and BSP1004
+ACC3613, FNA3121 or ACC3603
+ACC3614, FNA2004 or FIN2004
+ACC3615, FNA3111/ACC3601 Co-requisite: FNA3123/ACC3606
+ACC4611, Nil
+ACC4612A, ACC3613 Advanced Assurance and Attestation
+ACC4612C, Nil
+ACC4612E, Depends on the particular stream offered. It is envisaged that completion of one or more ACC3xxx modules will be a pre-requisite in most cases.
+ACC4619, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA(Acc) curriculum.
+ACC4629, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA(Acc) curriculum.
+AR1102, Nil
+AR1326, Nil
+AR1721, Nil
+AR1724, NIL
+AR2102, AR1101 Design 1 Grade 'C'; AR1102 Design 2 Grade 'C'
+AR2151, Nil
+AR2225, Nil
+AR2327, NIL
+AR2723, Nil
+AR3102, AR2101 Design 3 Grade 'C'; AR2102 Design 4 Grade 'C'
+AR3102A, AR2101 Design 3 Grade 'C'; AR2102 Design 4 Grade 'C'
+AR3152, Nil
+AR3721, AR1326, AR1731, AR2326, AR2723
+AR4102, AR3101 Design 5 Grade 'C'; AR3102 Design 6 Grade 'C'
+AR4104, AR3101 Design 5 Grade 'C'; AR3102 Design 6 Grade 'C'
+AR4142, Nil
+AR4223, Nil
+AR4323, Nil
+AR5011, NIL
+AR5221, Nil
+AR5321, Nil
+AR5952J, NIL
+AR5952M, Nil
+AR5952Z, NIL
+AR5953L, Nil
+AR5953N, Nil
+BFS1001, Nil
+BHD4001, Varies depending on topics of research
+BHD4001A, Varies depending on topics of research
+BHD4001B, Varies depending on topics of research
+BHD4001C, Varies depending on topics of research
+BLD3001, MNO1001 Management & Organization
+BLD3002, MNO1001 Management & Organization
+BLD3003, MNO1001 Management & Organization
+BLD3004, MNO1001 Management & Organization MNO2007 Leadership and Ethics
+BN2001, Nil
+BN2103, Stage 1 & 2 Bioengineering Students
+BN2201, BIE Stage 2 standing
+BN2203, BIE Stage 2 standing
+BN2401, MA1506 Mathematics II
+BN3401, EE2009
+BN3501, MA1506, PC1432, CN2122, ME2134 or BN2202
+BN4101R, Stage 4 standing
+BN4201, BN3201
+BN4203, BN3201
+BN4402, EG1108 or PC1432
+BN4404, Stage 3 & 4 Engineering students
+BSP1004, Nil
+BSP1004X, Nil
+BSP1005, Nil
+BSP2001, BSP1005 or BH1005 or BZ1006 or BK1008
+BSP2005, BSP2001
+BSP3001A, All foundation modules
+BSP3001B, All foundation modules
+BSP3001C, All level 1000 and 2000 foundation modules
+BSP4512, BSP2001
+CE2112, Nil
+CE2183, Nil
+CE3101, CE2 standing or higher
+CE3102, Nil
+CE3116, CE2112
+CE3132, CE2134
+CE3155, EG1109FC, EG1109
+CE3165, CE2155 Structural Mechanics and Materials
+CE4103, CE4 standing [Successful completion of relevant CE 2 and CE 3 modules which will be specified in the each project]
+CE4104, CE4 Standing
+CE4221, CE3121 Transportation Engineering
+CE4231, MA1505 and MA1506, or equivalents
+CE4247, CE3132 Water Resources Management or CE4 standing
+CE4258, CE3155
+CE4282, Nil
+CE5105, CE2112 or CE4 standing or higher
+CE5106, CE2112 or CE4 standing or higher
+CE5107, Undergraduate: CE2112 &amp; CE3116 Graduate students: Background in Soil Mechanics and Foundation Engineering
+CE5207, CE3121
+CE5308, CE5307 Wave Hydrodynamics and Physical Oceanography
+CE5313, NIL
+CE5603, Nil
+CE5604, CE2155, or CE4 standing or higher
+CE5611, CE 3165 or CE4 standing or higher
+CE5805, Nil
+CE5881, Nil
+CE5883A, CE 2134 Hydraulics and/or fluid mechanics background
+CG1108, H1 Physics or H2 Physics or ‘A’ Level Physics or PC1222 Fundamentals of Physics II
+CG2271, CG1102
+CG3204L, EE3204 Computer Communication Networks I
+CG4001, Level 4 standing
+CH1101E, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH2141 / CL2241, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH2223, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH2273, Must obtain: 1) at least a B4 for (a) Higher Chinese at GCE 'O' level, or (b) Chinese Language at GCE 'AO' level (at GCE'A' level examination); OR 2) at least a pass for (a) Chinese at GCE 'A' level, or (b) Higher Chinese at GCE 'A' level; OR 3) at least C grade for Chinese Language (H1CL) at GCE 'A' level; OR 4) at least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' level. 5) Equivalent qualifications may be accepted.
+CH2291, Nil
+CH2297 / GEK2047, NIL
+CH3223, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH3226, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH3229, Students must have obtained: 1. at least a B4 for (a) Higher Chinese at GCE ‘O’ level, or (b) Chinese Language at GCE ‘AO’ level (at GCE ‘A’ level examination); OR 2. at least a pass for (a) Chinese at GCE ‘A’ level, or (b) Higher Chinese at GCE ‘A’ level; OR 3. at least C grade for Chinese Language (H1CL) at GCE ‘A’ level; OR 4. at least a pass for (a) Chinese Language and Literature (H2CLL) at GCE ‘A’ level, or (b) Chinese Language and Literature (H3CLL) at GCE ‘A’ level. 5. Equivalent qualifications may be accepted.
+CH3248, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH3295, NIL
+CH4244, Cohort 2006 and before: Completed 80MCs including minimum 56MCs of 14 CH or CL modules. Cohort 2007 onwards: Completed 80MCs, including 28MCs in CH or CL or 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+CH4261, Cohort 2006 and before: Completed 80MCs including minimum 56MCs of 14 CH or CL modules. Cohort 2007 onwards: Completed 80MCs, including 28MCs in CH or CL, with a minimum CAP of 3.5 or be on the Honours track.
+CH4281, Cohort 2006 and before: CL3281 and completed 80MCs including minimum 56MCs of 14 CH or CL modules. Cohort 2007 onwards: CL3281 and completed 80MCs, including 28MCs in CH or CL, with a minimum CAP of 3.5 or be on the Honours track.
+CH4401, Cohort 2006 and before: (1) Complete at least 100MCs including 56MCs of CH/CL major requirements and (2) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: Completed 110MCs including 60MCs of CH/CL major requirements with a minimum CAP of 3.5.
+CH4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. Complete at least 100MCs including 56MCs of major requirement and obtain a minimum CAP of 3.2. Cohort 2007 onwards: To be offered subject to the agreement of the Supervisor and Department. Completed 100MCs, including 60MCs in CH or CL, with a minimum CAP of 3.5
+CH5225, Graduate students in Chinese Studies, or 120 MCs (or equivalent) and permission of Department
+CH5225R, Graduate students in Chinese Studies, or 120 MCs (or equivalent) and permission of Department
+CH5242, Admission to a graduate programme in Chinese Studies, or 120 MCs (or equivalent) and permission of the Department.
+CH5242R, Admission to a graduate programme in Chinese Studies, or 120 MCs (or equivalent) and permission of the Department.
+CH5660, Subject to the approval from HOD
+CH5880, Nil
+CH5880R, Nil
+CH6201, Nil
+CH6245, Graduate Students in Chinese Studies, or 120MCs (or equivalent) and permission of Department
+CH6262, Subject to the approval from HOD
+CL1101E, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL2103, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL2260, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL2281, 1) Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules; AND 2) Grade 'B4' and above in Higher Chinese (HCL) at GCE 'O' Level or Chinese (CL) at GCE 'AO' Level; OR Grade 'C' and above in Chinese Language (H1CL) at GCE 'A' Level.
+CL2291, NIL
+CL3205, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL3208, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL3211, "Students must have obtained: 1) at least a B4 for (a) Higher Chinese at GCE ‘O’ level, or (b) Chinese Language at GCE ‘AO’ level (at GCE ‘A’ level examination); OR 2) at least a pass for (a) Chinese at GCE ‘A’ level, or (b) Higher Chinese at GCE ‘A’ level; OR 3) at least C grade for Chinese Language (H1CL) at GCE ‘A’ level; OR 4) at least a pass for (a) Chinese Language and Literature (H2CLL) at GCE ‘A’ level, or (b) Chinese Language and Literature (H3CLL) at GCE ‘A’ level. 5) Equivalent qualifications may be accepted."
+CL3281, CL2280 or CL2281
+CM1121, 'A' level or H2 pass in Chemistry or equivalent or CM1417
+CM1161, 'A' level or H2 pass in Chemistry or equivalent
+CM1191, H2/A-level Chemistry or its equivalent or by permission
+CM1402, GCE ‘A’ level or H2 pass in chemistry or equivalent or CM1417
+CM1502, 'A' level pass in Chemistry or equivalent
+CM2101, CM1131 or CM1401 or by department approval.
+CM2111, CM1111
+CM2121, CM1121 or by department approval
+CM2142, CM1131 or FST1101 or CM1401 by department approval
+CM2161, CM1161
+CM2191, CM1191 or by department approval.
+CM2192, CM1191 or by department approval.
+CM2192A, CM1191 or FST1101 or by department approval
+CM2288, Nil
+CM2289, Nil
+CM3181, Nil
+CM3193, CM3181 or by permission
+CM3194, CM3181 or by permission
+CM3211, CM2111
+CM3222, CM2121
+CM3225, CM2121
+CM3232, CM2132 or CM2167
+CM3251, SP2251
+CM3253, CM1131 and CM2111
+CM3261, CM3241 or CM2142 or CM2166 or by permission
+CM3262, CM2263
+CM3264, CM1121
+CM3265, CM1121
+CM3288, Nil
+CM3289, Nil
+CM3291, CM2111, CM2121 and CM2102, or by permission
+CM3292, CM2132, CM2142 and CM2101, or by permission
+CM3295, CM2142
+CM3296, CM2132, CM2167 or departmental approval
+CM3301, GEK1542
+CM3302, Nil
+CM3303, Nil
+CM3312, SP1001 Career Planning & Preparation or NCC1001 Headstart Module (A Career Development Programme) or NCC1000 Stepup Module (A Career Development Programme); students must have completed 3 regular semesters of study, have declared Chemistry as first major and have completed a minimum of 32 MCs in Chemistry major at time of application.
+CM4199A, At least an overall CAP of 3.50, on fulfillment of 100MC or more; and major requirements under the B.Sc. programme. ( Only for students entering NUS in or after 2002 )
+CM4199B, At least an overall CAP of 3.50, on fulfillment of 100MC or more; and major requirements under the B.Sc. programme. (Only for students entering NUS in or after 2002 )
+CM4201, Nil
+CM4214, CM3211 or CM3212
+CM4236, CM2101 and CM2132 or CM2165 and CM2167
+CM4241, CM3242 or by permission
+CM4242, CM3242 or by permission
+CM4268, For Applied Chemistry Students: Polymer Chemistry II (CM3265). For Chemistry students: Organic Reaction Mechanisms (CM3221).
+CM4269, (CM2132 or CM2167) and (CM3221 or CM3264)
+CM4271, CM2121 and CM3225
+CM4274, CM2121
+CM5225, CM4222 Catalysis
+CM5237, Nil
+CM5245, Nil
+CM5262, By permission
+CN1111, H2 Mathematics, H2 Chemistry and H2 Physics (or PC1221 Fundamentals of Physics I) or equivalent
+CN1111E, NIL
+CN2108, CN2121, CN2122, LSM1401
+CN2116, CN111FC, CN1111, Co-req : CN2125
+CN2116E, TC1101/ CN1111E
+CN2121, CN1111FC, CM1502, CN1111
+CN2122, MA1505, MA1506
+CN2125, CN2122
+CN2125E, TC2112/ CN2122E
+CN3108, CN2108, CN2116, CN2125, CN3124
+CN3109, CN3121, CN3132
+CN3124, CN2122
+CN3124E, TC2112/ CN2122E
+CN3132, CN1111FC, CN1111, CN2125
+CN3135, CN2121 Chemical Engineering Thermodynamics CN2122 Fluid Mechanics
+CN3421, CN1111FC, MA1505, MA1506, CN1111
+CN4118E, TC1401 & TC1422 & CN1111E & TC1402/ TC2401 & TC2421 & CN2121E & CN2122E & CN2116E & CN2125E & CN3124E & CN3421E & CN3121E & CN3132E & CN4111E/CN3135E
+CN4118R, CN3108 and at least 4 of the 5 core modules: CN3121, CN3124, CN3132, CN3135 and CN3421, or approved by the Head of the Department
+CN4121, CN2116, CN3124, CN3132, CN3135, CN3421 and EG2401
+CN4122, CN2116 Chemical Kinetics and Reactor Design CN2121 Chemical Engineering Thermodynamics CN3124 Particle Technology CN3132 Separation Processes
+CN4123E, CN3135E Process Safety, Health and Environment CN3421E Process Modelling & Numerical Simulation CN4122E Process Synthesis and Simulation TG2415 Ethics in Engineering
+CN4201R, CM1501, CN2116, CN3132
+CN4203R, NIL
+CN4208E, TC2106 / CN2116E & TC2112 / CN2122E
+CN4210E, Nil
+CN4223R, MLE1101 or EE2004 or EE3431C (MICROELECTRONICS MATERIALS AND DEVICES)
+CN4227E, TC3111/ CN3121E
+CN4227R, CN3121
+CN4238R, CN1111FC, CN1111, CN3421 or equivalent
+CN4240R, LSM1401, CN2116
+CN4246R, CN2116
+CN4248, CN2116 and CN3132
+CN5111, Nil
+CN5173, CN3132
+CP3101A, CS2103 or its equivalent
+CP3101B, CS1020 or its equivalent
+CP3106, [(CS2102 or CS2102S) and CS2105 and read (CS3214 or CS3215)] or IS3102 or IS4102 or CS3201 or CS3281 or CS4201 or CS4203
+CP3108A, None
+CP3108B, None
+CP3109, Nil
+CP3200, Students can only take this module after completing 70 MCs. Student Selection process will be enforced
+CP3201, Students can only take this module after completing 70 MCs
+CP3208, SoC students who have passed at least 60 MCs and with approval from respective department.
+CP3209, CS2309
+CP3880, ([IS2101 or CG1413] and [CS2103 or IS2103 or IS2150 ]) and preferably completed [IS3102 or (CS3201 and CS3202 ) or (CS3281 and CS3282) or IS4102 or (CS4201 and CS4202) or (CS4203 and CS4204 ) or CG2001].
+CP4101, Attain at least 70% of the MC requirement for the respective degree
+CS1010, Nil
+CS1010E, nil
+CS1010FC, Nil
+CS1010R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS1010S, Nil
+CS1020, CS1010 Programming Methodology
+CS1020E, CS1010E or its equivalent
+CS1231, A-level Mathematics or H2 Mathematics or MA1301 or MA1301FC
+CS1231R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS2010, CS1020 or CS1020E or CG1103 Data Structures and Algorithms I
+CS2020, Obtain a grade of at least A- in either CS1010 or CS1101S or CS1010S or CS1010FC or their equivalents
+CS2100, CS1010 or its equivalent
+CS2100R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS2101, Students have to complete ES1000 and/or ES1102 (if required to take the module/s) before reading this module.
+CS2102, (CS1020 or its equivalent) and (CS1231 or MA1100)
+CS2102R, (CS1020 or its equivalent) and (CS1231 or MA1100)
+CS2103, (CS1020 or its equivalent)
+CS2103R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS2103T, For SoC students only. CS1020 or its equivalent.
+CS2104R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS2105, CS1020 or equivalent
+CS2105R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS2106, CS2100 or EE2007 or EE2024
+CS2106R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS2107, CS1010 or its equivalence
+CS3103, (CS2105 Introduction to Computer Networks or EE3204 Computer Communication Networks I) and co-read CS3103L Computer Networks Laboratory
+CS3103L, Co-read CS3103
+CS3201, CS2103 and (CS2301 or IS2101)
+CS3202, CS3201
+CS3210, CS2100 or CG2007
+CS3211, CS2106 or CG2271
+CS3217, CS2103 or with special approval from instructor. Students will submit personal statements to apply for a place in the course instead of bidding through the CORS system.
+CS3218, (MA1521 Calculus for Computing and MA1101R Linear Algebra I and CS1020 Data Structures and Algorithms I) or their equivalents.
+CS3223, (CS2010 or its equivalent) and (CS2102 or CS2102S)
+CS3225, (CS2010 or its equivalent) and (CS2220 or LSM2104)
+CS3230, (CS2010 or its equivalent) and (CS1231 or MA1100)
+CS3230R, Co-read host module. Student selection process is enforced.
+CS3233, At least grade 'A-' in (CS2010 or its equivalent) or special permission.
+CS3233R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS3234, CS1231 or MA1100; Programming experience is preferred.
+CS3240, SOC students: CS1020 or its equivalent; Other students:NM2217 or NM3209 or the prerequisites for SoC students
+CS3241, CS1020 or its equivalent
+CS3241R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS3242, CS3241, PC1221, MA1521and MA1101R
+CS3243, (CS2010 or its equivalent) and (CS1231 or MA1100).
+CS3243R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS3245, CS2010 Data Structures and Algorithms II or its equivalent
+CS3247, CS3241 and PC1221
+CS3249, CS2103 or CS2103T Software Engineering
+CS3282, CS3281 and have passed at least two primary modules in a CS focus area. Student selection process will be enforced.
+CS3284, CS3283 Media Technology Project I
+CS3343, SoC students: CS1020 or its equivalent; Other students: NM2208 or NM2217 or NM3209 or the prerequisites for SoC students
+CS3882, Read and passed 80 MCs of modules. Students from Engineering, Science, and FASS with sufficient computing background and have read and passed 80 MCs of module may also apply to read. Student selection process will be enforced.
+CS4215, (CS2010 Data Structures and Algorithms II or its equivalent) and CS2104 Programming Language Concepts
+CS4218, CS2103 or CS2103T Software Engineering
+CS4220, CS2220 or LSM2104
+CS4222, CS3103 or CG3204L
+CS4231, CS3230 Design and Analysis of Algorithms or CS3210 Parallel Computing
+CS4236, CS2107 Introduction to Information & System Security and CS3230 Design and Analysis of Algorithm.
+CS4242, CS3245 Information Retrieval or CS3246 Hypermedia and WWW
+CS4243R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS4244, CS3243
+CS4246R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS4247, CS3241
+CS4248R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS4340, CS3343 and (CS4243 or CS4247 or CS4342)
+CS4347, (CS1020 Data Structures and Algorithms I or its equivalent), (MA1505 Mathematics I or MA1521 Calculus for Computing or MA1102R Calculus) and (MA1101R Linear Algebra I or MA1506 Mathematics II).
+CS4880, Students in their 3rd year of study in science, technology or business
+CS5214, CS3212 or CS4212
+CS5218, CS3212 or CS4212.
+CS5222, CS2106 and (CS3220 or CS4223)
+CS5230, CS3231
+CS5231, CS1231, CS2105, CS2106.
+CS5232, CS1231 or CS3234
+CS5233, (CS1020 or its equivalent) and (MA1102R or MA1505 or MA1505C or MA1521) and (MA1101R or MA1506) and (ST1232 or ST2131 or ST2334)
+CS5241, (CS1020 or its equivalent) and CS1231 and (MA1102R or MA1505 or MA1521) and (MA1101R or MA1506)
+CS5272, (CS1020 or its equivalent) and (CS1104 or CS2100)
+CS5331, CS3235 Computer Security
+CS5342, CS4341 or CS3246
+CZ5226, Departmental approval
+DSC1007, NIL
+DSC1007X, NIL
+DSC2006, Nil
+DSC2008, NIL
+DSC3201, DSC2006 or BH2006 or BZ2003 or BK2006
+DSC3202, DSC2006 or BH2006 or BZ2003 or BK2006
+DSC3203, DSC2006 or BH2006 or BZ2003 or BK2006
+DSC3213, Nil
+DSC3216, ST1131A/ST1131/ST1232/MA2216/ST2131/ST2334/EE2003/ME2491
+DSC3222M, Student should have completed all levels 1000 and 2000 foundation modules.
+DSC3224, DSC1007
+DSC3226, DSC2006 Operations Management DSC3201 Supply Chain Management DSC3202 Purchasing and Materials Management
+DSC3229, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA/BBA(Acc) curriculum.
+DSC4211C, Nil
+DSC4211G, DSC2006 Operations Management
+DSC4219, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA/BBA(Acc) curriculum.
+DSC5121, NIL
+DSC5211A, Knowledge in Operations Management and Supply Chain Management Knowledge of Calculus and Probability
+EC1101E, Nil
+EC1301, Nil
+EC2101, EC1101E or EC1301/EC1310 or USSE01 or USE2301 or BSP1005/BH1005/BZ1006
+EC2102, EC1101E or EC1301/EC1310 or USSE01 or USE2301 or BSP1005 or BH2001/BZ2001
+EC2104, NIL
+EC2303, NIL
+EC2373 / SSA2220, NIL
+EC2374, EC1101E or EC1301/EC1310 or BSP1005 or USSE01 or USE2301
+EC3101, EC2101/EC2151
+EC3102, EC2102/EC2152/BSP2001 and EC2101/EC2151
+EC3303, (EC1101E or EC1301/EC1310 or BSP1005) and (EC2303/EC2231/DSC1007 or any ST or SA module or MQ2205 or GM2303 or MA2216 or BZ1008/BK1004)
+EC3304, EC3303/EC3231 or SA3101 or ST3131
+EC3312, EC2101/EC2151 and a module on probability (BK1004, EC2303/EC2231, GM2303, MA2216, MQ2205, any SA module, any ST module, or their equivalent).
+EC3322, EC2101/EC2151
+EC3332, EC2102/EC2152 or EC1101E or EC1301/EC1310 or USSE01 or USE2301
+EC3333, EC2101/EC2151 and EC2102/EC2152/BSP2001
+EC3341, EC2101/EC2151 and EC2102/EC2152/BSP2001
+EC3351, EC2101/EC2151
+EC3352, Minimum CAP of 4.0 and minimum average grade point for EC2101 Microeconomic Analysis 1 and EC2102 Macroeconomic Analysis 1 together of 4.0.
+EC3361, EC2101/EC2151
+EC3371, EC2101/EC2151
+EC3375, EC1101E or EC1301
+EC3376, EC3341 International Economics I
+EC3377, EC2101 Microeconomic Analysis I and EC2102 Macroeconomic Analysis I.
+EC3381, EC2101/EC2151
+EC3384, EC2101/EC2151
+EC3394, EC2101 Microeconomic AnalysisI EC2102 Macroeconomic AnalysisI and EC3303 Econometrics I
+EC3396, EC2102/EC2152/BSP2001, EC3101/EC3151 and ((EC2104 or any MA module that is not MA1301 or MA1301FC or MA1311 or MA1312 or MA1421) or EC3311/EC3221).
+EC3551, Students must: have declared a Major, completed a minimum of 24 MC in that Major, and have a CAP of at least 3.5.
+EC3880B, EC2101 and EC2102
+EC4101, Cohort 2006 and before: Min avg grade point for EC3101/EC3151 and EC3102/EC3152 together of 4.0. Note: If student do not have the current pre-requisites for EC4101/EC4151 and EC4102/EC4152, but have: 1. passed at least 14 EC modules (or 56MCs) (inclusive of EC3101/EC3151 and EC3102/EC3152), and; 2. obtained an SJAP (avg grade of all EC modules) of at least 3.5, then student may submit an appeal for the pre-requisite waiver using CORS. Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a min CAP of 3.5 or be on the Honours track. Min avg grade point for EC3101/EC3151 and EC3102/EC3152 together of 4.0. Note: If student do not have the current pre-requisites for EC4101/EC4151 and EC4102/EC4152, but have: 1. passed at least 14 EC modules (or 56MCs) (inclusive of EC3101/EC3151 and EC3102/EC3152), and; 2. obtained an SJAP (avg grade of all EC modules) of at least 3.5, then student may submit an appeal for the pre-requisite waiver using CORS.
+EC4102, Cohort 2006 and before: Min avg grade point for EC3101/EC3151 and EC3102/EC3152 together of 4.0. Note: If student do not have the current pre-requisites for EC4101/EC4151 and EC4102/EC4152, but have: 1. passed at least 14 EC modules (or 56MCs) (inclusive of EC3101/EC3151 and EC3102/EC3152), and; 2. obtained an SJAP (avg grade of all EC modules) of at least 3.5, then student may submit an appeal for the pre-requisite waiver using CORS. Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a min CAP of 3.5 or be on the Honours track. Min avg grade point for EC3101/EC3151 and EC3102/EC3152 together of 4.0. Note: If student do not have the current pre-requisites for EC4101/EC4151 and EC4102/EC4152, but have: 1. passed at least 14 EC modules (or 56MCs) (inclusive of EC3101/EC3151 and EC3102/EC3152), and; 2. obtained an SJAP (avg grade of all EC modules) of at least 3.5, then student may submit an appeal for the pre-requisite waiver using CORS.
+EC4324, Completed 80MCs including 28MCs in EC, with a minimum CAP of 3.5 or be on the Honours track and EC3101/EC3151, EC3102/EC3152 and (EC3312/ EC3322)
+EC4332, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and EC3332/EC3224 Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152 and EC3332/EC3224
+EC4333, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and EC3333/EC3209 Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152, and [EC3333/EC3209 or FNA3102/FIN3102 or FNA2004/FIN2004/FIN2004X]
+EC4341, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and EC3341/EC3205 Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152 and EC3341/EC3205
+EC4351, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and EC3351/EC3206. Cohort 2007 onwards: Completed 80MCs, including 28MCsin EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152, EC3303, and EC3351/EC3206.
+EC4361, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and EC3361/EC3208. Cohort 2007 onwards: Completed 80MCs, including 28MCsin EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152, EC3303, and EC3361/EC3208.
+EC4371, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and EC3371/EC3223. Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC or 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152, EC3303 and EC3371/EC3223.
+EC4394, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and (EC3303/EC3231 or ST3131 or SA3101) Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152 and (EC3303/EC3231or ST3131 or SA3101)
+EC4401, Cohort 2001: [Passed EC4101/EC4151 or EC4102/EC4152] and must have completed a minimum of 100 MC with CAP = 4.0 or better. Cohort 2002 & 2003: (1) Passed EC4101/EC4151 or EC4102/EC4152 and; (2) Complete at least 100MCs and; (3) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP (based on at least 56MCs of EC major requirements) of 4.0 and CAP of 3.5. Cohort 2004 to 2006: (1) Passed EC4101/EC4151 or EC4102/EC4152 and; (2) Complete at least 100MCs including at least 56MCs of EC major requirements and; (3) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: (1) Passed EC4101/EC4151 or EC4102/EC4152 and; (2) Completed 110MCs including 60MCs of EC major requirements with a minimum SJAP of 4.0 and CAP of 3.5.
+EC4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. [Passed EC4101/EC4151 or EC4102/EC4152] and complete at least 100MCs including 56MCs of major requirements and obtain a minimum CAP of 3.2. Cohort 2007 onwards: To be offered subject to the agreement of the Supervisor and Department. Completed 100MCs, with 60MCs in EC that include EC4101 or EC4102, and with CAP of at least 3.5.
+EC4880, Cohort 2006 and before: EC3101/EC3151 and EC3102/EC3152 Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151 and EC3102/EC3152
+EC5326R, Nil
+EC5332R, Nil
+EE1003, A-level Math, and A-level Physics
+EE2011, MA1505 and MA1506
+EE2011E, TE2002
+EE2012, MA1505 and MA1506
+EE2020, A-level Physics or EE1002 / CG1108 / EG1108
+EE2020E, Nil
+EE2021, EE1002/EG1108 /CG1108
+EE2021E, Nil
+EE2022, EE1002/EG1108/CG1108
+EE2023, MA1506 Mathematics II
+EE2024, EE2020 Digital Fundamentals
+EE2031, EE2021 Devices and Circuits
+EE2032, EE2011 Engineering Electromagnetism and EE2023 Signals and Systems.
+EE3013C, EG1108/CG1108 / EE1002
+EE3013E, EE2021E and TG1401
+EE3031, Nil
+EE3031E, Level 3 standing
+EE3032, EE2024 Programming for Computer Interfaces
+EE3104C, EE2011
+EE3131C, EE2023 Signals & Systems
+EE3304, EE2010 EE3331C Feedback Control Systems
+EE3331C, EE2023 Signals and Systems
+EE3407, EE2021
+EE3407E, EE2005E or EE2021E
+EE3431C, Nil
+EE3431E, Nil
+EE3501C, EG1108/CG1108 EE2022 Electrical Energy Systems
+EE3501E, EE2005E or EE2021E
+EE4001, Level 4 Standing
+EE4104, EE3104C
+EE4110, EE3104C
+EE4112E, EE2011E
+EE4114, EE3131C
+EE4210, EE3204 or CS2105
+EE4210E, EE3204E or CS2105
+EE4212, EE3206 or EE3731C
+EE4213, EE3206
+EE4218, EE2020
+EE4302, EE3331C
+EE4306, EE3331C
+EE4307, EE3331C
+EE4401, EE3431C or equivalent
+EE4408, EE2021
+EE4410A, EE3408C
+EE4415, EE2020
+EE4415E, EE2006E or EE2020E
+EE4431, Either EE3431C Microelectronics Materials & Devices or EE3406 Microelectronics Materials
+EE4432, EE2021 Devices and circuits
+EE4434, EE2020 Digital Fundamentals EE2021 Devices and Circuits
+EE4509, EE2021 or equivalent
+EE4511, EE2022
+EE4603, EE2023
+EE4605, EE3731C
+EE5903, Nil
+EE5904R, Nil
+EE5907R, EE2012 and CS1101C (Applicable to undergraduate students only)
+EG1108, H1 Physics or H2 Physics or A Level Physics or PC1222 Fundamentals of Physics II
+EG1109, 'A Level Math / H2 Math or equivalent
+EG1310, EG1108 Electrical Engineering or EE1002 Introduction to Circuits and Systems
+EG1603, Nil
+EG2201A, nil
+EG2401, ES1501A, ES1501B, ES1501C, EG1413/ES1531 and Year 2 status
+EG2603A, Nil
+EG2604, Nil
+EG2605, Nil
+EG2606A, Nil
+EG2606B, Nil
+EG3301, Year 3
+EG3601, Nil
+EG3602, Nil
+EG4301, Year 4
+EL1101E / GEK1011, Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules.
+EL2201, EL1101E or GEK1011
+EL2211, EL1101E or GEK1011
+EL3202, EL2102 or EL2202
+EL3208, EL1101E or GEK1011
+EL3209, EL1101E or GEK1011. Exposure to some linguistics is helpful but not essential.
+EL3252, EL1101E or GEK1011
+EL3258, EL1101E or GEK1011, and EL2251
+EL3880F, EL1101E or GEK1011
+EL4216, Completed 80 MCs, including 28 MCs in EL, with a minimum CAP of 3.5 or be on the Honours track.
+EL4254, Completed 80 MCs, including 28 MCs in EL or 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+EL4255, Completed 80 MCs, including 28 MCs in EL, with a minimum CAP of 3.5 or be on the Honours track.
+EL4401, Completed 110 MCs, including 60 MCs of EL major requirements with a minimum CAP of 3.5.
+EL4660, To be offered subject to the agreement of the Supervisor and Department. Completed 100 MCs, including 60 MCs in EL, with a minimum CAP of 3.5.
+EL4880A, Completed 80 MCs, including 28 MCs in EL, with a minimum CAP of 3.5 or be on the Honours track.
+EL5250R, Must be registered as a Graduate student in the university or with the approval of the Department.
+EL5252R, Nil
+EL5253R, Must be registered as a Graduate student in the university or with the approval of the Department.
+EL5270R, Must be registered as a Graduate Student in the University or with the approval of the Department
+EL5880BR, Must be registered as a Graduate student in the university or with the approval of the Department
+EM1201, Open only to students enrolled in the Bachelor of Music Programme from AY2009/10 onwards. Students who score Band C in the YSTCM English Placement Test or students who have passed Foundation English Course 2 are required to read this module.
+EM1202, Open only to students enrolled in the Bachelor of Music programme from AY2009/10 onwards. Students who score Band B in the YSTCM English Placement Test or students who have passed English for Academic Purposes (Music) 1 are required to read this module.
+EN1101E / GEK1000, Exempted from or passed the NUS Qualifying English Test, or exempted from further CELC Remedial English modules.
+EN2201, EN1101E or EN2101E or GEK1000
+EN2202, (1) EN1101E or EN2101E or GEK1000, and (2) EN majors.
+EN2203, Nil
+EN2271, EL1101E or EN1101E or EN2101E or TS1101E or GEK1011 or GEK1000 or GEM1003. This module is selective, and enrolment is by application.
+EN3222, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3229, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3241, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3249, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3261 / EU3217, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3265, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3880A, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: EN2203 or EN2204.
+EN4223, Completed 80 MCs, including 28 MCs in English Literature, with a minimum CAP of 3.5 or be on the Honours track.
+EN4226, Completed 80 MCs including 28 MCs in English Literature, with a minimum CAP of 3.5 or be on the Honours track.
+EN4232 / AS4232, Completed 80 MCs including 28 MCs in English Literature, with a minimum CAP of 3.5 or be on the Honours track.
+EN4247, Completed 80MCs, including 28MCs in EN, with a minimum CAP of 3.5 or be on the Honours track.
+EN4262, Completed 80 MCs including 28 MCs in English Literature, with a minimum CAP of 3.5 or be on the Honours track.
+EN4401, Completed 110MCs including 60MCs of EN major requirements witha minimum CAP of 3.5.
+EN4660, To be offered subject to the agreement of the Supervisor and Department. Completed 100MCs, including 60MCs in EN, with a minimum CAP of 3.5.
+EN5242R, Must be registered as a Graduate student in the university or with the approval of the Department.
+EN5247R, Nil
+EN5253R, Must be registered as a Graduate student in the university or with the approval of the Department.
+EN5880AR, Must be registered as a Graduate student with the university or with the approval of the department.
+EN5883R, Must be registered as a Graduate Student in the University or with the approval of the Department
+ENV2102, For students in the Environmental Studies Programme.
+ENV3101, ENV2101
+ES1000, Placement through the Qualifying English Test.
+ES1102, Placement through the Qualifying English Test or a pass in ES1000.
+ES1501A, 1. Students who are required to take ES1000 Basic English and/or ES1102 English for Academic Purposes must pass the modules before they are allowed to read this module. 2. FOE students should have obtained an A grade in the Singapore-Cambridge GCE ‘A’ level General Paper in order to be eligible for this module. 3. Global Engineering Programme (GEP) and Double Degree Programme (DDP) students who obtained a minimum B grade in the Singapore-Cambridge GCE ‘A’ level General Paper are also eligible to read ES1501%.
+ES1501Q, Students who are required to take ES1000 Basic English and/or ES1102 English for Academic Purposes must pass them before they are allowed to read this module. FOE students should have obtained an A grade in the Singapore-Cambridge GCE ‘A’ level General Paper in order to be eligible for this module. Global Engineering Programme (GEP) and Double Degree Programme (DDP) students who obtained a minimum B grade in the Singapore-Cambridge GCE ‘A’ level General Paper are also eligible for this module.
+ES1531, Students who are required to read ES1000 and/or EAP modules ES1102 must pass it/them before taking ES1531.
+ES1541, If students are required to take ES1000 (Basic English) and ES1102 (English for Academic Purposes), they must complete them before taking ES1541.
+ES2002, Students who are required to read ES1000 must pass it before taking ES2002.
+ES2007S, Students who are required to read ES1000 and/or EAP modules ES1102 must pass it/them before taking ES2007S.
+ES2331, If students are required to take ES1000 (Basic English) and/or ES1102 (English for Academic Purposes), they must complete and pass these modules before taking ES2331.
+ESE2401, Nil
+ESE3001, NIL
+ESE4403, ESE4 standing or higher
+ESE4405, ESE3401 or ESE3001
+ESE4407, ESE3101, ESE3201 and ESE3401
+ESE4502, ESE4 standing
+ESE5401, Water Science & Technology or ESE4 standing or higher
+ESE5405, ESE4 standing or higher
+ESE5602, ESE4 standing or higher
+ESP1104, 'A' level Physics or equivalent
+ESP2110, ESP1104 &amp; ESP1107
+ESP3903, ESP3902 Major Design Project I
+ESP4402, ME3122 or CN2125
+ESP4901, Level 4 standing
+EU1101E, NIL
+EU3228, Nil
+EU4401, Cohort 2006 and before: (i) Complete at least 100MCs including 56MCs of EU/LA [French or German]/recognised modules and (ii) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. For EU majors only. Cohort 2007 onwards: Completed 110MCs including 60MCs of EU major requirements with a minimum CAP of 3.5.
+FDP2001, A-level mathematics
+FDP2002, A-level Physics
+FIN2004, Students must have completed BK1003 or BZ1002 or BH1002 or FNA1002/ACC1002 or FNA1002X/ACC1002X or FNA1002E or BH1002E or EC3212 or EG1422 before they are allowed to take FIN2004.
+FIN2004X, Students must have completed BK1003 or BZ1002 or BH1002 or FNA1002/ACC1002 or FNA1002X/ACC1002X or FNA1002E or BH1002E or EC3212 or EG1422 before they are allowed to take FIN2004.
+FIN3101A, FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004
+FIN3102A, FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004
+FIN3102B, FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004
+FIN3103A, FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004
+FIN3103B, FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004
+FIN3113, FNA1002 or FNA1002X or ACC1002 or ACC1002X or BH1002 or BZ1002 or BK1003 or FNA1002E or BH1002E
+FIN3116, FNA3102 or FNA3102A or FNA3102B or FNA3102C or FIN3102 or FIN3102A or FIN3102B or FIN3102C
+FIN3117, FNA2004/FIN2004 and FNA3102/FIN3102
+FIN3118, FNA3101 or FIN3101
+FIN3129, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA/BBA(Acc) curriculum.
+FIN3130, ACC1002 Financial Accounting • FIN2004 Finance • FIN3102 Investment Analysis and Portfolio Management • An aptitude with mathematics and programming would be a plus.
+FIN3131, FNA3102 or FIN3102 or FIN3102A or FIN3102B or FIN3102C
+FIN4112G, FIN3101 Corporate Finance FIN3102 Investment Analysis and Portfolio Management FIN3103 Financial Markets
+FIN4112H, - FIN3101 Corporate Finance - FIN3102 Investment Analysis and Portfolio Management - FIN3103 Financial Markets
+FIN4112K, FIN3102 Investment Analysis and Portfolio Management
+FIN4113, FIN3101% and ST1131A
+FIN4116, FIN2004, FIN3101
+FIN4119, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA/BBA(Acc) curriculum.
+FMA1201J, NIL
+FMA1201P, NIL
+FMA1201Q, NIL
+FMA1201R, Nil
+FMA1203F, Nil
+FMA1203H, NIL
+FMA1206M, Nil
+FMC1201, Nil
+FMC1203, Nil
+FMD1201, NIL
+FMS1201D, Nil
+FMS1202C, Nil
+FMS1203S, Nil
+FMS1204P, Nil
+FMS1204S, Nil
+FMS1205M, Nil
+FMS1205P, Nil
+FMS1207C, Nil
+FMS1207P, Nil
+FMS1209C, Nil
+FMS1209M, Nil
+FMS1210C, Nil
+FMS1210M, Nil
+FMS1215B, Nil
+FMS1221B, Nil
+FMS1224B, NIL
+FSP4003, Nil
+FST2102A, CM1191 and FST1101
+FST2106, FST1101 and LSM1101
+FST2201, LSM1101
+FST2288, By permission.
+FST2289, FST2288, and by permission
+FST3181, Food Science & Technology Major
+FST3201, Food Science & Technology Major
+FST3288, By permission.
+FST3289, FST3288, and by permission.
+FST4102, FST3103
+FST4103, FST3104
+FST4199, At least an overall CAP of 3.50, on fulfillment of 100MC or more; and major requirements under the B.Appl.Sc. programme. Food Science and Technology Major.
+FST4202, FST3102 and LSM2101
+FST5203, FST3101 or LSM3232 or by permission”
+GE1101E / GEK1001, Nil
+GE2101, NIL
+GE2202, NIL
+GE2206, NIL
+GE2218, NIL
+GE2220, NIL
+GE3204, NIL
+GE3206, NIL
+GE3216, GE2215
+GE3221, Nil
+GE3240, Nil
+GE3242, Nil
+GE3243, GE3880A Topics in Petroleum Geoscience or GE3244 Fundamentals in Petroleum Geoscience (This is the proposed regularised module code of the existing GE3880A Topics in Petroleum Geoscience)
+GE3550A, The GISIM is for Geography majors who are taking/ intend to declare GIS minor, subject to the specific requirements of the hiring company or government agency. Students must have completed GE2215 Introduction to Geographic Information Systems, before taking this module. Some companies may also require students to pass GE2227 and/ or GE3238.
+GE3550B, Students should: 1) have completed a minimum of 24 MCs in Geography; and 2) have declared Geography as their major
+GE3551, Students must: have declared a Major, completed a minimum of 24 MC in that Major, and have a CAP of at least 3.5.
+GE4202, Cohort 2006 and before: Completed at least 80MCs and for GE and SN majors. Cohort 2007 onwards: Completed at least 80MCs, including 28MCs in GE, or 28MCs in SN, with a minimum CAP of 3.5 or be on the Honours Track. For GL: Must have read and passed GE1101E and at least one of the following modules: GE2202, GE3201 and GE3238 and Completed at least 80MCs, including 28 MCs in GL/GL recognized non-language modules with a minimum CAP of 3.5 or be on the Honours Track.
+GE4207, Cohort 2006 and before: Completed at least 80MCs and for GE majors only. Must have read and passed GE1101E or at least one of the following modules: GE2219, GE2220, GE2228, GE2229, GE3221, and GE3227. Cohort 2007 onwards: Must have read and passed GE1101E or at least one of the following modules: GE2219, GE2220, GE2228, GE2229, GE3221 and GE3227. Completed at least 80MCs, including 28MCs in GE, with a minimum CAP of 3.5 or be on the Honours Track. For GL: Must have read and passed GE1101E and at least one of the following modules: GE2220, GE2228, GE2229, GE3221, GE3223 and GE3231 and Completed at least 80MCs, including 28 MCs in GL/GL recognised non-language modules with a minimum CAP of 3.5 or be on the Honours Track.
+GE4211, Cohort 2006 and before: Completed at least 80MCs and for GE majors only. Must have read and passed GE1101E or at least one of the following modules: GE2219, GE2220, GE2228, GE2229, GE3221, and GE3227. Cohort 2007 onwards: Must have read and passed GE1101 or at least one of the following modules: GE2219, GE2220, GE2228 GE2229, GE3221 and GE3227. Completed at least 80MCs, including 28MCs in GE, with a minimum CAP of 3.5 or be on the Honours Track. For GL: Must have read and passed GE1101E and at least one of the following modules: GE2220, GE2228, GE2229, and GE3221 and Completed at least 80MCs, including 28 MCs in GL/GL recognised non-language modules with a minimum CAP of 3.5 or be on the Honours Track.
+GE4218, Cohort 2006 and before: Completed at least 80MCs and for GE majors only. Cohort 2007 onwards: Completed at least 80MCs, including 28MCs in GE, with a minimum CAP of 3.5 or be on the Honours Track.
+GE4401, Cohort 2006 and before: Completed at least 100MCs including 56MCs of GE major requirements; and obtained a minimum CAP of 4.0 or minimum SJAP of 4.0 and CAP of 3.5. Cohorts 2007 and 2008: Completed 110MCs including 60MCs of GE major requirements with a minimum CAP of 3.5. Cohort 2009 onwards: Completed 110MCs including 60MCs of GE major requirements with a minimum CAP of 3.5. ¿ GE3240 Geographical Research: Developing Ideas
+GE4660, Cohort 2006 and before: Completed at least 100MC including 56MC of major requirements and obtain a minimum CAP of 3.2. Cohort 2007 onwards: Completed 100MCs, including 60MCs in GE, with a minimum CAP of 3.5.
+GE5211, Nil
+GE5212, Nil
+GE5660, Nil
+GE6216, NIL
+GE6660, Nil
+GE6770, Nil
+GEK1012, Nil
+GEK1022, Nil
+GEK1029T, NIL
+GEK1048, NIL
+GEK1054, Nil
+GEK1055, NIL
+GEK1056, Nil
+GEK1058, NIL
+GEK1059, Nil
+GEK1062, This module will be taught in English. There is a basic requirement of CLB. We hope to invite experts to give guest-lectures in their field of interest. If this is done in Chinese, translation will be provided.
+GEK1064, Nil
+GEK1066, Nil
+GEK1501, Nil
+GEK1505, Nil
+GEK1508 / PC1325, NIL
+GEK1509, Nil
+GEK1510 / PC1323, Nil
+GEK1513, basic knowledge of mathematics and physics at the GCE O-level.
+GEK1515, NIL
+GEK1519 / PC1327, Nil
+GEK1520 / PC1322, Nil
+GEK1522, Nil
+GEK1522T, NIL
+GEK1523, Nil
+GEK1524, O-level in Physics or Physical Sciences
+GEK1527, Nil
+GEK1531, Nil
+GEK1536, Nil
+GEK1538, Nil
+GEK1540, None
+GEK1544, Nil
+GEK1547, Nil
+GEK1548, Nil
+GEK1900, NIL
+GEK2001 / SSA2202, Nil
+GEK2005, NIL
+GEK2013, NIL
+GEK2042, Nil
+GEK2044, Nil
+GEK2506, Nil
+GEK2508, A-Level Physics or Understanding the Universe (GEK1520/PC1322) or Einstein’s Universe & Quantum Weirdness (GEK1508/PC1325)
+GEM1004FC, Nil
+GEM1023, Nil
+GEM1033, Nil
+GEM1035, Nil
+GEM1036, NIL
+GEM1501, Nil
+GEM1536, NIL
+GEM1537, Nil
+GEM1902A, Nil
+GEM1902E, Nil
+GEM1902G, Nil
+GEM1902M, Nil
+GEM1902N, Nil
+GEM1902S, NIL
+GEM1904, Nil
+GEM1908, Nil
+GEM1909, Nil
+GEM1912B, NIL
+GEM1912D, Nil
+GEM1915FC, Nil
+GEM1916A, Nil
+GEM2022, NIL
+GEM2027, NIL
+GEM2509, A-level Mathematics
+GEM2900, nil
+GEM2901, nil
+GEM2903, N/A
+GEM2904, N/A
+GEM3901, Ideally, a student should have completed the University Town Residential Programme of five modules before embarking on this UROP. However, due to the diverse student population at Tembusu, the prerequisite is that students should have completed at least one Senior Seminar at the College, as well as at least one Ideas and Exposition module or a faculty-based writing course. This ensures that the student has gained familiarity with the ways of working and norms for academic engagement at Tembusu College and has had some training in academic writing. Besides preparing the student, these prerequisites allow the College to make an assessment regarding the student’s suitability for a UROP and potential to benefit from it. Approval for any particular UROP needs to be secured from the College through the Director of Studies.
+GEM3902, Nil
+GL1101E, Nil
+GL2102, GL1101E
+GL2103, GL1101E
+HR2002, For Engineering students only
+HY1101E, NIL
+HY2216, NIL
+HY2229 / SSA2204, Nil
+HY2232, NIL
+HY2239 / SSA2203, NIL
+HY2242 / SSA2208, NIL
+HY2254 / SSA2221, NIL
+HY2256 / EU2223, NIL
+HY2259, Must be HY majors and have completed at least 8 MCs of HY modules, including HY1101E.
+HY3201, NIL
+HY3209 / EU3230, NIL
+HY3226, NIL
+HY3242 / EU3231, NIL
+HY3248, NIL
+HY3252, Nil
+HY4205 / EU4224, Cohort 2006 and before: Must have completed a minimum of 80 MC. Must major in HY. Cohort 2007 onwards: Completed 80MC, including 28 MC in HY or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track
+HY4211, Cohort 2006 and before: Must have completed a minimum of 80 MC. Must major in HY. Cohort 2007 onwards: Completed 80MC, including 28 MC in HY, with a minimum CAP of 3.5 or be on the Honours track.
+HY4215, Cohort 2006 and before: Must have completed a minimum of 80MCs. Must major in HY or SE. Cohort 2007 onwards: Completed 80MCs, including 28MCs in HY or 28MCs in SE, with a minimum CAP of 3.5 or be on the Honours track
+HY4216, Cohort 2006 and before: Must have completed a minimum of 80MCs. Must major in HY or SE. Cohort 2007 onwards: Completed 80MCs, including 28MCs in HY or 28MCs in SE, with a minimum CAP of 3.5 or be on the Honours track.
+HY4222, Cohort 2006 and before: HY Major: Completed a minimum of 80MCs and major in HY. SN Major: Completed at least 80MCs of which at least 28MCs must be from MS major. Cohort 2007 onwards: Completed 80MCs, including 28MCs in HY or 28MCs in SN or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+HY4401, Cohort 2006 and before: (1) Complete at least 100MCs including 56MCs of major requirements and (2) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5 Cohort 2007 onwards: Completed 110MCs including 60MCs of HY major requirements with a minimum CAP of 3.5.
+HY4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. Complete at least 100MCs including 56MCs of major requirements and obtain a minimum CAP of 3.2. Cohort 2007 onwards: Completed 100MCs, including 60MCs in HY, with a minimum CAP of 3.5.
+ID1106, NIL
+ID1112, Nil
+ID1121, Nil
+ID2106, Pass ID 1105 & 1106
+ID2112, NIL
+ID2122, Nil
+ID2324, NIL
+ID3041, NA
+ID3106, Pass ID 2105 & 2106
+ID3124, NIL
+ID4106, Pass ID3103 & ID3104 or ID3105 and 3106
+ID5021, Nil
+ID5151, Nil
+ID5351, Nil
+ID5770, NA
+ID5951, Nil
+ID5951A, Nil
+ID5951B, Nil
+ID5951C, Nil
+ID5951D, Nil
+ID5951E, Nil
+ID6770, NA
+IE2100, ST2131
+IE2100E, NIL
+IE2130, MA1505, MA1506 or SA1101, or ST1131, or ST1131A, or ST1232, or ST2334.
+IE2130E, NIL
+IE2140, Nil
+IE2140E, NIL
+IE2150, Nil
+IE2150E, NIL
+IE3010E, NIL
+IE3100E, Level 3 Standing
+IE3100R, IE2100, IE2110, IE2140; Co-requisite: IE2101
+IE4100, ISE B.Eng. 4 standing
+IE4100E, Level 4 Standing
+IE4220, IE2100, IE2110
+IE4220E, NIL
+IE4230, IE2130, IE3101
+IE4230E, NIL
+IE5108, Nil
+IE5211, Nil
+IEM1201M, Students must have passed/been exempted from the NUS Qualifying English Test (QET) or have passed CELC English for Academic Purposes modules.
+IEM1201N, Students must have passed/been exempted from the NUS Qualifying English Test (QET) or have passed CELC English for Academic Purposes (EAP) modules.
+IEM1201P, Students must have passed/been exempted from the NUS Qualifying English Test (QET) or have passed CELC English for Academic Purposes modules.
+IEM1201Q, Students must have passed/been exempted from the NUS Qualifying English Test (QET) or have passed CELC English for Academic Purposes (EAP) modules.
+IEM1201R, Students must have passed/been exempted from the NUS Qualifying English Test (QET) or have passed CELC English for Academic Purposes modules.
+IEM1201S, Students must have passed/been exempted from the NUS Qualifying English Test (QET) or have passed CELC English for Academic Purposes modules.
+IEM1201T, Students must have passed/been exempted from the NUS Qualifying English Test (QET) or have passed CELC English for Academic Purposes modules.
+IEM2201E, I&E I
+IEM2201H, I&E I
+IEM2201J, Students must have passed an IEM1201 module.
+IEM2201K, I&E I
+IEM2201L, I&E I
+INM3550, (1) For NM Major only, (2) Read and pass a minimum of 80 MCs AND (3) Must read NM3550 concurrently
+IS1103, NIL
+IS1105, Nil
+IS1112, NIL
+IS2101, Students who are required to read ES1000 and/or EAP modules (ET1000/ES1102/EG1471) must pass it/them before taking IS2101.
+IS2102, CS1010 or its equivalents
+IS2103, CS1020 or CS1102 or CS1102C or CS1102S
+IS2104, Students can only take this module after completing 40 MCs
+IS2150, (CS1020 or CS1102 or CS1102S) and IS1112
+IS3101, CS2250 or (IS1103 and IS1105)
+IS3150, Pass 60 MCs and [IS1105 and IS1112 ]
+IS3220, Pass 60 MCs and [CS2250 or (IS1103 and IS1105)]
+IS3221, CS2250 or (IS1103 and IS1105)
+IS3222, Pass 60 MCs and [CS2250 or (IS1103 and IS1105)]
+IS3223, Pass 60 MCs and [CS2250 or (IS1103 and IS1105)]
+IS3230, Pass 60 MCs and [(IS1103 and IS1105) and (CS2105 or IS1112) ]
+IS3240, Pass 60 MCs and [EC1101 or EC1101E or EC1301 or EC1310 or EC1311 or GCE ‘A’ Level Economics or BSP1005 ]
+IS3241, Pass 60 MCs and [CS2250 or (IS1103 and IS1105)]
+IS3242, Pass 60 MCs and [CS2250 or IS1105]
+IS3243, Pass 60 MCs and [CS2250 or IS1105]
+IS3250, Students must have completed 60 MCs.
+IS3260, Pass 60 MCs and (CS1020 Data Structures and Algorithms I or its equivalent)
+IS4100, Pass 80 MCs and [CS2250 or (IS1103 and IS1105)] and (CS2261 or IS2103)
+IS4150, Pass 80 MCs and IS2150
+IS4203, Pass 80 MCs and [CS3253 or IS3101]
+IS4224, Pass 80 MCs and [CS3361 or IS3220]
+IS4226, Pass 80 MCs and [CS2250 or (IS1103 and IS1105)]
+IS4227, Pass 80 MCs and [CS3361 of IS3220]
+IS4240, Pass 80 MCs and [(CS2102 or CS2102S) and (CS2250 or (IS1103 and IS1105) and (ST1131 or ST2334)]
+IS4243, Pass 80 MCs and [CS2250 or (IS1103 and IS1105)]
+IS4260, Pass 80 MCs and [CS2250 or (IS1103 and IS1105)]
+IT1001, Nil
+IT1006, A-Levels/H2 Mathematics or equivalent.
+IT2001, (CS1010 or its equivalent) or GEK1511 or IT1001
+IT2002, (CS1010 or its equivalent)
+JS1101E / GEK1002, Nil
+JS2101, JS1101E
+JS2213, NIL
+JS2224 / SSA2205, Nil
+JS2226, NIL
+JS2230, Nil
+JS3101, This module is for students who major in Japanese Studies. Students should have completed JS2101 Approaches to Japanese Studies I and at least LAJ2202 Japanese 3 (or equivalent Japanese language skills).
+JS3208, LAJ2202 or pass in JLPT level 3 or placement test.
+JS3210, NIL
+JS3211, Nil
+JS3230, Nil
+JS3550, Students should: have completed a minimum of 24 MC in JS; and have declared JS as their Major.
+JS4209, LAJ2202 or placement test AND completed 80 MCs, including 28 MCs in JS, with a minimum CAP of 3.5 or be on the Honours track.
+JS4214, Completed 80MCs, including 28MCs in JS or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+JS4216, Cohort 2006 and before: Students in 2001 cohort and after must have completed 80MCs, of which at least 28MCs should fulfil the JS shared major requirement. Cohort 2007 onwards: Completed 80MCs, including 28MCs in JS, with a minimum CAP of 3.5 or be on the Honours track.
+JS4217, Completed 80MCs, including 28MCs in JS or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+JS4227, Completed 80MCs, including 28MCs in JS or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+JS4401, Completed 110 MCs including 60 MCs of JS major requirements with a minimum SJAP of 4.0 and CAP of 3.5.
+JS4660, To be offered subject to the agreement of the Supervisor and Department. Completed 100 MCs, including 60 MCs in JS, with a minimum CAP of 3.5.
+JS5201R, Nil
+JS5660R, Nil
+LA4202, Nil
+LA4212, Nil
+LA4702, NIL
+LA5222, NIL
+LAB1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAB2201, Passed LAB1201 or placement test
+LAB3201, Passed LAB2201 or placement test
+LAB3202, Passed LAB3201 or placement test
+LAB4201, Passed LAB3202 or placement test.
+LAB4202, Passed LAB4201 or placement test.
+LAC1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAC2201, Passed LAC1201 or placement test.
+LAC3201, Passed LAC2201/LAC2202 or placement test.
+LAC3202, Passed LAC3201 or placement test.
+LAC3204, Higher Chinese at GCE 'O' Level, GCE 'AO' Level Chinese or equivalent
+LAC4202, Passed LAC4201 or placement test
+LAF1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAF2201, Passed LAF1201 or placement test
+LAF3202, Passed LAF3201 or placement test.
+LAF3203, Passed LAF3201 or placement test.
+LAF4202, Passed LAF4201 or placement test.
+LAG1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAG2201, Passed LAG1201 or placement test
+LAG3202, Passed LAG3201or placement test
+LAG3203, Passed LAG3201 or placement test
+LAG4202, Passed LAG4201or placement test
+LAH1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAH2201, Passed LAH1201 Hindi 1, or its equivalence, or by placement test.
+LAH3202, Passed LAH3201 Hindi 3, or by placement test.
+LAI1731, Nil
+LAI1732, LAI 1731
+LAJ1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAJ2201, Passed LAJ1201 or placement test.
+LAJ2202, Passed LAJ2201 or placement test.
+LAJ2203, Passed LAJ2202 or placement test.
+LAJ3201, Passed LAJ2203 or placement test.
+LAJ3202, Passed LAJ3201, LAJ3203, or placement test.
+LAK1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAK2201, For students who passed LAK1201 (Korean 1) or placement test.
+LAK3202, Passed LAK3201 Korean 3 or by placement test.
+LAK3203, Passed LAK3201 Korea 3 or by placement test.
+LAK4202, LAK4201 Korean 5 or by placement test.
+LAL1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAL2201, Passed LAL1201 or placement test
+LAM1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAM2201, Passed LAM1201 Malay 1 or placement test.
+LAM3201, Passed LAM2201 Malay 2 or placement test.
+LAM3202, Passed LAM3201 Malay 3 or placement test.
+LAR1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAR2201, "LAR1201 Arabic 1, or by placement test."
+LAR3202, Successful completion of LAR3201 or exemption from it based on placement test results.
+LAR4202, Successful completion of LAR4201 or by placement test.
+LAT1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAT2201, LAT1201 or placement test.
+LAT3201, LAT2201 or placement test.
+LAT3202, Passed LAT3201 or placement test.
+LAT4201, Passed LAT3202 or placement test.
+LAT4202, Passed LAT4201 or placement test.
+LAV1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAV2201, Passed LAV1201 or placement test
+LAV3201, Passed LAV2201 or placement test
+LAV3202, Passed LAV3201 or placement test
+LAV4202, LAV4201 or placement test
+LL4061, NUS Compulsory Core Curriculum or its equivalent
+LL4082, NUS Compulsory Core Curriculum or its equivalent.
+LL4133, Nil
+LL4134, For law students: NUS Compulsory Core Curriculum or its equivalent For non-law students: 3rd & 4th Year students from Arts & Social Sciences Faculty
+LL4202, NUS Compulsory Core Curriculum or its equivalent
+LL4234, For law students: NUS Compulsory Core Curriculum For non-law students: Open to Philosophy, Political Science, and USP students.
+LSM1101, GCE ‘A’ Level or H2 Biology or equivalent, or LSM1301 or LSM1301FC
+LSM1102, GCE ‘A’ Level or H2 Biology or equivalent, or LSM1301 or LSM1301FC
+LSM1103, GCE ‘A’ Level or H2 Biology or equivalent, or LSM1301 or LSM1301FC
+LSM1104, GCE ‘A’ Level or H2 Biology or equivalent, or LSM1301 or LSM1301FC
+LSM1202, GCE ‘A’ Level or H2 Biology or equivalent, or LSM1301 or LSM1301FC
+LSM1301, Nil
+LSM1301FC, Nil
+LSM1302, NIL
+LSM1303, Nil
+LSM1401, For Bioengineering, Chemical Engineering, Environmental Engineering programs, Pharmacy and Chemistry major. Pass in A-Level or H2 Chemistry.
+LSM2101, LSM1101 or LSM1401
+LSM2102, LSM1101 (or LSM1401) and LSM1102
+LSM2103, LSM1101 or LSM1401 or LSM1102
+LSM2201A, LSM1101 or LSM1401
+LSM2202A, Read LSM1101 and LSM1102 and pass either one.
+LSM2203, LSM1101 or LSM1102 or LSM1103
+LSM2241, LSM1101 or LSM1401
+LSM2251, LSM1103
+LSM2288, Nil
+LSM2289, Nil
+LSM3211, LSM2101 or LSM2103
+LSM3212, LSM2101
+LSM3213, LSM2102 and LSM2103
+LSM3214, LSM2101 and LSM3212
+LSM3221, LSM3211
+LSM3223, LSM2103
+LSM3224, LSM2101 and LSM2103
+LSM3225, LSM2101 or LSM2102 or LSM2103
+LSM3232, LSM2101 or LSM2102 or LSM2103
+LSM3241, LSM2102 and either LSM2104 or LSM2241
+LSM3242, LSM3232 and either LSM2101 or LSM2102 or LSM2103 (LSM3232 can be read as co-requisite)
+LSM3243, LSM1101
+LSM3244, LSM2102
+LSM3255, LSM2251
+LSM3256, LSM1103 and LSM1104
+LSM3257, ST1232 Statistics for Life Sciences AND LSM2251 Ecology and Environment
+LSM3262, LSM1104 or LSM1201
+LSM3264, LSM1101 Biochemistry of Biomolecules or Departmental Approval
+LSM3266, LSM1103 Biodiversity
+LSM3272, LSM1103
+LSM3288, Nil
+LSM3289, Nil
+LSM4199, For Life Sciences major students with overall CAP of 3.50 or more are eligible to enrol for this module.
+LSM4214, LSM3211 and LSM4243 (LSM4243 can be read as co-requisite)
+LSM4215, LSM3212 Human Physiology: Cardiopulmonary System AND LSM3214 Human Physiology – Hormones and Health
+LSM4221, LSM3211 or LSM3221
+LSM4222, LSM3223
+LSM4223, LSM3232 or LSM3225
+LSM4225, LSM2102
+LSM4231, LSM2103
+LSM4234, LSM2102 and LSM2103
+LSM4241, LSM3231
+LSM4243, LSM2103
+LSM4244, LSM2103
+LSM4253, LSM2251 or LSM3252
+LSM4255, GCE 'A' Level or H2 Mathematics or equivalent, or MA1301 or MA1301FC
+LSM4262, LSM2251
+LSM4264, LSM3254
+LSM4265, LSM2251 and LSM3255
+MA1101R, GCE 'A' level Mathematics or H2 Mathematics or MA1301 or MA1301FC
+MA1102R, GCE 'A' level Mathematics or H2 Mathematics or MA1301 or MA1301FC
+MA1104, MA1102 or MA1102R or MA1505 or MA1505C or MA1521 or EE1401 or EE1461 or EG1402
+MA1301, Pass in O-level Additional Mathematics or AO-level or H1 Mathematics
+MA1301FC, Pass in O-level Additional Mathematics or AO-level or H1 Mathematics
+MA1312, AO-Level Mathematics or H1 Mathematics or MA1301 or MA1301FC
+MA1505, GCE ‘A’ Level Mathematics or H2 Mathematics or MA1301 or MA1301FC
+MA1506, Read MA1102R or MA1505 or MA1521
+MA1508, A' level or H2 Mathematics or equivalent
+MA1521, GCE 'A' level Mathematics or H2 Mathematics or MA1301 or MA1301FC
+MA2101, MA1101 or MA1101R or MA1506 or MA1508 or GM1302 or GM1308
+MA2108, MA1102 or MA1102R or MA1505 or MA1505C or MA1507 or MA1521
+MA2108S, Departmental approval.
+MA2213, (MA1102R or MA1312 or MA1507 or MA1505 or MA1521 or EG1402 or EE1401 or EE1461) and (MA1101R or MA1311 or MA1508 or MA1506)
+MA2219, MA1100 or MA1101R or MA1506 or MA1508 or MA1102R or MA1505 or MA1507 or CS1231
+MA2288, Departmental approval
+MA2289, Departmental approval
+MA3110, MA2108 or MA2108S
+MA3110S, Departmental approval
+MA3111, (MA1104 or MA1507) and (MA3110 or MA3110S)
+MA3111S, Departmental approval
+MA3201, (MA2202 or MA2202S) and (MA2101 or MA2101S)
+MA3215, {MA1104 or MA1104S or MA2221 or MA1507 or MA1505 or MA2311} and {MA1101R or MA1311 or MA1506 or MA1508}
+MA3218, MA2101 or MA2101S
+MA3227, MA2213 and (MA1104 or MA1506 or MA1507 or MA1505 or MA2311) and (MA2101 or MA2101S) and (MA2216 or ST2131 or ST2334).
+MA3233, MA2214
+MA3238 / ST3236, {MA1101 or MA1101R or MA1311 or MA1508 or GM1302} and {MA2216 or ST2131}
+MA3252, MA1101 or MA1101R or MA1306 or MA1311 or MA1508 or MA1506 or GM1306
+MA3259, MA2216 or MA3233 or MA3501 or ST2131 or ST2334 or LSM2241
+MA3266, (MA1101R or MA1506 or MA1508) and MA1104 and MA3220
+MA3288, Departmental approval
+MA3289, Departmental approval
+MA3312, SP1001 - Career Planning & Preparation or NCC1001 Headstart Module (A Career Development Programme) or NCC1000 Stepup Module (A Career Development Programme); students must have completed 3 regular semesters of study, have declared Mathematics or Applied Mathematics as first major and have completed a minimum of 32 MCs in Mathematics or Applied Mathematics major at time of application.
+MA4199, Only for students matriculated from 2002/2003, subject to faculty and departmental requirements
+MA4207, MA3110 or MA3110S or MA3205 or MA3219
+MA4211, MA3207H or MA3209
+MA4229, (MA2101 or MA2101S) and (MA3110 or MA3110S)
+MA4252, MA3220
+MA4254, MA2215 or MA3252
+MA4255, MA2213 and MA3220
+MA4263, (MA2202 or MA2202S) and (MA3111 or MA3111S)
+MA4266, MA3209
+MA4269, (MA1104 or MA1506 or MA1507) and MA3269
+MA4291, Departmental approval
+MA4292, Departmental approval
+MA5198, Only for graduate research students in the Department of Mathematics who matriculated in 2004 or later.
+MA5204, MA3201 and departmental approval
+MA5206, MA4211 and {MA4262 or MA5205}, or departmental approval
+MA5210, MA3209 or MA3215 or MA3251 or MA4266
+MA5216, MA5210 or Departmental Approval
+MA5217, Departmental approval
+MA5220, MA3205 and MA4207, or departmental approval
+MA5232, Nil
+MA5241, MA4229 or departmental approval
+MA5248, MA4262 and (MA3245 or MA4269)
+MA5250, Departmental approval
+MA5260, MA5259 or ST5214
+MA5295, Departmental approval (for students in 2006/07 and later cohorts who are enrolled in M.Sc. in Mathematics by course work)
+MA6235, Departmental approval
+MA6252, Nil
+MA6292, Departmental approval
+ME2101, Nil
+ME2101E, NIL
+ME2114, ME2113
+ME2114E, NIL
+ME2135, ME2134
+ME2135E, ME2134E
+ME2143, EG1108, PC1431, PC1431FC
+ME2143E, Nil
+ME3000, Nil
+ME3001, Nil
+ME3102, ME3101
+ME3221, ME2121
+ME3232, ME2135
+ME3233, ME2135
+ME3241, Nil
+ME3241E, NIL
+ME3251, ME2151
+ME3251E, ME2151E
+ME3281, None
+ME3291, MA1505, MA1506
+ME4101, COMPLETED 100 MC OF DEGREE REQUIREMENT.
+ME4101A, Stage 4 standing
+ME4105, For students admitted to a specialisation
+ME4212, ME2114
+ME4213, Nil
+ME4225, ME3122
+ME4225E, Nil
+ME4227, NIL
+ME4231, ME2135
+ME4241, Nil
+ME4246, ME2142
+ME4253, ME2151
+ME4255, ME2151
+ME4261, ME3162
+ME4261E, ME3162E
+ME4262, ME2162, ME3162
+ME4262E, ME3162E
+ME4265, ME 2113 – Mechanics of Materials
+ME4284, NIL
+ME5506, Nil
+ME5609, Nil
+MIC1000, Nil
+MKT1003, Nil
+MKT1003X, Nil
+MKT2401A, MKT1003 or BH1003 or BZ1003 or BK2003
+MKT2401B, MKT1003 or BH1003 or BZ1003 or BK2003
+MKT2401C, MKT1003 or BH1003 or BZ1003 or BK2003
+MKT2412, MKT1003
+MKT2413, MKT1003 or BH1003 or BZ1003 or BK2003
+MKT3402A, MKT1003 or BH1003 or BZ1003 or BK2003
+MKT3402B, MKT1003 or BH1003 or BZ1003 or BK2003
+MKT3412, MKT1003 or BH1003 or BZ1003 or BK2003
+MKT3413, MKT1003
+MKT3415, MKT1003
+MKT3418A, MKT1003 or BH1003 or BZ1003 or BK2003 or TR2201.
+MKT3418B, MKT1003 or BH1003 or BZ1003 or BK2003 or TR2201.
+MKT3424, MKT1003 or MKT1003X Marketing
+MKT3429, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA/BBA(Acc) curriculum.
+MKT3513, MKT1003 Principles of Marketing (or TR2201 Entrepreneurial Marketing) BSP1005 Managerial Economics or equivalent
+MKT4411, MKT2401 or MKT2401A or MKT2401B
+MKT4413, MKT2401
+MKT4419, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA/BBA(Acc) curriculum.
+MLE1101, A Level Physics or H1 Physics or H2 Physics or [PC1221 and PC1222]
+MLE2103, MLE2102
+MLE2104, EG1109FC, MLE1101 or MLE2101 or EG1109
+MLE2105, MLE1101 or MLE2101
+MLE3101, MLE1101 or MLE2101
+MLE4101, MLE2103 and MLE2104 and MLE2105 and MLE3101
+MLE4101R, MLE2103 and MLE2104 and MLE2105 and MLE3101
+MLE4202, MLE3104
+MLE4203, MLE3104 and BN3301
+MLE4206, MLE2104 and MLE2105
+MLE4207, MLE2101
+MLE4208, MLE2105 or EE3406 or equivalent
+MNO1001, Nil
+MNO1001X, Nil
+MNO2007, MNO1001 Management and Organization
+MNO2009, MNO1001 Management and Organisation
+MNO2302, MNO1001 or BH1001 or BZ1001 or BK2002 or HR2001 or HR2101 or HR3111 or HR3308
+MNO3301, MNO1001 or BH1001 or BZ1001 or BK2002 or HR2001 or HR2101 or HR3111 or HR3308
+MNO3303, MNO1001 or BH1001 or BZ1001 or BK2002 or HR2001 or HR2101 or HR3111 or HR3308
+MNO3313J, MNO1001: Management and Organisation
+MNO3322, MNO1001 Management & Organisation and MNO2007 Leadership and Ethics Note: Students who are matriculated before AY2009/2010, need NOT read MNO2007 as a pre-requisite for this MNO module.
+MNO3323, MNO1001 Management & Organisation and MNO2007 Leadership and Ethics Note: Students who are matriculated before AY2009/2010, need NOT read MNO2007 as a pre-requisite for this MNO module.
+MNO3329, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA/BBA(Acc) curriculum.
+MNO3330, Nil
+MNO4313C, MNO1001 or HR2001 or HR2101 or HR3111 or HR3308
+MNO4315, MNO1001 Management & Organisation
+MNO4319, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA/BBA(Acc) curriculum.
+MS1102E, Nil
+MS2211, NIL
+MS2213, NIL
+MS3209 / SSA3203, NIL
+MS3212, Nil
+MS3215, Nil
+MS3216, Nil
+MS3218, Nil
+MS4201, Cohort 2006 and before: Complete at least 80 MCs including 28 MCs of MS major Cohort 2007 onwards: Completed 80MCs, including 28MCs in MS or 28 MCs in HY, or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+MS4401, Cohort 2006 and before: (1) Completed at least 100MCs including 56MCs of major requirements and (2) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: Completed 110MCs including 60MCs of MS major requirements with a minimum CAP of 3.5.
+MS4660, Cohort 2006 and before: Completed at least 100MCs including 56MCs of major requirements and obtain a minimum CAP of 3.2. Cohort 2007 onwards: Completed 100MCs, including 60MCs in MS, with a minimum CAP of 3.5.
+MS4880A, Cohort 2006 and before: Completed at least 80MCs, of which at lest 28MCs must be from MS. Cohort 2007 onwards: Completed 80MCs, including 28MCs in MS, with a minimum CAP of 3.5 or be on the Honours track.
+MS5201, Nil
+MS5660, Nil
+MS6660, Nil
+MT4003, Nil
+MT5002, Nil
+MT5004, Nil
+MT5007, Nil
+MT5009, Nil
+MT5010, Nil
+MT5011, Nil
+MT5012, Nil
+MT5016, NIL
+MT5880B, Basic understanding of economics and management of technology.
+MT5900, Nil
+MT5901, Nil
+MT5902, NIL
+MT5911, Nil
+MT5912, Product development courses are a plus
+MT5913, Nil
+MUA1107, Nil
+MUA1108, Nil
+MUA1109, Nil
+MUA1110, Nil
+MUA1112, Nil
+MUA1114, Nil
+MUA1116, Nil
+MUA1150, MUA1180 Basic Mechanics of Percussion A (BMPC-A)
+MUA1153, Nil
+MUA1154, Nil
+MUA1156, MUA1180 First Year Woodwinds Class A
+MUA1161, Nil
+MUA1162, Nil
+MUA1163, NIL
+MUA1171, Prerequisite: Basic Recording 1
+MUA1181, MUA1180 First Year Brass Class A
+MUA1191, MUA 1190 or Permission of Instructor
+MUA1193, Nil
+MUA1196, Nil
+MUA2106, Nil
+MUA2107, Nil
+MUA2108, Nil
+MUA2109, Nil
+MUA2110, Nil
+MUA2112, Nil
+MUA2120, MUA2119 Orchestral Repertoire for Double Bass 2A
+MUA2128, MUA2127 Orchestral Repertoire for Woodwinds 2A
+MUA2153, Nil
+MUA2154, Nil
+MUA2155, Nil
+MUA2156, Nil
+MUA2161, Nil
+MUA2162, Nil
+MUA2171, Multitrack Recording 1
+MUA2174, Acoustics and Psychoacoustics
+MUA2175, NIL
+MUA2176, MUA2175 RAS Project 1
+MUA2181, MUA2180 Orchestral Repertoire for Brass 2A
+MUA2183, MUA2182 Orchestral Repertoire for Percussion 2A
+MUA2187, MUA2186 Orchestral Repertoire for Harp 2A
+MUA2191, MUA 2190 or Permission of Instructor
+MUA2192, Open to Voice Majors
+MUA2193, Open to Voice Majors
+MUA2196, Nil
+MUA2255, Nil
+MUA2256, Nil
+MUA3105, Nil
+MUA3107, Nil
+MUA3108, Nil
+MUA3109, Nil
+MUA3110, Nil
+MUA3112, Nil
+MUA3114, Nil
+MUA3120, MUA3119 Orchestral Repertoire for Double Bass 3A
+MUA3128, MUA3127 Orchestral Repertoire for Woodwinds 3A
+MUA3130, MUA3129 Orchestral Repertoire for Percussion 3A
+MUA3132, NIL
+MUA3153, Nil
+MUA3154, Nil
+MUA3156, Nil
+MUA3161, Nil
+MUA3162, Nil
+MUA3173, Acoustics and Psychoacoustics
+MUA3174, Audio Mixing
+MUA3175, MUA2176 RAS Project 2
+MUA3176, MUA3175 RAS Project 3
+MUA3187, MUA3186 Orchestral Repertoire for Harp 3A
+MUA3191, MUA 3190 or Permission of Instructor
+MUA3195, MUA 3194 or Permission of Instructor
+MUA3206, MUA3205 Materials of Jazz Music 1
+MUA3209, Nil
+MUA3210, Nil
+MUA3211, Nil
+MUA3212, Nil
+MUA3214, Nil
+MUA3219, NIL
+MUA3220, NIL
+MUA3255, Nil
+MUA3256, Nil
+MUA3264, Pre-requisite of 5 MCs of Professional Development modules
+MUA3275, Nil
+MUA4107, Nil
+MUA4108, Nil
+MUA4153, Nil
+MUA4154, Nil
+MUA4161, Nil
+MUA4162, Nil
+MUA4172, 4th year standing
+MUA4174, MUA4173 Audio for Media 1
+MUA4175, MUA3176 RAS Project 4
+MUA4176, MUA1171 Basic Recording 2
+MUA4191, MUA 4190 or Permission of Instructor
+MUA4203, MUA4105
+MUA4205, MUA4203 or MUA4204
+MUA4215, Nil
+MUA4219, Nil
+MUA4220, Nil
+MUA4228, Nil
+MUA4229, Nil
+MUA4231, NIL
+MUA4232, MUA4231 Orchestral Excerpts for Strings 4A
+MUA5108, Nil
+MUA5110, Nil
+MUA5112, Nil
+MUA5114, Nil
+MUA5156, Nil
+MUA5158, Nil
+MUA5195, Nil
+MUA5196, Nil
+MUH1115, Nil
+MUH1116, Nil
+MUH2116, MUH2115 Music and Context: Before 1830
+MUH3203, Nil
+MUH4202, MUH2116
+MUL3203, NIL
+MUT1121, Nil
+MUT1122, Nil
+MUT2118, Nil
+MUT3114, Nil
+MUT3204, Nil
+MUT3205, MUT 1121, MUT 1122, MUT 3XXX or similar level of keyboard competency
+MUT3206, Nil
+MUT3207, Nil
+MUT4203, Fourth year status in music or permission of instructor
+NCC1000, NIL
+NCC1001, NIL
+NM1101E, Nil
+NM1101FC, Nil
+NM2101, Cohort 2008 and before: Nil. Cohorts 2009 to 2011: Obtain a grade of B- or above in NM1101E Communications, New Media and Society (applies to students from ALL faculties except School of Computing). Students who fail to meet the B- criterion in NM1101E will have the opportunity to take a department conducted test, which will act as an alternative prerequisite. Cohort 2012 onwards: Nil
+NM2103, NIL
+NM2104, NIL
+NM2201, Nil
+NM2203, NIL
+NM2212, NIL
+NM2213, NIL
+NM2219, NIL
+NM2220, Nil
+NM2302, Nil
+NM3202, NIL
+NM3203, NIL
+NM3204, NIL
+NM3205, NIL
+NM3211, NM2220 Introduction to Media Writing. Read and pass a minimum of 80 MCs.
+NM3214, NIL
+NM3215, Nil
+NM3217, Nil
+NM3219, NIL
+NM3221, Nil
+NM3223, NIL
+NM3224, NIL
+NM3227, NIL
+NM3229, Nil
+NM3233, NIL
+NM3235, NIL
+NM3236, NIL
+NM3237, NIL
+NM3550, (1) For NM Major only, (2) Read and pass a minimum of 80 MCs AND (3) Must read INM3550 concurrently
+NM3551, Students must: have declared a Major, completed a minimum of 24 MC in that Major, and have a CAP of at least 3.5.
+NM4102, Cohort 2007 to 2011: (1) Completed 80MCs, including 28MCs in NM, with a minimum CAP of 3.5 or be on the Honours track. (2) NM2102 or NM2103 or NM2104 Cohort 2012 onwards: (1) Completed 80MCs, including 28MCs in NM, with a minimum CAP of 3.5 or be on the Honours track. (2) NM2103 Quantitative Research Methods (3) NM2104 Qualitative Communication Research Methods
+NM4202, Cohort 2006 and before: Read & passed a minimum of 80 MCs Cohort 2007 onwards: (Not applicable to SOC students) Completed 80 MCs, including 28 MCs in NM or 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track. (For SOC students) Completed 80 MCs and obtain a minimum CAP of 3.5.
+NM4207, Cohort 2007 onwards: 1. Completed 80 MCs, including 28 MCs in NM, with a minimum CAP of 3.5 or be on the Honours track 2. NM3219 3. NM3220 or NM3232 or NM3233
+NM4208, Cohort 2006 and before: (1) Read and passed a minimum of 80 MCs (2) NM2220 and NM3217 Cohort 2007 onwards: (1) Completed 80 MCs, including 28 MCs in NM, with a minimum CAP of 3.5 or be on the Honours track (2) NM3217
+NM4209, Cohort 2006 and before: 1. Read and passed a minimum of 80 MCs 2. NM3216 Cohort 2007 onwards: (Not applicable to SOC/SDE/ENG students) Completed 80 MCs, including 28 MCs in NM, with a minimum CAP of 3.5 or be on the Honours track (For SOC/SDE/ENG students) Completed 80 MCs and obtain a minimum CAP of 3.5.
+NM4210, (Not applicable to SOC/SDE/ENG students) (1) Completed 80 MCs , including 28 MCs in NM, with a minimum CAP of 3.5 or be on the Honours track (For SOC/SDE/ENG students) (1) Completed 80 MCs and obtain a minimum CAP of 3.5
+NM4212, Cohort 2006 and before: NM2101 and read and passed a minimum of 80MCs. Cohort 2007 onwards: (1) Completed 80MCs, including 28MCs in NM, with a minimum CAP of 3.5 or be on the Honours track. (2) NM2101.
+NM4218, Cohort 2006 and before: Read & passed a minimum of 80 MCs Cohort 2007 onwards: (Not applicable to SOC students) Completed 80 MCs, including 28 MCs in NM, with a minimum CAP of 3.5 or be on the Honours track. (For SOC students) Completed 80 MCs and obtain a minimum CAP of 3.5.
+NM4221, Cohort 2006 and before: Read & passed a minimum of 80 MCs Cohort 2007 onwards: Completed 80 MCs, including 28 MCs in NM, with a minimum CAP of 3.5 or be on the Honours track.
+NM4226, Cohort 2006 and before: 1. Read and passed a minimum of 80 MCs Cohort 2007 onwards: (Not applicable to SOC/SDE/ENG students) Completed 80 MCs, including 28 MCs in NM, with a minimum CAP of 3.5 or be on the Honours track (For SOC/SDE/ENG students) Completed 80 MCs and obtain a minimum CAP of 3.5.
+NM4229, Nil
+NM4401, Cohort 2006 and before: (i) Pass NM4101/NM4102; (ii) Complete at least 100MCs including 56MCs of NM major requirements and (iii) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 OR (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: (1) Pass NM4101 or NM4102; (2) Completed 110MCs including 60MCs of NM major requirements with a minimum SJAP of 4.0 and CAP of 3.5.
+NM4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. Complete at least 100MCs including 56MCs of major requirements and obtain a minimum CAP of 3.2. Cohort 2007 onwards: Completed 100MCs, including 60MCs in NM, with a minimum CAP of 3.5.
+NM4883B, Cohort 2007 onwards: Completed 80MCs, including 28MCs in NM, with a minimum CAP of 3.5 or be on the Honours track.
+NM5201R, (a) For CNM major who has accumulated 120 MCs (b) For CNM, FASS, and SoC graduate students.
+NM5205R, For CNM major who has accumulated 120 MCs. For CNM, FASS, and SoC graduate students
+NM5212R, (a) For CNM major who has accumulated 120 MCs (b) For CNM, FASS, and SoC graduate students
+NM5214R, NIL
+NM5215R, Nil
+NM5660, Nil
+NM6102, Nil
+NM6203, Nil
+NM6211, NIL
+NM6660, Nil
+NUR1108, NUR1107 Clinical Practicum 1.1
+NUR1109, Nil
+NUR1115, NUR1114 Fundamentals of Nursing
+NUR1116, Nil
+NUR1118, NUR1117 Anatomy and Physiology I
+NUR2107, NUR2106 Clinical Practicum 2.1 NUR2116 Medical/Surgical Nursing II
+NUR2116, NUR2106 Clinical practicum 2.1
+NUR2118, NUR2117 Pathophysiology and Pharmacology I
+NUR3114, NUR1104 Professional Issues and Practice
+NUR3115, NUR3105
+NUR3116, NUR3105 Clinical Practicum 3.1
+NUR4101, NUR3109
+NUR4102, BSc (Nursing)
+NUR4104, NUR4101, NUR4102, NUR4103
+OT5203, OT5201 Marine Statics and Dynamics (as of AY2011/12 onwards) or an equivalent, or CE5887 Topics in Offshore Engineering: Marine Statics & Dynamics (in AY2010/2011)
+OT5204, CE5307 or OT5201
+OT5205, CE4 standing
+OT5206, CE2112 Basic Undergraduate Soil Mechanics
+OT5301, NIL
+PA2106, PR1908
+PA2106A, Nil
+PC1143, 'A' level or H2 pass in Physics or PC1221 & PC1222
+PC1144, 'A' level or H2 pass in Physics or PC1221 & PC1222
+PC1221, 'O' level pass in Physics or Combined Science (Physics & Chemistry OR Physics & Biology).
+PC1222, 'O' level pass in Physics or Combined Science (Physics & Chemistry OR Physics & Biology).
+PC1431, Students from FOE (i.e. Civil Eng, Environmental Eng, Common Engineering, Mechanical Eng, Bioengineering, Industrial & Systems Eng and Material Science & Eng) with ‘A’ level or H2 pass in Physics; or 'A' level or H2 pass in Physics; or PC1221 & PC1222
+PC1431FC, Students from FOE (i.e. Civil Eng, Environmental Eng, Common Engineering, Mechanical Eng, Bioengineering, Industrial & Systems Eng and Material Science & Eng) with ‘A’ level or H2 pass in Physics; or 'A' level or H2 pass in Physics
+PC1432, Students from FOE ( i.e. Computer Eng, Common Engineering, Bioengineering, Industrial & Systems Eng and Material Science & Eng) with ‘A’ level or H2 pass in Physics; or 'A' level or H2 pass in Physics; or PC1221 & PC1222
+PC2130, Students who have either passed PC1144 or PC1432 and (MA1505 and MA1506) or MA1507 or equivalent.
+PC2130B, Students who passed one of the following modules. PC1144 or PC1432 or PC1433.
+PC2131, Students who have passed either PC1143 or PC1432 and (MA1505 and MA1506)
+PC2133, Students who have passed either PC1144 or PC1433.
+PC2193, Students who have passed one of these modules PC1141, PC1142, PC1143, PC1144, PC1431, PC1431FC, PC1432 or PC1433
+PC2230, PC1142, PC1144, PC1431 PC1431FC or PC1433 and MA1505 or MA1507
+PC2232, EE2011
+PC2239, Departmental Approval
+PC2288, Departmental Approval
+PC2289, Departmental Approval
+PC3130, Students who have passed both (PC2130 or PC2130B) and (MA1505 and MA1506), or students who have passed both PC2130 and PC2174.
+PC3193, PC2193
+PC3233, PC2130 or PC2130B
+PC3236, Students who have passed MA1505 and MA1506, or PC2174 or equivalent.
+PC3239, Departmental Approval.
+PC3241, PC2131 or PC2231 or PC3235 or MLE2104 or PC2133 or EE2005.
+PC3243, PC2131 or PC2231 or PC3130 or PC3241 or PC3235 or PC2133 or EE2005
+PC3246, PC2130 or PC2132
+PC3251, SP2251
+PC3267, Students who have passed either PC2131 or PC2267 or EE2011 or Departmental Approval
+PC3288, Departmental Approval
+PC3289, Departmental Approval
+PC3312, SP1001 - Career Planning & Preparation or NCC1001 Headstart Module (A Career Development Programme) or NCC1000 Stepup Module (A Career Development Programme); students must have completed 3 regular semesters of study, have declared Physics as first major and have completed a minimum of 32 MCs in Physics major at time of application.
+PC4199, At least an overall CAP of 3.50, on fulfillment of 100 MC or more; and major requirements under the B.Sc. programme.
+PC4199R, Nil
+PC4232, PC3246 or PC4248 or PC3274
+PC4240, PC3235 or equivalent
+PC4242, PC3231
+PC4243, PC3233
+PC4245, Students who have passed either PC3232 or PC4130
+PC4253, Students who have passed either PC3235 or PC3241 or PC3242
+PC4262, PC3231
+PC4264, PC3241
+PC4274, Students who have passed either PC3214 or PC3234 or PC3274
+PC5198, Nil
+PC5202, Students who have passed PC4241 or departmental approval.
+PC5203, Students who have passed both PC4130 and PC4240, or Departmental Approval
+PC5206, PC4130/PC4201, PC5201, or Departmental Approval
+PC5207, PC4258 or departmental approval
+PC5210, Students who have passed both PC3274 and PC4130, or Departmental Approval
+PC5212, Students who have passed one of these modules. PC4130, PC4240, PC4201 (old code), PC4214 (old code), or Departmental Approval
+PC5213, Students who have passed either PC4267 or PC4268, or Departmental Approval
+PC5228, PC4130 or Departmental Approval
+PC5239, Departmental approval
+PC5288, Nil
+PC5289, Nil
+PF1103, Nil
+PF1104, Nil
+PF1105, NIL
+PF2103, PF1102 Visualisation in Design and Technology
+PF2104, PF1104 Environmental Science for Building.
+PF2105, Nil
+PF2108, Nil
+PF2203, Nil
+PF2303, NIL
+PF3102, Nil
+PF3103, PF2101 Project Management Law I
+PF3201, PF2103 Measurement (Building Works); PF2104 (M&E Engineering Systems)
+PF3204, Nil
+PF3303, PF2104 M&E Engineering Systems
+PF4101, Nil
+PF4103, NIL
+PF4203, NIL
+PF4304, PF1102 Visualisation in Design and Technilogy,PF1104 Environmental Science for Building
+PF4305, NIL
+PF4307, NIL
+PH1102E, Nil
+PH2110 / GEM2006, NIL
+PH2202, NIL
+PH2212 / EU2214 / GEK2030, NIL
+PH2222 / GEK2036, Nil
+PH2223 / GEK2037, Nil
+PH2241, NIL
+PH2302 / GEK2039, NIL
+PH3202, NIL
+PH3203, NIL
+PH3204 / SN3272, NIL
+PH3206, NIL
+PH4201, Cohort 2006 and before: Completed 80MCs, of which at least 28MCs are PH shared major requirements. Cohort 2007 onwards: Completed 80MCs, including 28MCs in PH, with a minimum CAP of 3.5 or be on the Honours track.
+PH4205, Cohort 2006 and before:Completed 80MCs, of which at least 28MCs are PH shared major. PH2205 or PH3205. Cohort 2007 onwards:Completed 80MCs, including 28MCs in PH, with a minimum CAP of 3.5 or be on the Honours track.PH2301 or PH2302.
+PH4206, Cohort 2006 and before: Completed 80MCs, of which at least 28MCs are PH shared major requirements. For EU major students only: Completed at least 80MCs of which at least 28MCs must be EU/LA [French/German]/recognised modules (must have read at least one PH module). Cohort 2007 onwards: Completed 80MCs, including 28MCs in PH or 28MCs in EU/LA (French/ German)/recognised modules, with a minimum CAP of 3.5 or be on the Honours track.
+PH4216, Cohort 2006 and before: Nil. However, students who have not taken PH2216 or PH3216 may be rquired to do some preliminary additional readings. Cohort 2007 onwards: Completed 80MCs, including 28MCs in PH, with a minimum CAP of 3.5 or be on the Honours track.
+PH4241, Cohort 2006 and before: Completed 80 MCs, of which at least 28 MCs are PH shared major requirements. Cohort 2007 onwards: Completed 80MC, including 28 MCs in PH, with a minimum CAP of 3.5 or be on the Honours track. PH2110/GEM2006.
+PH4401, Cohort 2006 and before: (i) Complete at least 100MCs including 56MCs of PH major requirements and (ii) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: Completed 110MCs including 60MCs of PH major requirements with a minimum CAP of 3.5.
+PH4550, Cohort 2006 and before: At least 60 MCs of PH modules. Minimum grade of B+ for PH2110 Logic (students will apply to Department to read this module and qualified applicants will be selected through an interview). Cohort 2007 onwards: Completed 80MCs, including 28MCs in PH, with a minimum CAP of 3.5 or be on the Honours track. Minimum grade of B+ for PH2110 Logic (students will apply to Department to read this module and qualified applicants will be selected through an interview).
+PH4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. Complete at least 100MCs including 56MCs of major requirements and obtain a minimum CAP of 3.2. Please refer to http://www.fas.nus.edu.sg/philo/modules.htm for more information on the PH major requirement. Cohort 2007 onwards: To be offered subject to the agreement of the Supervisor and Department. Completed 100MCs, including 60MCs in PH, with a minimum CAP of 3.5.
+PH5430, Nil
+PH5430R, Cohort 2006 and before: Completed 80MCs, of which at least 28MCs are PH shared major Cohort 2007 onwards: Completed 80MCs, including 28MCs in PH, with a minimum CAP of 3.5 or be on the Honours track.
+PH5660, Nil
+PH6320, Nil
+PH6660, Offered to Graduate students only and admission of others by permission of instructor
+PH6760, Nil
+PH6770, Nil
+PL1101E, Nil
+PL2131, Obtained a minimum grade of C6 in G.C.E. 'O' level Mathematics or equivalent.
+PL2132, Cohort 2008 and earlier: PL1101E and PL2131. Cohort 2009 onwards: At least a B- in both PL1101E and PL2131. Students who fail to meet the B- criterion in either of the modules, or both, will have the opportunity to take a department-conducted test, which will act as an alternative prerequisite.
+PL3231, PL1101E, PL2131, PL2132 and consent of Supervisor. Students must have at least a &quot;C&quot; grade in one of the prerequisites.
+PL3232, PL1101E
+PL3233, PL1101E
+PL3234, PL1101E
+PL3235, PL1101E
+PL3236, PL1101E
+PL3237, PL1101E
+PL3238, PL1101E, PL2131, PL2132 and PL3235
+PL3241, PL1101E and PL2131
+PL3243, PL1101E and PL3233
+PL3249, PL1101E, PL3232 and PL3233
+PL3250, PL1101E and PL3233
+PL3251, PL1101E and PL3234
+PL3256, PL1101E, PL2131, PL2132, and PL3234
+PL3281D, PL1101E, PL2131, PL2132, and PL3233
+PL3282, PL1101E, PL2131, PL2132 and PL3235
+PL3282C, PL1101E, PL2131, PL2132 and PL3235
+PL3284, PL1101E, PL2131 and PL2132
+PL3285, PL1101E, PL2131, PL2132 and PL3232
+PL3286, PL1101E, PL2131, PL2132 and PL3242
+PL3288, PL1101E, PL2131, PL2132, PL3232 and PL3233
+PL3551, Students must: have declared a Major, completed a minimum of 24 MC in that Major, and have a CAP of at least 3.5.
+PL4202, Completed 80 MCs of which student must have passed PL1101E, PL2131 and PL2132, and 4 out of the 5 core modules (PL3232 - PL3236), with a minimum CAP of 3.5 or be on the Honours track.
+PL4205, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), in which one must be PL3234, with a minimum CAP of 3.5 or be on the Honours track.
+PL4207, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), in which one must be PL3235, with a minimum CAP of 3.5 or be on the Honours track.
+PL4208, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), in which one must be PL3236, with a minimum CAP of 3.5 or be on the Honours track.
+PL4218, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), in which one must be PL3236, with a minimum CAP of 3.5 or be on the Honours track.
+PL4219, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), in which one must be PL3236, with a minimum CAP of 3.5 or be on the Honours track.
+PL4221, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), in which one must be PL3234, with a minimum CAP of 3.5 or be on the Honours track.
+PL4222, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132, PL3232, PL3233 and at least 2 other core modules (PL3234 - PL3236), with a minimum CAP of 3.5 or be on the Honours track.
+PL4224, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132, and 4 out of the 5 core modules (PL3232 - PL3236), in which one must be PL3236, with a minimum CAP of 3.5 or be on the Honours track.
+PL4226, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), in which one must be PL3236, with a minimum CAP of 3.5 or be on the Honours track.
+PL4228, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132, PL3235, PL3236 and at least 2 other core modules (PL3232 - PL3234), with a minimum CAP of 3.5 or be on the Honours track.
+PL4229, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), in which one must be PL3236, with a minimum CAP of 3.5 or be on the Honours track.
+PL4231, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132, PL3235, PL3236, PL3241 and at least 2 other core modules (PL3232 - PL3234), with a minimum CAP of 3.5 or be on the Honours track.
+PL4234, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132, 4 out of the 5 core modules (PL3232 - PL3236), and PL3242, with a minimum CAP of 3.5 or be on the Honours track.
+PL4235, Completed a minimum of 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), which should include PL3234 Developmental Psychology and PL3235 Social Psychology; with a minimum CAP of 3.5 or be on the Honours track.
+PL4401, Cohort 2006 and before: (1) Complete at least 100MCs including 56MCs of PL major requirements and (2) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: Completed 110MCs including 60MCs of PL major requirements with a minimum CAP of 3.5.
+PL4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. Complete at least 100MCs including 56MCs of major requirement and obtain a minimum CAP of 3.2. Cohort 2007 onwards: Completed 100MCs, including 60MCs in PL, with a minimum CAP of 3.5.
+PL4880I, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), in which one must be PL3235, with a minimum CAP of 3.5 or be on the Honours track.
+PL4880J, Completed 80 MCs of which student must have passed PL1101E, PL2131, PL2132 and 4 out of the 5 core modules (PL3232 - PL3236), in which one must be PL3232, with a minimum CAP of 3.5 or be on the Honours track.
+PL5222R, PL2101Y/PL2131 and PL2102Y/PL2132 or consent of Instructor
+PL5225R, PL2101Y/PL2131, PL2102Y/PL2132 and PL5221, or consent of the instructor
+PP5138, Nil
+PP5141, Nil
+PP5142, Nil
+PP5209, NIL
+PP5223, Nil
+PP5241J, Nil
+PP5241K, Nil
+PP5242K, Nil
+PP5246, Nil
+PP5255, Nil
+PP5294, Nil
+PP5411, Nil
+PP5412, Nil
+PP5413, Nil
+PP5414, Nil
+PR1102, A-level Chemistry or equivalent exam, excluding CM1417
+PR2102, PR1103
+PR2105, A-level Chemistry and Biology or equivalent exam, excluding CM1417 and LSM1301 or LSM1301FC
+PR2202, None
+PR2288, By permission
+PR2289, By permission
+PR3103, PR2104
+PR3104, Pass PR1101 or LSM1101 or LSM1201 or LSM1301 or LSM1301FC or CM1121 or GCE 'A' level or H2 Biology or equivalent.
+PR3105, PX3108 and PP2107/PA2107
+PR3106, PP2106/PA2106
+PR3107, PR1103
+PR3288, By permission or PR2288 or PR2289
+PR3289, By permission or PR2288 or PR2289
+PR3301, Nil
+PR4102, PR4101
+PR4104, PR3105
+PR4105, Pass PR1101
+PR4106, PR1102
+PR4199, Completion of Level 3000 modules and subject to departmental approval.
+PR4201, PR1103
+PR4206, Pass PR2103 and PR3102 OR PR3301
+PR5113, Acceptance in the PharmD programme or by permission
+PR5130, Acceptance in the PharmD programme or by permission
+PR5133, Acceptance in the PharmD programme or by permission
+PR5136, Acceptance in the PharmD programme or by permission
+PR5150, Acceptance in the Pharm.D. program or by permission
+PR5151, Acceptance in the Pharm.D. program or by permission
+PR5152, Acceptance in the Pharm.D. program or by permission
+PR5153, Acceptance in the Pharm.D. program or by permission
+PR5154, Acceptance in the Pharm.D. program or by permission
+PR5198, Enrolment in Graduate Studies by research programme (Pharmacy)
+PR5212, Pass PR3101 Principles of Medicinal Chemistry or by special permission
+PR5216, PR4205 or by special permission
+PR5217, (PR2101, PR3102 and PR4106) or PR3301
+PR5220, PR3104 or PR3301 or by special permission.
+PR5230, Acceptance in the PharmD programme or by permission
+PR5239, Acceptance in the PharmD programme or by permission
+PR5250, Acceptance in the Pharm.D. program or by permission
+PR5251, Acceptance in the Pharm.D. program or by permission
+PR5252, Acceptance in the Pharm.D. program or by permission
+PR5302, (PR2101, PR3102 and PR4106) or PR3301
+PS1101E / GEK1003, Nil
+PS2203 / EU2203, Nil
+PS2233 / GEK2024, NIL
+PS2234, Nil
+PS2237, Nil
+PS2239 / GEK2010, Nil
+PS2240, Nil
+PS2244 / SSA2222, Nil
+PS2245, Nil
+PS2248, Nil
+PS2249 / GEK2003 / SSA2209, Nil
+PS3232, Nil
+PS3249 / SSA3205, Nil
+PS3257, Completed 20 MCs in Political Science
+PS3258, PS2102B, PS2102 or PS3257
+PS3262, Nil
+PS3263, Nil
+PS3265, Completed PS1101E
+PS3266 / GEK3007, Nil
+PS3550, Students should: - have completed a minimum of 24 MC in Political Science; and - have declared Political Science as their Major.
+PS3551, Students must: have declared a Major, completed a minimum of 24 MC in that Major, and have a CAP of at least 3.5.
+PS3880B, PS2237
+PS3880H, Nil
+PS4202, Cohort 2006 and before: Completed 80MCs and for PS Majors only. Cohort 2007 onwards: Completed 80MCs, including 28MCs in PS, with a minimum CAP of 3.5 or be on the Honours track.
+PS4203, Cohort 2006 and before: Completed 80MCs and for PS Majors only. Cohort 2007 onwards: Completed 80MCs, including 28MCs in PS or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track
+PS4209, Cohort 2006 and before: Completed 80MCs and for PS Majors only. Cohort 2007 onwards: Completed 80MCs, including 28MCs in PS, with a minimum CAP of 3.5 or be on the Honours track.
+PS4218 / EU4228, Cohort 2006 and before: Completed at least 80 MCs and for PS Majors only. Cohort 2007 onwards: Completed 80MCs, including 28 MCs in PS or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+PS4220, Cohort 2006 and before: Completed 80MCs. Cohort 2007 onwards: Completed 80MCs, including 28MCs in PS, with a minimum CAP of 3.5 or be on the Honours track
+PS4225, Cohort 2006 and before: Completed 80MCs and for PS Majors only. Cohort 2007 onwards: Completed 80MCs, including 28MCs in PS or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+PS4227, Cohort 2007 onwards: Completed 80MCs, including 28MCs in PS, with a minimum CAP of 3.5 or be on the Honours track.
+PS4401, Cohort 2001: Completed 100 MCs with a minimum CAP of 4.00 and for PS majors only. Cohort 2002 & 2003: (i) Complete at least 100 MCs and (ii) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP (based on 56 MCs of PS major requirement) of 4.0 and CAP of 3.5. For PS majors only. Cohort 2004-2006: (i) Complete at least 100 MCs including 56 MCs of PS major requirement and (ii) Obtain one of the following minimum standards at the point of registration (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. For PS majors only. Cohort 2007-2008: Completed 110MCs, including 60 MCs of PS major requirements with a minimum CAP of 3.5 or be on the Honours track. Cohort 2009 onwards: Completed 110MCs including 60MCs of PS major with a minimum SJAP of 4.0 and CAP of 3.5. Please refer to: http://www.fas.nus.edu.sg/pol/students/ugradreq.htm for more information on the PS major requirement.
+PS4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. Complete at least 100MCs including 56MCs of major requirement and obtain a minimum CAP of 3.2 Cohort 2007 onwards: Completed 100MCs, including 60MCs in PS, with a minimum CAP of 3.5. Please refer to http://www.fas.nus.edu.sg/pol/stud ents/ugradreq.htm for more information on the PS major requirement.
+PS4882D, Cohort 2006 and before: Completed 80MC, including 28MCs in the Major. Cohort 2007 onwards: Completed 80MCs, including 28MCs in PS or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+PS4882H, Cohort 2007 onwards: Students must have completed 80 MCs, including 28 MCs in PS, with a miminum CAP of 3.5 or be on the Honors track.
+PS4883A, Cohort 2007 onwards: Completed 80MCs, including 28MCs in PS, with a minimum CAP of 3.5 or be on the Honours track.
+PS4883B, Cohort 2007 onwards: Completed 80MCs, including 28MCs in PS, with a minimum CAP of 3.5 or be on the Honours track.
+PS5312R, Nil
+PS5314R, Nil
+PS5316R, Nil
+PS5603R, Nil
+PY1106, Pharmacy Year 1 students who have passed GCE 'A' Level Biology.
+QF3101, (MA1104 or MA1505 or MA1507) and (MA2222 or QF2101 or MA3269)
+QF3312, SP1001 - Career Planning & Preparation or NCC1001 Headstart Module (A Career Development Programme) or NCC1000 Stepup Module (A Career Development Programme); students must have completed 3 regular semesters of study, have declared Quantitative Finance as first major and have completed a minimum of 32 MCs in Quantitative Finance major at time of application.
+QF4199, Only for students majoring in Quantitative Finance and who matriculated from 2004/2005, subject to faculty and departmental requirements.
+QF5202, Departmental approval
+QF5206, Departmental Approval
+QF5210, (QF3101 and MA4269) or Departmental approval
+RE1103, NIL
+RE1104, Nil
+RE2104, RE1101 Fundamentals of Real Estate Finance
+RE2105, NIL
+RE2106, NIL
+RE2107, RE1104 PRINCIPLES OF REAL ESTATE VALUATION
+RE2201, ST1131 Introduction to Statistics
+RE2301, NIL
+RE3105, RE3103 Real Estate Development
+RE3106, RE2106 Real Estate Marketing & Negotiation
+RE3201, RE2101 Real Estate Market Analysis, RE2104 Real Estate Finance
+RE3211, RE2105 Land Law
+RE3212, RE3104 REAL ESTATE INVESTMENT ANALYSIS
+RE3221, RE2105 Land Law
+RE3222, RE3102 ADVANCED TOPICS IN URBAN PLANNING
+RE3301, NIL
+RE4000, NIL
+RE4001, RE4182 Real Estate Project/Case Study
+RE4210, RE4211 REIT MANAGEMENT, RE4212 REAL ESTATE SECURITIZATION.
+RE4213, RE3104 REAL ESTATE INVESTMENT ANALYSIS, RE4211 REIT MANAGEMENT, RE4212 REAL ESTATE SECURITIZATION
+RE4220, RE4221 ADVANCED URBAN PLANNING THEORIES, RE4222 PUBLIC POLICY AND REAL ESTATE MARKETS.
+RE4223, RE3102 ADVANCED TOPICS IN URBAN PLANNING RE4221 ADVANCED URBAN PLANNING THEORIES RE4222 PUBLIC POLICY AND REAL ESTATE MARKET
+RE4302, NIL
+SC1101E, NIL
+SC2101, NIL
+SC2202, Nil
+SC2204, NIL
+SC2209, Nil
+SC2211, Nil
+SC2212, NIL
+SC2214, Nil
+SC2215, NIL
+SC2220, Nil
+SC2221, NIL
+SC3101 / EU3224, Nil
+SC3203, NIL
+SC3206, Nil
+SC3208, NIL
+SC3211, NIL
+SC3213, Nil
+SC3214, NIL
+SC3216, Nil
+SC3219, Nil
+SC3222, NIL
+SC3227, Nil
+SC3551, Students must: have declared a Major, completed a minimum of 24 MC in that Major, and have a CAP of at least 3.5.
+SC4101, Cohort 2006 and before: Completed 80MCs of which 28MCs must be in Sociology modules. Cohort 2007 onwards: Completed 80MCs of which 28MCs must be in Sociology modules, with a minimum CAP of 3.5 or be on the Honours track.
+SC4210, Cohort 2006 and before: Completed 80MCs of which 28MCs must be in Sociology modules Cohort 2007 onwards: Completed 80MCs of which 28MCs in SC or 28MCs in GL/GL recognized non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+SC4218, Cohort 2006 and before: Completed 80MCs of which 28MCs must be in Sociology modules Cohort 2007 onwards: Completed 80MCs, of which 28MCs in SC or 28MCs in GL/GL recognized non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+SC4220, Cohort 2006 and before: Completed 80MCs of which 28MCs must be in Sociology modules. Cohort 2007 onwards: Completed 80MCs, of which 28MCs must be in Sociology modules, with a minimum CAP of 3.5 or be on the Honours track.
+SC4221, Cohort 2006 and before: Completed 80 MCs of which 28 MCs must be in Sociology modules. Cohort 2007 onwards: Completed 80 MCs of which 28 MCs in SC or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+SC4222, Cohort 2006 and before: Completed 80 MCs of which 28 MCs must be in Sociology modules. Cohort 2007 onwards: Completed 80 MCs of which 28 MCs must be in Sociology modules with a minimum CAP of 3.5 or be on the Honours track.
+SC4223, Cohort 2006 and before: Completed 80 MCs of which 28 MCs must be in Sociology modules. Cohort 2007 onwards: : Completed 80 MCs of which 28 MCs in SC or 28MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+SC4225, Cohort 2006 and before: Completed 80MCs of which 28MCs must be in Sociology modules. Cohort 2007 onwards: Completed 80MCs of which 28MCs must be in Sociology modules, with a minimum CAP of 3.5 or be on the Honours track.
+SC4401, Cohort 2006 and before: (1) Complete at least 100MCs including 56MCs of SC major requirement and (2) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: Completed 110MCs including 60MCs of SC major requirements with a minimum SJAP of 4.0 and CAP of 3.5.
+SC4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. Complete at least 100MCs including 56MCs of major requirement and obtain a minimum CAP of 3.20. Cohort 2007 onwards: To be offered subject to the agreement of the Supervisor and Department. Completed 100MCs, including 60MCs in SC, with a minimum CAP of 3.5.
+SC4882B, Cohort 2006 and before: Completed 80MCs of which 28MCs must be in Sociology modules Cohort 2007 onwards: Completed 80MCs of which 28MCs in SC or 28MCs in GL/GL recognized non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+SC5102R, SC5101 or equivalent SC3209 or equivalent
+SC5215R, Nil
+SDM5002, Nil
+SDM5003, Nil
+SDM5004, NIL
+SE1101E / GEK1008 / SSA1202, NIL
+SE2210, Nil
+SE2217, Nil
+SE2218T, Nil
+SE2223, Nil
+SE2226, Nil
+SE2660, Students should: have completed a minimum of 12 MC in Southeast Asian Studies; and have declared Southeast Asian Studies as their Major. read or waived from: LAB 1201 & LAB 2201; LAT 1201 & LAT2201; or LAV1201 and LAV2201
+SE3211, Nil
+SE3216, Nil
+SE3218, Nil
+SE3220, Nil
+SE3224, As the emphasis of the class is on practical approaches to art as a way of appreciating and understanding Southeast Asian Studies, students should ideally have genuine interests in drawing, painting, and the creative arts.
+SE3226, NIL
+SE3550, Students should: have completed a minimum of 24 MC in Southeast Asian Studies; and have declared Southeast Asian Studies as their Major.
+SE3660, Students should: have completed a minimum of 24 MC in Southeast Asian Studies; and have declared Southeast Asian Studies as their Major. read or waived from: LAB 1201 & LAB 2201; LAT 1201 & LAT2201; or LAV1201 and LAV2201
+SE4401, Cohort 2006 and before: 1) Complete at least 100 MCs including 56 MCs of SE major requirement and (2) Obtain one of the following minimum standards at the point of registration (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5 Cohort 2007 onwards: Complete 110MCs including 60MCs of SE major requirement with a minimum CAP of 3.5.
+SE4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. Complete at least 100MCs including 56MCs of major requirements and obtain a minimum CAP of 3.2 Cohort 2007 onwards: Completed 100MCs, including 60MCs in SE, with a minimum CAP of 3.5.
+SE5221R, Nil
+SE5223R, NIL
+SE5229R, Nil
+SE5233R, For SE Honours students with a minimum CAP of 3.20
+SE5241R, For SE Honours students with a minimum CAP of 3.20.
+SN1101E, NIL
+SN2232, Nil
+SN2233, NIL
+SN2271, Nil
+SN2277, NIL
+SN3262 / HY3236, NIL
+SN3274, Nil
+SN3275, Pass in O/A level Tamil or O Level Higher Tamil In Singapore or Pass in Secondary/Higher Secondary Tamil in India
+SP1230, Currently taking relevant H2 subjects.
+SP2171, Nil
+SP2174, SP2173 Atoms to Molecules
+SP2251, PC1144 - Physics IV or PC1432 - Physics IIE or CM1101 Principles of Modern Chemistry or CM1131 Physical Chemistry 1 or PC1321/GEK1509 Introduction to the Nanoworld
+SP3172, Nil
+SP3176, SP3175 The Earth
+SP3202, GEK1542
+SPH2104, NIL
+SPH3102, NIL
+SPH3103, NIL
+SSA1201, Nil
+SSA1207, Nil
+SSA1208, Nil
+SSA2214, Nil
+SSA2215, Nil
+SSB1204, Nil
+SSB1204T, NIL
+SSB2217, Nil
+SSD2213, NIL
+SSS1207, NIL
+SSU2000, Nil
+SSU2001, Completed (or concurrently reading) Senior seminar requirements of the College curriculum (not applicable for pilot phase)
+SSU2003, N/A
+SSU2004 / GEM2905, Only students who are resident at Tembusu College will be able to read this module. Most students will be expected to have read a Junior Seminar and an Ideas and Exposition module before embarking on this Senior Seminar.
+ST1131, GCE ‘AO’ Level or H1 Pass in Mathematics or its equivalent or MA1301 or MA1301FC
+ST1232, GCE 'AO' Level or H1 Pass in Mathematics or its equivalent
+ST2131 / MA2216, MA1102 or MA1102R or MA1312 or MA1507 or MA1505 or MA1505C or MA1521
+ST2132, MA2216 or ST2131 or ST2334
+ST2288, Nil
+ST2289, nil
+ST2334, MA1306 or MA1102 or MA1102R or MA1505 or MA1505C or MA1521 or MA1312 or MA1507
+ST3131, ST2131 or MA2216 or ST2334
+ST3232, ST2132 or ST2334
+ST3240, ST3131
+ST3241, ST3131
+ST3247, {ST2131 or ST2334 or MA2216} and {CS1010 or CS1010E or CS1010S or CS1010FC or CG1101 or IT1002 or IT1006}
+ST3288, nil
+ST3289, NIL
+ST3312, SP1001 Career Planning & Preparation or NCC1001 Headstart Module (A Career Development Programme) or NCC1000 Stepup Module (A Career Development Programme); students must have completed 3 regular semesters of study, have declared Statistics as first major and have completed a minimum of 32 MCs in Statistics major at time of application.
+ST4199, At least one major at B.Sc./B.Appl.Sc. level; and minimum overall CAP of 3.50 on completion of 100 MCs or more.
+ST4238 / MA4251, MA3238 or ST3236
+ST4240, ST3131
+ST4242, ST3131
+ST4245, ST3131 or QF3101
+ST5217, LSM1102 and ST2132 and ST3236, or Departmental approval
+SW1101E, Nil
+SW2101, Students majoring in Social Work, SW1101E
+SW2104, NIL
+SW2105, Only for students majoring in Social Work, SW1101E
+SW2106, Students from 2008 cohort onwards and majoring in Social Work.
+SW3101, SW1101E
+SW3103A, SW1101E, SW2101, SW2104, SW2105. Students from 2007 cohort onwards.
+SW3104, SW3103A. Students from 2007 cohort onwards.
+SW3213, Nil
+SW3216, SW1101E and SW2101
+SW3217, NIL
+SW3219, Nil
+SW3551, Students must: have declared a Major, completed a minimum of 24 MC in that Major, and have a CAP of at least 3.5.
+SW4213, Cohort 2006 and before: (i) Completed a minimum of 80 MCs, of which student must have passed SW1101E, SW2101, SW2104, SW2105 and (ii) passed or are concurrently reading SW3103 in the semester they intend to read the SW4000 modules. Cohort 2007 onwards: Completed 80 MCs, including 28 MCs in SW of which (i) student must have passed SW1101E, SW2101, SW2104, SW2105 and (ii) passed or are concurrently reading SW3104 in the semester they intend to read the SW4000 modules, with a minimum CAP of 3.5 or be on the Honours track.
+SW4214, Cohort 2006 and before: (i) Completed a minimum of 80MCs, of which student must have passed SW1101E, SW2101, SW2104, SW2105 and (ii) passed or are concurrently reading SW3103 in the semester they intend to read the SW4000 modules. Cohort 2007 onwards: Completed 80MCs, including 28MCs in SW of which (i) student must have passed SW1101E, SW2101, SW2104, SW2105 and (ii) passed or are concurrently reading SW3104 in the semester they intend to read the SW4000 modules, with a minimum CAP of 3.5 or be on the Honours track.
+SW4216, Cohort 2006 and before: (i) Completed a minimum of 80MCs, of which student must have passed SW1101E, SW2101, SW2104, SW2105 and (ii) passed or are concurrently reading SW3103 in the semester they intend to read the SW4000 modules. Cohort 2007 onwards: Completed 80MCs, including 28MCs in SW of which (i) student must have passed SW1101E, SW2101, SW2104, SW2105 and (ii) passed or are concurrently reading SW3104 in the semester they intend to read the SW4000 modules, with a minimum CAP of 3.5 or be on the Honours track.
+SW4401, Cohort 2006 and before: (i) Complete at least 100MCs including 56MCs of SW major requirement and (ii) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: Completed 110MCs including 60MCs of SW major requirements with a minimum SJAP of 4.0 and CAP of 3.5.
+SW4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. Complete at least 100MCs including 56MCs of major requirement and obtain a minimum CAP of 3.20. Cohort 2007 onwards: To be offered subject to the agreement of the Supervisor and Department. Completed 100MCs, including 60MCs in SW, with a minimum CAP of 3.5.
+SW5106R, Nil
+SW5213R, NIL
+SW5253R, Nil
+SX1991, Nil
+SX1992, Nil
+SX1994, Nil
+SX1996, Nil
+SX2991, Nil
+SX2995, Nil
+SX2996, Nil
+SX2997, Nil
+SX3971, Nil
+SX3972, Nil
+SX3973, Nil
+SX3974, Nil
+SX3992, Nil
+SX3993, Nil
+SX3994, Nil
+SX3996, Nil
+TC1401, NIL
+TC1422, NIL
+TC2401, TC1401
+TE2002, TE2102 or TG1401
+TE2003, TE2002
+TE2101, None
+TE3201, TE2101
+TE3801, EE2005E or EE2021E & TE2003
+TE4001, Level 4 Standing.
+TG1401, NIL
+TG2415, NIL
+TG3001, Level 3 Standing
+TG3101A, Level 3 standing AND approval from the Director, BTech.
+TG3101B, Level 3 standing AND approval from the Director, BTech.
+TM2401, NIL
+TM3101, TM2101 or ME2101E
+TM4101, Senior Level 3 Standing (For AY 2006/2007 intake & earlier); Level 4 standing (For AY 2007/2008 intake onwards)
+TM4209, NIL
+TM4264, Nil
+TP5026, CE4 standing or higher
+TP5028, CE4 standing or higher
+TR2201, Nil
+TR2202, Nil
+TR3001, Nil
+TR3002, Nil
+TS1101E / GEM1003, Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules.
+TS2217, TS1101E or GEM1003
+TS2234, TS1101E or GEM1003
+TS2236, TS1101E or GEM1003
+TS2240, TS1101E or GEM1003
+TS3103, TS major students who have completed a minimum of 80 MCs.
+TS3233, TS1101E or GEM1003
+TS3234, TS1101E or GEM1003
+TS3235 / SSA3201, TS1101E or GEM1003
+TS3237, TS1101E or GEM1003
+TS3240, TS1101E or GEM1003
+TS3243, TS1101E or GEM1003
+TS3246, TS1101E or GEM1003 or EN1101E or GEK1000
+TS3247, TS1101E or GEM1003
+TS4213, For TS students: Completed 80 MCs including 28 MCs in Theatre Studies, with a minimum CAP of 3.5 or be on the Honours track. For EL students: Completed 80 MCs including 28 MCs in English Language, with a minimum CAP of 3.5 or be on the Honours track.
+TS4217, Completed 80 MCs, including 28 MCs in Theatre Studies, with a minimum CAP of 3.5 or be on the Honours track.
+TS4401, Completed 110 MCs, including 60 MCs of TS major requirements with a minimum CAP of 3.5.
+TS4660, To be offered subject to the agreement of the Supervisor and Department. Completed 100 MCs, including 60 MCs in TS, with a minimum CAP of 3.5.
+TS4880B, Completed 80 MCs, including 28 MCs in Theatre Studies, with a minimum CAP of 3.5 or be on the Honours track.
+TS5101R, Must be registered as a Graduate Student in the University or with the approval of the Department
+TS5212R, Must be registered as a Graduate Student in the University or with the approval of the Department
+UAR2201, Nil
+UD5628, NIL
+UIS3901, Nil
+UIS3901S, Nil
+UIS3911, Nil
+UIS3911HY, Nil
+UIS3911NM, Nil
+UIS3911PH, Nil
+UIS3911PL, Nil
+UIS3911PS, Nil
+UIS3911SC, Nil
+UIS3911SN, Nil
+UIS3912, Nil
+UIS3912HY, Nil
+UIS3921, USP Student
+UIS3921R, USP Student
+UIS3922, USP Student
+UIS3922R, USP Student
+UIS3923, USP Student
+UIS3923R, USP Student
+UIS3924, USP Student
+UIS3924R, USP Student
+UIS3931, Nil
+UIS3932, Nil
+UIS3933, Nil
+UIS3934, Nil
+UIS3941, Nil
+UIS3941R, Nil
+UIS3942, Nil
+UIS3942R, Nil
+UIS3943, USP Student
+UIS3943R, Nil
+UIS3944, USP Student
+UIS3944R, Nil
+UIS4911, Nil
+UIS4912, Nil
+UIS4913, Nil
+UIS4921, USP Student
+UIS4921R, USP Student
+UIS4922, USP Student
+UIS4922R, USP Student
+UIS4923, USP Student
+UIS4923R, USP Student
+UIS4924, USP Student
+UIS4924R, USP Student
+UIS4931, Nil
+UIS4932, Nil
+UIS4933, Nil
+UIS4934, Nil
+UIS4941, Nil
+UIS4941R, Nil
+UIS4942, Nil
+UIS4942R, Nil
+UIS4943, USP Student
+UIS4943R, Nil
+UIS4944, USP Student
+UIS4944R, Nil
+UIT2206, Not applicable to USP First-Tier modules. USP Advanced modules (Course-Based Modules, CBMs) may state general pre-requisite skills/knowledge. Prerequisites should not make reference to NUS modules.
+ULS2202, Nil
+ULT2299E, Not applicable to USP First-Tier modules. USP Advanced modules (Course-Based Modules, CBMs) may state general pre-requisite skills/knowledge. Prerequisites should not make reference to NUS modules.
+UNL2201, Nil
+UNL2206, Nil
+UPC2206, Nil
+UPC2207, Not applicable to USP First-Tier modules. USP Advanced modules (Course-Based Modules, CBMs) may state general pre-requisite skills/knowledge. Prerequisites should not make reference to NUS modules.
+UPI2206, Not applicable to USP First-Tier modules. USP Advanced modules (Course-Based Modules, CBMs) may state general pre-requisite skills/knowledge. Prerequisites should not make reference to NUS modules.
+UQF2101B, Not applicable to USP First-Tier modules. USP Advanced modules (Course-Based Modules, CBMs) may state general pre-requisite skills/knowledge. Prerequisites should not make reference to NUS modules.
+UQF2101F, Not applicable to USP First-Tier modules. USP Advanced modules (Course-Based Modules, CBMs) may state general pre-requisite skills/knowledge. Prerequisites should not make reference to NUS modules.
+UQF2101G, Not applicable to USP First-Tier modules.
+UQF2101H, Not applicable to USP First-Tier modules.
+UQR2211, Not applicable to USP First-Tier modules. USP Advanced modules (Course-Based Modules, CBMs) may state general pre-requisite skills/knowledge. Prerequisites should not make reference to NUS modules.
+USE2209, Nil
+USE2304, Nil
+USE2307, Nil
+USE2313, Second-year and above
+USE2316, Not applicable to USP First-Tier modules. USP Advanced modules (Course-Based Modules, CBMs) may state general pre-requisite skills/knowledge. Prerequisites should not make reference to NUS modules.
+USE2317, Not applicable to USP First-Tier modules. USP Advanced modules (Course-Based Modules, CBMs) may state general pre-requisite skills/knowledge. Pre-requisites should not make reference to NUS modules.
+USE2318, Not applicable to USP First-Tier modules. USP Advanced modules (Course-Based Modules, CBMs) may state general pre-requisite skills/knowledge. Prerequisites should not make reference to NUS modules.
+USP3501, Nil
+USP3506, Nil
+USS2105, Nil
+UWC2101A, Nil
+UWC2101B, Nil
+UWC2101C, Not applicable to USP First-Tier modules.
+UWC2101H, Nil
+UWC2101S, Nil
+UWC2101Y, Not applicable to USP First-Tier modules
+UWC2102E, UWC2101
+XFA4401, Nil
+XFA4402, Cohort 2004 to 2006: (1) Passed EC4101/EC4151 or EC4102/EC4152 and (2) Complete at least 100 MCs including at least 56MCs of EC major requirements and (3) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: (1) Passed EC4101/EC4151 or EC4102/EC4152 and 2. Completed 110MCs including 60MCs of EC major requirements with a minimum SJAP of 4.0 and CAP of 3.5.
+XFB4001, Nil
+XFB4002, Vary, depending on specific research topic.
+XFC4101, Attain at least 70% of the MC requirement for the respective degrees or departmental approval
+XFE4401, Nil
+YCC1112, NIL
+YCC1114, NIL
+YCC1122, NIL
+YCC1132, NIL
+YHU1201, Nil
+YHU1202, Nil
+YHU1203, Nil
+YHU1204, Nil
+YHU1205, A writing sample submitted to the instructor before the start of the semester to ascertain writing ability and eligibility for the course.
+YHU1206, Nil
+YID1201, Nil
+YIR1302, Nil
+YIR1321, Nil
+YIR1322, Nil
+YLF1211, Nil
+YLS1201, Nil
+YSS1201, Nil
+YSS1202, Nil
+YSS1203, Nil
+ZB3288, Passed level 1000 and 2000 essential major requirements
+ZB3289, ZB3288
+ZB4199, Students majoring in computational biology
+GEK1000 / EN1101E, Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules.
+GEK1001 / GE1101E, NIL
+GEK1002 / JS1101E, Nil
+GEK1003 / PS1101E, Nil
+GEK1008 / SE1101E, Nil
+GEK1011 / EL1101E, Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules.
+GEK1012, Nil
+GEK1022, Nil
+GEK1048, NIL
+GEK1054, Nil
+GEK1055, NIL
+GEK1056, Nil
+GEK1058, NIL
+GEK1059, Nil
+GEK1062, This module will be taught in English. There is a basic requirement of CLB. We hope to invite experts to give guest-lectures in their field of interest. If this is done in Chinese, translation will be provided.
+GEK1064, Nil
+GEK1501, Nil
+GEK1505, Nil
+GEK1508 / PC1325, NIL
+GEK1509, Nil
+GEK1510 / PC1323, Nil
+GEK1513, basic knowledge of mathematics and physics at the GCE O-level.
+GEK1515, NIL
+GEK1519 / PC1327, Nil
+GEK1520 / PC1322, Nil
+GEK1522, Nil
+GEK1523, Nil
+GEK1524, O-level in Physics or Physical Sciences
+GEK1527, Nil
+GEK1531, Nil
+GEK1536, Nil
+GEK1538, Nil
+GEK1540, None
+GEK1544, Nil
+GEK1547, Nil
+GEK1548, Nil
+GEK1900, NIL
+GEK2001 / SSA2202, Nil
+GEK2003 / PS2249, Nil
+GEK2005, NIL
+GEK2010 / PS2239, Nil
+GEK2013, NIL
+GEK2024 / PS2233, NIL
+GEK2030 / PH2212, NIL
+GEK2036 / PH2222, NIL
+GEK2037 / PH2223, NIL
+GEK2042, Nil
+GEK2044, Nil
+GEK2047 / CH2297, Nil
+GEK2506, Nil
+GEK2508, A-Level Physics or Understanding the Universe (GEK1520/PC1322) or Einstein’s Universe & Quantum Weirdness (GEK1508/PC1325)
+GEK3007 / PS3266, Nil
+GEM1003 / TS1101E, Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules.
+GEM1004FC, Nil
+GEM1023, Nil
+GEM1033, Nil
+GEM1036, NIL
+GEM1501, Nil
+GEM1536, NIL
+GEM1537, Nil
+GEM1915FC, Nil
+GEM2006 / PH2110, NIL
+GEM2022, NIL
+GEM2027, NIL
+GEM2509, A-level Mathematics
+GEM2900, nil
+GEM2901, nil
+SSA1201, Nil
+SSA1202 / SE1101E, NIL
+SSA1207, Nil
+SSA1208, Nil
+SSA2202 / GEK2001, Nil
+SSA2203 / HY2239, NIL
+SSA2204 / HY2229, Nil
+SSA2205 / JS2224, Nil
+SSA2208 / HY2242, NIL
+SSA2209 / PS2249, NIL
+SSA2214, Nil
+SSA2215, Nil
+SSA2220 / EC2373, NIL
+SSA2221 / HY2254, NIL
+SSA2222 / PS2244, Nil
+SSA3201 / TS3235, NIL
+SSA3203 / MS3209, Nil
+SSA3205 / PS3249, Nil
+SSB1204, Nil
+SSB2217, Nil
+SSD2213, NIL
+SSS1207, NIL
+ACC1002X, Nil
+ACC1006, FNA1002 or ACC1002
+ACC2002, Students must have completed BK1003 or BZ1002 or BH1002 or FNA1002 or FNA1002X or FNA1002E or ACC1002 or ACC1002X or BH1002E or CS1304 or EC3212 or EG1422 before they are allowed to take ACC2002.
+ACC4612A, ACC3613 Advanced Assurance and Attestation
+ACC4612C, Nil
+ACC4612E, Depends on the particular stream offered. It is envisaged that completion of one or more ACC3xxx modules will be a pre-requisite in most cases.
+BSP1004X, Nil
+BSP1005, Nil
+BSP2001, BSP1005 or BH1005 or BZ1006 or BK1008
+BSP2005, BSP2001
+BSP4512, BSP2001
+CE2112, Nil
+CE2183, Nil
+CE3101, CE2 standing or higher
+CH1101E, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH2141 / CL2241, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH2223, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH2273, Must obtain: 1) at least a B4 for (a) Higher Chinese at GCE 'O' level, or (b) Chinese Language at GCE 'AO' level (at GCE'A' level examination); OR 2) at least a pass for (a) Chinese at GCE 'A' level, or (b) Higher Chinese at GCE 'A' level; OR 3) at least C grade for Chinese Language (H1CL) at GCE 'A' level; OR 4) at least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' level. 5) Equivalent qualifications may be accepted.
+CH2291, Nil
+CH2297 / GEK2047, NIL
+CH3223, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH3226, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH3229, Students must have obtained: 1. at least a B4 for (a) Higher Chinese at GCE ‘O’ level, or (b) Chinese Language at GCE ‘AO’ level (at GCE ‘A’ level examination); OR 2. at least a pass for (a) Chinese at GCE ‘A’ level, or (b) Higher Chinese at GCE ‘A’ level; OR 3. at least C grade for Chinese Language (H1CL) at GCE ‘A’ level; OR 4. at least a pass for (a) Chinese Language and Literature (H2CLL) at GCE ‘A’ level, or (b) Chinese Language and Literature (H3CLL) at GCE ‘A’ level. 5. Equivalent qualifications may be accepted.
+CH3248, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL1101E, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL2103, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL2241 / CH2141, Must obtain: (i) At least a B4 for (a) Higher Chinese at GCE ‘O’ Level, or (b) Chinese Language at GCE ‘AO’ Level (at GCE ‘A’ Level examination); OR (ii) At least a pass for (a) Chinese at GCE ‘A’ Level, or (b) Higher Chinese at GCE ‘A’ Level; OR (iii) At least C grade for Chinese Language (H1CL) at GCE ‘A’ Level; OR (iv) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE ‘A’ Level, or (b) Chinese Language and Literature (H3CLL) at GCE ‘A’ Level. (v) Equivalent qualifications may be accepted.
+CL2260, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL2281, 1) Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules; AND 2) Grade 'B4' and above in Higher Chinese (HCL) at GCE 'O' Level or Chinese (CL) at GCE 'AO' Level; OR Grade 'C' and above in Chinese Language (H1CL) at GCE 'A' Level.
+CL2291, NIL
+CL3205, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL3208, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL3211, "Students must have obtained: 1) at least a B4 for (a) Higher Chinese at GCE ‘O’ level, or (b) Chinese Language at GCE ‘AO’ level (at GCE ‘A’ level examination); OR 2) at least a pass for (a) Chinese at GCE ‘A’ level, or (b) Higher Chinese at GCE ‘A’ level; OR 3) at least C grade for Chinese Language (H1CL) at GCE ‘A’ level; OR 4) at least a pass for (a) Chinese Language and Literature (H2CLL) at GCE ‘A’ level, or (b) Chinese Language and Literature (H3CLL) at GCE ‘A’ level. 5) Equivalent qualifications may be accepted."
+CL3281, CL2280 or CL2281
+CN2116, CN111FC, CN1111, Co-req : CN2125
+CN2121, CN1111FC, CM1502, CN1111
+CN2122, MA1505, MA1506
+CS1010E, nil
+CS1020E, CS1010E or its equivalent
+CS1231, A-level Mathematics or H2 Mathematics or MA1301 or MA1301FC
+CS2010, CS1020 or CS1020E or CG1103 Data Structures and Algorithms I
+CS2102, (CS1020 or its equivalent) and (CS1231 or MA1100)
+CS2103, (CS1020 or its equivalent)
+CS2105, CS1020 or equivalent
+CS2106, CS2100 or EE2007 or EE2024
+CS2107, CS1010 or its equivalence
+CS3103, (CS2105 Introduction to Computer Networks or EE3204 Computer Communication Networks I) and co-read CS3103L Computer Networks Laboratory
+CS3210, CS2100 or CG2007
+CS3211, CS2106 or CG2271
+CS3223, (CS2010 or its equivalent) and (CS2102 or CS2102S)
+CS3225, (CS2010 or its equivalent) and (CS2220 or LSM2104)
+CS3230, (CS2010 or its equivalent) and (CS1231 or MA1100)
+CS3234, CS1231 or MA1100; Programming experience is preferred.
+CS3241, CS1020 or its equivalent
+CS3243, (CS2010 or its equivalent) and (CS1231 or MA1100).
+DSC1007X, NIL
+DSC2006, Nil
+DSC2008, NIL
+DSC3201, DSC2006 or BH2006 or BZ2003 or BK2006
+DSC3202, DSC2006 or BH2006 or BZ2003 or BK2006
+DSC3203, DSC2006 or BH2006 or BZ2003 or BK2006
+DSC3213, Nil
+DSC3216, ST1131A/ST1131/ST1232/MA2216/ST2131/ST2334/EE2003/ME2491
+DSC3224, DSC1007
+DSC3226, DSC2006 Operations Management DSC3201 Supply Chain Management DSC3202 Purchasing and Materials Management
+DSC5121, NIL
+DSC5211A, Knowledge in Operations Management and Supply Chain Management Knowledge of Calculus and Probability
+EC1301, Nil
+EC2101, EC1101E or EC1301/EC1310 or USSE01 or USE2301 or BSP1005/BH1005/BZ1006
+EC2102, EC1101E or EC1301/EC1310 or USSE01 or USE2301 or BSP1005 or BH2001/BZ2001
+EC2104, NIL
+EC2303, NIL
+EC2373 / SSA2220, NIL
+EC2374, EC1101E or EC1301/EC1310 or BSP1005 or USSE01 or USE2301
+EC3101, EC2101/EC2151
+EC3102, EC2102/EC2152/BSP2001 and EC2101/EC2151
+EC3303, (EC1101E or EC1301/EC1310 or BSP1005) and (EC2303/EC2231/DSC1007 or any ST or SA module or MQ2205 or GM2303 or MA2216 or BZ1008/BK1004)
+EC3304, EC3303/EC3231 or SA3101 or ST3131
+EC3312, EC2101/EC2151 and a module on probability (BK1004, EC2303/EC2231, GM2303, MA2216, MQ2205, any SA module, any ST module, or their equivalent).
+EC3322, EC2101/EC2151
+EC3332, EC2102/EC2152 or EC1101E or EC1301/EC1310 or USSE01 or USE2301
+EC3333, EC2101/EC2151 and EC2102/EC2152/BSP2001
+EC3341, EC2101/EC2151 and EC2102/EC2152/BSP2001
+EC3351, EC2101/EC2151
+EC3352, Minimum CAP of 4.0 and minimum average grade point for EC2101 Microeconomic Analysis 1 and EC2102 Macroeconomic Analysis 1 together of 4.0.
+EC3361, EC2101/EC2151
+EC3371, EC2101/EC2151
+EC3375, EC1101E or EC1301
+EC3376, EC3341 International Economics I
+EC3377, EC2101 Microeconomic Analysis I and EC2102 Macroeconomic Analysis I.
+EC3381, EC2101/EC2151
+EC3384, EC2101/EC2151
+EC3394, EC2101 Microeconomic AnalysisI EC2102 Macroeconomic AnalysisI and EC3303 Econometrics I
+EC3396, EC2102/EC2152/BSP2001, EC3101/EC3151 and ((EC2104 or any MA module that is not MA1301 or MA1301FC or MA1311 or MA1312 or MA1421) or EC3311/EC3221).
+EC3880B, EC2101 and EC2102
+EE2020, A-level Physics or EE1002 / CG1108 / EG1108
+EE2022, EE1002/EG1108/CG1108
+EE3331C, EE2023 Signals and Systems
+EE3431C, Nil
+EG1108, H1 Physics or H2 Physics or A Level Physics or PC1222 Fundamentals of Physics II
+EG1109, 'A Level Math / H2 Math or equivalent
+EL1101E / GEK1011, Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules.
+EL2201, EL1101E or GEK1011
+EL2211, EL1101E or GEK1011
+EL3202, EL2102 or EL2202
+EL3208, EL1101E or GEK1011
+EL3209, EL1101E or GEK1011. Exposure to some linguistics is helpful but not essential.
+EL3252, EL1101E or GEK1011
+EL3258, EL1101E or GEK1011, and EL2251
+EL3880F, EL1101E or GEK1011
+EN1101E / GEK1000, Exempted from or passed the NUS Qualifying English Test, or exempted from further CELC Remedial English modules.
+EN2201, EN1101E or EN2101E or GEK1000
+EN2202, (1) EN1101E or EN2101E or GEK1000, and (2) EN majors.
+EN2203, Nil
+EN3222, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3229, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3241, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3249, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3261 / EU3217, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3265, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3880A, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: EN2203 or EN2204.
+EU1101E, NIL
+EU2203 / PS2203, NIL
+EU2214 / PH2212, NIL
+EU2223 / HY2256, NIL
+EU3217 / EN3261, NIL
+EU3224 / SC3101, NIL
+EU3228, Nil
+EU3230 / HY3209, NIL
+EU3231 / HY3242, NIL
+FIN2004X, Students must have completed BK1003 or BZ1002 or BH1002 or FNA1002/ACC1002 or FNA1002X/ACC1002X or FNA1002E or BH1002E or EC3212 or EG1422 before they are allowed to take FIN2004.
+FIN3101A, FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004
+FIN3102A, FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004
+FIN3102B, FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004
+FIN3103A, FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004
+FIN3103B, FNA2004 or FIN2004 or BH2004 or BZ2004 or BK2004
+FIN3113, FNA1002 or FNA1002X or ACC1002 or ACC1002X or BH1002 or BZ1002 or BK1003 or FNA1002E or BH1002E
+FIN3116, FNA3102 or FNA3102A or FNA3102B or FNA3102C or FIN3102 or FIN3102A or FIN3102B or FIN3102C
+FIN3117, FNA2004/FIN2004 and FNA3102/FIN3102
+FIN3118, FNA3101 or FIN3101
+FIN3130, ACC1002 Financial Accounting • FIN2004 Finance • FIN3102 Investment Analysis and Portfolio Management • An aptitude with mathematics and programming would be a plus.
+FIN3131, FNA3102 or FIN3102 or FIN3102A or FIN3102B or FIN3102C
+FST2201, LSM1101
+GE1101E / GEK1001, Nil
+GE2202, NIL
+GE2206, NIL
+GE2218, NIL
+GE2220, NIL
+GE3204, NIL
+GE3206, NIL
+GE3216, GE2215
+GE3221, Nil
+GE3242, Nil
+GE3243, GE3880A Topics in Petroleum Geoscience or GE3244 Fundamentals in Petroleum Geoscience (This is the proposed regularised module code of the existing GE3880A Topics in Petroleum Geoscience)
+GL1101E, Nil
+GL2102, GL1101E
+GL2103, GL1101E
+HY1101E, NIL
+HY2216, NIL
+HY2229 / SSA2204, Nil
+HY2232, NIL
+HY2239 / SSA2203, NIL
+HY2242 / SSA2208, NIL
+HY2254 / SSA2221, NIL
+HY2256 / EU2223, NIL
+HY3201, NIL
+HY3209 / EU3230, NIL
+HY3226, NIL
+HY3236 / SN3262, Nil
+HY3242 / EU3231, NIL
+HY3248, NIL
+HY3252, Nil
+ID2112, NIL
+ID2122, Nil
+ID3124, NIL
+IE2130, MA1505, MA1506 or SA1101, or ST1131, or ST1131A, or ST1232, or ST2334.
+IE2140, Nil
+IS1105, Nil
+IS1112, NIL
+IT1001, Nil
+IT1006, A-Levels/H2 Mathematics or equivalent.
+IT2001, (CS1010 or its equivalent) or GEK1511 or IT1001
+IT2002, (CS1010 or its equivalent)
+JS1101E / GEK1002, Nil
+JS2213, NIL
+JS2224 / SSA2205, Nil
+JS2226, NIL
+JS2230, Nil
+JS3208, LAJ2202 or pass in JLPT level 3 or placement test.
+JS3210, NIL
+JS3211, Nil
+JS3230, Nil
+LAB1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAB2201, Passed LAB1201 or placement test
+LAB3201, Passed LAB2201 or placement test
+LAB3202, Passed LAB3201 or placement test
+LAB4201, Passed LAB3202 or placement test.
+LAB4202, Passed LAB4201 or placement test.
+LAC1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAC2201, Passed LAC1201 or placement test.
+LAC3201, Passed LAC2201/LAC2202 or placement test.
+LAC3202, Passed LAC3201 or placement test.
+LAC3204, Higher Chinese at GCE 'O' Level, GCE 'AO' Level Chinese or equivalent
+LAC4202, Passed LAC4201 or placement test
+LAF1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAF2201, Passed LAF1201 or placement test
+LAF3202, Passed LAF3201 or placement test.
+LAF3203, Passed LAF3201 or placement test.
+LAF4202, Passed LAF4201 or placement test.
+LAG1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAG2201, Passed LAG1201 or placement test
+LAG3202, Passed LAG3201or placement test
+LAG3203, Passed LAG3201 or placement test
+LAG4202, Passed LAG4201or placement test
+LAH1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAH2201, Passed LAH1201 Hindi 1, or its equivalence, or by placement test.
+LAH3202, Passed LAH3201 Hindi 3, or by placement test.
+LAJ1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAJ2201, Passed LAJ1201 or placement test.
+LAJ2202, Passed LAJ2201 or placement test.
+LAJ2203, Passed LAJ2202 or placement test.
+LAJ3201, Passed LAJ2203 or placement test.
+LAJ3202, Passed LAJ3201, LAJ3203, or placement test.
+LAK1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAK2201, For students who passed LAK1201 (Korean 1) or placement test.
+LAK3202, Passed LAK3201 Korean 3 or by placement test.
+LAK3203, Passed LAK3201 Korea 3 or by placement test.
+LAK4202, LAK4201 Korean 5 or by placement test.
+LAL1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAL2201, Passed LAL1201 or placement test
+LAM1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAM2201, Passed LAM1201 Malay 1 or placement test.
+LAM3201, Passed LAM2201 Malay 2 or placement test.
+LAM3202, Passed LAM3201 Malay 3 or placement test.
+LAR1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAR2201, "LAR1201 Arabic 1, or by placement test."
+LAR3202, Successful completion of LAR3201 or exemption from it based on placement test results.
+LAR4202, Successful completion of LAR4201 or by placement test.
+LAT1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAT2201, LAT1201 or placement test.
+LAT3201, LAT2201 or placement test.
+LAT3202, Passed LAT3201 or placement test.
+LAT4201, Passed LAT3202 or placement test.
+LAT4202, Passed LAT4201 or placement test.
+LAV1201, This module is meant for students with no prior knowledge of the target language. Students with prior knowledge (including spoken proficiency) must contact CLS to take a placement test.
+LAV2201, Passed LAV1201 or placement test
+LAV3201, Passed LAV2201 or placement test
+LAV3202, Passed LAV3201 or placement test
+LAV4202, LAV4201 or placement test
+LL4061, NUS Compulsory Core Curriculum or its equivalent
+LL4082, NUS Compulsory Core Curriculum or its equivalent.
+LL4133, Nil
+LL4134, For law students: NUS Compulsory Core Curriculum or its equivalent For non-law students: 3rd & 4th Year students from Arts & Social Sciences Faculty
+LL4234, For law students: NUS Compulsory Core Curriculum For non-law students: Open to Philosophy, Political Science, and USP students.
+LSM1301, Nil
+LSM1303, Nil
+MA1101R, GCE 'A' level Mathematics or H2 Mathematics or MA1301 or MA1301FC
+MA1102R, GCE 'A' level Mathematics or H2 Mathematics or MA1301 or MA1301FC
+MA1104, MA1102 or MA1102R or MA1505 or MA1505C or MA1521 or EE1401 or EE1461 or EG1402
+MA1301, Pass in O-level Additional Mathematics or AO-level or H1 Mathematics
+MA1312, AO-Level Mathematics or H1 Mathematics or MA1301 or MA1301FC
+MA1505, GCE ‘A’ Level Mathematics or H2 Mathematics or MA1301 or MA1301FC
+MA1506, Read MA1102R or MA1505 or MA1521
+MA1521, GCE 'A' level Mathematics or H2 Mathematics or MA1301 or MA1301FC
+MA2101, MA1101 or MA1101R or MA1506 or MA1508 or GM1302 or GM1308
+MA2108, MA1102 or MA1102R or MA1505 or MA1505C or MA1507 or MA1521
+MA2213, (MA1102R or MA1312 or MA1507 or MA1505 or MA1521 or EG1402 or EE1401 or EE1461) and (MA1101R or MA1311 or MA1508 or MA1506)
+MA2216 / ST2131, MA1102 or MA1102R or MA1312 or MA1507 or MA1505 or MA1505C or MA1521
+MA2219, MA1100 or MA1101R or MA1506 or MA1508 or MA1102R or MA1505 or MA1507 or CS1231
+MA3110, MA2108 or MA2108S
+MA3111, (MA1104 or MA1507) and (MA3110 or MA3110S)
+MA3201, (MA2202 or MA2202S) and (MA2101 or MA2101S)
+MA3215, {MA1104 or MA1104S or MA2221 or MA1507 or MA1505 or MA2311} and {MA1101R or MA1311 or MA1506 or MA1508}
+MA3218, MA2101 or MA2101S
+MA3227, MA2213 and (MA1104 or MA1506 or MA1507 or MA1505 or MA2311) and (MA2101 or MA2101S) and (MA2216 or ST2131 or ST2334).
+MA3233, MA2214
+MA3238 / ST3236, {MA1101 or MA1101R or MA1311 or MA1508 or GM1302} and {MA2216 or ST2131}
+MA3252, MA1101 or MA1101R or MA1306 or MA1311 or MA1508 or MA1506 or GM1306
+MA3259, MA2216 or MA3233 or MA3501 or ST2131 or ST2334 or LSM2241
+MA3266, (MA1101R or MA1506 or MA1508) and MA1104 and MA3220
+MA4207, MA3110 or MA3110S or MA3205 or MA3219
+MA4211, MA3207H or MA3209
+MA4229, (MA2101 or MA2101S) and (MA3110 or MA3110S)
+MA4251 / ST4238, MA3238 or ST3236
+MA4252, MA3220
+MA4254, MA2215 or MA3252
+MA4255, MA2213 and MA3220
+MA4263, (MA2202 or MA2202S) and (MA3111 or MA3111S)
+MA4266, MA3209
+MA4269, (MA1104 or MA1506 or MA1507) and MA3269
+MKT1003X, Nil
+MKT2401A, MKT1003 or BH1003 or BZ1003 or BK2003
+MKT2401B, MKT1003 or BH1003 or BZ1003 or BK2003
+MKT2401C, MKT1003 or BH1003 or BZ1003 or BK2003
+MKT2412, MKT1003
+MKT2413, MKT1003 or BH1003 or BZ1003 or BK2003
+MKT3402B, MKT1003 or BH1003 or BZ1003 or BK2003
+MKT3412, MKT1003 or BH1003 or BZ1003 or BK2003
+MKT3413, MKT1003
+MKT3415, MKT1003
+MKT3418A, MKT1003 or BH1003 or BZ1003 or BK2003 or TR2201.
+MKT3418B, MKT1003 or BH1003 or BZ1003 or BK2003 or TR2201.
+MKT3424, MKT1003 or MKT1003X Marketing
+MKT3513, MKT1003 Principles of Marketing (or TR2201 Entrepreneurial Marketing) BSP1005 Managerial Economics or equivalent
+MNO1001X, Nil
+MNO2007, MNO1001 Management and Organization
+MNO2009, MNO1001 Management and Organisation
+MNO2302, MNO1001 or BH1001 or BZ1001 or BK2002 or HR2001 or HR2101 or HR3111 or HR3308
+MNO3301, MNO1001 or BH1001 or BZ1001 or BK2002 or HR2001 or HR2101 or HR3111 or HR3308
+MNO3303, MNO1001 or BH1001 or BZ1001 or BK2002 or HR2001 or HR2101 or HR3111 or HR3308
+MNO3313J, MNO1001: Management and Organisation
+MNO3322, MNO1001 Management & Organisation and MNO2007 Leadership and Ethics Note: Students who are matriculated before AY2009/2010, need NOT read MNO2007 as a pre-requisite for this MNO module.
+MNO3323, MNO1001 Management & Organisation and MNO2007 Leadership and Ethics Note: Students who are matriculated before AY2009/2010, need NOT read MNO2007 as a pre-requisite for this MNO module.
+MNO3330, Nil
+MS1102E, Nil
+MS2211, NIL
+MS2213, NIL
+MS3209 / SSA3203, NIL
+MS3212, Nil
+MS3215, Nil
+MS3216, Nil
+MS3218, Nil
+MT4003, Nil
+MUA3219, NIL
+MUA3220, NIL
+NM1101E, Nil
+NM2101, Cohort 2008 and before: Nil. Cohorts 2009 to 2011: Obtain a grade of B- or above in NM1101E Communications, New Media and Society (applies to students from ALL faculties except School of Computing). Students who fail to meet the B- criterion in NM1101E will have the opportunity to take a department conducted test, which will act as an alternative prerequisite. Cohort 2012 onwards: Nil
+NM2103, NIL
+NM2104, NIL
+NM2201, Nil
+NM2203, NIL
+NM2212, NIL
+NM2213, NIL
+NM2219, NIL
+NM2220, Nil
+NM2302, Nil
+NM3202, NIL
+NM3203, NIL
+NM3204, NIL
+NM3205, NIL
+NM3211, NM2220 Introduction to Media Writing. Read and pass a minimum of 80 MCs.
+NM3214, NIL
+NM3215, Nil
+NM3217, Nil
+NM3219, NIL
+NM3221, Nil
+NM3223, NIL
+NM3224, NIL
+NM3227, NIL
+NM3229, Nil
+NM3233, NIL
+NM3235, NIL
+NM3236, NIL
+NM3237, NIL
+NUR1116, Nil
+NUR1118, NUR1117 Anatomy and Physiology I
+PC1143, 'A' level or H2 pass in Physics or PC1221 & PC1222
+PC1144, 'A' level or H2 pass in Physics or PC1221 & PC1222
+PC1221, 'O' level pass in Physics or Combined Science (Physics & Chemistry OR Physics & Biology).
+PC1222, 'O' level pass in Physics or Combined Science (Physics & Chemistry OR Physics & Biology).
+PC1322 / GEK1520, None
+PC1323 / GEK1510, None
+PC1325 / GEK1508, NIL
+PC1327 / GEK1519, Nil
+PC1431, Students from FOE (i.e. Civil Eng, Environmental Eng, Common Engineering, Mechanical Eng, Bioengineering, Industrial & Systems Eng and Material Science & Eng) with ‘A’ level or H2 pass in Physics; or 'A' level or H2 pass in Physics; or PC1221 & PC1222
+PC1432, Students from FOE ( i.e. Computer Eng, Common Engineering, Bioengineering, Industrial & Systems Eng and Material Science & Eng) with ‘A’ level or H2 pass in Physics; or 'A' level or H2 pass in Physics; or PC1221 & PC1222
+PC2130, Students who have either passed PC1144 or PC1432 and (MA1505 and MA1506) or MA1507 or equivalent.
+PC2131, Students who have passed either PC1143 or PC1432 and (MA1505 and MA1506)
+PC2193, Students who have passed one of these modules PC1141, PC1142, PC1143, PC1144, PC1431, PC1431FC, PC1432 or PC1433
+PC2230, PC1142, PC1144, PC1431 PC1431FC or PC1433 and MA1505 or MA1507
+PC3130, Students who have passed both (PC2130 or PC2130B) and (MA1505 and MA1506), or students who have passed both PC2130 and PC2174.
+PC3193, PC2193
+PC3233, PC2130 or PC2130B
+PC3236, Students who have passed MA1505 and MA1506, or PC2174 or equivalent.
+PC3241, PC2131 or PC2231 or PC3235 or MLE2104 or PC2133 or EE2005.
+PC3243, PC2131 or PC2231 or PC3130 or PC3241 or PC3235 or PC2133 or EE2005
+PC3246, PC2130 or PC2132
+PC3251, SP2251
+PC3267, Students who have passed either PC2131 or PC2267 or EE2011 or Departmental Approval
+PC4232, PC3246 or PC4248 or PC3274
+PC4240, PC3235 or equivalent
+PC4242, PC3231
+PC4243, PC3233
+PC4245, Students who have passed either PC3232 or PC4130
+PC4253, Students who have passed either PC3235 or PC3241 or PC3242
+PC4262, PC3231
+PC4264, PC3241
+PC4274, Students who have passed either PC3214 or PC3234 or PC3274
+PH1102E, Nil
+PH2110 / GEM2006, NIL
+PH2202, NIL
+PH2212 / EU2214 / GEK2030, NIL
+PH2222 / GEK2036, Nil
+PH2223 / GEK2037, Nil
+PH2241, NIL
+PH2302 / GEK2039, NIL
+PH3202, NIL
+PH3203, NIL
+PH3204 / SN3272, NIL
+PH3206, NIL
+PL1101E, Nil
+PL2131, Obtained a minimum grade of C6 in G.C.E. 'O' level Mathematics or equivalent.
+PL2132, Cohort 2008 and earlier: PL1101E and PL2131. Cohort 2009 onwards: At least a B- in both PL1101E and PL2131. Students who fail to meet the B- criterion in either of the modules, or both, will have the opportunity to take a department-conducted test, which will act as an alternative prerequisite.
+PL3232, PL1101E
+PL3233, PL1101E
+PL3234, PL1101E
+PL3235, PL1101E
+PL3236, PL1101E
+PL3237, PL1101E
+PL3241, PL1101E and PL2131
+PL3243, PL1101E and PL3233
+PL3249, PL1101E, PL3232 and PL3233
+PL3250, PL1101E and PL3233
+PL3251, PL1101E and PL3234
+PR2202, None
+PS1101E / GEK1003, Nil
+PS2203 / EU2203, Nil
+PS2233 / GEK2024, NIL
+PS2234, Nil
+PS2237, Nil
+PS2239 / GEK2010, Nil
+PS2240, Nil
+PS2244 / SSA2222, Nil
+PS2245, Nil
+PS2248, Nil
+PS2249 / GEK2003 / SSA2209, Nil
+PS3232, Nil
+PS3249 / SSA3205, Nil
+PS3257, Completed 20 MCs in Political Science
+PS3258, PS2102B, PS2102 or PS3257
+PS3262, Nil
+PS3263, Nil
+PS3265, Completed PS1101E
+PS3266 / GEK3007, Nil
+PS3880B, PS2237
+PS3880H, Nil
+QF3101, (MA1104 or MA1505 or MA1507) and (MA2222 or QF2101 or MA3269)
+SC1101E, NIL
+SC2101, NIL
+SC2202, Nil
+SC2204, NIL
+SC2209, Nil
+SC2211, Nil
+SC2212, NIL
+SC2214, Nil
+SC2215, NIL
+SC2220, Nil
+SC2221, NIL
+SC3101 / EU3224, Nil
+SC3203, NIL
+SC3206, Nil
+SC3208, NIL
+SC3211, NIL
+SC3213, Nil
+SC3214, NIL
+SC3216, Nil
+SC3219, Nil
+SC3222, NIL
+SC3227, Nil
+SE1101E / GEK1008 / SSA1202, NIL
+SE2210, Nil
+SE2217, Nil
+SE2223, Nil
+SE2226, Nil
+SE3211, Nil
+SE3216, Nil
+SE3218, Nil
+SE3220, Nil
+SE3224, As the emphasis of the class is on practical approaches to art as a way of appreciating and understanding Southeast Asian Studies, students should ideally have genuine interests in drawing, painting, and the creative arts.
+SE3226, NIL
+SN1101E, NIL
+SN2232, Nil
+SN2233, NIL
+SN2271, Nil
+SN2277, NIL
+SN3262 / HY3236, NIL
+SN3272 / PH3204, Nil
+SN3274, Nil
+SN3275, Pass in O/A level Tamil or O Level Higher Tamil In Singapore or Pass in Secondary/Higher Secondary Tamil in India
+SP2251, PC1144 - Physics IV or PC1432 - Physics IIE or CM1101 Principles of Modern Chemistry or CM1131 Physical Chemistry 1 or PC1321/GEK1509 Introduction to the Nanoworld
+SPH2104, NIL
+SPH3102, NIL
+SPH3103, NIL
+ST2131 / MA2216, MA1102 or MA1102R or MA1312 or MA1507 or MA1505 or MA1505C or MA1521
+ST2132, MA2216 or ST2131 or ST2334
+ST2334, MA1306 or MA1102 or MA1102R or MA1505 or MA1505C or MA1521 or MA1312 or MA1507
+ST3131, ST2131 or MA2216 or ST2334
+ST3232, ST2132 or ST2334
+ST3236 / MA3238, (MA1101 or MA1101R or MA1311 or MA1508) and (ST2131 or MA2216)
+ST3240, ST3131
+ST3241, ST3131
+ST3247, {ST2131 or ST2334 or MA2216} and {CS1010 or CS1010E or CS1010S or CS1010FC or CG1101 or IT1002 or IT1006}
+SW1101E, Nil
+SW2104, NIL
+SW3101, SW1101E
+SW3213, Nil
+SW3217, NIL
+SW3219, Nil
+TR2201, Nil
+TR2202, Nil
+TR3001, Nil
+TR3002, Nil
+TS1101E / GEM1003, Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules.
+TS2217, TS1101E or GEM1003
+TS2234, TS1101E or GEM1003
+TS2236, TS1101E or GEM1003
+TS2240, TS1101E or GEM1003
+TS3233, TS1101E or GEM1003
+TS3234, TS1101E or GEM1003
+TS3235 / SSA3201, TS1101E or GEM1003
+TS3237, TS1101E or GEM1003
+TS3240, TS1101E or GEM1003
+TS3243, TS1101E or GEM1003
+TS3246, TS1101E or GEM1003 or EN1101E or GEK1000
+TS3247, TS1101E or GEM1003
+YLS1201, Nil
+IE2130, MA1505, MA1506 or SA1101, or ST1131, or ST1131A, or ST1232, or ST2334.
+IE2140, Nil

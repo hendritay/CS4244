@@ -1,0 +1,2530 @@
+ACC1002, Financial Accounting, ACCOUNTING, 4
+ACC1002X, Financial Accounting, ACCOUNTING, 4
+ACC1006, Accounting Information Systems, ACCOUNTING, 4
+ACC2002, Managerial Accounting, ACCOUNTING, 4
+ACC3601, Corporate Accounting and Reporting, ACCOUNTING, 4
+ACC3602, Managerial Planning and Control, ACCOUNTING, 4
+ACC3603, Assurance and Attestation, ACCOUNTING, 4
+ACC3604, Corporate and Securities Law, ACCOUNTING, 4
+ACC3605, Taxation, ACCOUNTING, 4
+ACC3606, Advanced Corporate Accounting and Reporting, ACCOUNTING, 4
+ACC3611, Corporate Governance and Ethics, ACCOUNTING, 4
+ACC3612, Risk Management and Internal Control, ACCOUNTING, 4
+ACC3613, Advanced Assurance and Attestation, ACCOUNTING, 4
+ACC3614, Valuation, ACCOUNTING, 4
+ACC3615, Accounting Theory, ACCOUNTING, 4
+ACC4611, Advanced Taxation, ACCOUNTING, 4
+ACC4612A, Seminars in Accounting: Internal Auditing, ACCOUNTING, 4
+ACC4612C, Sem in Acctg: Internal Control and Risk Mgmt in China, ACCOUNTING, 4
+ACC4612E, Seminars in Accounting: Risk Management Technology, ACCOUNTING, 4
+ACC4619, Advanced Independent Study in Accounting, ACCOUNTING, 4
+ACC4629, Advanced Independent Study in Accounting, ACCOUNTING, 2
+AR1102, Design 2, ARCHITECTURE, 8
+AR1326, Architectural Construction, ARCHITECTURE, 4
+AR1721, Climate Responsive Architecture, ARCHITECTURE, 4
+AR1724, Introduction To Landscape Architecture, ARCHITECTURE, 4
+AR2102, Design 4, ARCHITECTURE, 8
+AR2151, Technology Integration I, ARCHITECTURE, 4
+AR2225, Reading Visual Images, ARCHITECTURE, 4
+AR2327, Architecture, Structure and Construction, ARCHITECTURE, 4
+AR2723, Strategies for Sustainable Architecture, ARCHITECTURE, 4
+AR3102, Design 6, ARCHITECTURE, 8
+AR3102A, Design 6 (Landscape Architecture Emphasis), ARCHITECTURE, 8
+AR3152, Technology Integration II, ARCHITECTURE, 4
+AR3721, Environmental Systems and Construction, ARCHITECTURE, 4
+AR4102, Design 8, ARCHITECTURE, 8
+AR4104, Architectural & Technology Design 2, ARCHITECTURE, 8
+AR4142, Research Report, ARCHITECTURE, 8
+AR4223, Architecture and Urban Heritage, ARCHITECTURE, 4
+AR4323, Assessment of Sustainable Design, ARCHITECTURE, 4
+AR5011, Research Methodology, ARCHITECTURE, 4
+AR5221, CONTEMPORARY THEORIES, ARCHITECTURE, 4
+AR5321, Advanced Architectural Technology, ARCHITECTURE, 4
+AR5952J, HUMAN ECOLOGY AND BUILT ENVIRONMENT - SPACE AND HEALTH, ARCHITECTURE, 4
+AR5952M, Topics In Urban Studies - Making Liveable Cities, ARCHITECTURE, 4
+AR5952Z, Topics in Urban Studies 2 Elective, ARCHITECTURE, 4
+AR5953L, Topics in Design Technology - Design Space Exploration, ARCHITECTURE, 4
+AR5953N, Topics In Design Technology - Rapid Prototyping, ARCHITECTURE, 4
+BFS1001, Personal Development & Career Management, DEAN'S OFFICE (BIZ), 0
+BHD4001, Honours Dissertation, DEAN'S OFFICE (BIZ), 12
+BHD4001A, Honours Dissertation, DEAN'S OFFICE (BIZ), 0
+BHD4001B, Honours Dissertation, DEAN'S OFFICE (BIZ), 0
+BHD4001C, Honours Dissertation, DEAN'S OFFICE (BIZ), 12
+BLD3001, Business Leadership Case Analysis, DEAN'S OFFICE (BIZ), 4
+BLD3002, CEOs as Leaders, DEAN'S OFFICE (BIZ), 2
+BLD3003, Personal Leadership Development, DEAN'S OFFICE (BIZ), 2
+BLD3004, Topics in Leadership, DEAN'S OFFICE (BIZ), 4
+BN2001, Independent Study, BIOMEDICAL ENGINEERING, 4
+BN2103, Bioengineering Design Workshop, BIOMEDICAL ENGINEERING, 2
+BN2201, Quantitative Physiology for Bioengineers, BIOMEDICAL ENGINEERING, 4
+BN2203, Introduction to Bioengineering Design, BIOMEDICAL ENGINEERING, 4
+BN2401, Biosignals Processing, BIOMEDICAL ENGINEERING, 4
+BN3401, Biomedical Electronics & Systems, BIOMEDICAL ENGINEERING, 4
+BN3501, Equilibrium and Kinetic Bioprocesses, BIOMEDICAL ENGINEERING, 4
+BN4101R, B.Eng. Dissertation, BIOMEDICAL ENGINEERING, 12
+BN4201, Musculoskeletal Biomechanics, BIOMEDICAL ENGINEERING, 4
+BN4203, Rehabilitation Engineering, BIOMEDICAL ENGINEERING, 4
+BN4402, Electrophysiology, BIOMEDICAL ENGINEERING, 4
+BN4404, Bioelectromechanical Systems - Biomems, BIOMEDICAL ENGINEERING, 4
+BSP1004, Legal Environment Of Business, STRATEGY AND POLICY, 4
+BSP1004X, Legal Environment Of Business, STRATEGY AND POLICY, 4
+BSP1005, Managerial Economics, STRATEGY AND POLICY, 4
+BSP2001, Macro And International Economics, STRATEGY AND POLICY, 4
+BSP2005, Asian Business Environments, STRATEGY AND POLICY, 4
+BSP3001A, Strategic Management, STRATEGY AND POLICY, 4
+BSP3001B, Strategic Management, STRATEGY AND POLICY, 4
+BSP3001C, Strategic Management, STRATEGY AND POLICY, 4
+BSP4512, Global Strategic Management, STRATEGY AND POLICY, 4
+CE2112, Soil Mechanics, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE2183, Construction Project Management, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE3101, Integrated Infrastructure Project, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE3102, Engineering of Socio-Technical Systems, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE3116, Foundation Engineering, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE3132, Water Resources Engineering, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE3155, Structural Analysis, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE3165, Structural Concrete Design, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE4103, Design Project, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE4104, B. Eng. Dissertation, CIVIL & ENVIRONMENTAL ENGINEERING, 8
+CE4221, Design of Land Transport Infrastructures, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE4231, Earth's Climate: Science & Modelling, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE4247, Treatment Plant Hydraulics, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE4258, Structural Stability & Dynamics, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE4282, Building Information Modeling for Project Management, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE5105, Analytical & Numerical Methods In Foundation Engineering, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE5106, Ground Improvement, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE5107, Pile Foundations, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE5207, Pavement Network Management Systems, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE5308, Coastal Processes & Sediment Transport, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE5313, Groundwater Hydrology, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE5603, Engineering Economics & Project Evaluation, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE5604, Advanced Concrete Technology, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE5611, Precast Concrete Technology, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE5805, CONSTRUCTION EQUIPMENT & METHODS, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE5881, TOPICS IN GEOTECHNICAL ENGINEERING: SOIL DYNAMICS, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE5883A, Topics in Hydraulic & Water Resources - Environmental Hydraulics, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CG1108, Electrical Engineering, COMPUTING & ENGINEERING, 4
+CG2271, Real-Time Operating Systems, COMPUTING & ENGINEERING, 4
+CG3204L, Computer Networks Laboratory, COMPUTING & ENGINEERING, 4
+CG4001, B. Eng. Dissertation, COMPUTING & ENGINEERING, 12
+CH1101E, Introduction to Chinese Studies, CHINESE STUDIES, 4
+CH2141 / CL2241, General History of China, CHINESE STUDIES, 4
+CH2223, Chinese Fiction, CHINESE STUDIES, 4
+CH2273, Chinese Media in Singapore: Theory and Practice, CHINESE STUDIES, 4
+CH2291, Chinese Tradition (taught in English), CHINESE STUDIES, 4
+CH2297 / GEK2047, Exploring Chinese Cinema: Shanghai-Hong Kong-Singapore, CHINESE STUDIES, 4
+CH3223, Selected Authors/Texts II, CHINESE STUDIES, 4
+CH3226, Modern Chinese Literature, CHINESE STUDIES, 4
+CH3229, Modern Literature in Taiwan and Hong Kong, CHINESE STUDIES, 4
+CH3248, Contemporary China: 1949 to Present, CHINESE STUDIES, 4
+CH3295, Understanding China: Past and Present (in English), CHINESE STUDIES, 4
+CH4244, Selected Topics on The Overseas Chinese, CHINESE STUDIES, 5
+CH4261, Prescribed Text: Zhuangzi, CHINESE STUDIES, 5
+CH4281, Translation Studies, CHINESE STUDIES, 5
+CH4401, Honours Thesis, CHINESE STUDIES, 15
+CH4660, Independent Study, CHINESE STUDIES, 5
+CH5225, TOPICS IN SE ASIAN CHINESE LITERATURE, CHINESE STUDIES, 4
+CH5225R, TOPICS IN SE ASIAN CHINESE LITERATURE, CHINESE STUDIES, 5
+CH5242, Selected Texts in Chinese Historiography, CHINESE STUDIES, 4
+CH5242R, Selected Texts in Chinese Hist, CHINESE STUDIES, 5
+CH5660, INDEPENDENT STUDY, CHINESE STUDIES, 4
+CH5880, Topics in Applied Chinese Linguistics, CHINESE STUDIES, 4
+CH5880R, Topics in Applied Chinese Linguistics, CHINESE STUDIES, 5
+CH6201, TOPICS IN CHINESE LINGUISTICS, CHINESE STUDIES, 4
+CH6245, Culture and Society in Chinese History, CHINESE STUDIES, 4
+CH6262, INDEPENDENT STUDY IN CHINESE STUDIES, CHINESE STUDIES, 4
+CL1101E, Introduction to Chinese Language, CHINESE STUDIES, 4
+CL2103, Chinese Grammar, CHINESE STUDIES, 4
+CL2260, Selected Readings, CHINESE STUDIES, 4
+CL2281, Translation and Interpretation, CHINESE STUDIES, 4
+CL2291, Chinese Anthropolinguistics (taught in English), CHINESE STUDIES, 4
+CL3205, Topics on Chinese Linguistics II, CHINESE STUDIES, 4
+CL3208, Chinese Phonology, CHINESE STUDIES, 4
+CL3211, The Standardization of the Chinese Language, CHINESE STUDIES, 4
+CL3281, Advanced Translation, CHINESE STUDIES, 4
+CM1121, Organic Chemistry 1, CHEMISTRY, 4
+CM1161, Principles of Chemical Process I, CHEMISTRY, 4
+CM1191, Experiments in Chemistry 1, CHEMISTRY, 4
+CM1402, General Chemistry, CHEMISTRY, 4
+CM1502, General and Physical Chemistry for Engineers, CHEMISTRY, 4
+CM2101, Physical Chemistry 2, CHEMISTRY, 4
+CM2111, Inorganic Chemistry 2, CHEMISTRY, 4
+CM2121, Organic Chemistry 2, CHEMISTRY, 4
+CM2142, Analytical Chemistry 1, CHEMISTRY, 4
+CM2161, Principles of Chemical Process II, CHEMISTRY, 4
+CM2191, Experiments in Chemistry 2., CHEMISTRY, 4
+CM2192, Experiments in Chemistry 3., CHEMISTRY, 4
+CM2192A, Experiments in Chemistry 3A, CHEMISTRY, 2
+CM2288, Basic UROPS in Chemistry I, CHEMISTRY, 4
+CM2289, Basic UROPS In Chemistry II, CHEMISTRY, 4
+CM3181, Professional Placement Applied Chemistry, CHEMISTRY, 8
+CM3193, Industrial Process Laboratory, CHEMISTRY, 4
+CM3194, Synthesis and Instrumentation Laboratory, CHEMISTRY, 4
+CM3211, Organometallic Chemistry, CHEMISTRY, 4
+CM3222, Organic Reaction Mechanisms, CHEMISTRY, 4
+CM3225, Biomolecules, CHEMISTRY, 4
+CM3232, Phy Chem of the Solid State & Interfaces, CHEMISTRY, 4
+CM3251, Nanochemistry, CHEMISTRY, 4
+CM3253, Materials Chemistry 1, CHEMISTRY, 4
+CM3261, Environmental Chemistry, CHEMISTRY, 4
+CM3262, Advanced Inorganic Materials, CHEMISTRY, 4
+CM3264, Petroleum and Industrial Organics, CHEMISTRY, 4
+CM3265, Polymer Chemistry II, CHEMISTRY, 4
+CM3288, Advanced UROPS in Chemistry I, CHEMISTRY, 4
+CM3289, Advanced UROPS in Chemistry II, CHEMISTRY, 4
+CM3291, Advanced Experiments In Organic & Inorganic Chemistry, CHEMISTRY, 4
+CM3292, Advanced Experiments In Analytical & Physical Chemistry, CHEMISTRY, 4
+CM3295, Selected Experiments in Analytical Chem., CHEMISTRY, 4
+CM3296, Molecular Modelling: Theory & Practice, CHEMISTRY, 4
+CM3301, Advanced Forensic Science, CHEMISTRY, 4
+CM3302, Overseas Exploratory Project (Europe), CHEMISTRY, 2
+CM3303, Overseas Exploratory Project (CHINA), CHEMISTRY, 2
+CM3312, Extended Undergraduate Professional Internship, CHEMISTRY, 8
+CM4199A, Honours Project in Chemistry, CHEMISTRY, 16
+CM4199B, Honours Project in Applied Chemistry, CHEMISTRY, 16
+CM4201, DIRECTED INDEPENDENT STUDY IN MODERN CHEMISTRY, CHEMISTRY, 4
+CM4214, Structural Methods in Inorganic Chem, CHEMISTRY, 4
+CM4236, Spectroscopy in Biophysical Chemistry, CHEMISTRY, 4
+CM4241, Trace Analysis, CHEMISTRY, 4
+CM4242, Advanced Analytical Techniques, CHEMISTRY, 4
+CM4268, Advanced Polymer Science, CHEMISTRY, 4
+CM4269, Sustainable & Green Chemistry, CHEMISTRY, 4
+CM4271, MEDICINAL CHEMISTRY, CHEMISTRY, 4
+CM4274, The Art and Methodology in Total Synthesis, CHEMISTRY, 4
+CM5225, Asymmetric Catalysis, CHEMISTRY, 4
+CM5237, Advanced Optical Spectroscopy and Imaging, CHEMISTRY, 4
+CM5245, BIOANALYTICALCHEMISTRY, CHEMISTRY, 4
+CM5262, Contemporary Materials Chemistry, CHEMISTRY, 4
+CN1111, Chemical Engineering Principles, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN1111E, Chemical Engineering Principles, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+CN2108, Chemical Engineering Process Laboratory I, CHEMICAL & BIOMOLECULAR ENGINEERING, 2
+CN2116, Chemical Kinetics & Reactor Design, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN2116E, Chemical Kinetics And Reactor Design, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+CN2121, Chemical Engineering Thermodynamics, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN2122, Fluid Mechanics, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN2125, Heat & Mass Transfer, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN2125E, Heat And Mass Transfer, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+CN3108, Chemical Engineering Process Laboratory II, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN3109, Chemical Engineering Process Laboratory III, CHEMICAL & BIOMOLECULAR ENGINEERING, 2
+CN3124, Fluid-Solid Systems, CHEMICAL & BIOMOLECULAR ENGINEERING, 3
+CN3124E, Particle Technology, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+CN3132, Separation Processes, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN3135, Process Safety, Health and Environment, CHEMICAL & BIOMOLECULAR ENGINEERING, 3
+CN3421, Process Modeling And Numerical Simulation, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN4118E, B.Tech. Dissertation, BACHELOR OF TECHNOLOGY PROGRAMME, 10
+CN4118R, B.Eng. Dissertation, CHEMICAL & BIOMOLECULAR ENGINEERING, 10
+CN4121, Design Project, CHEMICAL & BIOMOLECULAR ENGINEERING, 10
+CN4122, Process Synthesis and Simulation, CHEMICAL & BIOMOLECULAR ENGINEERING, 3
+CN4123E, Design Project, BACHELOR OF TECHNOLOGY PROGRAMME, 7
+CN4201R, Petroleum Refining, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN4203R, Polymer Engineering, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN4208E, Biochemical Engineering, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+CN4210E, Membrane Science And Engineering, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+CN4223R, Microelectronic Thin Films, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN4227E, Advanced Process Control, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+CN4227R, Advanced Process Control, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN4238R, Chemical & Biochemical Process Modeling, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN4240R, Processes for Effluent Control, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN4246R, Chemical and Bio Catalysis, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN4248, Sustainable Process Development, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN5111, OPTIMIZATION OF CHEMICAL PROCESSES, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN5173, DOWNSTREAM PROCESSING OF BIOCHEMICAL & PHARMACEUTICAL PRODUCTS, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CP3101A, Global Open Source Project, DEAN'S OFFICE (SCHOOL OF COMPUTING), 4
+CP3101B, Web Programming and Applications, COMPUTER SCIENCE, 4
+CP3106, Independent Project, DEAN'S OFFICE (SCHOOL OF COMPUTING), 4
+CP3108A, Independent Work, DEAN'S OFFICE (SCHOOL OF COMPUTING), 2
+CP3108B, Independent Work, DEAN'S OFFICE (SCHOOL OF COMPUTING), 4
+CP3109, Overseas Exploratory Project, DEAN'S OFFICE (SCHOOL OF COMPUTING), 2
+CP3200, Internship, DEAN'S OFFICE (SCHOOL OF COMPUTING), 6
+CP3201, Industry Seminar, DEAN'S OFFICE (SCHOOL OF COMPUTING), 2
+CP3208, Undergraduate Research in Computing I, DEAN'S OFFICE (SCHOOL OF COMPUTING), 4
+CP3209, Undergraduate Research in Computing II, DEAN'S OFFICE (SCHOOL OF COMPUTING), 4
+CP3880, Advanced Technology Attachment Programme, DEAN'S OFFICE (SCHOOL OF COMPUTING), 12
+CP4101, B.Comp. Dissertation, DEAN'S OFFICE (SCHOOL OF COMPUTING), 12
+CS1010, Programming Methodology, COMPUTER SCIENCE, 4
+CS1010E, Programming Methodology, COMPUTER SCIENCE, 4
+CS1010FC, Programming Methodology, COMPUTER SCIENCE, 4
+CS1010R, Programming Methodology, COMPUTER SCIENCE, 1
+CS1010S, Programming Methodology, COMPUTER SCIENCE, 4
+CS1020, Data Structures and Algorithms I, COMPUTER SCIENCE, 4
+CS1020E, Data Structures and Algorithms I, COMPUTER SCIENCE, 4
+CS1231, Discrete Structures, COMPUTER SCIENCE, 4
+CS1231R, Discrete Structures, COMPUTER SCIENCE, 1
+CS2010, Data Structures and Algorithms II, COMPUTER SCIENCE, 4
+CS2020, Data Structures and Algorithms Accelerated, COMPUTER SCIENCE, 6
+CS2100, Computer Organisation, COMPUTER SCIENCE, 4
+CS2100R, Computer Organisation, COMPUTER SCIENCE, 1
+CS2101, Effective Communication for Computing Professionals, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+CS2102, Database Systems, COMPUTER SCIENCE, 4
+CS2102R, Database Systems, COMPUTER SCIENCE, 1
+CS2103, Software Engineering, COMPUTER SCIENCE, 4
+CS2103R, Software Engineering, COMPUTER SCIENCE, 1
+CS2103T, Software Engineering, COMPUTER SCIENCE, 4
+CS2104R, Programming Language Concepts, COMPUTER SCIENCE, 1
+CS2105, Introduction to Computer Networks, COMPUTER SCIENCE, 4
+CS2105R, Introduction to Computer Networks, COMPUTER SCIENCE, 1
+CS2106, Introduction to Operating Systems, COMPUTER SCIENCE, 4
+CS2106R, Introduction to Operating Systems, COMPUTER SCIENCE, 1
+CS2107, Introduction to Information and System Security, COMPUTER SCIENCE, 4
+CS3103, Computer Networks and Protocols, COMPUTER SCIENCE, 4
+CS3103L, Computer Networks Laboratory, COMPUTER SCIENCE, 2
+CS3201, Software Engineering Project I, COMPUTER SCIENCE, 4
+CS3202, Software Engineering Project II, COMPUTER SCIENCE, 4
+CS3210, Parallel Computing, COMPUTER SCIENCE, 4
+CS3211, Parallel and Concurrent Programming, COMPUTER SCIENCE, 4
+CS3217, Software Engineering on Modern Application Platforms, COMPUTER SCIENCE, 5
+CS3218, Multimodal Processing in Mobile Platforms, COMPUTER SCIENCE, 4
+CS3223, Database Systems Implementation, COMPUTER SCIENCE, 4
+CS3225, Combinatorial Methods in Bioinformatics, COMPUTER SCIENCE, 4
+CS3230, Design and Analysis of Algorithms, COMPUTER SCIENCE, 4
+CS3230R, Design and Analysis of Algorithms, COMPUTER SCIENCE, 1
+CS3233, Competitive Programming, COMPUTER SCIENCE, 4
+CS3233R, Competitive Programming, COMPUTER SCIENCE, 1
+CS3234, Logic and Formal Systems, COMPUTER SCIENCE, 4
+CS3240, Interaction Design, COMPUTER SCIENCE, 4
+CS3241, Computer Graphics, COMPUTER SCIENCE, 4
+CS3241R, Computer Graphics, COMPUTER SCIENCE, 1
+CS3242, 3D Modeling and Animation, COMPUTER SCIENCE, 4
+CS3243, Introduction to Artificial Intelligence, COMPUTER SCIENCE, 4
+CS3243R, Introduction to Artificial Intelligence, COMPUTER SCIENCE, 1
+CS3245, Information Retrieval, COMPUTER SCIENCE, 4
+CS3247, Game Development, COMPUTER SCIENCE, 4
+CS3249, User Interface Development, COMPUTER SCIENCE, 4
+CS3282, Thematic Systems Project II, COMPUTER SCIENCE, 4
+CS3284, Media Technology Project II, COMPUTER SCIENCE, 4
+CS3343, Digital Media Production, COMPUTER SCIENCE, 4
+CS3882, Breakthrough Ideas for Digital Markets, COMPUTER SCIENCE, 4
+CS4215, Programming Language Implementation, COMPUTER SCIENCE, 4
+CS4218, Software Testing and Debugging, COMPUTER SCIENCE, 4
+CS4220, Knowledge Discovery Methods in Bioinformatics, COMPUTER SCIENCE, 4
+CS4222, Wireless Computing and Sensor Networks, COMPUTER SCIENCE, 4
+CS4231, Parallel and Distributed Algorithms, COMPUTER SCIENCE, 4
+CS4236, Cryptography Theory and Practice, COMPUTER SCIENCE, 4
+CS4242, Social Media Computing, COMPUTER SCIENCE, 4
+CS4243R, Computer Vision and Pattern Recognition, COMPUTER SCIENCE, 1
+CS4244, Knowledge-Based Systems, COMPUTER SCIENCE, 4
+CS4246R, AI Planning and Decision Making, COMPUTER SCIENCE, 1
+CS4247, Graphics Rendering Techniques, COMPUTER SCIENCE, 4
+CS4248R, Natural Language Processing, COMPUTER SCIENCE, 1
+CS4340, Digital Special Effects, COMPUTER SCIENCE, 4
+CS4347, Sound and Music Computing, COMPUTER SCIENCE, 4
+CS4880, Digital Entrepreneurship, DEAN'S OFFICE (SCHOOL OF COMPUTING), 4
+CS5214, Design of Optimising Compilers, COMPUTER SCIENCE, 4
+CS5218, Principles of Program Analysis, COMPUTER SCIENCE, 4
+CS5222, Advanced Computer Architecture, COMPUTER SCIENCE, 4
+CS5230, Computational Complexity, COMPUTER SCIENCE, 4
+CS5231, Systems Security, COMPUTER SCIENCE, 4
+CS5232, Formal Specification and Design Techniques, COMPUTER SCIENCE, 4
+CS5233, Simulation and Modelling Techniques, COMPUTER SCIENCE, 4
+CS5241, Speech Processing, COMPUTER SCIENCE, 4
+CS5272, Embedded Software Design, COMPUTER SCIENCE, 4
+CS5331, Web Security, COMPUTER SCIENCE, 4
+CS5342, Multimedia Computing and Applications, COMPUTER SCIENCE, 4
+CZ5226, Advanced Bioinformatics, PHARMACY, 4
+DSC1007, Business Analytics - Models & Decisions, DECISION SCIENCES, 4
+DSC1007X, Business Analytics - Models & Decisions, DECISION SCIENCES, 4
+DSC2006, Operations Management, DECISION SCIENCES, 4
+DSC2008, Business Analytics - Data & Decisions, DECISION SCIENCES, 4
+DSC3201, Supply Chain Management, DECISION SCIENCES, 4
+DSC3202, Purchasing And Materials Management, DECISION SCIENCES, 4
+DSC3203, Service Operations Management, DECISION SCIENCES, 4
+DSC3213, Strategic Information Systems, DECISION SCIENCES, 4
+DSC3216, Forecasting For Managerial Decisions, DECISION SCIENCES, 4
+DSC3222M, TIOSCM: Business Practicum, DECISION SCIENCES, 4
+DSC3224, Dynamic Pricing & Revenue Management, DECISION SCIENCES, 4
+DSC3226, Sustainable Operations Management, DECISION SCIENCES, 4
+DSC3229, Independent Study in Ops & Supply Chain Mgt, DECISION SCIENCES, 4
+DSC4211C, SIOSCM: OPERATIONS STRATEGY, DECISION SCIENCES, 4
+DSC4211G, SIOSCM: Service Design, DECISION SCIENCES, 4
+DSC4219, Advanced Independent Study in Ops & Supply Chain Mgt, DECISION SCIENCES, 4
+DSC5121, Hands-on with Business Analytics (Supply Chain & Finance), DECISION SCIENCES, 4
+DSC5211A, Supply Chain Coordination and Risk Management, DECISION SCIENCES, 4
+EC1101E, Introduction to Economic Analysis, ECONOMICS, 4
+EC1301, Principles of Economics, ECONOMICS, 4
+EC2101, Microeconomic Analysis I, ECONOMICS, 4
+EC2102, Macroeconomic Analysis I, ECONOMICS, 4
+EC2104, Quantitative Methods for Economic Analysis, ECONOMICS, 4
+EC2303, Foundations for Econometrics, ECONOMICS, 4
+EC2373 / SSA2220, Global Economic Dimensions of Singapore, ECONOMICS, 4
+EC2374, Economy of Modern China I, ECONOMICS, 4
+EC3101, Microeconomic Analysis II, ECONOMICS, 4
+EC3102, Macroeconomic Analysis II, ECONOMICS, 4
+EC3303, Econometrics I, ECONOMICS, 4
+EC3304, Econometrics II, ECONOMICS, 4
+EC3312, Game Theory & Applications to Economics, ECONOMICS, 4
+EC3322, Industrial Organisation I, ECONOMICS, 4
+EC3332, Money and Banking I, ECONOMICS, 4
+EC3333, Financial Economics I, ECONOMICS, 4
+EC3341, International Economics I, ECONOMICS, 4
+EC3351, Public Finance, ECONOMICS, 4
+EC3352, Seminar in Singapore's Economic Policy, ECONOMICS, 4
+EC3361, Labour Economics I, ECONOMICS, 4
+EC3371, Development Economics I, ECONOMICS, 4
+EC3375, Economy and Business of Japan and Korea, ECONOMICS, 4
+EC3376, European Economic Integration, ECONOMICS, 4
+EC3377, Global Economic History, ECONOMICS, 4
+EC3381, Urban Economics, ECONOMICS, 4
+EC3384, Resource and Energy Economics I, ECONOMICS, 4
+EC3394, Economics and Psychology, ECONOMICS, 4
+EC3396, Economic Analysis of Law I, ECONOMICS, 4
+EC3551, FASS Undergraduate Research Opportunity (UROP), ECONOMICS, 4
+EC3880B, Topics in Economics: Economics of Ageing, ECONOMICS, 4
+EC4101, Microeconomic Analysis III, ECONOMICS, 5
+EC4102, Macroeconomic Analysis III, ECONOMICS, 5
+EC4324, Economics of Competition Policy, ECONOMICS, 5
+EC4332, Money and Banking II, ECONOMICS, 5
+EC4333, Financial Economics II, ECONOMICS, 5
+EC4341, International Economics II, ECONOMICS, 5
+EC4351, Public Economics, ECONOMICS, 5
+EC4361, Labour Economics II, ECONOMICS, 5
+EC4371, Development Economics II, ECONOMICS, 5
+EC4394, Behavioural Economics, ECONOMICS, 5
+EC4401, Honours Thesis, ECONOMICS, 15
+EC4660, Independent Study, ECONOMICS, 5
+EC4880, Topics in Economics, ECONOMICS, 5
+EC5326R, Policy Impact Evaluation Methods, ECONOMICS, 5
+EC5332R, Money & Banking, ECONOMICS, 5
+EE1003, Introduction to Signals and Communications, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE2011, Engineering Electromagnetics, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE2011E, Engineering Electromagnetics, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+EE2012, Analytical Methods In ECE, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE2020, Digital Fundamentals, ELECTRICAL & COMPUTER ENGINEERING, 5
+EE2020E, Digital Fundamentals, BACHELOR OF TECHNOLOGY PROGRAMME, 5
+EE2021, Devices and Circuits, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE2021E, Devices and Circuits, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+EE2022, Electrical Energy Systems, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE2023, Signals and Systems, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE2024, Programming for Computer Interfaces, ELECTRICAL & COMPUTER ENGINEERING, 5
+EE2031, Circuit and Systems Design Lab, ELECTRICAL & COMPUTER ENGINEERING, 3
+EE2032, Signals & Communications Design Lab, ELECTRICAL & COMPUTER ENGINEERING, 3
+EE3013C, Labview for Electrical Engineers, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE3013E, Labview for Electrical Engineers, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+EE3031, Innovation & Enterprise I, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE3031E, Innovation & Enterprise I, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+EE3032, Innovation & Enterprise II, ELECTRICAL & COMPUTER ENGINEERING, 6
+EE3104C, Intro to RF and Microwave Sys & Circuits, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE3131C, Communication Systems, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE3304, Digital Control Systems, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE3331C, Feedback Control Systems, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE3407, Analog Electronics, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE3407E, Analog Electronics, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+EE3431C, Microelectronics Materials and Devices, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE3431E, Microelectronics Materials and Devices, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+EE3501C, Power Electronics, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE3501E, Power Electronics, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+EE4001, B.Eng. Dissertation, ELECTRICAL & COMPUTER ENGINEERING, 12
+EE4104, Microwave Circuits & Devices, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4110, RFIC and MMIC Design, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4112E, High Frequency (HF) Techniques, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+EE4114, Optical Communications, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4210, Computer Communication Networks II, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4210E, Computer Communications Networks II, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+EE4212, Computer Vision, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4213, Image and Video Processing, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4218, Embedded Hardware System Design, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4302, Advanced Control Systems, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4306, Distributed Autonomous Robotic Systems, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4307, Control Systems Design And Simulation, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4401, Optoelectronics, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4408, Silicon Device Reliability, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4410A, Integrated Circuit Design, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4415, Integrated Digital Design, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4415E, Integrated Digital Design, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+EE4431, Nano-Device Engineering, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4432, Devices for Electric Energy Generation, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4434, Integrated Circuit Technology, Design and Testing, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4509, Silicon Micro Systems, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4511, Sustainable Energy Systems, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4603, Biomedical Imaging Systems, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE4605, Bio-Instrumentation & Signal Analysis, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE5903, REAL-TIME SYSTEMS, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE5904R, NEURAL NETWORKS, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE5907R, Pattern Recognition, ELECTRICAL & COMPUTER ENGINEERING, 4
+EG1108, Electrical Engineering, DEAN'S OFFICE (ENGINEERING), 3
+EG1109, Statics And Mechanics Of Materials, DEAN'S OFFICE (ENGINEERING), 4
+EG1310, Exploratory Satellite Design, ELECTRICAL & COMPUTER ENGINEERING, 4
+EG1603, TIP - Product & Business Plan Competition, DEAN'S OFFICE (ENGINEERING), 2
+EG2201A, Design Thinking in Grand Engineering Challenges - Part 1, DEAN'S OFFICE (ENGINEERING), 4
+EG2401, Engineering Professionalism, DEAN'S OFFICE (ENGINEERING), 3
+EG2603A, TIP - Product & Business Plan Development, DEAN'S OFFICE (ENGINEERING), 2
+EG2604, Innovation Programme, DEAN'S OFFICE (ENGINEERING), 4
+EG2605, Undergraduate Research Opportunities Programme, DEAN'S OFFICE (ENGINEERING), 4
+EG2606A, Independent Work, DEAN'S OFFICE (ENGINEERING), 2
+EG2606B, Independent Work, DEAN'S OFFICE (ENGINEERING), 4
+EG3301, DCC Project, DEAN'S OFFICE (ENGINEERING), 10
+EG3601, Industrial Attachment Programme, DEAN'S OFFICE (ENGINEERING), 12
+EG3602, Vacation Internship Programme, DEAN'S OFFICE (ENGINEERING), 6
+EG4301, DCC Project for B.Eng. Dissertation, DEAN'S OFFICE (ENGINEERING), 12
+EL1101E / GEK1011, The Nature of Language, ENGLISH LANGUAGE & LITERATURE, 4
+EL2201, Structure of Sentences and Meaning, ENGLISH LANGUAGE & LITERATURE, 4
+EL2211, Historical Variation in English, ENGLISH LANGUAGE & LITERATURE, 4
+EL3202, Phonetics and Phonology, ENGLISH LANGUAGE & LITERATURE, 4
+EL3208, Bilingualism, ENGLISH LANGUAGE & LITERATURE, 4
+EL3209, Language, Culture, and Mind, ENGLISH LANGUAGE & LITERATURE, 4
+EL3252, Language Planning and Policy, ENGLISH LANGUAGE & LITERATURE, 4
+EL3258, The Sociolinguistics of Humour: Jokes and Comedies, ENGLISH LANGUAGE & LITERATURE, 4
+EL3880F, Foundations in Applied Linguistics, ENGLISH LANGUAGE & LITERATURE, 4
+EL4216, Lexicology and Lexicography, ENGLISH LANGUAGE & LITERATURE, 5
+EL4254, Language, Ideology and Power, ENGLISH LANGUAGE & LITERATURE, 5
+EL4255, English as a World Language, ENGLISH LANGUAGE & LITERATURE, 5
+EL4401, Honours Thesis, ENGLISH LANGUAGE & LITERATURE, 15
+EL4660, Independent Study, ENGLISH LANGUAGE & LITERATURE, 5
+EL4880A, Systemic Functional Grammar, ENGLISH LANGUAGE & LITERATURE, 5
+EL5250R, Sociolinguistic Argumentation, ENGLISH LANGUAGE & LITERATURE, 5
+EL5252R, Language Variation and Change, ENGLISH LANGUAGE & LITERATURE, 5
+EL5253R, Textual Construction of Knowledge, ENGLISH LANGUAGE & LITERATURE, 5
+EL5270R, EXPLORATIONS IN APPLIED LINGUISTICS, ENGLISH LANGUAGE & LITERATURE, 5
+EL5880BR, Second Language Writing, ENGLISH LANGUAGE & LITERATURE, 5
+EM1201, English for Academic Purposes (Music) 1, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 0
+EM1202, English for Academic Purposes (Music) 2, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 0
+EN1101E / GEK1000, An Introduction to Literary Studies, ENGLISH LANGUAGE & LITERATURE, 4
+EN2201, Backgrounds to Western Literature and Culture, ENGLISH LANGUAGE & LITERATURE, 4
+EN2202, Critical Reading, ENGLISH LANGUAGE & LITERATURE, 4
+EN2203, Introduction to Film Studies, ENGLISH LANGUAGE & LITERATURE, 4
+EN2271, Introduction to Playwriting, ENGLISH LANGUAGE & LITERATURE, 4
+EN3222, The Eighteenth Century, ENGLISH LANGUAGE & LITERATURE, 4
+EN3229, Shakespeare in His Time and Ours, ENGLISH LANGUAGE & LITERATURE, 4
+EN3241, Literature and Psychoanalysis, ENGLISH LANGUAGE & LITERATURE, 4
+EN3249, Introduction to Visual Culture: Art, Film and Media, ENGLISH LANGUAGE & LITERATURE, 4
+EN3261 / EU3217, European Literature I, ENGLISH LANGUAGE & LITERATURE, 4
+EN3265, South Asian Literatures in English, ENGLISH LANGUAGE & LITERATURE, 4
+EN3880A, History of Non-Western Film, ENGLISH LANGUAGE & LITERATURE, 4
+EN4223, Topics in the Nineteenth Century, ENGLISH LANGUAGE & LITERATURE, 5
+EN4226, English Women Novelists 1800-1900, ENGLISH LANGUAGE & LITERATURE, 5
+EN4232 / AS4232, Topics in American Literature, ENGLISH LANGUAGE & LITERATURE, 5
+EN4247, Film Theory, ENGLISH LANGUAGE & LITERATURE, 5
+EN4262, Writing Global India: (Dis)Possessions of Capitalism, ENGLISH LANGUAGE & LITERATURE, 5
+EN4401, Honours Thesis, ENGLISH LANGUAGE & LITERATURE, 15
+EN4660, Independent Study, ENGLISH LANGUAGE & LITERATURE, 5
+EN5242R, Women Novelists, ENGLISH LANGUAGE & LITERATURE, 5
+EN5247R, Victorian Literature: History, Politics, Culture, ENGLISH LANGUAGE & LITERATURE, 5
+EN5253R, Writing in the Aftermath, ENGLISH LANGUAGE & LITERATURE, 5
+EN5880AR, Literature and the Environment, ENGLISH LANGUAGE & LITERATURE, 5
+EN5883R, SCREEN CULTURE IN SOUTHEAST ASIA, ENGLISH LANGUAGE & LITERATURE, 5
+ENV2102, Environmental Law, Policy, Governance & Management, DEAN'S OFFICE (SCIENCE), 4
+ENV3101, Environmental Challenges: Asian Case Studies I, DEAN'S OFFICE (SCIENCE), 4
+ES1000, Basic English, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 0
+ES1102, English for Academic Purposes, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 0
+ES1501A, Critical Thinking and Expository Writing: Up Close and Public: Designing Public Persona, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+ES1501Q, Critical Thinking and Expository Writing: English, Singlish and intercultural communication, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+ES1531, Critical Thinking And Writing, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+ES1541, Exploring Science Communication through Popular Science, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+ES2002, Business Communication, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+ES2007S, Professional Communication, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+ES2331, Communicating Engineering, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+ESE2401, Water Science & Technology, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+ESE3001, Water Quality Engineering, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+ESE4403, Membrane Tech In Env Applns, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+ESE4405, Urban Water Engineering & Management, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+ESE4407, Environmental Forensics, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+ESE4502, B.Eng. Dissertation, CIVIL & ENVIRONMENTAL ENGINEERING, 12
+ESE5401, Water Quality Management, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+ESE5405, Water Treatment Processes, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+ESE5602, Environmental Management Systems, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+ESP1104, Introduction to Electronic Systems, ENGINEERING SCIENCE PROGRAMME, 4
+ESP2110, Design Project 2, ENGINEERING SCIENCE PROGRAMME, 4
+ESP3903, Major Design Project 2, ENGINEERING SCIENCE PROGRAMME, 4
+ESP4402, Transport Phenomena in Energy Systems, ENGINEERING SCIENCE PROGRAMME, 4
+ESP4901, Research Project, ENGINEERING SCIENCE PROGRAMME, 12
+EU1101E, Making of Modern Europe, HISTORY, 4
+EU3228, The EU and Asean in the World, DEAN'S OFFICE (ARTS & SOCIAL SC.), 4
+EU4401, Honours Thesis, DEAN'S OFFICE (ARTS & SOCIAL SC.), 15
+FDP2001, Special Mathematics Classes 1, 2 and 3, DEAN'S OFFICE (SCIENCE), 12
+FDP2002, Special Physics Class 1, 2 and 3, DEAN'S OFFICE (SCIENCE), 12
+FIN2004, Finance, FINANCE, 4
+FIN2004X, Finance, FINANCE, 4
+FIN3101A, Corporate Finance, FINANCE, 4
+FIN3102A, Investment Analysis and Portfolio Management, FINANCE, 4
+FIN3102B, Investment Analysis and Portfolio Management, FINANCE, 4
+FIN3103A, Financial Markets, FINANCE, 4
+FIN3103B, Financial Markets, FINANCE, 4
+FIN3113, Financial Statement Analysis, FINANCE, 4
+FIN3116, Options and Futures, FINANCE, 4
+FIN3117, Bank Management, FINANCE, 4
+FIN3118, Financial Risk Management, FINANCE, 4
+FIN3129, Independent Study in Finance, FINANCE, 4
+FIN3130, Financial Modelling, FINANCE, 4
+FIN3131, Fixed Income Securities, FINANCE, 4
+FIN4112G, Seminars in Finance: Private Equity, FINANCE, 4
+FIN4112H, Seminars in Finance: Investment Banking, FINANCE, 4
+FIN4112K, SIF: Applied Portfolio Management Techniques, FINANCE, 4
+FIN4113, Personal Finance and Wealth Management, FINANCE, 4
+FIN4116, Valuation and Mergers & Acquisitions, FINANCE, 4
+FIN4119, Advanced Independent Study in Finance, FINANCE, 4
+FMA1201J, FS: Generations, JAPANESE STUDIES, 4
+FMA1201P, FS: Meanings and Leanings: Is There a Reason Why?, SOCIAL WORK, 4
+FMA1201Q, FS: Love Actually? The Social Construction of Romantic Love, SOCIOLOGY, 4
+FMA1201R, FS: Singapore's Little India: A 'Community Space'?, SOUTH ASIAN STUDIES PROGRAMME, 4
+FMA1203F, FS: Should Fiction Be Censored?, ENGLISH LANGUAGE & LITERATURE, 4
+FMA1203H, FS: The Space Race, HISTORY, 4
+FMA1206M, FS: Food Politics, POLITICAL SCIENCE, 4
+FMC1201, Freshman Seminar: Is Computer Science Science?, COMPUTER SCIENCE, 4
+FMC1203, Freshman Seminar: Computational Thinking, COMPUTER SCIENCE, 4
+FMD1201, Freshmen Seminar: Policies for Bdg Sustainable Cities, BUILDING, 4
+FMS1201D, FS: Transforming Medicine: From Bench to Beside & Beyond, DEAN'S OFFICE (SCIENCE), 4
+FMS1202C, FS: The 5 S's of Molecules, CHEMISTRY, 4
+FMS1203S, FS: Randomness in Scientific Thinking, STATISTICS & APPLIED PROBABILITY, 4
+FMS1204P, FS: Conceptual Development of Physics, PHYSICS, 4
+FMS1204S, FS: Fraud, Deception and Data, STATISTICS & APPLIED PROBABILITY, 4
+FMS1205M, FS: Analogy & Intuition in Mathematics, MATHEMATICS, 4
+FMS1205P, FS: Nanoworld and Synchrotron Radiation, PHYSICS, 4
+FMS1207C, Gemstones, Minerals and Rocks, CHEMISTRY, 4
+FMS1207P, The scientific method and how it can fail, PHYSICS, 4
+FMS1209C, The strange and exciting world of nanoparticles, CHEMISTRY, 4
+FMS1209M, Philosophy of Mathematics, MATHEMATICS, 4
+FMS1210C, Simple Chemistry for Different Disciplines, CHEMISTRY, 4
+FMS1210M, Turning Points in the History of Mathematics, MATHEMATICS, 4
+FMS1215B, Plant Pathogens that cause plants to end up in a bucket, BIOLOGICAL SCIENCES, 4
+FMS1221B, Science: The Good, the Bad, the Ugly and the Beautiful, BIOLOGICAL SCIENCES, 4
+FMS1224B, Why do these crystal structures deserve the Nobel Prize?, BIOLOGICAL SCIENCES, 4
+FSP4003, Field Service Project, DEAN'S OFFICE (BIZ), 8
+FST2102A, Chemistry of Food Components, CHEMISTRY, 6
+FST2106, Post Harvest Food Processing, CHEMISTRY, 4
+FST2201, Introduction to Human Nutrition, CHEMISTRY, 4
+FST2288, Basic UROPS in Food Science & Technology I, CHEMISTRY, 4
+FST2289, Basic UROPS in Food Science & Technology II, CHEMISTRY, 4
+FST3181, Professional Placement, CHEMISTRY, 8
+FST3201, Independent Study (Food Science & Tech), CHEMISTRY, 4
+FST3288, Advanced UROPS in Food Science & Technology I, CHEMISTRY, 4
+FST3289, Advanced UROPS in Food Science & Technology II, CHEMISTRY, 4
+FST4102, Advanced Food Processing Technology, CHEMISTRY, 4
+FST4103, Food Colloids and Components Science, CHEMISTRY, 4
+FST4199, Honours Project in Food Science & Tech, CHEMISTRY, 16
+FST4202, Nutritional Biochemistry, CHEMISTRY, 4
+FST5203, Advanced Food Microbiology and Safety, CHEMISTRY, 4
+GE1101E / GEK1001, Geographical Journeys: Exploring World Environments, GEOGRAPHY, 4
+GE2101, Methods and Practices in Geography, GEOGRAPHY, 4
+GE2202, Economy & Space, GEOGRAPHY, 4
+GE2206, Geographies of Life and Death, GEOGRAPHY, 4
+GE2218, Leisure, Recreation and Tourism, GEOGRAPHY, 4
+GE2220, Terrestrial and Coastal Environments, GEOGRAPHY, 4
+GE3204, Cities and Regions: Planning for Change, GEOGRAPHY, 4
+GE3206, Gender, Space & Place, GEOGRAPHY, 4
+GE3216, Applications of GIS & Remote Sensing, GEOGRAPHY, 4
+GE3221, Ecological Systems, GEOGRAPHY, 4
+GE3240, Geographical Research: Developing Ideas, GEOGRAPHY, 4
+GE3242, Sediments and Sedimentary Basins, GEOGRAPHY, 4
+GE3243, Applied Petroleum Exploration, GEOGRAPHY, 4
+GE3550A, GIS Internship Module, GEOGRAPHY, 4
+GE3550B, Geography Internship, GEOGRAPHY, 4
+GE3551, FASS Undergraduate Research Opportunity (UROP), GEOGRAPHY, 4
+GE4202, Remaking the Global Economy, GEOGRAPHY, 5
+GE4207, Coastal Management, GEOGRAPHY, 5
+GE4211, Catchment Processes & Management, GEOGRAPHY, 5
+GE4218, Interpreting Tourism Spaces and Cultures, GEOGRAPHY, 5
+GE4401, Honours Thesis, GEOGRAPHY, 15
+GE4660, Independent Study, GEOGRAPHY, 5
+GE5211, Dynamic Environments, GEOGRAPHY, 4
+GE5212, GLOBAL CITIES, GEOGRAPHY, 4
+GE5660, INDEPENDENT STUDY, GEOGRAPHY, 4
+GE6216, The Nature of Physical Geography, GEOGRAPHY, 4
+GE6660, INDEPENDENT STUDY, GEOGRAPHY, 4
+GE6770, GRADUATE RESEARCH SEMINAR, GEOGRAPHY, 4
+GEK1012, Contemporary Social Issues in Singapore, SOCIAL WORK, 4
+GEK1022, Geopolitics:Geographies of War & Peace, GEOGRAPHY, 4
+GEK1029T, Managing Change: Power & Paradox, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+GEK1048, Gandhi and Conflict Resolution: Global Legacies, SOUTH ASIAN STUDIES PROGRAMME, 4
+GEK1054, Music in the Global Context, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+GEK1055, The Theatre Experience, ENGLISH LANGUAGE & LITERATURE, 4
+GEK1056, The Visual Image Around the World, SOUTHEAST ASIAN STUDIES, 4
+GEK1058, Language and the Preservation of Culture, ENGLISH LANGUAGE & LITERATURE, 4
+GEK1059, Investigating Standard English, ENGLISH LANGUAGE & LITERATURE, 4
+GEK1062, Bridging East and West: Exploring Chinese Communication, CHINESE STUDIES, 4
+GEK1064, Psychology in Everyday Life, PSYCHOLOGY, 4
+GEK1066, Engaging the natural environment in ASEAN, OFFICE OF STUDENT AFFAIRS, 4
+GEK1501, Information Technology And Us, ELECTRICAL & COMPUTER ENGINEERING, 4
+GEK1505, Living with Mathematics, MATHEMATICS, 4
+GEK1508 / PC1325, Einstein's Universe & Quantum Weirdness, PHYSICS, 4
+GEK1509, Introduction to the Nanoworld, PHYSICS, 4
+GEK1510 / PC1323, Great Ideas in Contemporary Physics, PHYSICS, 4
+GEK1513, Wireless Communications - Past, Present And Future, ELECTRICAL & COMPUTER ENGINEERING, 4
+GEK1515, Environmental Biology, BIOLOGICAL SCIENCES, 4
+GEK1519 / PC1327, Science of Music, PHYSICS, 4
+GEK1520 / PC1322, Understanding the Universe, PHYSICS, 4
+GEK1522, Global Environmental Issues, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+GEK1522T, Global Environmental Issues, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+GEK1523, Innovativeness In Engineering Design, MECHANICAL ENGINEERING, 4
+GEK1524, Living With Fluids, MECHANICAL ENGINEERING, 4
+GEK1527, Genes and Society, BIOLOGICAL SCIENCES, 4
+GEK1531, Introduction to Cybercrime, MATHEMATICS, 4
+GEK1536, Computation & Machine: Ancient to Modern, PHYSICS, 4
+GEK1538, Plants and Society, BIOLOGICAL SCIENCES, 4
+GEK1540, Modern Technology in Medicine and Health, PHYSICS, 4
+GEK1544, The Mathematics of Games, MATHEMATICS, 4
+GEK1547, The Art of Science, the Science of Art, PHYSICS, 4
+GEK1548, How the Ocean Works, PHYSICS, 4
+GEK1900, Public Health in Action, SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH, 4
+GEK2001 / SSA2202, Changing Landscapes of Singapore, GEOGRAPHY, 4
+GEK2005, Introduction to Urban Planning, REAL ESTATE, 4
+GEK2013, Real Estate Finance, REAL ESTATE, 4
+GEK2042, Cultural Borrowing: Japan and China, JAPANESE STUDIES, 4
+GEK2044, Reading Visual Images, ARCHITECTURE, 4
+GEK2506, Drugs and Society, PHARMACY, 4
+GEK2508, Sky and Telescopes, PHYSICS, 4
+GEM1004FC, Reason and Persuasion, PHILOSOPHY, 4
+GEM1023, Living Amidst Outbreaks, BUILDING, 4
+GEM1033, Religion and Film, ENGLISH LANGUAGE & LITERATURE, 4
+GEM1035, Jr Sem: Generation Y: Transitions to Adulthood, COLLEGE OF ALICE & PETER TAN, 4
+GEM1036, Globalisation and New Media, COMMUNICATIONS AND NEW MEDIA, 4
+GEM1501, Problem Solving for Computing, COMPUTER SCIENCE, 4
+GEM1536, Darwin and Evolution, BIOLOGICAL SCIENCES, 4
+GEM1537, Nanotechnology-Smart Phone and Beyond, PHYSICS, 4
+GEM1902A, Junior Seminar: Culture and Cognition, TEMBUSU COLLEGE, 4
+GEM1902E, Junior Seminar: Social Innovation, TEMBUSU COLLEGE, 4
+GEM1902G, Junior Seminar: Proof: What’s Truth got to do with it?, TEMBUSU COLLEGE, 4
+GEM1902M, Junior Seminar: On Blindness, TEMBUSU COLLEGE, 4
+GEM1902N, Junior Seminar: The Bio-tech Future: Sci-Fi Film and Society, TEMBUSU COLLEGE, 4
+GEM1902S, Junior Seminar: Death and After-Death in the Internet Age, TEMBUSU COLLEGE, 4
+GEM1904, Jr Sem: Hidden Communities, COLLEGE OF ALICE & PETER TAN, 4
+GEM1908, Jr Sem: Eating for Health, COLLEGE OF ALICE & PETER TAN, 4
+GEM1909, Jr Sem: Technology and Human Progress, COLLEGE OF ALICE & PETER TAN, 4
+GEM1912B, Jr Sem Special Topics: Quality Journalism and Critical Reading, TEMBUSU COLLEGE, 4
+GEM1912D, Leadership, Creativity and Innovation, TEMBUSU COLLEGE, 4
+GEM1915FC, Towards an Understanding of the Complex World, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+GEM1916A, Making Sense of Data - Health and the Internet, COLLEGE OF ALICE & PETER TAN, 4
+GEM2022, The Art of Rituals and Recreation, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+GEM2027, Introduction to Public Speaking, COMMUNICATIONS AND NEW MEDIA, 4
+GEM2509, Data Quality and Fuzzy Logic, INFORMATION SYSTEMS, 4
+GEM2900, Understand'g Uncertainty & Stats Think'g, STATISTICS & APPLIED PROBABILITY, 4
+GEM2901, Reporting Statistics in the Media, STATISTICS & APPLIED PROBABILITY, 4
+GEM2903, Community Leadership, COLLEGE OF ALICE & PETER TAN, 4
+GEM2904, What Makes a Leader, COLLEGE OF ALICE & PETER TAN, 4
+GEM3901, Tembusu Undergraduate Research Opportunity (UROP), TEMBUSU COLLEGE, 4
+GEM3902, Independent Study, COLLEGE OF ALICE & PETER TAN, 4
+GL1101E, Global Issues, POLITICAL SCIENCE, 4
+GL2102, Global Political Economy, POLITICAL SCIENCE, 4
+GL2103, Global Governance, POLITICAL SCIENCE, 4
+HR2002, Human Capital in Organizations, HUMAN RESOURCE MANAGEMENT UNIT, 3
+HY1101E, Asia and the Modern World, HISTORY, 4
+HY2216, Total War, 1815-1945, HISTORY, 4
+HY2229 / SSA2204, Nation-Building in Singapore, HISTORY, 4
+HY2232, Modern Japan: Conflict in History, HISTORY, 4
+HY2239 / SSA2203, Chinese Businesses in Singapore & Beyond, HISTORY, 4
+HY2242 / SSA2208, Singapore's Military History, HISTORY, 4
+HY2254 / SSA2221, Popular Culture in Singapore, HISTORY, 4
+HY2256 / EU2223, Ages of the Mediterranean, HISTORY, 4
+HY2259, The Craft of History, HISTORY, 4
+HY3201, Indonesia: History, Economy and Society, HISTORY, 4
+HY3209 / EU3230, Cold War in Europe, 1945-1991, HISTORY, 4
+HY3226, Memory, Heritage & History, HISTORY, 4
+HY3242 / EU3231, Modern Imperialism, HISTORY, 4
+HY3248, People's Republic of China, 1949-1989, HISTORY, 4
+HY3252, From Tropical Medicine to Bioscience, HISTORY, 4
+HY4205 / EU4224, War and Diplomacy in Early Modern Europe, HISTORY, 5
+HY4211, Topics in Environmental History, HISTORY, 5
+HY4215, The Classical Empires of Southeast Asia, HISTORY, 5
+HY4216, Culture and Literature in S.E.A. History, HISTORY, 5
+HY4222, Asian Business History: Case Studies, HISTORY, 5
+HY4401, Honours Thesis, HISTORY, 15
+HY4660, Independent Study, HISTORY, 5
+ID1106, Design Fundamentals 2, DIVISION OF INDUSTRIAL DESIGN, 8
+ID1112, Modelling and Sketching for Design, DIVISION OF INDUSTRIAL DESIGN, 4
+ID1121, Human-Centred Design, DIVISION OF INDUSTRIAL DESIGN, 4
+ID2106, Design Platforms 1, DIVISION OF INDUSTRIAL DESIGN, 10
+ID2112, Digital Design & Fabrication, DIVISION OF INDUSTRIAL DESIGN, 4
+ID2122, Ecodesign And Sustainability, DIVISION OF INDUSTRIAL DESIGN, 4
+ID2324, Manufacturing for Design, DIVISION OF INDUSTRIAL DESIGN, 4
+ID3041, Special Studies, DIVISION OF INDUSTRIAL DESIGN, 14
+ID3106, Design Platforms 3, DIVISION OF INDUSTRIAL DESIGN, 10
+ID3124, Creative Communication & Design Argumentation, DIVISION OF INDUSTRIAL DESIGN, 4
+ID4106, Design Thesis Project, DIVISION OF INDUSTRIAL DESIGN, 12
+ID5021, DESIGN RESEARCH, DIVISION OF INDUSTRIAL DESIGN, 4
+ID5151, DESIGN INNOVATION, DIVISION OF INDUSTRIAL DESIGN, 4
+ID5351, DESIGN STUDIES, DIVISION OF INDUSTRIAL DESIGN, 4
+ID5770, Graduate Seminar Module in Industrial Design, DIVISION OF INDUSTRIAL DESIGN, 4
+ID5951, Topics in Industrial Design, DIVISION OF INDUSTRIAL DESIGN, 4
+ID5951A, Topics in Industrial Design: Product Development, DIVISION OF INDUSTRIAL DESIGN, 4
+ID5951B, Topics in Industrial Design: Interaction Design, DIVISION OF INDUSTRIAL DESIGN, 4
+ID5951C, Topics in Industrial Design: Healthcare Design, DIVISION OF INDUSTRIAL DESIGN, 4
+ID5951D, Topics in Industrial Design: Design Education, DIVISION OF INDUSTRIAL DESIGN, 4
+ID5951E, Topics in Industrial Design: Sustainability, DIVISION OF INDUSTRIAL DESIGN, 4
+ID6770, Doctoral Seminar Module in Industrial Design, DIVISION OF INDUSTRIAL DESIGN, 4
+IE2100, Probability Models With Applications, INDUSTRIAL & SYSTEMS ENGINEERING, 4
+IE2100E, Probability Models with Applications, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+IE2130, Quality Engineering I, INDUSTRIAL & SYSTEMS ENGINEERING, 4
+IE2130E, Quality Engineering I, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+IE2140, Engineering Economy, INDUSTRIAL & SYSTEMS ENGINEERING, 4
+IE2140E, Engineering Economy, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+IE2150, Human Factors Engineering, INDUSTRIAL & SYSTEMS ENGINEERING, 4
+IE2150E, Human Factors Engineering, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+IE3010E, Systems Thinking and Design, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+IE3100E, Systems Design Project, BACHELOR OF TECHNOLOGY PROGRAMME, 8
+IE3100R, Systems Design Project, INDUSTRIAL & SYSTEMS ENGINEERING, 8
+IE4100, B.Eng.Dissertation, INDUSTRIAL & SYSTEMS ENGINEERING, 12
+IE4100E, BTech Dissertation, BACHELOR OF TECHNOLOGY PROGRAMME, 12
+IE4220, Supply Chain Modelling, INDUSTRIAL & SYSTEMS ENGINEERING, 4
+IE4220E, Supply Chain Modelling, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+IE4230, Quality Engineering II, INDUSTRIAL & SYSTEMS ENGINEERING, 4
+IE4230E, Quality Engineering II, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+IE5108, Facility Layout And Location, INDUSTRIAL & SYSTEMS ENGINEERING, 4
+IE5211, New Product Management, INDUSTRIAL & SYSTEMS ENGINEERING, 4
+IEM1201M, Sport and competition, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+IEM1201N, Public Persona and Self-presentations, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+IEM1201P, Heroes, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+IEM1201Q, English, Singlish and intercultural communication, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+IEM1201R, Oratory and the Public Mind, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+IEM1201S, Women in Film, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+IEM1201T, Ideology and Popular Culture in Singapore, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+IEM2201E, Ethics in Outer Space, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+IEM2201H, RISK and Popular Culture, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+IEM2201J, Blood, Death and Desire, Interpreting the Vampire, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+IEM2201K, Public Memory, Identity and Rhetoric, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+IEM2201L, Visualizing Southeast Asian Cities, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+INM3550, Extended Internship, COMMUNICATIONS AND NEW MEDIA, 4
+IS1103, Computing and Society, INFORMATION SYSTEMS, 4
+IS1105, Strategic IT Applications, INFORMATION SYSTEMS, 4
+IS1112, E-Business Essentials, INFORMATION SYSTEMS, 4
+IS2101, Business and Technical Communication, CTR FOR ENGLISH LANGUAGE COMMUNICATION, 4
+IS2102, Requirements Analysis and Design, INFORMATION SYSTEMS, 4
+IS2103, Enterprise Systems Development Concepts, INFORMATION SYSTEMS, 4
+IS2104, Software Team Dynamics, INFORMATION SYSTEMS, 4
+IS2150, E-Business Design and Implementation, INFORMATION SYSTEMS, 4
+IS3101, Management of Information Systems, INFORMATION SYSTEMS, 4
+IS3150, Digital and New Media Marketing, INFORMATION SYSTEMS, 4
+IS3220, Service Science, INFORMATION SYSTEMS, 4
+IS3221, Enterprise Resource Planning Systems, INFORMATION SYSTEMS, 4
+IS3222, IT and Customer Relationship Management, INFORMATION SYSTEMS, 4
+IS3223, IT and Supply Chain Management, INFORMATION SYSTEMS, 4
+IS3230, Principles of Information Security, INFORMATION SYSTEMS, 4
+IS3240, Economics of E-Business, INFORMATION SYSTEMS, 4
+IS3241, Enterprise Social Systems, INFORMATION SYSTEMS, 4
+IS3242, Software Quality Management, INFORMATION SYSTEMS, 4
+IS3243, Technology Strategy and Management, INFORMATION SYSTEMS, 4
+IS3250, Health Informatics, INFORMATION SYSTEMS, 4
+IS3260, Gamification for Organisations and Individuals, INFORMATION SYSTEMS, 4
+IS4100, IT Project Management, INFORMATION SYSTEMS, 4
+IS4150, Mobile and Ubiquitous Commerce, INFORMATION SYSTEMS, 4
+IS4203, IT Adoption and Change Management, INFORMATION SYSTEMS, 4
+IS4224, Service Systems, INFORMATION SYSTEMS, 4
+IS4226, IT Outsourcing and Offshoring Management, INFORMATION SYSTEMS, 4
+IS4227, Enterprise Service-Oriented Architecture, INFORMATION SYSTEMS, 4
+IS4240, Business Intelligence Systems, INFORMATION SYSTEMS, 4
+IS4243, Information Systems Consulting, INFORMATION SYSTEMS, 4
+IS4260, E-Commerce Business Models, INFORMATION SYSTEMS, 4
+IT1001, Introduction to Computing, INFORMATION SYSTEMS, 4
+IT1006, MATLAB Programming for Mathematics, COMPUTER SCIENCE, 4
+IT2001, Network Technology and Applications, COMPUTER SCIENCE, 4
+IT2002, Database Technology and Management, COMPUTER SCIENCE, 4
+JS1101E / GEK1002, Introduction to Japanese Studies, JAPANESE STUDIES, 4
+JS2101, Approaches to Japanese Studies I, JAPANESE STUDIES, 4
+JS2213, Popular Culture in Contemporary Japan, JAPANESE STUDIES, 4
+JS2224 / SSA2205, Japan and Singapore, JAPANESE STUDIES, 4
+JS2226, Global City Tokyo, JAPANESE STUDIES, 4
+JS2230, Itadakimasu - Food In Japan, JAPANESE STUDIES, 4
+JS3101, Approaches to Japanese Studies II, JAPANESE STUDIES, 4
+JS3208, Approaches to Japanese Linguistics, JAPANESE STUDIES, 4
+JS3210, Japan in the Twentieth Century, JAPANESE STUDIES, 4
+JS3211, Modern Japanese Religion, JAPANESE STUDIES, 4
+JS3230, Men and Women in Modern Japanese Literature, JAPANESE STUDIES, 4
+JS3550, Internship, JAPANESE STUDIES, 4
+JS4209, Selected Topics in Japanese Linguistics, JAPANESE STUDIES, 5
+JS4214, Ideas, Values and Identity in Japan, JAPANESE STUDIES, 5
+JS4216, Tales and Performance in Premodern Japan, JAPANESE STUDIES, 5
+JS4217, Selected Topics in Japanese Studies, JAPANESE STUDIES, 5
+JS4227, Japanese Political Economy, JAPANESE STUDIES, 5
+JS4401, Honours Thesis, JAPANESE STUDIES, 15
+JS4660, Independent Study, JAPANESE STUDIES, 5
+JS5201R, READINGS IN JAPANESE STUDIES, JAPANESE STUDIES, 5
+JS5660R, INDEPENDENT STUDY, JAPANESE STUDIES, 5
+LA4202, Planting Design, ARCHITECTURE, 4
+LA4212, Tropical Plant Identification 2, ARCHITECTURE, 4
+LA4702, MLA Studio: City, ARCHITECTURE, 8
+LA5222, Urban Ecology and Design, ARCHITECTURE, 4
+LAB1201, Bahasa Indonesia 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAB2201, Bahasa Indonesia 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAB3201, Bahasa Indonesia 3, CENTRE FOR LANGUAGE STUDIES, 4
+LAB3202, Bahasa Indonesia 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAB4201, Bahasa Indonesia 5, CENTRE FOR LANGUAGE STUDIES, 5
+LAB4202, Bahasa Indonesia 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAC1201, Chinese 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAC2201, Chinese 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAC3201, Chinese 3, CENTRE FOR LANGUAGE STUDIES, 4
+LAC3202, Chinese 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAC3204, Chinese for Business & Social Sciences, CENTRE FOR LANGUAGE STUDIES, 4
+LAC4202, Chinese 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAF1201, French 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAF2201, French 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAF3202, French 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAF3203, French for Academic Purposes, CENTRE FOR LANGUAGE STUDIES, 4
+LAF4202, French 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAG1201, German 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAG2201, German 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAG3202, German 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAG3203, German for Academic Purposes, CENTRE FOR LANGUAGE STUDIES, 4
+LAG4202, German 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAH1201, Hindi 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAH2201, Hindi 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAH3202, Hindi 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAI1731, Italian for Singers I, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+LAI1732, Italian for Singers II, CENTRE FOR LANGUAGE STUDIES, 3
+LAJ1201, Japanese 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAJ2201, Japanese 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAJ2202, Japanese 3, CENTRE FOR LANGUAGE STUDIES, 4
+LAJ2203, Japanese 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAJ3201, Japanese 5, CENTRE FOR LANGUAGE STUDIES, 4
+LAJ3202, Japanese 6, CENTRE FOR LANGUAGE STUDIES, 4
+LAK1201, Korean 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAK2201, Korean 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAK3202, Korean 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAK3203, Korean for Academic Purposes, CENTRE FOR LANGUAGE STUDIES, 4
+LAK4202, Korean 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAL1201, Tamil 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAL2201, Tamil 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAM1201, Malay 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAM2201, Malay 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAM3201, Malay 3, CENTRE FOR LANGUAGE STUDIES, 4
+LAM3202, Malay 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAR1201, Arabic 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAR2201, Arabic 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAR3202, Arabic 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAR4202, Arabic 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAT1201, Thai 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAT2201, Thai 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAT3201, Thai 3, CENTRE FOR LANGUAGE STUDIES, 4
+LAT3202, Thai 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAT4201, Thai 5, CENTRE FOR LANGUAGE STUDIES, 5
+LAT4202, Thai 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAV1201, Vietnamese 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAV2201, Vietnamese 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAV3201, Vietnamese 3, CENTRE FOR LANGUAGE STUDIES, 4
+LAV3202, Vietnamese 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAV4202, Vietnamese 6, CENTRE FOR LANGUAGE STUDIES, 5
+LL4061, Inquiry, LAW, 4
+LL4082, Law & Social Movements, LAW, 4
+LL4133, Human Rights in Asia, LAW, 4
+LL4134, CROSSING BORDERS: LAW, MIGRATION & CITIZENSHIP, LAW, 4
+LL4202, ASEAN Economic Community Law and Policy, LAW, 4
+LL4234, Property Theory, LAW, 4
+LSM1101, Biochemistry of Biomolecules, BIOCHEMISTRY, 4
+LSM1102, Molecular Genetics, BIOLOGICAL SCIENCES, 4
+LSM1103, Biodiversity, BIOLOGICAL SCIENCES, 4
+LSM1104, General Physiology, BIOLOGICAL SCIENCES, 4
+LSM1202, Human Anatomy, ANATOMY, 4
+LSM1301, General Biology, BIOLOGICAL SCIENCES, 4
+LSM1301FC, General Biology, BIOLOGICAL SCIENCES, 4
+LSM1302, Genes and Society, BIOLOGICAL SCIENCES, 4
+LSM1303, Animal Behaviour, BIOLOGICAL SCIENCES, 4
+LSM1401, Fundamentals of Biochemistry, BIOLOGICAL SCIENCES, 4
+LSM2101, Metabolism and Regulation, BIOCHEMISTRY, 4
+LSM2102, Molecular Biology, BIOLOGICAL SCIENCES, 4
+LSM2103, Cell Biology, BIOCHEMISTRY, 4
+LSM2201A, Experimental Biochemistry, BIOLOGICAL SCIENCES, 4
+LSM2202A, Experimental Molecular and Cell Biology, BIOLOGICAL SCIENCES, 4
+LSM2203, Experimental Microbiology, MICROBIOLOGY, 4
+LSM2241, Introductory Bioinformatics, BIOCHEMISTRY, 4
+LSM2251, Ecology and Environment, BIOLOGICAL SCIENCES, 4
+LSM2288, Basic UROPS in Life Sciences I, BIOLOGICAL SCIENCES, 4
+LSM2289, Basic UROPS in Life Sciences II, BIOLOGICAL SCIENCES, 4
+LSM3211, Fundamental Pharmacology, PHARMACOLOGY, 4
+LSM3212, Human Physiology: Cardiopulmonary System, PHYSIOLOGY, 4
+LSM3213, Molecular and Cellular Neurobiology, PHYSIOLOGY, 4
+LSM3214, Human Physiology - Hormones and Health, PHYSIOLOGY, 4
+LSM3221, Human Pharmacology, PHARMACOLOGY, 4
+LSM3223, Immunology, MICROBIOLOGY, 4
+LSM3224, Molecular Basis of Human Diseases, BIOCHEMISTRY, 4
+LSM3225, Molecular Microbiology in Human Diseases, MICROBIOLOGY, 4
+LSM3232, Microbiology, MICROBIOLOGY, 4
+LSM3241, Bioinformatics & Biocomputing, BIOCHEMISTRY, 4
+LSM3242, Applied Microbiology, MICROBIOLOGY, 4
+LSM3243, Molecular Biophysics, BIOLOGICAL SCIENCES, 4
+LSM3244, Molecular Biotechnology, BIOLOGICAL SCIENCES, 4
+LSM3255, Ecology of Terrestrial Environments, BIOLOGICAL SCIENCES, 4
+LSM3256, Tropical Horticulture, BIOLOGICAL SCIENCES, 4
+LSM3257, Quantitative Methods for Ecological Research, BIOLOGICAL SCIENCES, 4
+LSM3262, Environmental Animal Physiology, BIOLOGICAL SCIENCES, 4
+LSM3264, Environmental Biochemistry, BIOCHEMISTRY, 4
+LSM3266, Avian Biology and Evolution, BIOLOGICAL SCIENCES, 4
+LSM3272, Global Change Biology, BIOLOGICAL SCIENCES, 4
+LSM3288, Advanced UROPS in Life Sciences I, BIOLOGICAL SCIENCES, 4
+LSM3289, Advanced UROPS in Life Sciences II, BIOLOGICAL SCIENCES, 4
+LSM4199, Honours Project in Life Sciences, BIOLOGICAL SCIENCES, 16
+LSM4214, Cancer Pharmacology, PHARMACOLOGY, 4
+LSM4215, Extreme Physiology, PHYSIOLOGY, 4
+LSM4221, Drug Discovery and Clinical Trials, PHARMACOLOGY, 4
+LSM4222, Advanced Immunology, MICROBIOLOGY, 4
+LSM4223, Advances in Antimicrobial Strategies, MICROBIOLOGY, 4
+LSM4225, Genetic Medicine in the Post-Genomic Era, BIOCHEMISTRY, 4
+LSM4231, Structural Biology, BIOLOGICAL SCIENCES, 4
+LSM4234, Mechanobiology, BIOLOGICAL SCIENCES, 4
+LSM4241, Functional Genomics, BIOCHEMISTRY, 4
+LSM4243, Tumour Biology, PHYSIOLOGY, 4
+LSM4244, Oncogenes and Signal Transduction, BIOCHEMISTRY, 4
+LSM4253, Behavioural Biology, BIOLOGICAL SCIENCES, 4
+LSM4255, Methods in Mathematical Biology, BIOLOGICAL SCIENCES, 4
+LSM4262, Tropical Conservation Biology, BIOLOGICAL SCIENCES, 4
+LSM4264, Freshwater Biology, BIOLOGICAL SCIENCES, 4
+LSM4265, Urban Ecology, BIOLOGICAL SCIENCES, 4
+MA1101R, Linear Algebra I, MATHEMATICS, 4
+MA1102R, Calculus, MATHEMATICS, 4
+MA1104, Multivariable Calculus, MATHEMATICS, 4
+MA1301, Introductory Mathematics, MATHEMATICS, 4
+MA1301FC, Introductory Mathematics, MATHEMATICS, 4
+MA1312, Calculus with Applications, MATHEMATICS, 4
+MA1505, Mathematics I, MATHEMATICS, 4
+MA1506, Mathematics II, MATHEMATICS, 4
+MA1508, Linear Algebra with Applications, MATHEMATICS, 4
+MA1521, Calculus for Computing, MATHEMATICS, 4
+MA2101, Linear Algebra II, MATHEMATICS, 4
+MA2108, Mathematical Analysis I, MATHEMATICS, 4
+MA2108S, Mathematical Analysis I (S), MATHEMATICS, 5
+MA2213, Numerical Analysis I, MATHEMATICS, 4
+MA2219, Introduction to Geometry, MATHEMATICS, 4
+MA2288, Basic UROPS in Mathematics I, MATHEMATICS, 4
+MA2289, Basic UROPS in Mathematics II, MATHEMATICS, 4
+MA3110, Mathematical Analysis II, MATHEMATICS, 4
+MA3110S, Mathematical Analysis II (S), MATHEMATICS, 5
+MA3111, Complex Analysis I, MATHEMATICS, 4
+MA3111S, Complex Analysis I (S), MATHEMATICS, 5
+MA3201, Algebra II, MATHEMATICS, 4
+MA3215, 3-Dimensional Differential Geometry, MATHEMATICS, 4
+MA3218, Applied Algebra, MATHEMATICS, 4
+MA3227, Numerical Analysis II, MATHEMATICS, 4
+MA3233, Combinatorics and Graphs II, MATHEMATICS, 4
+MA3238 / ST3236, Stochastic Processes I, MATHEMATICS, 4
+MA3252, Linear and Network Optimisation, MATHEMATICS, 4
+MA3259, Mathematical Methods in Genomics, MATHEMATICS, 4
+MA3266, Introduction to Fourier Analysis, MATHEMATICS, 4
+MA3288, Advanced UROPS in Mathematics I, MATHEMATICS, 4
+MA3289, Advanced UROPS in Mathematics II, MATHEMATICS, 4
+MA3312, Extended Undergraduate Professional Internship, MATHEMATICS, 8
+MA4199, Honours Project in Mathematics, MATHEMATICS, 12
+MA4207, Mathematical Logic, MATHEMATICS, 4
+MA4211, Functional Analysis, MATHEMATICS, 4
+MA4229, Approximation Theory, MATHEMATICS, 4
+MA4252, Advanced Ordinary Differential Equations, MATHEMATICS, 4
+MA4254, Discrete Optimization, MATHEMATICS, 4
+MA4255, Numerical Methods in Differential Equations, MATHEMATICS, 4
+MA4263, Introduction to Analytic Number Theory, MATHEMATICS, 4
+MA4266, Topology, MATHEMATICS, 4
+MA4269, Mathematical Finance II, MATHEMATICS, 4
+MA4291, Undergraduate Topics in Mathematics I, MATHEMATICS, 4
+MA4292, Undergraduate Topics in Mathematics II, MATHEMATICS, 4
+MA5198, GRADUATE SEMINAR MODULE IN MATHEMATICS, MATHEMATICS, 4
+MA5204, Graduate Algebra II, MATHEMATICS, 4
+MA5206, Graduate Analysis II, MATHEMATICS, 4
+MA5210, Differentiable Manifolds, MATHEMATICS, 4
+MA5216, Differential Geometry, MATHEMATICS, 4
+MA5217, Graduate Complex Analysis, MATHEMATICS, 4
+MA5220, Logic and Foundation of Mathematics II, MATHEMATICS, 4
+MA5232, Modeling and Numerical Simulations, MATHEMATICS, 4
+MA5241, COMPUTATIONAL HARMONIC ANALYSIS, MATHEMATICS, 4
+MA5248, Stochastic Analysis in Mathematical Finance, MATHEMATICS, 4
+MA5250, Computational Fluid Dynamics, MATHEMATICS, 4
+MA5260, Probability Theory II, MATHEMATICS, 4
+MA5295, DISSERTATION FOR MSC BY COURSEWORK, MATHEMATICS, 8
+MA6235, TOPICS IN FINANCIAL MATHEMATICS, MATHEMATICS, 4
+MA6252, TOPICS IN APPLIED MATHEMATICS II, MATHEMATICS, 4
+MA6292, TOPICS IN MATHEMATICS II, MATHEMATICS, 4
+ME2101, Fundamentals Of Mechanical Design, MECHANICAL ENGINEERING, 4
+ME2101E, Fundamentals of Mechanical Design, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+ME2114, Mechanics Of Materials II, MECHANICAL ENGINEERING, 3
+ME2114E, Mechanics of Materials II, BACHELOR OF TECHNOLOGY PROGRAMME, 3
+ME2135, Fluid Mechanics II, MECHANICAL ENGINEERING, 4
+ME2135E, Fluid Mechanics II, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+ME2143, Sensors & Actuators, MECHANICAL ENGINEERING, 4
+ME2143E, Sensors and Actuators, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+ME3000, Independent Study 1, MECHANICAL ENGINEERING, 2
+ME3001, Independent Study 2, MECHANICAL ENGINEERING, 2
+ME3102, Mechanical Systems Design II, MECHANICAL ENGINEERING, 4
+ME3221, Energy Conversion Processes, MECHANICAL ENGINEERING, 4
+ME3232, Compressible Flow, MECHANICAL ENGINEERING, 4
+ME3233, Unsteady Flow in Fluid Systems, MECHANICAL ENGINEERING, 4
+ME3241, Microprocessor Applications, MECHANICAL ENGINEERING, 4
+ME3241E, Microprocessor Applications, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+ME3251, Materials For Engineers, MECHANICAL ENGINEERING, 4
+ME3251E, Materials For Engineers, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+ME3281, Microsystems Design And Applications, MECHANICAL ENGINEERING, 4
+ME3291, Numerical Methods In Engineering, MECHANICAL ENGINEERING, 4
+ME4101, Bachelor Of Engineering Dissertation, MECHANICAL ENGINEERING, 12
+ME4101A, Bachelor Of Engineering Dissertation, MECHANICAL ENGINEERING, 8
+ME4105, Specialization Study Module, MECHANICAL ENGINEERING, 4
+ME4212, Aircraft Structures, MECHANICAL ENGINEERING, 4
+ME4213, Vibration Theory And Applications, MECHANICAL ENGINEERING, 4
+ME4225, Industrial Heat Transfer, MECHANICAL ENGINEERING, 4
+ME4225E, Industrial Heat Transfer, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+ME4227, Internal Combustion Engines, MECHANICAL ENGINEERING, 4
+ME4231, Aerodynamics And Propulsion, MECHANICAL ENGINEERING, 4
+ME4241, Aircraft Performance, Stability and Control, MECHANICAL ENGINEERING, 4
+ME4246, Linear Systems, MECHANICAL ENGINEERING, 4
+ME4253, Biomaterials Engineering, MECHANICAL ENGINEERING, 4
+ME4255, Materials Failure, MECHANICAL ENGINEERING, 4
+ME4261, Tool Engineering, MECHANICAL ENGINEERING, 4
+ME4261E, Tool Engineering, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+ME4262, Automation In Manufacturing, MECHANICAL ENGINEERING, 4
+ME4262E, Automation in Manufacturing, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+ME4265, Automotive Body & Chassis Engineering, MECHANICAL ENGINEERING, 4
+ME4284, Micro Sensors & Micro Actuators, MECHANICAL ENGINEERING, 4
+ME5506, Corrosion of Materials, MECHANICAL ENGINEERING, 4
+ME5609, RAPID RESPONSE MANUFACTURING, MECHANICAL ENGINEERING, 4
+MIC1000, Infection and Immunity, MICROBIOLOGY, 4
+MKT1003, Marketing, MARKETING, 4
+MKT1003X, Marketing, MARKETING, 4
+MKT2401A, Asian Markets And Marketing Management, MARKETING, 4
+MKT2401B, Asian Markets And Marketing Management, MARKETING, 4
+MKT2401C, Asian Markets And Marketing Management, MARKETING, 4
+MKT2412, Global Marketing, MARKETING, 4
+MKT2413, Marketing Research, MARKETING, 4
+MKT3402A, Consumer Behaviour, MARKETING, 4
+MKT3402B, Consumer Behaviour, MARKETING, 4
+MKT3412, Services Marketing, MARKETING, 4
+MKT3413, Sme Marketing Strategy, MARKETING, 4
+MKT3415, Internet Strategy And Marketing, MARKETING, 4
+MKT3418A, Product and Brand Management, MARKETING, 4
+MKT3418B, Product and Brand Management, MARKETING, 4
+MKT3424, Branding Strategy, MARKETING, 4
+MKT3429, Independent Study in Marketing, MARKETING, 4
+MKT3513, Game Theory And Strategic Analysis, MARKETING, 4
+MKT4411, Marketing Strategy, MARKETING, 4
+MKT4413, Pricing Models And Strategy, MARKETING, 4
+MKT4419, Advanced Independent Study in Marketing, MARKETING, 4
+MLE1101, Introductory Materials Science And Engineering, MATERIALS SCIENCE AND ENGINEERING, 4
+MLE2103, Phase Transformation and Kinetics, MATERIALS SCIENCE AND ENGINEERING, 4
+MLE2104, Mechanical Properties of Materials, MATERIALS SCIENCE AND ENGINEERING, 4
+MLE2105, Electronic Properties of Materials, MATERIALS SCIENCE AND ENGINEERING, 4
+MLE3101, Materials Characterization, MATERIALS SCIENCE AND ENGINEERING, 4
+MLE4101, B.Eng. Dissertation, MATERIALS SCIENCE AND ENGINEERING, 12
+MLE4101R, Integrated B.ENG./B.SC. (Hons) Dissertation, MATERIALS SCIENCE AND ENGINEERING, 16
+MLE4202, Selected Advanced Topics on Polymers, MATERIALS SCIENCE AND ENGINEERING, 4
+MLE4203, Polymeric Biomedical Materials, MATERIALS SCIENCE AND ENGINEERING, 4
+MLE4206, Current topics on Nanomaterials, MATERIALS SCIENCE AND ENGINEERING, 4
+MLE4207, GROWTH ASPECTS OF SEMICONDUCTORS, MATERIALS SCIENCE AND ENGINEERING, 4
+MLE4208, Photovoltaics Materials, MATERIALS SCIENCE AND ENGINEERING, 4
+MNO1001, Management And Organisation, MANAGEMENT AND ORGANISATION, 4
+MNO1001X, Management And Organisation, MANAGEMENT AND ORGANISATION, 4
+MNO2007, Leadership and Ethics, MANAGEMENT AND ORGANISATION, 4
+MNO2009, Entrepreneurship, MANAGEMENT AND ORGANISATION, 4
+MNO2302, Human Resource Management, MANAGEMENT AND ORGANISATION, 4
+MNO3301, Organisational Behaviour, MANAGEMENT AND ORGANISATION, 4
+MNO3303, Organisational Effectiveness, MANAGEMENT AND ORGANISATION, 4
+MNO3313J, Employee and organizational misbehaviors, MANAGEMENT AND ORGANISATION, 4
+MNO3322, Negotiations and Bargaining, MANAGEMENT AND ORGANISATION, 4
+MNO3323, Management of Employee Relations, MANAGEMENT AND ORGANISATION, 4
+MNO3329, Independent Study in Mgt & Human Capital, MANAGEMENT AND ORGANISATION, 4
+MNO3330, Social Entrepreneurship, MANAGEMENT AND ORGANISATION, 4
+MNO4313C, Seminars in M&O: Compensation & Performance Management, MANAGEMENT AND ORGANISATION, 4
+MNO4315, Global Management of Asian Multinationals, MANAGEMENT AND ORGANISATION, 4
+MNO4319, Advanced Independent Study in Mgt & Human Capital, MANAGEMENT AND ORGANISATION, 4
+MS1102E, Malays - Tradition, Conflict and Change, MALAY STUDIES, 4
+MS2211, Criticism in Modern Malay Literature, MALAY STUDIES, 4
+MS2213, Malay Families and Households, MALAY STUDIES, 4
+MS3209 / SSA3203, The Malays of Singapore, MALAY STUDIES, 4
+MS3212, Classical Malay Literature, MALAY STUDIES, 4
+MS3215, Malays and Modernization, MALAY STUDIES, 4
+MS3216, Gender in Malay Societies, MALAY STUDIES, 4
+MS3218, The Religious Life of the Malays, MALAY STUDIES, 4
+MS4201, Social Change 1900 - 1950, MALAY STUDIES, 5
+MS4401, Honours Thesis, MALAY STUDIES, 15
+MS4660, Independent Study Module, MALAY STUDIES, 5
+MS4880A, Topics in Muslim Revivalism, MALAY STUDIES, 5
+MS5201, CRITIQUES IN MALAY STUDIES, MALAY STUDIES, 4
+MS5660, INDEPENDENT STUDY, MALAY STUDIES, 4
+MS6660, INDEPENDENT STUDY, MALAY STUDIES, 4
+MT4003, Engineering Product Development, DIVISION OF ENGINEERING AND TECH MGT, 4
+MT5002, Management of Industrial R&D, DIVISION OF ENGINEERING AND TECH MGT, 4
+MT5004, USER-CENTRED ENGINEERING & PRODUCT DEVELOPMENT, DIVISION OF ENGINEERING AND TECH MGT, 4
+MT5007, MANAGEMENT OF TECHNOLOGICAL INNOVATION, DIVISION OF ENGINEERING AND TECH MGT, 4
+MT5009, ANALYZING HI-TECHNOLOGY OPPORTUNITIES, DIVISION OF ENGINEERING AND TECH MGT, 4
+MT5010, TECHNOLOGY INTELLIGENCE & IP STRATEGY, DIVISION OF ENGINEERING AND TECH MGT, 4
+MT5011, FINANCE FOR ENGINEERING & TECHNOLOGY MANAGEMENT, DIVISION OF ENGINEERING AND TECH MGT, 4
+MT5012, MARKETING OF HIGH-TECHNOLOGY PRODUCTS AND INNOVATIONS, DIVISION OF ENGINEERING AND TECH MGT, 4
+MT5016, Business Models for Hi-Tech Products, DIVISION OF ENGINEERING AND TECH MGT, 4
+MT5880B, Topics in Management of Technology - Institutional Innovation, DIVISION OF ENGINEERING AND TECH MGT, 4
+MT5900, MOT RESEARCH PROJECT, DIVISION OF ENGINEERING AND TECH MGT, 8
+MT5901, Management Practicum, DIVISION OF ENGINEERING AND TECH MGT, 2
+MT5902, Management Extended Practicum, DIVISION OF ENGINEERING AND TECH MGT, 4
+MT5911, Venture Funding, DIVISION OF ENGINEERING AND TECH MGT, 4
+MT5912, Frugal Innovation, DIVISION OF ENGINEERING AND TECH MGT, 4
+MT5913, TechLaunch - Experiential Entrepreneurship, DIVISION OF ENGINEERING AND TECH MGT, 4
+MUA1107, Large Ensembles 1A, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA1108, Large Ensembles 1B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA1109, Chamber Ensemble 1A, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA1110, Chamber Ensemble 1B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA1112, Piano Ensemble 1B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA1114, Desktop Music Production 2, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA1116, Accompanying/Sight-Reading II, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA1150, Basic Mechanics of Percussion B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA1153, Noon Recital Series 1A, YONG SIEW TOH CONSERVATORY OF MUSIC, 0
+MUA1154, Noon Recital Series 1B, YONG SIEW TOH CONSERVATORY OF MUSIC, 0
+MUA1156, First Year Woodwinds Class B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA1161, Major Study 1A, YONG SIEW TOH CONSERVATORY OF MUSIC, 5
+MUA1162, Major Study 1B, YONG SIEW TOH CONSERVATORY OF MUSIC, 6
+MUA1163, Introduction to Professional Development, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA1171, Basic Recording 2, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUA1181, First Year Brass Class B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA1191, Applied Voice Major Studies 1B, YONG SIEW TOH CONSERVATORY OF MUSIC, 5
+MUA1193, Chamber Singers 2, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA1196, Diction for Singers 1, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2106, Introduction To Computer Music 2, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUA2107, Large Ensembles 2A, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2108, Large Ensembles 2B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2109, Chamber Ensemble 2A, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2110, Chamber Ensemble 2B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2112, Keyboard Literature II, YONG SIEW TOH CONSERVATORY OF MUSIC, 1
+MUA2120, Orchestral Repertoire for Double Bass 2B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2128, Orchestral Repertoire for Woodwinds 2B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2153, Noon Recital Series 2A, YONG SIEW TOH CONSERVATORY OF MUSIC, 0
+MUA2154, Noon Recital Series 2B, YONG SIEW TOH CONSERVATORY OF MUSIC, 0
+MUA2155, Collaborative Piano Studies, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2156, Collaborative Piano Studies, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2161, Major Study 2A, YONG SIEW TOH CONSERVATORY OF MUSIC, 5
+MUA2162, Major Study 2B, YONG SIEW TOH CONSERVATORY OF MUSIC, 6
+MUA2171, Multitrack Recording 2, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUA2174, Musical Acoustics, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUA2175, RAS Project 1, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUA2176, RAS Project 2, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUA2181, Orchestral Repertoire for Brass 2B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2183, Orchestral Repertoire for Percussion 2B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2187, Orchestral Repertoire for Harp 2B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2191, Applied Voice Major Study 2B, YONG SIEW TOH CONSERVATORY OF MUSIC, 5
+MUA2192, Chambers Singers 3, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2193, Chambers Singers 4, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2196, Diction for Singers 2, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2255, Applied Secondary A, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA2256, Applied Secondary B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3105, Conducting, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3107, Large Ensembles 3A, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3108, Large Ensembles 3B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3109, Chamber Ensemble 3A, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3110, Chamber Ensemble 3B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3112, Keyboard Literature IV, YONG SIEW TOH CONSERVATORY OF MUSIC, 1
+MUA3114, Keyboard Skills For Piano Majors Iv, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3120, Orchestral Repertoire for Double Bass 3B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3128, Orchestral Repertoire for Woodwinds 3B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3130, Orchestral Repertoire for Percussion 3B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3132, Orchestral Excerpts for Strings 3B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3153, Noon Recital Series 3A, YONG SIEW TOH CONSERVATORY OF MUSIC, 0
+MUA3154, Noon Recital Series 3B, YONG SIEW TOH CONSERVATORY OF MUSIC, 0
+MUA3156, Collaborative Piano Studies, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3161, Major Study 3A, YONG SIEW TOH CONSERVATORY OF MUSIC, 5
+MUA3162, Major Study 3B, YONG SIEW TOH CONSERVATORY OF MUSIC, 8
+MUA3173, Electroacoustics, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUA3174, Audio Mastering, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUA3175, RAS Project 3, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUA3176, RAS Project 4, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUA3187, Orchestral Repertoire for Harp 3B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3191, Junior Recital in Voice, YONG SIEW TOH CONSERVATORY OF MUSIC, 6
+MUA3195, Voice Literature 2, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3206, Materials of Jazz Music 2, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUA3209, Business for Musicians, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUA3210, Chamber Singers 1, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3211, Chamber Singers 2, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3212, Improvisational Styles and Techniques, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUA3214, Introduction to Pedagogy, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUA3219, World Music Ensemble, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3220, World Music Ensemble, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3255, Applied Secondary C, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3256, Applied Secondary D, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3264, PD Independent Project, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUA3275, Sonic Circuits, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUA4107, Large Ensembles 4A, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA4108, Large Ensembles 4B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA4153, Noon Recital Series 4A, YONG SIEW TOH CONSERVATORY OF MUSIC, 0
+MUA4154, Noon Recital Series 4B, YONG SIEW TOH CONSERVATORY OF MUSIC, 0
+MUA4161, Major Study 4A, YONG SIEW TOH CONSERVATORY OF MUSIC, 5
+MUA4162, Major Study 4B, YONG SIEW TOH CONSERVATORY OF MUSIC, 12
+MUA4172, Internship in Recording Arts and Sciences, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUA4174, Audio for Media 2, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUA4175, RAS Final Project, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUA4176, Audio System Design, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUA4191, Senior Recital in Voice, YONG SIEW TOH CONSERVATORY OF MUSIC, 10
+MUA4203, Advanced Conducting I, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA4205, Advanced Conducting II, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA4215, Vocal Pedagogy, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUA4219, Advanced Chamber Ensemble, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA4220, Advanced Chamber Ensemble, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA4228, Advanced Chamber Ensemble, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA4229, Advanced Chamber Ensemble, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA4231, Orchestral Excerpts for Strings 4A, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA4232, Orchestral Excerpts for Strings 4B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA5108, Large Ensembles 5B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA5110, Chamber Ensemble 5B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA5112, LARGE ENSEMBLES 5D, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA5114, CHAMBER ENSEMBLE 5D, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA5156, Major Study 5B, YONG SIEW TOH CONSERVATORY OF MUSIC, 5
+MUA5158, MAJOR STUDY 5D, YONG SIEW TOH CONSERVATORY OF MUSIC, 5
+MUA5195, Recital A, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA5196, RECITAL B, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUH1115, Communicating About Music I, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUH1116, Communicating About Music II, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUH2116, Music and Context: After 1800, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUH3203, History of Opera, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUH4202, Musical Intertextuality:Mozart to Tippett, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUL3203, The Art of Rituals and Recreation, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUT1121, Musical Concepts and Materials I, YONG SIEW TOH CONSERVATORY OF MUSIC, 6
+MUT1122, Musical Concepts and Materials II, YONG SIEW TOH CONSERVATORY OF MUSIC, 6
+MUT2118, Musical Concepts and Materials IV, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+MUT3114, Orchestration B, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUT3204, Intermediate Keyboard Studies, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUT3205, Advanced Keyboard Studies, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUT3206, Introduction to Schenkerian Analysis, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUT3207, Critical Score Reading, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+MUT4203, Practicum in Online Learning in Music, YONG SIEW TOH CONSERVATORY OF MUSIC, 3
+NCC1000, StepUp Module (A Career Development Programme), OFFICE OF STUDENT AFFAIRS, 0
+NCC1001, HeadStart Module (A Career Development Programme), OFFICE OF STUDENT AFFAIRS, 0
+NM1101E, Communications, New Media and Society, COMMUNICATIONS AND NEW MEDIA, 4
+NM1101FC, Communications, New Media and Society, COMMUNICATIONS AND NEW MEDIA, 4
+NM2101, Theories of Communications and New Media, COMMUNICATIONS AND NEW MEDIA, 4
+NM2103, Quantitative Research Methods, COMMUNICATIONS AND NEW MEDIA, 4
+NM2104, Qualitative Communication Research Methods, COMMUNICATIONS AND NEW MEDIA, 4
+NM2201, Intercultural Communication, COMMUNICATIONS AND NEW MEDIA, 4
+NM2203, Social Media in Communication Management, COMMUNICATIONS AND NEW MEDIA, 4
+NM2212, Visual Design, COMMUNICATIONS AND NEW MEDIA, 4
+NM2213, Human-Computer Interaction Design, COMMUNICATIONS AND NEW MEDIA, 4
+NM2219, Principles of Communication Management, COMMUNICATIONS AND NEW MEDIA, 4
+NM2220, Introduction to Media Writing, COMMUNICATIONS AND NEW MEDIA, 4
+NM2302, Mobility and New Media, COMMUNICATIONS AND NEW MEDIA, 4
+NM3202, Governance and New Media, COMMUNICATIONS AND NEW MEDIA, 4
+NM3203, Copyright and New Media, COMMUNICATIONS AND NEW MEDIA, 4
+NM3204, E-Learning, COMMUNICATIONS AND NEW MEDIA, 4
+NM3205, Digital Culture and Art, COMMUNICATIONS AND NEW MEDIA, 4
+NM3211, News Reporting and Editing, COMMUNICATIONS AND NEW MEDIA, 4
+NM3214, New Media and Science Communication, COMMUNICATIONS AND NEW MEDIA, 4
+NM3215, Advertising Strategies, COMMUNICATIONS AND NEW MEDIA, 4
+NM3217, Design for Strategic Communications, COMMUNICATIONS AND NEW MEDIA, 4
+NM3219, Writing for Communication Management, COMMUNICATIONS AND NEW MEDIA, 4
+NM3221, Mobile Interaction Design, COMMUNICATIONS AND NEW MEDIA, 4
+NM3223, Digital and Interactive Collage, COMMUNICATIONS AND NEW MEDIA, 4
+NM3224, Culture Industries, COMMUNICATIONS AND NEW MEDIA, 4
+NM3227, Critical Game Design, COMMUNICATIONS AND NEW MEDIA, 4
+NM3229, Data visualization, COMMUNICATIONS AND NEW MEDIA, 4
+NM3233, Strategic Communication: Applications, COMMUNICATIONS AND NEW MEDIA, 4
+NM3235, Corporate Social Responsibility: Research and Practice, COMMUNICATIONS AND NEW MEDIA, 4
+NM3236, Ethics in Communication Management, COMMUNICATIONS AND NEW MEDIA, 4
+NM3237, Health Communication, COMMUNICATIONS AND NEW MEDIA, 4
+NM3550, Communications & New Media Internship, COMMUNICATIONS AND NEW MEDIA, 4
+NM3551, FASS Undergraduate Research Opportunity (UROP), COMMUNICATIONS AND NEW MEDIA, 4
+NM4102, Advanced Communications & New Media Research, COMMUNICATIONS AND NEW MEDIA, 5
+NM4202, Transnational Information Producers, COMMUNICATIONS AND NEW MEDIA, 5
+NM4207, Managing Communication Campaigns, COMMUNICATIONS AND NEW MEDIA, 5
+NM4208, Designing for an Integrated Communications Environment, COMMUNICATIONS AND NEW MEDIA, 5
+NM4209, Advanced Game Design, COMMUNICATIONS AND NEW MEDIA, 5
+NM4210, User Experience Design, COMMUNICATIONS AND NEW MEDIA, 5
+NM4212, Media and Representation, COMMUNICATIONS AND NEW MEDIA, 5
+NM4218, Knowledge Mgmt: Approaches & Critique, COMMUNICATIONS AND NEW MEDIA, 5
+NM4221, Writing for Health Communication and New Media, COMMUNICATIONS AND NEW MEDIA, 5
+NM4226, HCI and Interactive Arts/Entertainment Design, COMMUNICATIONS AND NEW MEDIA, 5
+NM4229, Cultural Communication and Creative Expression, COMMUNICATIONS AND NEW MEDIA, 5
+NM4401, Honours Thesis, COMMUNICATIONS AND NEW MEDIA, 15
+NM4660, Independent Study, COMMUNICATIONS AND NEW MEDIA, 5
+NM4883B, Ethnomethodology for New Media, COMMUNICATIONS AND NEW MEDIA, 5
+NM5201R, State and Civil Society in the Information Age, COMMUNICATIONS AND NEW MEDIA, 5
+NM5205R, Cognition and Media, COMMUNICATIONS AND NEW MEDIA, 5
+NM5212R, Theories of Public Relations, COMMUNICATIONS AND NEW MEDIA, 5
+NM5214R, Interactive Media to Support Participation, COMMUNICATIONS AND NEW MEDIA, 5
+NM5215R, Design Knowledge for Interactive Media, COMMUNICATIONS AND NEW MEDIA, 5
+NM5660, INDEPENDENT STUDY, COMMUNICATIONS AND NEW MEDIA, 4
+NM6102, RESEARCH METHODS IN CNM, COMMUNICATIONS AND NEW MEDIA, 4
+NM6203, Culture-Centered Approach to Communication, COMMUNICATIONS AND NEW MEDIA, 4
+NM6211, Political Communication, COMMUNICATIONS AND NEW MEDIA, 4
+NM6660, INDEPENDENT STUDY, COMMUNICATIONS AND NEW MEDIA, 4
+NUR1108, Clinical Practicum 1.2, NURSING/ALICE LEE CTR FOR NURSING STUD, 4
+NUR1109, Healthcare Ethics and Law, NURSING/ALICE LEE CTR FOR NURSING STUD, 3
+NUR1115, Maternal and Child Health Nursing, NURSING/ALICE LEE CTR FOR NURSING STUD, 4
+NUR1116, Psychology for Health Professionals, NURSING/ALICE LEE CTR FOR NURSING STUD, 4
+NUR1118, Anatomy and Physiology II, NURSING/ALICE LEE CTR FOR NURSING STUD, 4
+NUR2107, Clinical Practicum 2.2, NURSING/ALICE LEE CTR FOR NURSING STUD, 7
+NUR2116, Medical-Surgical Nursing II, NURSING/ALICE LEE CTR FOR NURSING STUD, 4
+NUR2118, Pathophysiology and Pharmacology II, NURSING/ALICE LEE CTR FOR NURSING STUD, 4
+NUR3114, Leadership and Management, NURSING/ALICE LEE CTR FOR NURSING STUD, 3
+NUR3115, Issues for Contemporary Nursing Practice, NURSING/ALICE LEE CTR FOR NURSING STUD, 3
+NUR3116, Transition-to-Practice, NURSING/ALICE LEE CTR FOR NURSING STUD, 9
+NUR4101, Evidence-based Health Care Practice, NURSING/ALICE LEE CTR FOR NURSING STUD, 8
+NUR4102, Consolidated Clinical Practice, NURSING/ALICE LEE CTR FOR NURSING STUD, 8
+NUR4104, Honours Project in Nursing, NURSING/ALICE LEE CTR FOR NURSING STUD, 16
+OT5203, Design of Floating Structures, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+OT5204, Moorings & Risers, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+OT5205, Offshore Pipelines, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+OT5206, Offshore Foundations, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+OT5301, Subsea Systems Engineering, MECHANICAL ENGINEERING, 4
+PA2106, Pharmacology 1, PHARMACOLOGY, 4
+PA2106A, Pharmacology 1, PHARMACOLOGY, 4
+PC1143, Physics III, PHYSICS, 4
+PC1144, Physics IV, PHYSICS, 4
+PC1221, Fundamentals of Physics I, PHYSICS, 4
+PC1222, Fundamentals of Physics II, PHYSICS, 4
+PC1431, Physics IE, PHYSICS, 4
+PC1431FC, Physics IE, PHYSICS, 4
+PC1432, Physics IIE, PHYSICS, 4
+PC2130, Quantum Mechanics I, PHYSICS, 4
+PC2130B, Applied Quantum Physics, PHYSICS, 4
+PC2131, Electricity & Magnetism I, PHYSICS, 4
+PC2133, Applied Solid State Physics, PHYSICS, 4
+PC2193, Experimental Physics I, PHYSICS, 4
+PC2230, Thermodynamics and Statistical Mechanics, PHYSICS, 4
+PC2232, Physics for Electrical Engineers, PHYSICS, 4
+PC2239, Special Problems in Undergrad Physics I, PHYSICS, 4
+PC2288, Basic UROPS in Physics I, PHYSICS, 4
+PC2289, Basic UROPS in Physics II, PHYSICS, 4
+PC3130, Quantum Mechanics II, PHYSICS, 4
+PC3193, Experimental Physics II, PHYSICS, 4
+PC3233, Atomic & Molecular Physics I, PHYSICS, 4
+PC3236, Computational Methods in Physics, PHYSICS, 4
+PC3239, Special Problems in Undergrad Physics II, PHYSICS, 4
+PC3241, Solid State Devices, PHYSICS, 4
+PC3243, Photonics, PHYSICS, 4
+PC3246, Nuclear Astrophysics, PHYSICS, 4
+PC3251, Nanophysics, PHYSICS, 4
+PC3267, Biophysics II, PHYSICS, 4
+PC3288, Advanced UROPS in Physics I, PHYSICS, 4
+PC3289, Advanced UROPS in Physics II, PHYSICS, 4
+PC3312, Extended Undergraduate Professional Internship, PHYSICS, 8
+PC4199, Honours Project in Physics, PHYSICS, 12
+PC4199R, Integrated B.ENG./B.SC. (Hons) Dissertation, PHYSICS, 16
+PC4232, Cosmology, PHYSICS, 4
+PC4240, Solid State Physics II, PHYSICS, 4
+PC4242, Electrodynamics, PHYSICS, 4
+PC4243, Atomic & Molecular Physics II, PHYSICS, 4
+PC4245, Particle Physics, PHYSICS, 4
+PC4253, Thin Film Technology, PHYSICS, 4
+PC4262, Remote Sensing, PHYSICS, 4
+PC4264, Advanced Solid State Devices, PHYSICS, 4
+PC4274, Mathematical Methods in Physics III, PHYSICS, 4
+PC5198, GRADUATE SEMINAR MODULE IN PHYSICS, PHYSICS, 4
+PC5202, ADVANCED STATISTICAL MECHANICS, PHYSICS, 4
+PC5203, Advanced Solid State Physics, PHYSICS, 4
+PC5206, Selected Topics in Quantum Field Theory, PHYSICS, 4
+PC5207, TOPICS IN OPTICAL PHYSICS, PHYSICS, 4
+PC5210, Advanced Dynamics, PHYSICS, 4
+PC5212, Physics of Nanostructures, PHYSICS, 4
+PC5213, Advanced Biophysics, PHYSICS, 4
+PC5228, Quantum Information and Computation, PHYSICS, 4
+PC5239, SPECIAL PROBLEMS IN PHYSICS, PHYSICS, 4
+PC5288, M.SC COURSEWORK THESIS FOR PHYSICS, PHYSICS, 12
+PC5289, M.SC.(COURSEWORK) THESIS FOR APPLIED PHYSICS, PHYSICS, 16
+PF1103, IT for Projects, BUILDING, 4
+PF1104, Environmental Science for Building, BUILDING, 4
+PF1105, Fundamentals of Facilities Management, BUILDING, 4
+PF2103, Measurement (Building Works), BUILDING, 4
+PF2104, M&E Engineering Systems, BUILDING, 4
+PF2105, Research Methods, BUILDING, 4
+PF2108, Project Cost Management, BUILDING, 4
+PF2203, Quality and Productivity Management, BUILDING, 4
+PF2303, Materials Technology, BUILDING, 4
+PF3102, Facilities Planning and Design, BUILDING, 4
+PF3103, Project Management Law II, BUILDING, 4
+PF3201, Measurement (Specialist Works), BUILDING, 4
+PF3204, Project Risk Management, BUILDING, 4
+PF3303, Intelligent Facilities, BUILDING, 4
+PF4101, Dissertation, BUILDING, 8
+PF4103, Total Building Performance, BUILDING, 4
+PF4203, Project Dispute Management, BUILDING, 4
+PF4304, Total Building Performance, BUILDING, 4
+PF4305, Green Development, BUILDING, 4
+PF4307, Event Management, BUILDING, 4
+PH1102E, Introduction to Philosophy, PHILOSOPHY, 4
+PH2110 / GEM2006, Logic, PHILOSOPHY, 4
+PH2202, Major Political Philosophers, PHILOSOPHY, 4
+PH2212 / EU2214 / GEK2030, Introduction to Continental Philosophy, PHILOSOPHY, 4
+PH2222 / GEK2036, Greek Philosophy (Socrates and Plato), PHILOSOPHY, 4
+PH2223 / GEK2037, Introduction to the Philosophy of Technology, PHILOSOPHY, 4
+PH2241, Philosophy of Mind, PHILOSOPHY, 4
+PH2302 / GEK2039, Chinese Philosophical Traditions I, PHILOSOPHY, 4
+PH3202, Philosophy of Law, PHILOSOPHY, 4
+PH3203, Moral Philosophy, PHILOSOPHY, 4
+PH3204 / SN3272, Issues in Indian Philosophy, PHILOSOPHY, 4
+PH3206, Recent Philosophy, PHILOSOPHY, 4
+PH4201, Philosophy of Science, PHILOSOPHY, 5
+PH4205, Topics in East Asian Philosophy, PHILOSOPHY, 5
+PH4206, A Major Philosopher, PHILOSOPHY, 5
+PH4216, Topics in Environmental Philosophy, PHILOSOPHY, 5
+PH4241, Issues in Philosophical Logic, PHILOSOPHY, 5
+PH4401, Honours Thesis, PHILOSOPHY, 15
+PH4550, Internship: Philosophy for Teaching, PHILOSOPHY, 5
+PH4660, Independent Study, PHILOSOPHY, 5
+PH5430, ETHICS, PHILOSOPHY, 4
+PH5430R, Ethics, PHILOSOPHY, 5
+PH5660, Independent Study, PHILOSOPHY, 4
+PH6320, TRADITIONS IN ASIAN PHILOSOPHY, PHILOSOPHY, 4
+PH6660, Independent Study, PHILOSOPHY, 4
+PH6760, PHILOSOPHICAL TOPICS, PHILOSOPHY, 4
+PH6770, GRADUATE RESEARCH SEMINAR, PHILOSOPHY, 4
+PL1101E, Introduction to Psychology, PSYCHOLOGY, 4
+PL2131, Research and Statistical Methods I, PSYCHOLOGY, 4
+PL2132, Research and Statistical Methods II, PSYCHOLOGY, 4
+PL3231, Independent Research Project, PSYCHOLOGY, 4
+PL3232, Biological Psychology, PSYCHOLOGY, 4
+PL3233, Cognitive Psychology, PSYCHOLOGY, 4
+PL3234, Developmental Psychology, PSYCHOLOGY, 4
+PL3235, Social Psychology, PSYCHOLOGY, 4
+PL3236, Abnormal Psychology, PSYCHOLOGY, 4
+PL3237, Language & Cognitive Processes, PSYCHOLOGY, 4
+PL3238, Social Cognition, PSYCHOLOGY, 4
+PL3241, Personality & Individual Differences, PSYCHOLOGY, 4
+PL3243, Sensation and Perception, PSYCHOLOGY, 4
+PL3249, Memory, PSYCHOLOGY, 4
+PL3250, Human Performance, PSYCHOLOGY, 4
+PL3251, Atypical Development and Language, PSYCHOLOGY, 4
+PL3256, Infant Development, PSYCHOLOGY, 4
+PL3281D, Lab in Music Perception and Cognition, PSYCHOLOGY, 4
+PL3282, Lab in Social Psychology, PSYCHOLOGY, 4
+PL3282C, Lab in Attitudes, PSYCHOLOGY, 4
+PL3284, Lab in Applied Psychology, PSYCHOLOGY, 4
+PL3285, Lab in Biological Psychology, PSYCHOLOGY, 4
+PL3286, Lab in Health Psychology, PSYCHOLOGY, 4
+PL3288, Lab in Electroencephalography (EEG), PSYCHOLOGY, 4
+PL3551, FASS Undergraduate Research Opportunity (UROP), PSYCHOLOGY, 4
+PL4202, History and Systems of Psychology, PSYCHOLOGY, 5
+PL4205, Developmental Processes, PSYCHOLOGY, 5
+PL4207, Social Psychology: Theories and Methods, PSYCHOLOGY, 5
+PL4208, Introduction to Counselling Psychology, PSYCHOLOGY, 5
+PL4218, Psychological Assessment, PSYCHOLOGY, 5
+PL4219, Advanced Abnormal Psychology, PSYCHOLOGY, 5
+PL4221, Early Language Development, PSYCHOLOGY, 5
+PL4222, Neuroscience of Memory, PSYCHOLOGY, 5
+PL4224, Child Abnormal Psychology, PSYCHOLOGY, 5
+PL4226, Correctional Psychology, PSYCHOLOGY, 5
+PL4228, Criminal Forensic Psychology, PSYCHOLOGY, 5
+PL4229, Psychological Therapies, PSYCHOLOGY, 5
+PL4231, Personality Biology, Economics and Wellbeing, PSYCHOLOGY, 5
+PL4234, Patient and Health Care, PSYCHOLOGY, 5
+PL4235, Moral Psychology, PSYCHOLOGY, 5
+PL4401, Honours Thesis, PSYCHOLOGY, 15
+PL4660, Independent Study, PSYCHOLOGY, 5
+PL4880I, Social Psychology of the Unconscious, PSYCHOLOGY, 5
+PL4880J, The Right and Left Brain, PSYCHOLOGY, 5
+PL5222R, Multivariate Statistics in Psychology, PSYCHOLOGY, 5
+PL5225R, STRUCTURAL EQUATION MODELING, PSYCHOLOGY, 5
+PP5138, STATISTICAL TECHNIQUES FOR PUBLIC POLICY, NA, 4
+PP5141, The Economic Foundations of the Singapore Story, NA, 4
+PP5142, Liveable and Sustainable Cities - A Singapore Case-study, NA, 4
+PP5209, Exercising Leadership, NA, 4
+PP5223, Population Ageing, Public Policy, and Family, NA, 4
+PP5241J, Asia in the World Economy, NA, 4
+PP5241K, Political Economy of International Trade, NA, 4
+PP5242K, Policies for Urban Intervention, NA, 4
+PP5246, PUBLIC POLICY AND MANAGEMENT OF HEALTH SYSTEMS, NA, 4
+PP5255, Energy Policy & Security in Asia, NA, 4
+PP5294, Dynamic Modelling of Public Policy Systems, NA, 4
+PP5411, Economic Analysis of Public Policy (Gateway), NA, 4
+PP5412, Politics and International Relations (Gateway), NA, 4
+PP5413, Introduction to Social Policy (Gateway), NA, 4
+PP5414, Foundations of Sustainable Development and Environmental Economics, NA, 4
+PR1102, Physical Pharmacy, PHARMACY, 4
+PR2102, Pharmacy Law, PHARMACY, 4
+PR2105, Pharmaceutical Microbiology, PHARMACY, 4
+PR2202, Cosmetics & Perfumes, PHARMACY, 4
+PR2288, Basic UROPS in Pharmacy I, PHARMACY, 4
+PR2289, Basic UROPS in Pharmacy II, PHARMACY, 4
+PR3103, Pharmaceutical Analysis II, PHARMACY, 4
+PR3104, Pharmaceutical Biotechnology, PHARMACY, 4
+PR3105, Pharmacotherapy I, PHARMACY, 4
+PR3106, Pharmacokinetics & Drug Disposition, PHARMACY, 4
+PR3107, Pharmacy Practice II, PHARMACY, 4
+PR3288, Advanced UROPS in Pharmacy I, PHARMACY, 4
+PR3289, Advanced UROPS in Pharmacy II, PHARMACY, 4
+PR3301, Pharmaceutical Dosage Forms, PHARMACY, 4
+PR4102, Pharmacotherapy III, PHARMACY, 4
+PR4104, Pharmacy Practice III, PHARMACY, 4
+PR4105, Natural Products, PHARMACY, 4
+PR4106, Dosage Form Design III, PHARMACY, 4
+PR4199, Honours Project in Pharmacy, PHARMACY, 12
+PR4201, Pharmaceutical Marketing, PHARMACY, 4
+PR4206, Industrial Pharmacy, PHARMACY, 4
+PR5113, CLINICAL PHARMACOKINETICS & THERAPEUTIC DRUG MONITORING, PHARMACY, 4
+PR5130, Advanced Pharmacotherapy I, PHARMACY, 4
+PR5133, Advanced Pharmacotherapy in Special Populations, PHARMACY, 2
+PR5136, PHARMD SEMINAR, PHARMACY, 2
+PR5150, Ambulatory Care Clerkship, PHARMACY, 5
+PR5151, Acute Care Medicine Clerkship, PHARMACY, 5
+PR5152, Adult General Medicine Clerkship, PHARMACY, 5
+PR5153, Critical Care Clerkship, PHARMACY, 5
+PR5154, Drug Information Clerkship, PHARMACY, 5
+PR5198, GRADUATE SEMINAR MODULE IN PHARMACY, PHARMACY, 4
+PR5212, Advanced Topics in Medicinal Chemistry, PHARMACY, 4
+PR5216, ADVANCES IN DRUG DELIVERY, PHARMACY, 4
+PR5217, FORMULATION SCIENCE, PHARMACY, 4
+PR5220, BIOPROCESS TECHNOLOGY, PHARMACY, 4
+PR5230, Pharmacoeconomics and Outcomes Research, PHARMACY, 4
+PR5239, Clinical Pharmacy Research Project, PHARMACY, 12
+PR5250, Elective Clerkship I, PHARMACY, 5
+PR5251, Elective Clerkship II, PHARMACY, 5
+PR5252, Elective Clerkship III, PHARMACY, 5
+PR5302, REGULATION OF DRUG DEVELOPMENT, PHARMACY, 4
+PS1101E / GEK1003, Introduction to Politics, POLITICAL SCIENCE, 4
+PS2203 / EU2203, Ancient Western Political Thought, POLITICAL SCIENCE, 4
+PS2233 / GEK2024, Political Ideologies, POLITICAL SCIENCE, 4
+PS2234, Introduction to Comparative Politics, POLITICAL SCIENCE, 4
+PS2237, Introduction to International Relations, POLITICAL SCIENCE, 4
+PS2239 / GEK2010, Foreign Policy and Diplomacy, POLITICAL SCIENCE, 4
+PS2240, Introduction to Public Administration, POLITICAL SCIENCE, 4
+PS2244 / SSA2222, Public Administration in Singapore, POLITICAL SCIENCE, 4
+PS2245, Southeast Asian Politics, POLITICAL SCIENCE, 4
+PS2248, Chinese Politics, POLITICAL SCIENCE, 4
+PS2249 / GEK2003 / SSA2209, Government and Politics of Singapore, POLITICAL SCIENCE, 4
+PS3232, Democratic Theory, POLITICAL SCIENCE, 4
+PS3249 / SSA3205, Singapore's Foreign Policy, POLITICAL SCIENCE, 4
+PS3257, Political Inquiry, POLITICAL SCIENCE, 4
+PS3258, Research Methods in Political Science, POLITICAL SCIENCE, 4
+PS3262, Managing Non-Profit Organisations, POLITICAL SCIENCE, 4
+PS3263, Comparative Study of Development, POLITICAL SCIENCE, 4
+PS3265, Civil-Military Relations, POLITICAL SCIENCE, 4
+PS3266 / GEK3007, Politics, Music and Society, POLITICAL SCIENCE, 4
+PS3550, Political Science Internship, POLITICAL SCIENCE, 4
+PS3551, FASS Undergraduate Research Opportunity (UROP ), POLITICAL SCIENCE, 4
+PS3880B, Special Topics in PS: Critical IR Theory, POLITICAL SCIENCE, 4
+PS3880H, The Politics of European Integration, POLITICAL SCIENCE, 4
+PS4202, Political Parties and Elections, POLITICAL SCIENCE, 5
+PS4203, China's Foreign Policy, POLITICAL SCIENCE, 5
+PS4209, Public Organisation Theory and Practice, POLITICAL SCIENCE, 5
+PS4218 / EU4228, European Foreign Policy, POLITICAL SCIENCE, 5
+PS4220, Rhetoric and Politics, POLITICAL SCIENCE, 5
+PS4225, Contemporary Issues in Chinese Politics, POLITICAL SCIENCE, 5
+PS4227, Environmental Politics, POLITICAL SCIENCE, 5
+PS4401, Honours Thesis, POLITICAL SCIENCE, 15
+PS4660, Independent Study, POLITICAL SCIENCE, 5
+PS4882D, Topics in IR: Politics of Global Migration, POLITICAL SCIENCE, 5
+PS4882H, Topics in IR: Food Politics, POLITICAL SCIENCE, 5
+PS4883A, Topics in PT: Orientalism and Femininity, POLITICAL SCIENCE, 5
+PS4883B, Topics in PT: The Enlightenment, POLITICAL SCIENCE, 5
+PS5312R, Seminar in Comparative Politics, POLITICAL SCIENCE, 5
+PS5314R, Seminar in Int'l Relations, POLITICAL SCIENCE, 5
+PS5316R, SEMINAR IN PUBLIC ADMINISTRATION, POLITICAL SCIENCE, 5
+PS5603R, Introduction to Qualitative Methods, POLITICAL SCIENCE, 5
+PY1106, Physiology 2, PHYSIOLOGY, 4
+QF3101, Investment Instruments: Theory and Computation, MATHEMATICS, 4
+QF3312, Extended Undergraduate Professional Internship, MATHEMATICS, 8
+QF4199, Honours Project in Quantitative Finance, MATHEMATICS, 12
+QF5202, Structured Products, MATHEMATICS, 4
+QF5206, Topics in Quantitative Finance II, MATHEMATICS, 4
+QF5210, Financial Time Series: Theory and Computation, MATHEMATICS, 4
+RE1103, PROPERTY AND FACILITIES MANAGEMENT, REAL ESTATE, 4
+RE1104, PRINCIPLES OF REAL ESTATE VALUATION, REAL ESTATE, 4
+RE2104, Real Estate Finance, REAL ESTATE, 4
+RE2105, Land Law, REAL ESTATE, 4
+RE2106, Real Estate Marketing & Negotiation, REAL ESTATE, 4
+RE2107, PROPERTY TAX AND STATUTORY VALUATION, REAL ESTATE, 4
+RE2201, Quantitative Methods in Real Estate, REAL ESTATE, 4
+RE2301, GIS for Real Estate, REAL ESTATE, 4
+RE3105, Regional Real Estate Development, REAL ESTATE, 4
+RE3106, Residential Property Management, REAL ESTATE, 4
+RE3201, Research Methodology, REAL ESTATE, 4
+RE3211, Real Estate Finance Law, REAL ESTATE, 4
+RE3212, CORPORATE INVESTMENT IN REAL ESTATE, REAL ESTATE, 4
+RE3221, Real Estate Development Law, REAL ESTATE, 4
+RE3222, URBAN DESIGN AND CONSERVATION, REAL ESTATE, 4
+RE3301, CONSUMER BEHAVIOUR IN REAL ESTATE, REAL ESTATE, 4
+RE4000, Dissertation, REAL ESTATE, 8
+RE4001, Real Estate Case Study, REAL ESTATE, 4
+RE4210, REAL ESTATE FINANCE SEMINAR, REAL ESTATE, 4
+RE4213, REAL ESTATE RISK ANALYSIS AND MANAGEMENT, REAL ESTATE, 4
+RE4220, URBAN PLANNING SEMINAR, REAL ESTATE, 4
+RE4223, URBAN PLANNING IN ASIAN CITIES, REAL ESTATE, 4
+RE4302, International Real Estate, REAL ESTATE, 4
+SC1101E, Making Sense of Society, SOCIOLOGY, 4
+SC2101, Methods of Social Research, SOCIOLOGY, 4
+SC2202, Sociology of Work, SOCIOLOGY, 4
+SC2204, Social Inequalities : Who Gets Ahead?, SOCIOLOGY, 4
+SC2209, Money, Business and Social Networks, SOCIOLOGY, 4
+SC2211, Medical Sociology, SOCIOLOGY, 4
+SC2212, Sociology of Deviance, SOCIOLOGY, 4
+SC2214, Media and Culture, SOCIOLOGY, 4
+SC2215, The Sociology of Food, SOCIOLOGY, 4
+SC2220, Gender Studies, SOCIOLOGY, 4
+SC2221, Environment and Society, SOCIOLOGY, 4
+SC3101 / EU3224, Social Thought & Social Theory, SOCIOLOGY, 4
+SC3203, Race and Ethnic Relations, SOCIOLOGY, 4
+SC3206, Urban Sociology, SOCIOLOGY, 4
+SC3208, Religion in Society & Culture, SOCIOLOGY, 4
+SC3211, Science, Technology & Society, SOCIOLOGY, 4
+SC3213, Ethnographic Analysis of Visual Media, SOCIOLOGY, 4
+SC3214, Sociology of Life Course and Ageing, SOCIOLOGY, 4
+SC3216, Self and Society, SOCIOLOGY, 4
+SC3219, Sexuality in Comparative Perspective, SOCIOLOGY, 4
+SC3222, Social Transformations in Modern China, SOCIOLOGY, 4
+SC3227, Modernity and Social Change, SOCIOLOGY, 4
+SC3551, FASS Undergraduate Research Opportunity (UROP), SOCIOLOGY, 4
+SC4101, Reflections on a Sociological Education, SOCIOLOGY, 5
+SC4210, Sociology of Migration, SOCIOLOGY, 5
+SC4218, Religions, Secularity, Post-Secularity, SOCIOLOGY, 5
+SC4220, Gender, Culture and Ageing, SOCIOLOGY, 5
+SC4221, Comparative Analysis of Human Rights, SOCIOLOGY, 5
+SC4222, Body and Society, SOCIOLOGY, 5
+SC4223, Health and Social Behaviour, SOCIOLOGY, 5
+SC4225, The Sociology of Cities and Development Planning in Asia, SOCIOLOGY, 5
+SC4401, Honours Thesis, SOCIOLOGY, 15
+SC4660, Independent Study, SOCIOLOGY, 5
+SC4882B, Citizenship, Nation and Globalization, SOCIOLOGY, 5
+SC5102R, Quantitative Data Analysis, SOCIOLOGY, 5
+SC5215R, THE PRACTICE OF VISUAL ETHNOGRAPHY, SOCIOLOGY, 5
+SDM5002, SYSTEMS ENGINEERING, DIVISION OF ENGINEERING AND TECH MGT, 4
+SDM5003, KNOWLEDGE MANAGEMENT, DIVISION OF ENGINEERING AND TECH MGT, 4
+SDM5004, Systems Engineering Project Management, DIVISION OF ENGINEERING AND TECH MGT, 4
+SE1101E / GEK1008 / SSA1202, Southeast Asia: A Changing Region, SOUTHEAST ASIAN STUDIES, 4
+SE2210, Popular Culture in Southeast Asia, SOUTHEAST ASIAN STUDIES, 4
+SE2217, War and Southeast Asia, SOUTHEAST ASIAN STUDIES, 4
+SE2218T, Changing Economic Landscape of Southeast Asia, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+SE2223, Doing Research in Southeast Asian Studies, SOUTHEAST ASIAN STUDIES, 4
+SE2226, Moro Peoples of the Philippines, SOUTHEAST ASIAN STUDIES, 4
+SE2660, Independent Study, SOUTHEAST ASIAN STUDIES, 4
+SE3211, Religion, Society & Politics in SE Asia, SOUTHEAST ASIAN STUDIES, 4
+SE3216, Migration and Diaspora in Southeast Asia, SOUTHEAST ASIAN STUDIES, 4
+SE3218, Industrialising Singapore and SE Asia, SOUTHEAST ASIAN STUDIES, 4
+SE3220, Country Studies: Mainland Southeast Asia, SOUTHEAST ASIAN STUDIES, 4
+SE3224, Thai Drawing and Painting, SOUTHEAST ASIAN STUDIES, 4
+SE3226, Hard at work: the changing face of labour in SEA, SOUTHEAST ASIAN STUDIES, 4
+SE3550, Southeast Asian Studies Internship, SOUTHEAST ASIAN STUDIES, 4
+SE3660, Independent Study, SOUTHEAST ASIAN STUDIES, 4
+SE4401, Honours Thesis, SOUTHEAST ASIAN STUDIES, 15
+SE4660, Independent Study, SOUTHEAST ASIAN STUDIES, 5
+SE5221R, Southeast Asian Cultural Landscape, SOUTHEAST ASIAN STUDIES, 5
+SE5223R, HISTORY OF SEXUALITY IN ASIA, SOUTHEAST ASIAN STUDIES, 5
+SE5229R, Anthropological Approaches to SE Asia, SOUTHEAST ASIAN STUDIES, 5
+SE5233R, Economies of Southeast Asia, SOUTHEAST ASIAN STUDIES, 5
+SE5241R, Country Studies: Mainland Southeast Asia, SOUTHEAST ASIAN STUDIES, 5
+SN1101E, South Asia : People, Culture, Develop'm, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN2232, South Asia:Poverty, Inequality, Power, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN2233, Globalizing India: The Politics of Economic Change, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN2271, Religion and Society in South Asia, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN2277, Indian Communities in Southeast Asia, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN3262 / HY3236, The Struggle for India, 1920-1964, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN3274, South Asian Cinema, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN3275, Tamil Studies II, SOUTH ASIAN STUDIES PROGRAMME, 4
+SP1230, NUS H3 Science Research Programme, DEAN'S OFFICE (SCIENCE), 4
+SP2171, Discovering Science, DEAN'S OFFICE (SCIENCE), 4
+SP2174, The Cell, DEAN'S OFFICE (SCIENCE), 4
+SP2251, Science at the Nanoscale, CHEMISTRY, 4
+SP3172, Integrated Science Project, DEAN'S OFFICE (SCIENCE), 4
+SP3176, The Universe, DEAN'S OFFICE (SCIENCE), 4
+SP3202, Evidence in Forensic Science, BIOLOGICAL SCIENCES, 4
+SPH2104, Public Health Nutrition, SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH, 4
+SPH3102, PUBLIC HEALTH COMMUNICATION, SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH, 4
+SPH3103, Public Health Economics, SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH, 4
+SSA1201, Singapore Society, SOCIOLOGY, 4
+SSA1207, Singapore Literature in English: Selected Texts, ENGLISH LANGUAGE & LITERATURE, 4
+SSA1208, Everyday Life of Chinese Singaporeans: Past & Present (taught in English), CHINESE STUDIES, 4
+SSA2214, Singapore and India: Emerging Relations, SOUTH ASIAN STUDIES PROGRAMME, 4
+SSA2215, The Biophysical Environment of Singapore, GEOGRAPHY, 4
+SSB1204, Labour Law In Singapore, STRATEGY AND POLICY, 4
+SSB1204T, Labour Law In Singapore, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+SSB2217, Singapore Taxation, ACCOUNTING, 4
+SSD2213, Singapore Urban History & Architecture, ARCHITECTURE, 4
+SSS1207, Natural Heritage of Singapore, BIOLOGICAL SCIENCES, 4
+SSU2000, Biomedicine and Singapore Society, TEMBUSU COLLEGE, 4
+SSU2001, College 3 Capstone Experience, COLLEGE OF ALICE & PETER TAN, 4
+SSU2003, Building Healthy Societies, COLLEGE OF ALICE & PETER TAN, 4
+SSU2004 / GEM2905, Singapore as ‘Model’ City?, TEMBUSU COLLEGE, 4
+ST1131, Introduction to Statistics, STATISTICS & APPLIED PROBABILITY, 4
+ST1232, Statistics for Life Sciences, STATISTICS & APPLIED PROBABILITY, 4
+ST2131 / MA2216, Probability, STATISTICS & APPLIED PROBABILITY, 4
+ST2132, Mathematical Statistics, STATISTICS & APPLIED PROBABILITY, 4
+ST2288, Basic UROPS in Statistics and Applied Probability I, STATISTICS & APPLIED PROBABILITY, 4
+ST2289, Basic UROPS in Statistics and Applied Probability II, STATISTICS & APPLIED PROBABILITY, 4
+ST2334, Probability and Statistics, STATISTICS & APPLIED PROBABILITY, 4
+ST3131, Regression Analysis, STATISTICS & APPLIED PROBABILITY, 4
+ST3232, Design & Analysis of Experiments, STATISTICS & APPLIED PROBABILITY, 4
+ST3240, Multivariate Statistical Analysis, STATISTICS & APPLIED PROBABILITY, 4
+ST3241, Categorical Data Analysis I, STATISTICS & APPLIED PROBABILITY, 4
+ST3247, Simulation, STATISTICS & APPLIED PROBABILITY, 4
+ST3288, Advanced UROPS in Statistics & Applied Probability I, STATISTICS & APPLIED PROBABILITY, 4
+ST3289, Advanced UROPS in Statistics & Applied Probability II, STATISTICS & APPLIED PROBABILITY, 4
+ST3312, Extended Undergraduate Professional Internship, STATISTICS & APPLIED PROBABILITY, 8
+ST4199, Honours Project in Statistics, STATISTICS & APPLIED PROBABILITY, 12
+ST4238 / MA4251, Stochastic Processes II, STATISTICS & APPLIED PROBABILITY, 4
+ST4240, Data Mining, STATISTICS & APPLIED PROBABILITY, 4
+ST4242, Analysis of Longitudinal Data, STATISTICS & APPLIED PROBABILITY, 4
+ST4245, Statistical Methods for Finance, STATISTICS & APPLIED PROBABILITY, 4
+ST5217, STATISTICAL METHODS FOR GENETIC ANALYSIS, STATISTICS & APPLIED PROBABILITY, 4
+SW1101E, Social Work: A Heart-Head-Hand Connection, SOCIAL WORK, 4
+SW2101, Working with Individuals and Families, SOCIAL WORK, 4
+SW2104, Human Development over the Lifespan, SOCIAL WORK, 4
+SW2105, Relationship Skills & Social Work, SOCIAL WORK, 4
+SW2106, Social Group Work Practice, SOCIAL WORK, 4
+SW3101, Social Work Research Methods, SOCIAL WORK, 4
+SW3103A, Social Work Field Practice (I), SOCIAL WORK, 8
+SW3104, Social Work Field Practice (II), SOCIAL WORK, 8
+SW3213, Working With Older Adults, SOCIAL WORK, 4
+SW3216, Urban Youth Work, SOCIAL WORK, 4
+SW3217, Mental Health and Illness, SOCIAL WORK, 4
+SW3219, Child-centric Social Work, SOCIAL WORK, 4
+SW3551, FASS Undergraduate Research Opportunity (UROP), SOCIAL WORK, 4
+SW4213, SOCIAL NETWORKS & SOCIAL SUPPORT, SOCIAL WORK, 5
+SW4214, Comparative Social Service Systems in SEA, SOCIAL WORK, 5
+SW4216, Advanced Studies in Community Work, SOCIAL WORK, 5
+SW4401, Honours Thesis, SOCIAL WORK, 15
+SW4660, Independent Study, SOCIAL WORK, 5
+SW5106R, Social Welfare Policy and Services, SOCIAL WORK, 5
+SW5213R, Practice with Persons with Disability, SOCIAL WORK, 5
+SW5253R, VOLUNTEER MANAGEMENT, SOCIAL WORK, 5
+SX1991, Exchange Enrichment Level 1000 Module, DEAN'S OFFICE (SCIENCE), 4
+SX1992, Exchange Enrichment Level 1000 Module, DEAN'S OFFICE (SCIENCE), 4
+SX1994, Exchange Enrichment 1000 Module, DEAN'S OFFICE (SCIENCE), 3
+SX1996, Exchange Enrichment Level 1000 Module, DEAN'S OFFICE (SCIENCE), 2
+SX2991, Exchange Enrichment 2000 Module, DEAN'S OFFICE (SCIENCE), 2
+SX2995, Exchange Enrichment 2000 Module, DEAN'S OFFICE (SCIENCE), 3
+SX2996, Exchange Enrichment Module (4 MCs), DEAN'S OFFICE (SCIENCE), 4
+SX2997, Exchange Enrichment Module (4MCs), DEAN'S OFFICE (SCIENCE), 4
+SX3971, Environmental Chemistry, DEAN'S OFFICE (SCIENCE), 4
+SX3972, Introduction to Instrumental Analysis, DEAN'S OFFICE (SCIENCE), 4
+SX3973, Atmospheric Chemistry, DEAN'S OFFICE (SCIENCE), 4
+SX3974, Physics and Environment, DEAN'S OFFICE (SCIENCE), 4
+SX3992, Exchange Enrichment 3000 Module, DEAN'S OFFICE (SCIENCE), 3
+SX3993, Exchange Enrichment 3000 Module, DEAN'S OFFICE (SCIENCE), 4
+SX3994, Exchange Enrichment 3000 Module, DEAN'S OFFICE (SCIENCE), 4
+SX3996, Exchange Enrichment Level 3000 Module, DEAN'S OFFICE (SCIENCE), 2
+TC1401, Mathematics I, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TC1422, Materials for Chemical Engineers, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TC2401, Mathematics II, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TE2002, Engineering Mathematics II, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TE2003, Advanced Mathematics for Engineers, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TE2101, Programming Methodology, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TE3201, Software Engineering, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TE3801, Robust Design Of Electronic Circuits, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TE4001, BTech Dissertation, BACHELOR OF TECHNOLOGY PROGRAMME, 12
+TG1401, Engineering Mathematics I, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TG2415, Ethics In Engineering, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TG3001, Industrial Practice, BACHELOR OF TECHNOLOGY PROGRAMME, 12
+TG3101A, Independent Study, BACHELOR OF TECHNOLOGY PROGRAMME, 2
+TG3101B, Independent Study, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TM2401, Engineering Mathematics II, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TM3101, Mechanical Systems Design, BACHELOR OF TECHNOLOGY PROGRAMME, 6
+TM4101, B.Tech. Dissertation, BACHELOR OF TECHNOLOGY PROGRAMME, 12
+TM4209, The Management Of New Prod. Development, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TM4264, Fundamentals of Automotive Engineering, BACHELOR OF TECHNOLOGY PROGRAMME, 4
+TP5026, Transportation Management & Policy, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+TP5028, Intermodal Transportation Operations, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+TR2201, Entrepreneurial Marketing, MARKETING, 4
+TR2202, Technological Innovation, STRATEGY AND POLICY, 4
+TR3001, New Product Development, MARKETING, 4
+TR3002, New Venture Creation, STRATEGY AND POLICY, 4
+TS1101E / GEM1003, INTRODUCTION TO THEATRE AND DRAMA, ENGLISH LANGUAGE & LITERATURE, 4
+TS2217, Introduction to Performance Studies, ENGLISH LANGUAGE & LITERATURE, 4
+TS2234, Cultural Policy, the Arts and Society, ENGLISH LANGUAGE & LITERATURE, 4
+TS2236, Crossing Boundaries in Performance, ENGLISH LANGUAGE & LITERATURE, 4
+TS2240, Voice Studies and Production, ENGLISH LANGUAGE & LITERATURE, 4
+TS3103, Play Production, ENGLISH LANGUAGE & LITERATURE, 8
+TS3233, Southeast Asian Performance, ENGLISH LANGUAGE & LITERATURE, 4
+TS3234, Performance and Popular Culture, ENGLISH LANGUAGE & LITERATURE, 4
+TS3235 / SSA3201, Singapore English-Language Theatre, ENGLISH LANGUAGE & LITERATURE, 4
+TS3237, Acting and Directing in Asian Theatre, ENGLISH LANGUAGE & LITERATURE, 4
+TS3240, Theatre Criticism, ENGLISH LANGUAGE & LITERATURE, 4
+TS3243, Stage and Screen, ENGLISH LANGUAGE & LITERATURE, 4
+TS3246, Shakespeare and Asian Performances, ENGLISH LANGUAGE & LITERATURE, 4
+TS3247, Digital Archiving and Performance, ENGLISH LANGUAGE & LITERATURE, 4
+TS4213, Stylistics of Drama, ENGLISH LANGUAGE & LITERATURE, 5
+TS4217, Cultural Performance in Asia, ENGLISH LANGUAGE & LITERATURE, 5
+TS4401, Honours Thesis, ENGLISH LANGUAGE & LITERATURE, 15
+TS4660, Independent Study, ENGLISH LANGUAGE & LITERATURE, 5
+TS4880B, Applied Theatre, ENGLISH LANGUAGE & LITERATURE, 5
+TS5101R, TEXT AND PERFORMANCE, ENGLISH LANGUAGE & LITERATURE, 5
+TS5212R, ASIAN INTERNATIONAL CINEMA, ENGLISH LANGUAGE & LITERATURE, 5
+UAR2201, Cyberart, UNIVERSITY SCHOLARS PROGRAMME, 4
+UD5628, Sustainable Urban Design and Development, ARCHITECTURE, 4
+UIS3901, Independent Study Module, UNIVERSITY SCHOLARS PROGRAMME, 4
+UIS3901S, Independent Study Module (ST), UNIVERSITY SCHOLARS PROGRAMME, 4
+UIS3911, Independent Study Module, DEAN'S OFFICE (ARTS & SOCIAL SC.), 4
+UIS3911HY, Independent Study Module, DEAN'S OFFICE (ARTS & SOCIAL SC.), 4
+UIS3911NM, Independent Study Module, DEAN'S OFFICE (ARTS & SOCIAL SC.), 4
+UIS3911PH, Independent Study Module, DEAN'S OFFICE (ARTS & SOCIAL SC.), 4
+UIS3911PL, Independent Study Module, DEAN'S OFFICE (ARTS & SOCIAL SC.), 4
+UIS3911PS, Independent Study Module, DEAN'S OFFICE (ARTS & SOCIAL SC.), 4
+UIS3911SC, Independent Study Module, DEAN'S OFFICE (ARTS & SOCIAL SC.), 4
+UIS3911SN, Independent Study Module, DEAN'S OFFICE (ARTS & SOCIAL SC.), 4
+UIS3912, Independent Study Module, DEAN'S OFFICE (ARTS & SOCIAL SC.), 4
+UIS3912HY, Independent Study Module, DEAN'S OFFICE (ARTS & SOCIAL SC.), 4
+UIS3921, Independent Study Module, DEAN'S OFFICE (SCIENCE), 4
+UIS3921R, Independent Study Module (Ride-On), DEAN'S OFFICE (SCIENCE), 4
+UIS3922, Independent Study Module, DEAN'S OFFICE (SCIENCE), 4
+UIS3922R, Independent Study Module (Ride-On), DEAN'S OFFICE (SCIENCE), 4
+UIS3923, Independent Study Module, DEAN'S OFFICE (SCIENCE), 4
+UIS3923R, Independent Study Module (Ride-On), DEAN'S OFFICE (SCIENCE), 4
+UIS3924, Independent Study Module, DEAN'S OFFICE (SCIENCE), 4
+UIS3924R, Independent Study Module (Ride-On), DEAN'S OFFICE (SCIENCE), 4
+UIS3931, Independent Study Module, DEAN'S OFFICE (ENGINEERING), 4
+UIS3932, Independent Study Module, DEAN'S OFFICE (ENGINEERING), 4
+UIS3933, Independent Study Module, DEAN'S OFFICE (ENGINEERING), 4
+UIS3934, Independent Study Module, DEAN'S OFFICE (ENGINEERING), 4
+UIS3941, Independent Study Module, DEAN'S OFFICE (BIZ), 4
+UIS3941R, Independent Study Module (Ride-On), DEAN'S OFFICE (BIZ), 4
+UIS3942, Independent Study Module, DEAN'S OFFICE (BIZ), 4
+UIS3942R, Independent Study Module (Ride-On), DEAN'S OFFICE (BIZ), 4
+UIS3943, Independent Study Module, DEAN'S OFFICE (BIZ), 4
+UIS3943R, Independent Study Module (Ride On), DEAN'S OFFICE (BIZ), 4
+UIS3944, Independent Study Module, DEAN'S OFFICE (BIZ), 4
+UIS3944R, Independent Study Module (Ride On), DEAN'S OFFICE (BIZ), 4
+UIS4911, Independent Study Module, DEAN'S OFFICE (ARTS & SOCIAL SC.), 5
+UIS4912, Independent Study Module, DEAN'S OFFICE (ARTS & SOCIAL SC.), 5
+UIS4913, Independent Study Module, DEAN'S OFFICE (ARTS & SOCIAL SC.), 5
+UIS4921, Independent Study Module, DEAN'S OFFICE (SCIENCE), 4
+UIS4921R, Independent Study Module (Ride-On), DEAN'S OFFICE (SCIENCE), 4
+UIS4922, Independent Study Module, DEAN'S OFFICE (SCIENCE), 4
+UIS4922R, Independent Study Module (Ride-On), DEAN'S OFFICE (SCIENCE), 4
+UIS4923, Independent Study Module, DEAN'S OFFICE (SCIENCE), 4
+UIS4923R, Independent Study Module (Ride-On), DEAN'S OFFICE (SCIENCE), 4
+UIS4924, Independent Study Module, DEAN'S OFFICE (SCIENCE), 4
+UIS4924R, Independent Study Module (Ride-On), DEAN'S OFFICE (SCIENCE), 4
+UIS4931, Independent Study Module, DEAN'S OFFICE (ENGINEERING), 4
+UIS4932, Independent Study Module, DEAN'S OFFICE (ENGINEERING), 4
+UIS4933, Independent Study Module, DEAN'S OFFICE (ENGINEERING), 4
+UIS4934, INDEPENDENT STUDY MODULE, DEAN'S OFFICE (ENGINEERING), 4
+UIS4941, Independent Study Module, DEAN'S OFFICE (BIZ), 4
+UIS4941R, Independent Study Module (Ride-On), DEAN'S OFFICE (BIZ), 4
+UIS4942, Independent Study Module, DEAN'S OFFICE (BIZ), 4
+UIS4942R, Independent Study Module (Ride-On), DEAN'S OFFICE (BIZ), 4
+UIS4943, Independent Study Module, DEAN'S OFFICE (BIZ), 4
+UIS4943R, Independent Study Module (Ride On), DEAN'S OFFICE (BIZ), 4
+UIS4944, Independent Study Module, DEAN'S OFFICE (BIZ), 4
+UIS4944R, Independent Study Module (Ride On), DEAN'S OFFICE (BIZ), 4
+UIT2206, The Importance of Being Formal, UNIVERSITY SCHOLARS PROGRAMME, 4
+ULS2202, Evolution, UNIVERSITY SCHOLARS PROGRAMME, 4
+ULT2299E, Appealing Arguments: Logos, Pathos, and Ethos, UNIVERSITY SCHOLARS PROGRAMME, 4
+UNL2201, Space, Time And Matter, UNIVERSITY SCHOLARS PROGRAMME, 4
+UNL2206, Nature's Threads, UNIVERSITY SCHOLARS PROGRAMME, 4
+UPC2206, Nanoscale Science And Technology, UNIVERSITY SCHOLARS PROGRAMME, 4
+UPC2207, The Technology of Life - Machines That Go Squish, UNIVERSITY SCHOLARS PROGRAMME, 4
+UPI2206, Creative Thinking, UNIVERSITY SCHOLARS PROGRAMME, 4
+UQF2101B, Quantitative Reasoning Foundation: Mental Events, UNIVERSITY SCHOLARS PROGRAMME, 4
+UQF2101F, Quantitative Reasoning Foundation: Calculating Risks, UNIVERSITY SCHOLARS PROGRAMME, 4
+UQF2101G, Quantitative Reasoning Foundation: Quantifying Nuclear Risks, UNIVERSITY SCHOLARS PROGRAMME, 4
+UQF2101H, Quantitative Reasoning Foundation: War and Democracy, UNIVERSITY SCHOLARS PROGRAMME, 4
+UQR2211, Passing Time: Processes, Temporality, and Econometrics, UNIVERSITY SCHOLARS PROGRAMME, 4
+USE2209, Historicizing the Black Pacific, UNIVERSITY SCHOLARS PROGRAMME, 4
+USE2304, Singapore: The Making Of A Nation, UNIVERSITY SCHOLARS PROGRAMME, 4
+USE2307, HIV/AIDS: From Microbes to Nations, UNIVERSITY SCHOLARS PROGRAMME, 4
+USE2313, Understanding Law and Social Change, UNIVERSITY SCHOLARS PROGRAMME, 4
+USE2316, Satires and (Un)Serious Histories, UNIVERSITY SCHOLARS PROGRAMME, 4
+USE2317, Multiculturalism in Singapore and Its Contested Meanings, UNIVERSITY SCHOLARS PROGRAMME, 4
+USE2318, Managing Cultural Difference:Theorizing the S’pore Model, UNIVERSITY SCHOLARS PROGRAMME, 4
+USP3501, The Problematic Concept Of 'Gender', UNIVERSITY SCHOLARS PROGRAMME, 4
+USP3506, Religious Issues in the Contemporary World, UNIVERSITY SCHOLARS PROGRAMME, 4
+USS2105, University Scholars Seminar, UNIVERSITY SCHOLARS PROGRAMME, 4
+UWC2101A, Writing and Critical Thinking: Colonialism and Cosmopolitanism, UNIVERSITY SCHOLARS PROGRAMME, 4
+UWC2101B, Writing and Critical Thinking: Civic Discourse in a Fractious World, UNIVERSITY SCHOLARS PROGRAMME, 4
+UWC2101C, Writing and Critical Thinking Module: Monuments, Memorials, and Commemoration, UNIVERSITY SCHOLARS PROGRAMME, 4
+UWC2101H, Writing & Critical Thinking: Power, Space and Pleasure, UNIVERSITY SCHOLARS PROGRAMME, 4
+UWC2101S, Writing & Critical Thinking: Danger and National Security, UNIVERSITY SCHOLARS PROGRAMME, 4
+UWC2101Y, Writing and Critical Thinking: Issues in and Around Justice, UNIVERSITY SCHOLARS PROGRAMME, 4
+UWC2102E, Writing and Research: "To Not Be. That is the Question", UNIVERSITY SCHOLARS PROGRAMME, 4
+XFA4401, Integrated Honours Project, ECONOMICS, 16
+XFA4402, Integrated Honours Thesis, ECONOMICS, 15
+XFB4001, Integrated Honors Thesis, DEAN'S OFFICE (BIZ), 12
+XFB4002, Integrated Honours Dissertation, DEAN'S OFFICE (BIZ), 15
+XFC4101, Integrated Honours Thesis, DEAN'S OFFICE (SCHOOL OF COMPUTING), 12
+XFE4401, Integrated Honours Project, DEAN'S OFFICE (ENGINEERING), 16
+YCC1112, Literature and Humanities 2, YALE-NUS COLLEGE, 5
+YCC1114, Philosophy and Political Thought 2, YALE-NUS COLLEGE, 5
+YCC1122, Quantitative Reasoning, YALE-NUS COLLEGE, 5
+YCC1132, Integrated Science, YALE-NUS COLLEGE, 5
+YHU1201, Art and Politics: From Modernity to Post-Modernity, YALE-NUS COLLEGE, 5
+YHU1202, History and Culture of Southeast Asia, YALE-NUS COLLEGE, 5
+YHU1203, History and Culture of the United State, YALE-NUS COLLEGE, 5
+YHU1204, Rise and Fall of the British Empire, YALE-NUS COLLEGE, 5
+YHU1205, Flash: Short Prose Writing, YALE-NUS COLLEGE, 5
+YHU1206, World History to 1500, YALE-NUS COLLEGE, 5
+YID1201, Introduction to Environmental Studies, YALE-NUS COLLEGE, 5
+YIR1302, Independent Reading and Research (Sem2), YALE-NUS COLLEGE, 2
+YIR1321, Independent Reading and Research (Sem2), YALE-NUS COLLEGE, 2
+YIR1322, Independent Reading and Research II (Sem2), YALE-NUS COLLEGE, 2
+YLF1211, Independent Language Study (French), YALE-NUS COLLEGE, 2
+YLS1201, Spanish 1, YALE-NUS COLLEGE, 4
+YSS1201, An Anthropology of Literary Culture, YALE-NUS COLLEGE, 5
+YSS1202, Divided Cities, YALE-NUS COLLEGE, 5
+YSS1203, Principles of Economics, YALE-NUS COLLEGE, 5
+ZB3288, Advanced UROPS in Computational Biology I, DEAN'S OFFICE (SCIENCE), 4
+ZB3289, Advanced UROPS in Computational Biology II, DEAN'S OFFICE (SCIENCE), 4
+ZB4199, Honours Project in Computational Biology, DEAN'S OFFICE (SCIENCE), 12
+GEK1000 / EN1101E, An Introduction to Literary Studies, ENGLISH LANGUAGE & LITERATURE, 4
+GEK1001 / GE1101E, Geographical Journeys: Exploring World Environments, GEOGRAPHY, 4
+GEK1002 / JS1101E, Introduction to Japanese Studies, JAPANESE STUDIES, 4
+GEK1003 / PS1101E, Introduction to Politics, POLITICAL SCIENCE, 4
+GEK1008 / SE1101E, Southeast Asia: A Changing Region, SOUTHEAST ASIAN STUDIES, 4
+GEK1011 / EL1101E, The Nature of Language, ENGLISH LANGUAGE & LITERATURE, 4
+GEK1012, Contemporary Social Issues in Singapore, SOCIAL WORK, 4
+GEK1022, Geopolitics:Geographies of War & Peace, GEOGRAPHY, 4
+GEK1048, Gandhi and Conflict Resolution: Global Legacies, SOUTH ASIAN STUDIES PROGRAMME, 4
+GEK1054, Music in the Global Context, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+GEK1055, The Theatre Experience, ENGLISH LANGUAGE & LITERATURE, 4
+GEK1056, The Visual Image Around the World, SOUTHEAST ASIAN STUDIES, 4
+GEK1058, Language and the Preservation of Culture, ENGLISH LANGUAGE & LITERATURE, 4
+GEK1059, Investigating Standard English, ENGLISH LANGUAGE & LITERATURE, 4
+GEK1062, Bridging East and West: Exploring Chinese Communication, CHINESE STUDIES, 4
+GEK1064, Psychology in Everyday Life, PSYCHOLOGY, 4
+GEK1501, Information Technology And Us, ELECTRICAL & COMPUTER ENGINEERING, 4
+GEK1505, Living with Mathematics, MATHEMATICS, 4
+GEK1508 / PC1325, Einstein's Universe & Quantum Weirdness, PHYSICS, 4
+GEK1509, Introduction to the Nanoworld, PHYSICS, 4
+GEK1510 / PC1323, Great Ideas in Contemporary Physics, PHYSICS, 4
+GEK1513, Wireless Communications - Past, Present And Future, ELECTRICAL & COMPUTER ENGINEERING, 4
+GEK1515, Environmental Biology, BIOLOGICAL SCIENCES, 4
+GEK1519 / PC1327, Science of Music, PHYSICS, 4
+GEK1520 / PC1322, Understanding the Universe, PHYSICS, 4
+GEK1522, Global Environmental Issues, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+GEK1523, Innovativeness In Engineering Design, MECHANICAL ENGINEERING, 4
+GEK1524, Living With Fluids, MECHANICAL ENGINEERING, 4
+GEK1527, Genes and Society, BIOLOGICAL SCIENCES, 4
+GEK1531, Introduction to Cybercrime, MATHEMATICS, 4
+GEK1536, Computation & Machine: Ancient to Modern, PHYSICS, 4
+GEK1538, Plants and Society, BIOLOGICAL SCIENCES, 4
+GEK1540, Modern Technology in Medicine and Health, PHYSICS, 4
+GEK1544, The Mathematics of Games, MATHEMATICS, 4
+GEK1547, The Art of Science, the Science of Art, PHYSICS, 4
+GEK1548, How the Ocean Works, PHYSICS, 4
+GEK1900, Public Health in Action, SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH, 4
+GEK2001 / SSA2202, Changing Landscapes of Singapore, GEOGRAPHY, 4
+GEK2003 / PS2249, Government and Politics of Singapore, POLITICAL SCIENCE, 4
+GEK2005, Introduction to Urban Planning, REAL ESTATE, 4
+GEK2010 / PS2239, Foreign Policy and Diplomacy, POLITICAL SCIENCE, 4
+GEK2013, Real Estate Finance, REAL ESTATE, 4
+GEK2024 / PS2233, Political Ideologies, POLITICAL SCIENCE, 4
+GEK2030 / PH2212, Introduction to Continental Philosophy, PHILOSOPHY, 4
+GEK2036 / PH2222, Greek Philosophy (Socrates and Plato), PHILOSOPHY, 4
+GEK2037 / PH2223, Introduction to the Philosophy of Technology, PHILOSOPHY, 4
+GEK2042, Cultural Borrowing: Japan and China, JAPANESE STUDIES, 4
+GEK2044, Reading Visual Images, ARCHITECTURE, 4
+GEK2047 / CH2297, Exploring Chinese Cinema: Shanghai-Hong Kong-Singapore, CHINESE STUDIES, 4
+GEK2506, Drugs and Society, PHARMACY, 4
+GEK2508, Sky and Telescopes, PHYSICS, 4
+GEK3007 / PS3266, Politics, Music and Society, POLITICAL SCIENCE, 4
+GEM1003 / TS1101E, INTRODUCTION TO THEATRE AND DRAMA, ENGLISH LANGUAGE & LITERATURE, 4
+GEM1004FC, Reason and Persuasion, PHILOSOPHY, 4
+GEM1023, Living Amidst Outbreaks, BUILDING, 4
+GEM1033, Religion and Film, ENGLISH LANGUAGE & LITERATURE, 4
+GEM1036, Globalisation and New Media, COMMUNICATIONS AND NEW MEDIA, 4
+GEM1501, Problem Solving for Computing, COMPUTER SCIENCE, 4
+GEM1536, Darwin and Evolution, BIOLOGICAL SCIENCES, 4
+GEM1537, Nanotechnology-Smart Phone and Beyond, PHYSICS, 4
+GEM1915FC, Towards an Understanding of the Complex World, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+GEM2006 / PH2110, Logic, PHILOSOPHY, 4
+GEM2022, The Art of Rituals and Recreation, YONG SIEW TOH CONSERVATORY OF MUSIC, 4
+GEM2027, Introduction to Public Speaking, COMMUNICATIONS AND NEW MEDIA, 4
+GEM2509, Data Quality and Fuzzy Logic, INFORMATION SYSTEMS, 4
+GEM2900, Understand'g Uncertainty & Stats Think'g, STATISTICS & APPLIED PROBABILITY, 4
+GEM2901, Reporting Statistics in the Media, STATISTICS & APPLIED PROBABILITY, 4
+SSA1201, Singapore Society, SOCIOLOGY, 4
+SSA1202 / SE1101E, Southeast Asia: A Changing Region, SOUTHEAST ASIAN STUDIES, 4
+SSA1207, Singapore Literature in English: Selected Texts, ENGLISH LANGUAGE & LITERATURE, 4
+SSA1208, Everyday Life of Chinese Singaporeans: Past & Present (taught in English), CHINESE STUDIES, 4
+SSA2202 / GEK2001, Changing Landscapes of Singapore, GEOGRAPHY, 4
+SSA2203 / HY2239, Chinese Businesses in Singapore & Beyond, HISTORY, 4
+SSA2204 / HY2229, Nation-Building in Singapore, HISTORY, 4
+SSA2205 / JS2224, Japan and Singapore, JAPANESE STUDIES, 4
+SSA2208 / HY2242, Singapore's Military History, HISTORY, 4
+SSA2209 / PS2249, Government and Politics of Singapore, POLITICAL SCIENCE, 4
+SSA2214, Singapore and India: Emerging Relations, SOUTH ASIAN STUDIES PROGRAMME, 4
+SSA2215, The Biophysical Environment of Singapore, GEOGRAPHY, 4
+SSA2220 / EC2373, Global Economic Dimensions of Singapore, ECONOMICS, 4
+SSA2221 / HY2254, Popular Culture in Singapore, HISTORY, 4
+SSA2222 / PS2244, Public Administration in Singapore, POLITICAL SCIENCE, 4
+SSA3201 / TS3235, Singapore English-Language Theatre, ENGLISH LANGUAGE & LITERATURE, 4
+SSA3203 / MS3209, The Malays of Singapore, MALAY STUDIES, 4
+SSA3205 / PS3249, Singapore's Foreign Policy, POLITICAL SCIENCE, 4
+SSB1204, Labour Law In Singapore, STRATEGY AND POLICY, 4
+SSB2217, Singapore Taxation, ACCOUNTING, 4
+SSD2213, Singapore Urban History & Architecture, ARCHITECTURE, 4
+SSS1207, Natural Heritage of Singapore, BIOLOGICAL SCIENCES, 4
+ACC1002X, Financial Accounting, ACCOUNTING, 4
+ACC1006, Accounting Information Systems, ACCOUNTING, 4
+ACC2002, Managerial Accounting, ACCOUNTING, 4
+ACC4612A, Seminars in Accounting: Internal Auditing, ACCOUNTING, 4
+ACC4612C, Sem in Acctg: Internal Control and Risk Mgmt in China, ACCOUNTING, 4
+ACC4612E, Seminars in Accounting: Risk Management Technology, ACCOUNTING, 4
+BSP1004X, Legal Environment Of Business, STRATEGY AND POLICY, 4
+BSP1005, Managerial Economics, STRATEGY AND POLICY, 4
+BSP2001, Macro And International Economics, STRATEGY AND POLICY, 4
+BSP2005, Asian Business Environments, STRATEGY AND POLICY, 4
+BSP4512, Global Strategic Management, STRATEGY AND POLICY, 4
+CE2112, Soil Mechanics, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE2183, Construction Project Management, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CE3101, Integrated Infrastructure Project, CIVIL & ENVIRONMENTAL ENGINEERING, 4
+CH1101E, Introduction to Chinese Studies, CHINESE STUDIES, 4
+CH2141 / CL2241, General History of China, CHINESE STUDIES, 4
+CH2223, Chinese Fiction, CHINESE STUDIES, 4
+CH2273, Chinese Media in Singapore: Theory and Practice, CHINESE STUDIES, 4
+CH2291, Chinese Tradition (taught in English), CHINESE STUDIES, 4
+CH2297 / GEK2047, Exploring Chinese Cinema: Shanghai-Hong Kong-Singapore, CHINESE STUDIES, 4
+CH3223, Selected Authors/Texts II, CHINESE STUDIES, 4
+CH3226, Modern Chinese Literature, CHINESE STUDIES, 4
+CH3229, Modern Literature in Taiwan and Hong Kong, CHINESE STUDIES, 4
+CH3248, Contemporary China: 1949 to Present, CHINESE STUDIES, 4
+CL1101E, Introduction to Chinese Language, CHINESE STUDIES, 4
+CL2103, Chinese Grammar, CHINESE STUDIES, 4
+CL2241 / CH2141, General History of China, CHINESE STUDIES, 4
+CL2260, Selected Readings, CHINESE STUDIES, 4
+CL2281, Translation and Interpretation, CHINESE STUDIES, 4
+CL2291, Chinese Anthropolinguistics (taught in English), CHINESE STUDIES, 4
+CL3205, Topics on Chinese Linguistics II, CHINESE STUDIES, 4
+CL3208, Chinese Phonology, CHINESE STUDIES, 4
+CL3211, The Standardization of the Chinese Language, CHINESE STUDIES, 4
+CL3281, Advanced Translation, CHINESE STUDIES, 4
+CN2116, Chemical Kinetics & Reactor Design, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN2121, Chemical Engineering Thermodynamics, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CN2122, Fluid Mechanics, CHEMICAL & BIOMOLECULAR ENGINEERING, 4
+CS1010E, Programming Methodology, COMPUTER SCIENCE, 4
+CS1020E, Data Structures and Algorithms I, COMPUTER SCIENCE, 4
+CS1231, Discrete Structures, COMPUTER SCIENCE, 4
+CS2010, Data Structures and Algorithms II, COMPUTER SCIENCE, 4
+CS2102, Database Systems, COMPUTER SCIENCE, 4
+CS2103, Software Engineering, COMPUTER SCIENCE, 4
+CS2105, Introduction to Computer Networks, COMPUTER SCIENCE, 4
+CS2106, Introduction to Operating Systems, COMPUTER SCIENCE, 4
+CS2107, Introduction to Information and System Security, COMPUTER SCIENCE, 4
+CS3103, Computer Networks and Protocols, COMPUTER SCIENCE, 4
+CS3210, Parallel Computing, COMPUTER SCIENCE, 4
+CS3211, Parallel and Concurrent Programming, COMPUTER SCIENCE, 4
+CS3223, Database Systems Implementation, COMPUTER SCIENCE, 4
+CS3225, Combinatorial Methods in Bioinformatics, COMPUTER SCIENCE, 4
+CS3230, Design and Analysis of Algorithms, COMPUTER SCIENCE, 4
+CS3234, Logic and Formal Systems, COMPUTER SCIENCE, 4
+CS3241, Computer Graphics, COMPUTER SCIENCE, 4
+CS3243, Introduction to Artificial Intelligence, COMPUTER SCIENCE, 4
+DSC1007X, Business Analytics - Models & Decisions, DECISION SCIENCES, 4
+DSC2006, Operations Management, DECISION SCIENCES, 4
+DSC2008, Business Analytics - Data & Decisions, DECISION SCIENCES, 4
+DSC3201, Supply Chain Management, DECISION SCIENCES, 4
+DSC3202, Purchasing And Materials Management, DECISION SCIENCES, 4
+DSC3203, Service Operations Management, DECISION SCIENCES, 4
+DSC3213, Strategic Information Systems, DECISION SCIENCES, 4
+DSC3216, Forecasting For Managerial Decisions, DECISION SCIENCES, 4
+DSC3224, Dynamic Pricing & Revenue Management, DECISION SCIENCES, 4
+DSC3226, Sustainable Operations Management, DECISION SCIENCES, 4
+DSC5121, Hands-on with Business Analytics (Supply Chain & Finance), DECISION SCIENCES, 4
+DSC5211A, Supply Chain Coordination and Risk Management, DECISION SCIENCES, 4
+EC1301, Principles of Economics, ECONOMICS, 4
+EC2101, Microeconomic Analysis I, ECONOMICS, 4
+EC2102, Macroeconomic Analysis I, ECONOMICS, 4
+EC2104, Quantitative Methods for Economic Analysis, ECONOMICS, 4
+EC2303, Foundations for Econometrics, ECONOMICS, 4
+EC2373 / SSA2220, Global Economic Dimensions of Singapore, ECONOMICS, 4
+EC2374, Economy of Modern China I, ECONOMICS, 4
+EC3101, Microeconomic Analysis II, ECONOMICS, 4
+EC3102, Macroeconomic Analysis II, ECONOMICS, 4
+EC3303, Econometrics I, ECONOMICS, 4
+EC3304, Econometrics II, ECONOMICS, 4
+EC3312, Game Theory & Applications to Economics, ECONOMICS, 4
+EC3322, Industrial Organisation I, ECONOMICS, 4
+EC3332, Money and Banking I, ECONOMICS, 4
+EC3333, Financial Economics I, ECONOMICS, 4
+EC3341, International Economics I, ECONOMICS, 4
+EC3351, Public Finance, ECONOMICS, 4
+EC3352, Seminar in Singapore's Economic Policy, ECONOMICS, 4
+EC3361, Labour Economics I, ECONOMICS, 4
+EC3371, Development Economics I, ECONOMICS, 4
+EC3375, Economy and Business of Japan and Korea, ECONOMICS, 4
+EC3376, European Economic Integration, ECONOMICS, 4
+EC3377, Global Economic History, ECONOMICS, 4
+EC3381, Urban Economics, ECONOMICS, 4
+EC3384, Resource and Energy Economics I, ECONOMICS, 4
+EC3394, Economics and Psychology, ECONOMICS, 4
+EC3396, Economic Analysis of Law I, ECONOMICS, 4
+EC3880B, Topics in Economics: Economics of Ageing, ECONOMICS, 4
+EE2020, Digital Fundamentals, ELECTRICAL & COMPUTER ENGINEERING, 5
+EE2022, Electrical Energy Systems, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE3331C, Feedback Control Systems, ELECTRICAL & COMPUTER ENGINEERING, 4
+EE3431C, Microelectronics Materials and Devices, ELECTRICAL & COMPUTER ENGINEERING, 4
+EG1108, Electrical Engineering, DEAN'S OFFICE (ENGINEERING), 3
+EG1109, Statics And Mechanics Of Materials, DEAN'S OFFICE (ENGINEERING), 4
+EL1101E / GEK1011, The Nature of Language, ENGLISH LANGUAGE & LITERATURE, 4
+EL2201, Structure of Sentences and Meaning, ENGLISH LANGUAGE & LITERATURE, 4
+EL2211, Historical Variation in English, ENGLISH LANGUAGE & LITERATURE, 4
+EL3202, Phonetics and Phonology, ENGLISH LANGUAGE & LITERATURE, 4
+EL3208, Bilingualism, ENGLISH LANGUAGE & LITERATURE, 4
+EL3209, Language, Culture, and Mind, ENGLISH LANGUAGE & LITERATURE, 4
+EL3252, Language Planning and Policy, ENGLISH LANGUAGE & LITERATURE, 4
+EL3258, The Sociolinguistics of Humour: Jokes and Comedies, ENGLISH LANGUAGE & LITERATURE, 4
+EL3880F, Foundations in Applied Linguistics, ENGLISH LANGUAGE & LITERATURE, 4
+EN1101E / GEK1000, An Introduction to Literary Studies, ENGLISH LANGUAGE & LITERATURE, 4
+EN2201, Backgrounds to Western Literature and Culture, ENGLISH LANGUAGE & LITERATURE, 4
+EN2202, Critical Reading, ENGLISH LANGUAGE & LITERATURE, 4
+EN2203, Introduction to Film Studies, ENGLISH LANGUAGE & LITERATURE, 4
+EN3222, The Eighteenth Century, ENGLISH LANGUAGE & LITERATURE, 4
+EN3229, Shakespeare in His Time and Ours, ENGLISH LANGUAGE & LITERATURE, 4
+EN3241, Literature and Psychoanalysis, ENGLISH LANGUAGE & LITERATURE, 4
+EN3249, Introduction to Visual Culture: Art, Film and Media, ENGLISH LANGUAGE & LITERATURE, 4
+EN3261 / EU3217, European Literature I, ENGLISH LANGUAGE & LITERATURE, 4
+EN3265, South Asian Literatures in English, ENGLISH LANGUAGE & LITERATURE, 4
+EN3880A, History of Non-Western Film, ENGLISH LANGUAGE & LITERATURE, 4
+EU1101E, Making of Modern Europe, HISTORY, 4
+EU2203 / PS2203, Ancient Western Political Thought, POLITICAL SCIENCE, 4
+EU2214 / PH2212, Introduction to Continental Philosophy, PHILOSOPHY, 4
+EU2223 / HY2256, Ages of the Mediterranean, HISTORY, 4
+EU3217 / EN3261, European Literature I, ENGLISH LANGUAGE & LITERATURE, 4
+EU3224 / SC3101, Social Thought & Social Theory, SOCIOLOGY, 4
+EU3228, The EU and Asean in the World, DEAN'S OFFICE (ARTS & SOCIAL SC.), 4
+EU3230 / HY3209, Cold War in Europe, 1945-1991, HISTORY, 4
+EU3231 / HY3242, Modern Imperialism, HISTORY, 4
+FIN2004X, Finance, FINANCE, 4
+FIN3101A, Corporate Finance, FINANCE, 4
+FIN3102A, Investment Analysis and Portfolio Management, FINANCE, 4
+FIN3102B, Investment Analysis and Portfolio Management, FINANCE, 4
+FIN3103A, Financial Markets, FINANCE, 4
+FIN3103B, Financial Markets, FINANCE, 4
+FIN3113, Financial Statement Analysis, FINANCE, 4
+FIN3116, Options and Futures, FINANCE, 4
+FIN3117, Bank Management, FINANCE, 4
+FIN3118, Financial Risk Management, FINANCE, 4
+FIN3130, Financial Modelling, FINANCE, 4
+FIN3131, Fixed Income Securities, FINANCE, 4
+FST2201, Introduction to Human Nutrition, CHEMISTRY, 4
+GE1101E / GEK1001, Geographical Journeys: Exploring World Environments, GEOGRAPHY, 4
+GE2202, Economy & Space, GEOGRAPHY, 4
+GE2206, Geographies of Life and Death, GEOGRAPHY, 4
+GE2218, Leisure, Recreation and Tourism, GEOGRAPHY, 4
+GE2220, Terrestrial and Coastal Environments, GEOGRAPHY, 4
+GE3204, Cities and Regions: Planning for Change, GEOGRAPHY, 4
+GE3206, Gender, Space & Place, GEOGRAPHY, 4
+GE3216, Applications of GIS & Remote Sensing, GEOGRAPHY, 4
+GE3221, Ecological Systems, GEOGRAPHY, 4
+GE3242, Sediments and Sedimentary Basins, GEOGRAPHY, 4
+GE3243, Applied Petroleum Exploration, GEOGRAPHY, 4
+GL1101E, Global Issues, POLITICAL SCIENCE, 4
+GL2102, Global Political Economy, POLITICAL SCIENCE, 4
+GL2103, Global Governance, POLITICAL SCIENCE, 4
+HY1101E, Asia and the Modern World, HISTORY, 4
+HY2216, Total War, 1815-1945, HISTORY, 4
+HY2229 / SSA2204, Nation-Building in Singapore, HISTORY, 4
+HY2232, Modern Japan: Conflict in History, HISTORY, 4
+HY2239 / SSA2203, Chinese Businesses in Singapore & Beyond, HISTORY, 4
+HY2242 / SSA2208, Singapore's Military History, HISTORY, 4
+HY2254 / SSA2221, Popular Culture in Singapore, HISTORY, 4
+HY2256 / EU2223, Ages of the Mediterranean, HISTORY, 4
+HY3201, Indonesia: History, Economy and Society, HISTORY, 4
+HY3209 / EU3230, Cold War in Europe, 1945-1991, HISTORY, 4
+HY3226, Memory, Heritage & History, HISTORY, 4
+HY3236 / SN3262, The Struggle for India, 1920-1964, SOUTH ASIAN STUDIES PROGRAMME, 4
+HY3242 / EU3231, Modern Imperialism, HISTORY, 4
+HY3248, People's Republic of China, 1949-1989, HISTORY, 4
+HY3252, From Tropical Medicine to Bioscience, HISTORY, 4
+ID2112, Digital Design & Fabrication, DIVISION OF INDUSTRIAL DESIGN, 4
+ID2122, Ecodesign And Sustainability, DIVISION OF INDUSTRIAL DESIGN, 4
+ID3124, Creative Communication & Design Argumentation, DIVISION OF INDUSTRIAL DESIGN, 4
+IE2130, Quality Engineering I, INDUSTRIAL & SYSTEMS ENGINEERING, 4
+IE2140, Engineering Economy, INDUSTRIAL & SYSTEMS ENGINEERING, 4
+IS1105, Strategic IT Applications, INFORMATION SYSTEMS, 4
+IS1112, E-Business Essentials, INFORMATION SYSTEMS, 4
+IT1001, Introduction to Computing, INFORMATION SYSTEMS, 4
+IT1006, MATLAB Programming for Mathematics, COMPUTER SCIENCE, 4
+IT2001, Network Technology and Applications, COMPUTER SCIENCE, 4
+IT2002, Database Technology and Management, COMPUTER SCIENCE, 4
+JS1101E / GEK1002, Introduction to Japanese Studies, JAPANESE STUDIES, 4
+JS2213, Popular Culture in Contemporary Japan, JAPANESE STUDIES, 4
+JS2224 / SSA2205, Japan and Singapore, JAPANESE STUDIES, 4
+JS2226, Global City Tokyo, JAPANESE STUDIES, 4
+JS2230, Itadakimasu - Food In Japan, JAPANESE STUDIES, 4
+JS3208, Approaches to Japanese Linguistics, JAPANESE STUDIES, 4
+JS3210, Japan in the Twentieth Century, JAPANESE STUDIES, 4
+JS3211, Modern Japanese Religion, JAPANESE STUDIES, 4
+JS3230, Men and Women in Modern Japanese Literature, JAPANESE STUDIES, 4
+LAB1201, Bahasa Indonesia 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAB2201, Bahasa Indonesia 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAB3201, Bahasa Indonesia 3, CENTRE FOR LANGUAGE STUDIES, 4
+LAB3202, Bahasa Indonesia 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAB4201, Bahasa Indonesia 5, CENTRE FOR LANGUAGE STUDIES, 5
+LAB4202, Bahasa Indonesia 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAC1201, Chinese 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAC2201, Chinese 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAC3201, Chinese 3, CENTRE FOR LANGUAGE STUDIES, 4
+LAC3202, Chinese 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAC3204, Chinese for Business & Social Sciences, CENTRE FOR LANGUAGE STUDIES, 4
+LAC4202, Chinese 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAF1201, French 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAF2201, French 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAF3202, French 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAF3203, French for Academic Purposes, CENTRE FOR LANGUAGE STUDIES, 4
+LAF4202, French 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAG1201, German 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAG2201, German 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAG3202, German 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAG3203, German for Academic Purposes, CENTRE FOR LANGUAGE STUDIES, 4
+LAG4202, German 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAH1201, Hindi 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAH2201, Hindi 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAH3202, Hindi 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAJ1201, Japanese 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAJ2201, Japanese 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAJ2202, Japanese 3, CENTRE FOR LANGUAGE STUDIES, 4
+LAJ2203, Japanese 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAJ3201, Japanese 5, CENTRE FOR LANGUAGE STUDIES, 4
+LAJ3202, Japanese 6, CENTRE FOR LANGUAGE STUDIES, 4
+LAK1201, Korean 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAK2201, Korean 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAK3202, Korean 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAK3203, Korean for Academic Purposes, CENTRE FOR LANGUAGE STUDIES, 4
+LAK4202, Korean 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAL1201, Tamil 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAL2201, Tamil 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAM1201, Malay 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAM2201, Malay 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAM3201, Malay 3, CENTRE FOR LANGUAGE STUDIES, 4
+LAM3202, Malay 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAR1201, Arabic 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAR2201, Arabic 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAR3202, Arabic 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAR4202, Arabic 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAT1201, Thai 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAT2201, Thai 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAT3201, Thai 3, CENTRE FOR LANGUAGE STUDIES, 4
+LAT3202, Thai 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAT4201, Thai 5, CENTRE FOR LANGUAGE STUDIES, 5
+LAT4202, Thai 6, CENTRE FOR LANGUAGE STUDIES, 5
+LAV1201, Vietnamese 1, CENTRE FOR LANGUAGE STUDIES, 4
+LAV2201, Vietnamese 2, CENTRE FOR LANGUAGE STUDIES, 4
+LAV3201, Vietnamese 3, CENTRE FOR LANGUAGE STUDIES, 4
+LAV3202, Vietnamese 4, CENTRE FOR LANGUAGE STUDIES, 4
+LAV4202, Vietnamese 6, CENTRE FOR LANGUAGE STUDIES, 5
+LL4061, Inquiry, LAW, 4
+LL4082, Law & Social Movements, LAW, 4
+LL4133, Human Rights in Asia, LAW, 4
+LL4134, CROSSING BORDERS: LAW, MIGRATION & CITIZENSHIP, LAW, 4
+LL4234, Property Theory, LAW, 4
+LSM1301, General Biology, BIOLOGICAL SCIENCES, 4
+LSM1303, Animal Behaviour, BIOLOGICAL SCIENCES, 4
+MA1101R, Linear Algebra I, MATHEMATICS, 4
+MA1102R, Calculus, MATHEMATICS, 4
+MA1104, Multivariable Calculus, MATHEMATICS, 4
+MA1301, Introductory Mathematics, MATHEMATICS, 4
+MA1312, Calculus with Applications, MATHEMATICS, 4
+MA1505, Mathematics I, MATHEMATICS, 4
+MA1506, Mathematics II, MATHEMATICS, 4
+MA1521, Calculus for Computing, MATHEMATICS, 4
+MA2101, Linear Algebra II, MATHEMATICS, 4
+MA2108, Mathematical Analysis I, MATHEMATICS, 4
+MA2213, Numerical Analysis I, MATHEMATICS, 4
+MA2216 / ST2131, Probability, MATHEMATICS, 4
+MA2219, Introduction to Geometry, MATHEMATICS, 4
+MA3110, Mathematical Analysis II, MATHEMATICS, 4
+MA3111, Complex Analysis I, MATHEMATICS, 4
+MA3201, Algebra II, MATHEMATICS, 4
+MA3215, 3-Dimensional Differential Geometry, MATHEMATICS, 4
+MA3218, Applied Algebra, MATHEMATICS, 4
+MA3227, Numerical Analysis II, MATHEMATICS, 4
+MA3233, Combinatorics and Graphs II, MATHEMATICS, 4
+MA3238 / ST3236, Stochastic Processes I, MATHEMATICS, 4
+MA3252, Linear and Network Optimisation, MATHEMATICS, 4
+MA3259, Mathematical Methods in Genomics, MATHEMATICS, 4
+MA3266, Introduction to Fourier Analysis, MATHEMATICS, 4
+MA4207, Mathematical Logic, MATHEMATICS, 4
+MA4211, Functional Analysis, MATHEMATICS, 4
+MA4229, Approximation Theory, MATHEMATICS, 4
+MA4251 / ST4238, Stochastic Processes II, MATHEMATICS, 4
+MA4252, Advanced Ordinary Differential Equations, MATHEMATICS, 4
+MA4254, Discrete Optimization, MATHEMATICS, 4
+MA4255, Numerical Methods in Differential Equations, MATHEMATICS, 4
+MA4263, Introduction to Analytic Number Theory, MATHEMATICS, 4
+MA4266, Topology, MATHEMATICS, 4
+MA4269, Mathematical Finance II, MATHEMATICS, 4
+MKT1003X, Marketing, MARKETING, 4
+MKT2401A, Asian Markets And Marketing Management, MARKETING, 4
+MKT2401B, Asian Markets And Marketing Management, MARKETING, 4
+MKT2401C, Asian Markets And Marketing Management, MARKETING, 4
+MKT2412, Global Marketing, MARKETING, 4
+MKT2413, Marketing Research, MARKETING, 4
+MKT3402B, Consumer Behaviour, MARKETING, 4
+MKT3412, Services Marketing, MARKETING, 4
+MKT3413, Sme Marketing Strategy, MARKETING, 4
+MKT3415, Internet Strategy And Marketing, MARKETING, 4
+MKT3418A, Product and Brand Management, MARKETING, 4
+MKT3418B, Product and Brand Management, MARKETING, 4
+MKT3424, Branding Strategy, MARKETING, 4
+MKT3513, Game Theory And Strategic Analysis, MARKETING, 4
+MNO1001X, Management And Organisation, MANAGEMENT AND ORGANISATION, 4
+MNO2007, Leadership and Ethics, MANAGEMENT AND ORGANISATION, 4
+MNO2009, Entrepreneurship, MANAGEMENT AND ORGANISATION, 4
+MNO2302, Human Resource Management, MANAGEMENT AND ORGANISATION, 4
+MNO3301, Organisational Behaviour, MANAGEMENT AND ORGANISATION, 4
+MNO3303, Organisational Effectiveness, MANAGEMENT AND ORGANISATION, 4
+MNO3313J, Employee and organizational misbehaviors, MANAGEMENT AND ORGANISATION, 4
+MNO3322, Negotiations and Bargaining, MANAGEMENT AND ORGANISATION, 4
+MNO3323, Management of Employee Relations, MANAGEMENT AND ORGANISATION, 4
+MNO3330, Social Entrepreneurship, MANAGEMENT AND ORGANISATION, 4
+MS1102E, Malays - Tradition, Conflict and Change, MALAY STUDIES, 4
+MS2211, Criticism in Modern Malay Literature, MALAY STUDIES, 4
+MS2213, Malay Families and Households, MALAY STUDIES, 4
+MS3209 / SSA3203, The Malays of Singapore, MALAY STUDIES, 4
+MS3212, Classical Malay Literature, MALAY STUDIES, 4
+MS3215, Malays and Modernization, MALAY STUDIES, 4
+MS3216, Gender in Malay Societies, MALAY STUDIES, 4
+MS3218, The Religious Life of the Malays, MALAY STUDIES, 4
+MT4003, Engineering Product Development, DIVISION OF ENGINEERING AND TECH MGT, 4
+MUA3219, World Music Ensemble, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+MUA3220, World Music Ensemble, YONG SIEW TOH CONSERVATORY OF MUSIC, 2
+NM1101E, Communications, New Media and Society, COMMUNICATIONS AND NEW MEDIA, 4
+NM2101, Theories of Communications and New Media, COMMUNICATIONS AND NEW MEDIA, 4
+NM2103, Quantitative Research Methods, COMMUNICATIONS AND NEW MEDIA, 4
+NM2104, Qualitative Communication Research Methods, COMMUNICATIONS AND NEW MEDIA, 4
+NM2201, Intercultural Communication, COMMUNICATIONS AND NEW MEDIA, 4
+NM2203, Social Media in Communication Management, COMMUNICATIONS AND NEW MEDIA, 4
+NM2212, Visual Design, COMMUNICATIONS AND NEW MEDIA, 4
+NM2213, Human-Computer Interaction Design, COMMUNICATIONS AND NEW MEDIA, 4
+NM2219, Principles of Communication Management, COMMUNICATIONS AND NEW MEDIA, 4
+NM2220, Introduction to Media Writing, COMMUNICATIONS AND NEW MEDIA, 4
+NM2302, Mobility and New Media, COMMUNICATIONS AND NEW MEDIA, 4
+NM3202, Governance and New Media, COMMUNICATIONS AND NEW MEDIA, 4
+NM3203, Copyright and New Media, COMMUNICATIONS AND NEW MEDIA, 4
+NM3204, E-Learning, COMMUNICATIONS AND NEW MEDIA, 4
+NM3205, Digital Culture and Art, COMMUNICATIONS AND NEW MEDIA, 4
+NM3211, News Reporting and Editing, COMMUNICATIONS AND NEW MEDIA, 4
+NM3214, New Media and Science Communication, COMMUNICATIONS AND NEW MEDIA, 4
+NM3215, Advertising Strategies, COMMUNICATIONS AND NEW MEDIA, 4
+NM3217, Design for Strategic Communications, COMMUNICATIONS AND NEW MEDIA, 4
+NM3219, Writing for Communication Management, COMMUNICATIONS AND NEW MEDIA, 4
+NM3221, Mobile Interaction Design, COMMUNICATIONS AND NEW MEDIA, 4
+NM3223, Digital and Interactive Collage, COMMUNICATIONS AND NEW MEDIA, 4
+NM3224, Culture Industries, COMMUNICATIONS AND NEW MEDIA, 4
+NM3227, Critical Game Design, COMMUNICATIONS AND NEW MEDIA, 4
+NM3229, Data visualization, COMMUNICATIONS AND NEW MEDIA, 4
+NM3233, Strategic Communication: Applications, COMMUNICATIONS AND NEW MEDIA, 4
+NM3235, Corporate Social Responsibility: Research and Practice, COMMUNICATIONS AND NEW MEDIA, 4
+NM3236, Ethics in Communication Management, COMMUNICATIONS AND NEW MEDIA, 4
+NM3237, Health Communication, COMMUNICATIONS AND NEW MEDIA, 4
+NUR1116, Psychology for Health Professionals, NURSING/ALICE LEE CTR FOR NURSING STUD, 4
+NUR1118, Anatomy and Physiology II, NURSING/ALICE LEE CTR FOR NURSING STUD, 4
+PC1143, Physics III, PHYSICS, 4
+PC1144, Physics IV, PHYSICS, 4
+PC1221, Fundamentals of Physics I, PHYSICS, 4
+PC1222, Fundamentals of Physics II, PHYSICS, 4
+PC1322 / GEK1520, Understanding the Universe, PHYSICS, 4
+PC1323 / GEK1510, Great Ideas in Contemporary Physics, PHYSICS, 4
+PC1325 / GEK1508, Einstein's Universe & Quantum Weirdness, PHYSICS, 4
+PC1327 / GEK1519, Science of Music, PHYSICS, 4
+PC1431, Physics IE, PHYSICS, 4
+PC1432, Physics IIE, PHYSICS, 4
+PC2130, Quantum Mechanics I, PHYSICS, 4
+PC2131, Electricity & Magnetism I, PHYSICS, 4
+PC2193, Experimental Physics I, PHYSICS, 4
+PC2230, Thermodynamics and Statistical Mechanics, PHYSICS, 4
+PC3130, Quantum Mechanics II, PHYSICS, 4
+PC3193, Experimental Physics II, PHYSICS, 4
+PC3233, Atomic & Molecular Physics I, PHYSICS, 4
+PC3236, Computational Methods in Physics, PHYSICS, 4
+PC3241, Solid State Devices, PHYSICS, 4
+PC3243, Photonics, PHYSICS, 4
+PC3246, Nuclear Astrophysics, PHYSICS, 4
+PC3251, Nanophysics, PHYSICS, 4
+PC3267, Biophysics II, PHYSICS, 4
+PC4232, Cosmology, PHYSICS, 4
+PC4240, Solid State Physics II, PHYSICS, 4
+PC4242, Electrodynamics, PHYSICS, 4
+PC4243, Atomic & Molecular Physics II, PHYSICS, 4
+PC4245, Particle Physics, PHYSICS, 4
+PC4253, Thin Film Technology, PHYSICS, 4
+PC4262, Remote Sensing, PHYSICS, 4
+PC4264, Advanced Solid State Devices, PHYSICS, 4
+PC4274, Mathematical Methods in Physics III, PHYSICS, 4
+PH1102E, Introduction to Philosophy, PHILOSOPHY, 4
+PH2110 / GEM2006, Logic, PHILOSOPHY, 4
+PH2202, Major Political Philosophers, PHILOSOPHY, 4
+PH2212 / EU2214 / GEK2030, Introduction to Continental Philosophy, PHILOSOPHY, 4
+PH2222 / GEK2036, Greek Philosophy (Socrates and Plato), PHILOSOPHY, 4
+PH2223 / GEK2037, Introduction to the Philosophy of Technology, PHILOSOPHY, 4
+PH2241, Philosophy of Mind, PHILOSOPHY, 4
+PH2302 / GEK2039, Chinese Philosophical Traditions I, PHILOSOPHY, 4
+PH3202, Philosophy of Law, PHILOSOPHY, 4
+PH3203, Moral Philosophy, PHILOSOPHY, 4
+PH3204 / SN3272, Issues in Indian Philosophy, PHILOSOPHY, 4
+PH3206, Recent Philosophy, PHILOSOPHY, 4
+PL1101E, Introduction to Psychology, PSYCHOLOGY, 4
+PL2131, Research and Statistical Methods I, PSYCHOLOGY, 4
+PL2132, Research and Statistical Methods II, PSYCHOLOGY, 4
+PL3232, Biological Psychology, PSYCHOLOGY, 4
+PL3233, Cognitive Psychology, PSYCHOLOGY, 4
+PL3234, Developmental Psychology, PSYCHOLOGY, 4
+PL3235, Social Psychology, PSYCHOLOGY, 4
+PL3236, Abnormal Psychology, PSYCHOLOGY, 4
+PL3237, Language & Cognitive Processes, PSYCHOLOGY, 4
+PL3241, Personality & Individual Differences, PSYCHOLOGY, 4
+PL3243, Sensation and Perception, PSYCHOLOGY, 4
+PL3249, Memory, PSYCHOLOGY, 4
+PL3250, Human Performance, PSYCHOLOGY, 4
+PL3251, Atypical Development and Language, PSYCHOLOGY, 4
+PR2202, Cosmetics & Perfumes, PHARMACY, 4
+PS1101E / GEK1003, Introduction to Politics, POLITICAL SCIENCE, 4
+PS2203 / EU2203, Ancient Western Political Thought, POLITICAL SCIENCE, 4
+PS2233 / GEK2024, Political Ideologies, POLITICAL SCIENCE, 4
+PS2234, Introduction to Comparative Politics, POLITICAL SCIENCE, 4
+PS2237, Introduction to International Relations, POLITICAL SCIENCE, 4
+PS2239 / GEK2010, Foreign Policy and Diplomacy, POLITICAL SCIENCE, 4
+PS2240, Introduction to Public Administration, POLITICAL SCIENCE, 4
+PS2244 / SSA2222, Public Administration in Singapore, POLITICAL SCIENCE, 4
+PS2245, Southeast Asian Politics, POLITICAL SCIENCE, 4
+PS2248, Chinese Politics, POLITICAL SCIENCE, 4
+PS2249 / GEK2003 / SSA2209, Government and Politics of Singapore, POLITICAL SCIENCE, 4
+PS3232, Democratic Theory, POLITICAL SCIENCE, 4
+PS3249 / SSA3205, Singapore's Foreign Policy, POLITICAL SCIENCE, 4
+PS3257, Political Inquiry, POLITICAL SCIENCE, 4
+PS3258, Research Methods in Political Science, POLITICAL SCIENCE, 4
+PS3262, Managing Non-Profit Organisations, POLITICAL SCIENCE, 4
+PS3263, Comparative Study of Development, POLITICAL SCIENCE, 4
+PS3265, Civil-Military Relations, POLITICAL SCIENCE, 4
+PS3266 / GEK3007, Politics, Music and Society, POLITICAL SCIENCE, 4
+PS3880B, Special Topics in PS: Critical IR Theory, POLITICAL SCIENCE, 4
+PS3880H, The Politics of European Integration, POLITICAL SCIENCE, 4
+QF3101, Investment Instruments: Theory and Computation, MATHEMATICS, 4
+SC1101E, Making Sense of Society, SOCIOLOGY, 4
+SC2101, Methods of Social Research, SOCIOLOGY, 4
+SC2202, Sociology of Work, SOCIOLOGY, 4
+SC2204, Social Inequalities : Who Gets Ahead?, SOCIOLOGY, 4
+SC2209, Money, Business and Social Networks, SOCIOLOGY, 4
+SC2211, Medical Sociology, SOCIOLOGY, 4
+SC2212, Sociology of Deviance, SOCIOLOGY, 4
+SC2214, Media and Culture, SOCIOLOGY, 4
+SC2215, The Sociology of Food, SOCIOLOGY, 4
+SC2220, Gender Studies, SOCIOLOGY, 4
+SC2221, Environment and Society, SOCIOLOGY, 4
+SC3101 / EU3224, Social Thought & Social Theory, SOCIOLOGY, 4
+SC3203, Race and Ethnic Relations, SOCIOLOGY, 4
+SC3206, Urban Sociology, SOCIOLOGY, 4
+SC3208, Religion in Society & Culture, SOCIOLOGY, 4
+SC3211, Science, Technology & Society, SOCIOLOGY, 4
+SC3213, Ethnographic Analysis of Visual Media, SOCIOLOGY, 4
+SC3214, Sociology of Life Course and Ageing, SOCIOLOGY, 4
+SC3216, Self and Society, SOCIOLOGY, 4
+SC3219, Sexuality in Comparative Perspective, SOCIOLOGY, 4
+SC3222, Social Transformations in Modern China, SOCIOLOGY, 4
+SC3227, Modernity and Social Change, SOCIOLOGY, 4
+SE1101E / GEK1008 / SSA1202, Southeast Asia: A Changing Region, SOUTHEAST ASIAN STUDIES, 4
+SE2210, Popular Culture in Southeast Asia, SOUTHEAST ASIAN STUDIES, 4
+SE2217, War and Southeast Asia, SOUTHEAST ASIAN STUDIES, 4
+SE2223, Doing Research in Southeast Asian Studies, SOUTHEAST ASIAN STUDIES, 4
+SE2226, Moro Peoples of the Philippines, SOUTHEAST ASIAN STUDIES, 4
+SE3211, Religion, Society & Politics in SE Asia, SOUTHEAST ASIAN STUDIES, 4
+SE3216, Migration and Diaspora in Southeast Asia, SOUTHEAST ASIAN STUDIES, 4
+SE3218, Industrialising Singapore and SE Asia, SOUTHEAST ASIAN STUDIES, 4
+SE3220, Country Studies: Mainland Southeast Asia, SOUTHEAST ASIAN STUDIES, 4
+SE3224, Thai Drawing and Painting, SOUTHEAST ASIAN STUDIES, 4
+SE3226, Hard at work: the changing face of labour in SEA, SOUTHEAST ASIAN STUDIES, 4
+SN1101E, South Asia : People, Culture, Develop'm, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN2232, South Asia:Poverty, Inequality, Power, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN2233, Globalizing India: The Politics of Economic Change, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN2271, Religion and Society in South Asia, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN2277, Indian Communities in Southeast Asia, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN3262 / HY3236, The Struggle for India, 1920-1964, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN3272 / PH3204, Issues in Indian Philosophy, PHILOSOPHY, 4
+SN3274, South Asian Cinema, SOUTH ASIAN STUDIES PROGRAMME, 4
+SN3275, Tamil Studies II, SOUTH ASIAN STUDIES PROGRAMME, 4
+SP2251, Science at the Nanoscale, CHEMISTRY, 4
+SPH2104, Public Health Nutrition, SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH, 4
+SPH3102, PUBLIC HEALTH COMMUNICATION, SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH, 4
+SPH3103, Public Health Economics, SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH, 4
+ST2131 / MA2216, Probability, STATISTICS & APPLIED PROBABILITY, 4
+ST2132, Mathematical Statistics, STATISTICS & APPLIED PROBABILITY, 4
+ST2334, Probability and Statistics, STATISTICS & APPLIED PROBABILITY, 4
+ST3131, Regression Analysis, STATISTICS & APPLIED PROBABILITY, 4
+ST3232, Design & Analysis of Experiments, STATISTICS & APPLIED PROBABILITY, 4
+ST3236 / MA3238, Stochastic Processes I, STATISTICS & APPLIED PROBABILITY, 4
+ST3240, Multivariate Statistical Analysis, STATISTICS & APPLIED PROBABILITY, 4
+ST3241, Categorical Data Analysis I, STATISTICS & APPLIED PROBABILITY, 4
+ST3247, Simulation, STATISTICS & APPLIED PROBABILITY, 4
+SW1101E, Social Work: A Heart-Head-Hand Connection, SOCIAL WORK, 4
+SW2104, Human Development over the Lifespan, SOCIAL WORK, 4
+SW3101, Social Work Research Methods, SOCIAL WORK, 4
+SW3213, Working With Older Adults, SOCIAL WORK, 4
+SW3217, Mental Health and Illness, SOCIAL WORK, 4
+SW3219, Child-centric Social Work, SOCIAL WORK, 4
+TR2201, Entrepreneurial Marketing, MARKETING, 4
+TR2202, Technological Innovation, STRATEGY AND POLICY, 4
+TR3001, New Product Development, MARKETING, 4
+TR3002, New Venture Creation, STRATEGY AND POLICY, 4
+TS1101E / GEM1003, INTRODUCTION TO THEATRE AND DRAMA, ENGLISH LANGUAGE & LITERATURE, 4
+TS2217, Introduction to Performance Studies, ENGLISH LANGUAGE & LITERATURE, 4
+TS2234, Cultural Policy, the Arts and Society, ENGLISH LANGUAGE & LITERATURE, 4
+TS2236, Crossing Boundaries in Performance, ENGLISH LANGUAGE & LITERATURE, 4
+TS2240, Voice Studies and Production, ENGLISH LANGUAGE & LITERATURE, 4
+TS3233, Southeast Asian Performance, ENGLISH LANGUAGE & LITERATURE, 4
+TS3234, Performance and Popular Culture, ENGLISH LANGUAGE & LITERATURE, 4
+TS3235 / SSA3201, Singapore English-Language Theatre, ENGLISH LANGUAGE & LITERATURE, 4
+TS3237, Acting and Directing in Asian Theatre, ENGLISH LANGUAGE & LITERATURE, 4
+TS3240, Theatre Criticism, ENGLISH LANGUAGE & LITERATURE, 4
+TS3243, Stage and Screen, ENGLISH LANGUAGE & LITERATURE, 4
+TS3246, Shakespeare and Asian Performances, ENGLISH LANGUAGE & LITERATURE, 4
+TS3247, Digital Archiving and Performance, ENGLISH LANGUAGE & LITERATURE, 4
+YLS1201, Spanish 1, YALE-NUS COLLEGE, 4
+IE2130, Quality Engineering I, NA, 4
+IE2140, Engineering Economy, NA, 4
