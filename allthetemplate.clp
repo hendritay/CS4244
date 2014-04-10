@@ -21,7 +21,7 @@
 	(slot moduledescription)
 	(slot MC)
 	(slot modulepriority)
-	(slot moduletagscore (create-accessor read-write)
+	(slot moduletagscore (create-accessor read-write))
  )
 
 (defclass MODULEPREQ

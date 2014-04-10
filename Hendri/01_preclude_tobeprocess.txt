@@ -1,0 +1,106 @@
+IT2001, CS2105, EE3204/E, EE4210; SoC, EEE & CPE students are not allowed to take this module. Arts and social sciences students reading CNM as a subject/concentration are not allowed to read this module as CFM/URL-Breadth.
+IT2002, CS2102 or CS2102S. SoC students and Arts and social sciences students reading CNM as a subject/concentration are not allowed to read this module as CFM/ULR-Breadth.
+
+AR1102, All non-architecture students
+AR1326, All non-architecture students
+AR2102, All non-architecture students
+AR3102, All non-architecture students
+AR3102A, All non-architecture students
+AR4102, All non-architecture students
+AR4104, All non architecture students
+
+FMA1201J, Other Freshman Seminar Modules
+FMA1201P, Other Freshman Seminar modules
+FMA1201Q, Other Freshman Seminar Modules
+FMA1201R, Other Freshman Seminar modules
+FMA1203F, Other Freshman Seminar modules
+FMA1203H, Other Freshman Seminar modules
+FMA1206M, Other Freshman Seminar modules
+GEK1501, To preclude all Facultyof Engineering, Computer Engineering (CEG) &amp; School of Computing students
+GEK2005, Not for Real Estate students and first year students
+
+IT1001, CS1010 or CS1010E, CS1010FC, CS1010S, CS1101, CS1101C, CS1101S, GEK1511. SoC students and engineering students. Science students requiring this module for their minor should not register it as ULR-Breadth. Arts and Social Science students reading CNM as a subject/concentration and matriculated before AY2001/02 are not allowed to read this module as URL-Breadth
+
+IT1006, IT1005, CS1010, CS1010E, CG1101, CS1101S, CS1010S or CS1010FC and its equivalent
+
+CM3312,  any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+
+EC2104, EC3311, any MA module that is not MA1301 or MA1301FC or MA1311 or MA1312 or MA1421.
+
+EC2303, All ST and SA modules, DSC1007, MQ2205, GM2303, BK1004, EC2231
+
+ES1501A, 1. Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module. 2.FOE students will be exempted from ES1531 and ES2331 if they have successfully completed ES1501%. 3.However, ES1531 and ES2331 is optional for FOE stdents who have successfully completed ES1501%.
+ES1501Q, 1. Students who have already read a WP2201%, IEM1201%, ES1201G, ES1201L or ES1501% module. 2. FOE students will be exempted from ES1531 and ES2331 if they have successfully completed ES1501%. 3. However, ES1531 and ES2331 is optional for FOE students who have successfully completed ES1501%.
+
+GE3550A, GE3550B and any other XX3550 module
+GE3550B, GE3550A and any other XX3550 module
+
+GEK1513, To preclude Electrical Engineering, Computer Engineering and School of Computing students (except EE1, CPE1, CEG1, CEC1, COM1) and students who have read IT2001.
+
+GEM1035, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM1501, CS1305; GEM1501M. All School of Computing students are not allowed to read it as a GEM.
+GEM1536, GEM1902B Junior Seminar: The Darwinian Revolution
+GEM1902A, Only Tembusu College, U Town students may take this module
+GEM1902E, Only Tembusu College, U Town students may take this module
+GEM1902G, Only Tembusu College, U Town students may take this module
+GEM1904, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM1908, This module is currently open only to students of the College of Alice & Peter Tan, University Town. In addition, the module precludes students who are majoring in life sciences, food science, pharmacy, computational biology and bioengineering and students in the School of Medicine, the Faculty of Dentistry and the Alice Lee Centre for Nursing Studies. Students who have taken or are required to take LSM1101, LSM1401, LSM2101 and GEK1529 are also precluded.
+GEM1909, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM1915FC, GEM1912 Jnr Sem: Systems Systems Everywhere (offered at CAPT, UTown) Despite the minimal overlap, the preclusion may be needed to ensure that students who have completed GEM1912 do not have an unfair starting advantage over others who take this module.
+
+GEM2903, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM2904, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+GEM3902, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+
+
+ID1106, Module not offered to none industrial design students
+
+JS3550, Any other XX3550 internship modules (Note: Students who change major may not do a second internship in their new major)
+
+LAH1201, Hindi 1 is intended for students who are complete beginners. It is not suitable for students who are: - native speakers of Hindi or Urdu - students who have studied Hindi, Urdu, Gujarati, Marathi or Punjabi at 'O' or 'A' levels (or equivalents) or have previously undertaken any formal study of Hindi, Urdu, Gujarati or Punjabi for any duration of time - Students who are from India have to provide a complete transcript of subjects studied to prove that they have not taken Hindi at any level.
+
+MA1102R, EE1401, EE1461, EG1401, EG1402, CE1402, MA1102, MA1312, MA1505, MA1505C, MA1507, MA1521, CEC students, COM students who matriculated on and after 2002 (including poly 2002 intake),FoE students.
+
+
+IT1001, CS1010 or CS1010E, CS1010FC, CS1010S, CS1101, CS1101C, CS1101S, GEK1511. SoC students and engineering students. Science students requiring this module for their minor should not register it as ULR-Breadth. Arts and Social Science students reading CNM as a subject/concentration and matriculated before AY2001/02 are not allowed to read this module as URL-Breadth
+IT1006, IT1005, CS1010, CS1010E, CG1101, CS1101S, CS1010S or CS1010FC and its equivalent
+IT2001, CS2105, EE3204/E, EE4210; SoC, EEE & CPE students are not allowed to take this module. Arts and social sciences students reading CNM as a subject/concentration are not allowed to read this module as CFM/URL-Breadth.
+IT2002, CS2102 or CS2102S. SoC students and Arts and social sciences students reading CNM as a subject/concentration are not allowed to read this module as CFM/ULR-Breadth.
+
+
+PC3312, Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+
+PF2105, Students who have read research methodology.
+QF3312, Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+
+
+GEK1501, To preclude all Facultyof Engineering, Computer Engineering (CEG) &amp; School of Computing students
+
+GEK1513, To preclude Electrical Engineering, Computer Engineering and School of Computing students (except EE1, CPE1, CEG1, CEC1, COM1) and students who have read IT2001.
+
+GEK2005, Not for Real Estate students and first year students
+
+GEM1501, CS1305; GEM1501M. All School of Computing students are not allowed to read it as a GEM.
+MA3312, Applied Science degree of which Professional Placement is already within the curriculum; any other XX3311 or XX3312 modules offered in Science, where XX stands for the subject prefix for the respective major.
+
+
+NM3550, Any other series-internship modules (Note: Students who change major may not do a second internship in their new major)
+PS3550, Any other XX3550 internship modules (Note: Students who change major may not do a second internship in their new major)
+
+SE3550, Any other XX3550 module. [Note: Students who change major may not do a second internship in their new major)
+
+SSU2003, This module is currently open only to students of the College of Alice & Peter Tan, University Town
+
+ST3312,  XX3311 or XX3312 modules offered in Science, 
+EC2303, All ST and SA modules, DSC1007, MQ2205, GM2303, BK1004, EC2231
+
+XFB4002, Integrated honours thesis/dissertation from other faculties
+EC2104, EC3311, any MA module that is not MA1301 ,MA1301FC ,MA1311 ,MA1312 ,MA1421.
+PH4550, Any other internship module.
+IEM1201M, WP2201%, IEM1201%, ES1201G, ES1201L , ES1501% module.
+IEM1201N,  WP2201%, IEM1201%, ES1201G, ES1201L , ES1501% module.
+IEM1201P,  WP2201%, IEM1201%, ES1201G, ES1201L , ES1501% module.
+IEM1201Q,  WP2201%, IEM1201%, ES1201G, ES1201L , ES1501% module.
+IEM1201R,  WP2201%, IEM1201%, ES1201G, ES1201L , ES1501% module.
+IEM1201S,  WP2201%, IEM1201%, ES1201G, ES1201L , ES1501% module.
+IEM1201T,  WP2201%, IEM1201%, ES1201G, ES1201L , ES1501% module.
