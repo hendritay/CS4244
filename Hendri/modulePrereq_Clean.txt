@@ -1,8 +1,8 @@
 ACC1006, FNA1002 or ACC1002
-ACC2002, Students must have completed BK1003 or BZ1002 or BH1002 or FNA1002 or FNA1002X or FNA1002E or ACC1002 or ACC1002X or BH1002E or CS1304 or EC3212 or EG1422 before they are allowed to take ACC2002.
+ACC2002,  BK1003 or BZ1002 or BH1002 or FNA1002 or FNA1002X or FNA1002E or ACC1002 or ACC1002X or BH1002E or CS1304 or EC3212 or EG1422 
 ACC3601, FNA1002 or ACC1002
 ACC3602, FNA2002 or ACC2002
-ACC3603, FNA1002/ACC1002 and FNA2002 (Students who are not enrolled in the accounting or accounting-specialization program should seek Deans Office permission to read the module)
+ACC3603, FNA1002/ACC1002 and FNA2002 
 ACC3604, BSP1004
 ACC3605, FNA1002/ACC1002 and BSP1004
 ACC3606, FNA3111 or ACC3601
@@ -10,137 +10,82 @@ ACC3611, FNA1002/ACC1002 and BSP1004
 ACC3612, FNA2004/FIN2004 and BSP1004
 ACC3613, FNA3121 or ACC3603
 ACC3614, FNA2004 or FIN2004
-ACC3615, FNA3111/ACC3601 Co-requisite: FNA3123/ACC3606
-ACC4612A, ACC3613 Advanced Assurance and Attestation
-ACC4612E, Depends on the particular stream offered. It is envisaged that completion of one or more ACC3xxx modules will be a pre-requisite in most cases.
-ACC4619, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA(Acc) curriculum.
-ACC4629, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA(Acc) curriculum.
-AR2102, AR1101 Design 1 Grade 'C'; AR1102 Design 2 Grade 'C'
-AR3102, AR2101 Design 3 Grade 'C'; AR2102 Design 4 Grade 'C'
-AR3102A, AR2101 Design 3 Grade 'C'; AR2102 Design 4 Grade 'C'
+ACC4612A, ACC3613 
+AR2102, AR1101 or AR1102 
+AR3102, AR2101 or  AR2102
+AR3102A, AR2101 or AR2102
 AR3721, AR1326, AR1731, AR2326, AR2723
-AR4102, AR3101 Design 5 Grade 'C'; AR3102 Design 6 Grade 'C'
-AR4104, AR3101 Design 5 Grade 'C'; AR3102 Design 6 Grade 'C'
-BHD4001, Varies depending on topics of research
-BHD4001A, Varies depending on topics of research
-BHD4001B, Varies depending on topics of research
-BHD4001C, Varies depending on topics of research
-BLD3001, MNO1001 Management & Organization
-BLD3002, MNO1001 Management & Organization
-BLD3003, MNO1001 Management & Organization
-BLD3004, MNO1001 Management & Organization MNO2007 Leadership and Ethics
-BN2103, Stage 1 & 2 Bioengineering Students
-BN2201, BIE Stage 2 standing
-BN2203, BIE Stage 2 standing
-BN2401, MA1506 Mathematics II
+AR4102, AR3101 or AR3102 
+AR4104, AR3101 or AR3102 
+BLD3001, MNO1001 
+BLD3002, MNO1001 
+BLD3003, MNO1001 
+BLD3004, MNO1001, MNO2007 
+BN2401, MA1506 
 BN3401, EE2009
 BN3501, MA1506, PC1432, CN2122, ME2134 or BN2202
-BN4101R, Stage 4 standing
 BN4201, BN3201
 BN4203, BN3201
 BN4402, EG1108 or PC1432
-BN4404, Stage 3 & 4 Engineering students
 BSP2001, BSP1005 or BH1005 or BZ1006 or BK1008
 BSP2005, BSP2001
-BSP3001A, All foundation modules
-BSP3001B, All foundation modules
-BSP3001C, All level 1000 and 2000 foundation modules
 BSP4512, BSP2001
-CE3101, CE2 standing or higher
 CE3116, CE2112
 CE3132, CE2134
 CE3155, EG1109FC, EG1109
-CE3165, CE2155 Structural Mechanics and Materials
-CE4103, CE4 standing [Successful completion of relevant CE 2 and CE 3 modules which will be specified in the each project]
-CE4104, CE4 Standing
-CE4221, CE3121 Transportation Engineering
-CE4231, MA1505 and MA1506, or equivalents
-CE4247, CE3132 Water Resources Management or CE4 standing
+CE3165, CE2155 
+CE4221, CE3121 
+CE4231, MA1505 and MA1506
+
 CE4258, CE3155
-CE5105, CE2112 or CE4 standing or higher
-CE5106, CE2112 or CE4 standing or higher
-CE5107, Undergraduate: CE2112 &amp; CE3116 Graduate students: Background in Soil Mechanics and Foundation Engineering
+
 CE5207, CE3121
-CE5308, CE5307 Wave Hydrodynamics and Physical Oceanography
-CE5604, CE2155, or CE4 standing or higher
-CE5611, CE 3165 or CE4 standing or higher
-CE5883A, CE 2134 Hydraulics and/or fluid mechanics background
-CG1108, H1 Physics or H2 Physics or ‘A’ Level Physics or PC1222 Fundamentals of Physics II
+CE5308, CE5307 
+CG1108, A_Level_Physics or H2_Physics   or H1_Physics or PC1222 
 CG2271, CG1102
-CG3204L, EE3204 Computer Communication Networks I
-CG4001, Level 4 standing
-CH1101E, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
-CH2141 / CL2241, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
-CH2223, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
-CH2273, Must obtain: 1) at least a B4 for (a) Higher Chinese at GCE 'O' level, or (b) Chinese Language at GCE 'AO' level (at GCE'A' level examination); OR 2) at least a pass for (a) Chinese at GCE 'A' level, or (b) Higher Chinese at GCE 'A' level; OR 3) at least C grade for Chinese Language (H1CL) at GCE 'A' level; OR 4) at least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' level. 5) Equivalent qualifications may be accepted.
-CH3223, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
-CH3226, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
-CH3229, Students must have obtained: 1. at least a B4 for (a) Higher Chinese at GCE ‘O’ level, or (b) Chinese Language at GCE ‘AO’ level (at GCE ‘A’ level examination); OR 2. at least a pass for (a) Chinese at GCE ‘A’ level, or (b) Higher Chinese at GCE ‘A’ level; OR 3. at least C grade for Chinese Language (H1CL) at GCE ‘A’ level; OR 4. at least a pass for (a) Chinese Language and Literature (H2CLL) at GCE ‘A’ level, or (b) Chinese Language and Literature (H3CLL) at GCE ‘A’ level. 5. Equivalent qualifications may be accepted.
-CH3248, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
-CH4244, Cohort 2006 and before: Completed 80MCs including minimum 56MCs of 14 CH or CL modules. Cohort 2007 onwards: Completed 80MCs, including 28MCs in CH or CL or 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
-CH4261, Cohort 2006 and before: Completed 80MCs including minimum 56MCs of 14 CH or CL modules. Cohort 2007 onwards: Completed 80MCs, including 28MCs in CH or CL, with a minimum CAP of 3.5 or be on the Honours track.
-CH4281, Cohort 2006 and before: CL3281 and completed 80MCs including minimum 56MCs of 14 CH or CL modules. Cohort 2007 onwards: CL3281 and completed 80MCs, including 28MCs in CH or CL, with a minimum CAP of 3.5 or be on the Honours track.
-CH4401, Cohort 2006 and before: (1) Complete at least 100MCs including 56MCs of CH/CL major requirements and (2) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: Completed 110MCs including 60MCs of CH/CL major requirements with a minimum CAP of 3.5.
-CH4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. Complete at least 100MCs including 56MCs of major requirement and obtain a minimum CAP of 3.2. Cohort 2007 onwards: To be offered subject to the agreement of the Supervisor and Department. Completed 100MCs, including 60MCs in CH or CL, with a minimum CAP of 3.5
-CH5225, Graduate students in Chinese Studies, or 120 MCs (or equivalent) and permission of Department
-CH5225R, Graduate students in Chinese Studies, or 120 MCs (or equivalent) and permission of Department
-CH5242, Admission to a graduate programme in Chinese Studies, or 120 MCs (or equivalent) and permission of the Department.
-CH5242R, Admission to a graduate programme in Chinese Studies, or 120 MCs (or equivalent) and permission of the Department.
-CH5660, Subject to the approval from HOD
-CH6245, Graduate Students in Chinese Studies, or 120MCs (or equivalent) and permission of Department
-CH6262, Subject to the approval from HOD
-CL1101E, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
-CL2103, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
-CL2260, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
-CL2281, 1) Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules; AND 2) Grade 'B4' and above in Higher Chinese (HCL) at GCE 'O' Level or Chinese (CL) at GCE 'AO' Level; OR Grade 'C' and above in Chinese Language (H1CL) at GCE 'A' Level.
-CL3205, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
-CL3208, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
-CL3211, "Students must have obtained: 1) at least a B4 for (a) Higher Chinese at GCE ‘O’ level, or (b) Chinese Language at GCE ‘AO’ level (at GCE ‘A’ level examination); OR 2) at least a pass for (a) Chinese at GCE ‘A’ level, or (b) Higher Chinese at GCE ‘A’ level; OR 3) at least C grade for Chinese Language (H1CL) at GCE ‘A’ level; OR 4) at least a pass for (a) Chinese Language and Literature (H2CLL) at GCE ‘A’ level, or (b) Chinese Language and Literature (H3CLL) at GCE ‘A’ level. 5) Equivalent qualifications may be accepted."
-CL3281, CL2280 or CL2281
-CM1121, 'A' level or H2 pass in Chemistry or equivalent or CM1417
-CM1161, 'A' level or H2 pass in Chemistry or equivalent
-CM1191, H2/A-level Chemistry or its equivalent or by permission
-CM1402, GCE ‘A’ level or H2 pass in chemistry or equivalent or CM1417
-CM1502, 'A' level pass in Chemistry or equivalent
+CG3204L, EE3204 
+
+CM1121, A_level_Chemistry or H2_Chemistry or CM1417
+CM1161, A_level_Chemistry or  H2_Chemistry 
+CM1191, A_level_Chemistry or  H2_Chemistry 
+CM1402, A_level_Chemistry or  H2_Chemistry or CM1417
+CM1502, A_level_Chemistry or  H2_Chemistry 
 CM2101, CM1131 or CM1401 or by department approval.
 CM2111, CM1111
-CM2121, CM1121 or by department approval
-CM2142, CM1131 or FST1101 or CM1401 by department approval
+CM2121, CM1121 
+CM2142, CM1131 or FST1101 or CM1401 
 CM2161, CM1161
-CM2191, CM1191 or by department approval.
-CM2192, CM1191 or by department approval.
-CM2192A, CM1191 or FST1101 or by department approval
-CM3193, CM3181 or by permission
-CM3194, CM3181 or by permission
+CM2191, CM1191 
+CM2192, CM1191 
+CM2192A, CM1191 or FST1101 
+CM3193, CM3181 
+CM3194, CM3181 
 CM3211, CM2111
 CM3222, CM2121
 CM3225, CM2121
-CM3232, CM2132 or CM2167
+CM3232, CM2132 
 CM3251, SP2251
 CM3253, CM1131 and CM2111
-CM3261, CM3241 or CM2142 or CM2166 or by permission
+CM3261, CM3241 or CM2142 or CM2166 
 CM3262, CM2263
 CM3264, CM1121
 CM3265, CM1121
-CM3291, CM2111, CM2121 and CM2102, or by permission
-CM3292, CM2132, CM2142 and CM2101, or by permission
+CM3291, CM2111, CM2121 and CM2102 
+CM3292, CM2132, CM2142 and CM2101
 CM3295, CM2142
-CM3296, CM2132, CM2167 or departmental approval
+CM3296, CM2132, CM2167 
 CM3301, GEK1542
-CM3312, SP1001 Career Planning & Preparation or NCC1001 Headstart Module (A Career Development Programme) or NCC1000 Stepup Module (A Career Development Programme); students must have completed 3 regular semesters of study, have declared Chemistry as first major and have completed a minimum of 32 MCs in Chemistry major at time of application.
-CM4199A, At least an overall CAP of 3.50, on fulfillment of 100MC or more; and major requirements under the B.Sc. programme. ( Only for students entering NUS in or after 2002 )
-CM4199B, At least an overall CAP of 3.50, on fulfillment of 100MC or more; and major requirements under the B.Sc. programme. (Only for students entering NUS in or after 2002 )
+
 CM4214, CM3211 or CM3212
 CM4236, CM2101 and CM2132 or CM2165 and CM2167
-CM4241, CM3242 or by permission
-CM4242, CM3242 or by permission
-CM4268, For Applied Chemistry Students: Polymer Chemistry II (CM3265). For Chemistry students: Organic Reaction Mechanisms (CM3221).
+CM4241, CM3242 
+CM4242, CM3242 
+CM4268, CM3265 or CM3221
 CM4269, (CM2132 or CM2167) and (CM3221 or CM3264)
 CM4271, CM2121 and CM3225
 CM4274, CM2121
 CM5225, CM4222 Catalysis
-CM5262, By permission
-CN1111, H2 Mathematics, H2 Chemistry and H2 Physics (or PC1221 Fundamentals of Physics I) or equivalent
+CN1111, H2_Mathematics, H2_Chemistry and H2_Physics or PC1221 
 CN2108, CN2121, CN2122, LSM1401
 CN2116, CN111FC, CN1111, Co-req : CN2125
 CN2116E, TC1101/ CN1111E
@@ -153,93 +98,90 @@ CN3109, CN3121, CN3132
 CN3124, CN2122
 CN3124E, TC2112/ CN2122E
 CN3132, CN1111FC, CN1111, CN2125
-CN3135, CN2121 Chemical Engineering Thermodynamics CN2122 Fluid Mechanics
+CN3135, CN2121, CN2122 
 CN3421, CN1111FC, MA1505, MA1506, CN1111
 CN4118E, TC1401 & TC1422 & CN1111E & TC1402/ TC2401 & TC2421 & CN2121E & CN2122E & CN2116E & CN2125E & CN3124E & CN3421E & CN3121E & CN3132E & CN4111E/CN3135E
-CN4118R, CN3108 and at least 4 of the 5 core modules: CN3121, CN3124, CN3132, CN3135 and CN3421, or approved by the Head of the Department
+
 CN4121, CN2116, CN3124, CN3132, CN3135, CN3421 and EG2401
-CN4122, CN2116 Chemical Kinetics and Reactor Design CN2121 Chemical Engineering Thermodynamics CN3124 Particle Technology CN3132 Separation Processes
-CN4123E, CN3135E Process Safety, Health and Environment CN3421E Process Modelling & Numerical Simulation CN4122E Process Synthesis and Simulation TG2415 Ethics in Engineering
+CN4122, CN2116 , CN2121 ,CN3124 , CN3132 
+CN4123E, CN3135E , CN3421E ,CN4122E , TG2415 
 CN4201R, CM1501, CN2116, CN3132
 CN4208E, TC2106 / CN2116E & TC2112 / CN2122E
-CN4223R, MLE1101 or EE2004 or EE3431C (MICROELECTRONICS MATERIALS AND DEVICES)
+CN4223R, MLE1101 or EE2004 or EE3431C 
 CN4227E, TC3111/ CN3121E
 CN4227R, CN3121
-CN4238R, CN1111FC, CN1111, CN3421 or equivalent
+CN4238R, CN1111FC, CN1111, CN3421
 CN4240R, LSM1401, CN2116
 CN4246R, CN2116
 CN4248, CN2116 and CN3132
 CN5173, CN3132
-CP3101A, CS2103 or its equivalent
-CP3101B, CS1020 or its equivalent
+CP3101A, CS2103 
+CP3101B, CS1020 
 CP3106, [(CS2102 or CS2102S) and CS2105 and read (CS3214 or CS3215)] or IS3102 or IS4102 or CS3201 or CS3281 or CS4201 or CS4203
-CP3200, Students can only take this module after completing 70 MCs. Student Selection process will be enforced
-CP3201, Students can only take this module after completing 70 MCs
-CP3208, SoC students who have passed at least 60 MCs and with approval from respective department.
 CP3209, CS2309
 CP3880, ([IS2101 or CG1413] and [CS2103 or IS2103 or IS2150 ]) and preferably completed [IS3102 or (CS3201 and CS3202 ) or (CS3281 and CS3282) or IS4102 or (CS4201 and CS4202) or (CS4203 and CS4204 ) or CG2001].
 CP4101, Attain at least 70% of the MC requirement for the respective degree
 CS1010R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
 CS1020, CS1010 Programming Methodology
 CS1020E, CS1010E or its equivalent
-CS1231, A-level Mathematics or H2 Mathematics or MA1301 or MA1301FC
-CS1231R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
-CS2010, CS1020 or CS1020E or CG1103 Data Structures and Algorithms I
-CS2020, Obtain a grade of at least A- in either CS1010 or CS1101S or CS1010S or CS1010FC or their equivalents
-CS2100, CS1010 or its equivalent
-CS2100R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
-CS2101, Students have to complete ES1000 and/or ES1102 (if required to take the module/s) before reading this module.
-CS2102, (CS1020 or its equivalent) and (CS1231 or MA1100)
-CS2102R, (CS1020 or its equivalent) and (CS1231 or MA1100)
-CS2103, (CS1020 or its equivalent)
-CS2103R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
-CS2103T, For SoC students only. CS1020 or its equivalent.
-CS2104R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
-CS2105, CS1020 or equivalent
-CS2105R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS1231, A_level_Mathematics or H2_Mathematics or MA1301 or MA1301FC
+CS1231R, CS1231
+CS2010, CS1020 or CS1020E or CG1103 
+CS2020, CS1010 or CS1101S or CS1010S or CS1010FC 
+CS2100, CS1010 
+CS2100R, CS2100
+CS2101, ES1000 and/or ES1102 
+CS2102, CS1020  and (CS1231 or MA1100)
+CS2102R, (CS1020 ) and (CS1231 or MA1100)
+CS2103, CS1020
+CS2103R, CS2103
+CS2103T,  CS1020 
+CS2104R, CS2104
+CS2105, CS1020 
+CS2105R, CS2105
 CS2106, CS2100 or EE2007 or EE2024
-CS2106R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
-CS2107, CS1010 or its equivalence
-CS3103, (CS2105 Introduction to Computer Networks or EE3204 Computer Communication Networks I) and co-read CS3103L Computer Networks Laboratory
+CS2106R, CS2106
+CS2107, CS1010 
+CS3103, (CS2105 or EE3204) and  CS3103L 
 CS3103L, Co-read CS3103
 CS3201, CS2103 and (CS2301 or IS2101)
 CS3202, CS3201
 CS3210, CS2100 or CG2007
 CS3211, CS2106 or CG2271
-CS3217, CS2103 or with special approval from instructor. Students will submit personal statements to apply for a place in the course instead of bidding through the CORS system.
-CS3218, (MA1521 Calculus for Computing and MA1101R Linear Algebra I and CS1020 Data Structures and Algorithms I) or their equivalents.
-CS3223, (CS2010 or its equivalent) and (CS2102 or CS2102S)
-CS3225, (CS2010 or its equivalent) and (CS2220 or LSM2104)
-CS3230, (CS2010 or its equivalent) and (CS1231 or MA1100)
-CS3230R, Co-read host module. Student selection process is enforced.
-CS3233, At least grade 'A-' in (CS2010 or its equivalent) or special permission.
+CS3217, CS2103 
+CS3218, MA1521 and MA1101R  and CS1020 
+CS3223, (CS2010 ) and (CS2102 or CS2102S)
+CS3225, (CS2010 ) and (CS2220 or LSM2104)
+CS3230, (CS2010 ) and (CS1231 or MA1100)
+CS3230R, CS3230
+CS3233, CS2010 
 CS3233R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
 CS3234, CS1231 or MA1100; Programming experience is preferred.
 CS3240, SOC students: CS1020 or its equivalent; Other students:NM2217 or NM3209 or the prerequisites for SoC students
-CS3241, CS1020 or its equivalent
+CS3241, CS1020 
 CS3241R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
-CS3242, CS3241, PC1221, MA1521and MA1101R
+CS3242, CS3241, PC1221, MA1521 and MA1101R
 CS3243, (CS2010 or its equivalent) and (CS1231 or MA1100).
 CS3243R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
-CS3245, CS2010 Data Structures and Algorithms II or its equivalent
+CS3245, CS2010 
 CS3247, CS3241 and PC1221
 CS3249, CS2103 or CS2103T Software Engineering
 CS3282, CS3281 and have passed at least two primary modules in a CS focus area. Student selection process will be enforced.
-CS3284, CS3283 Media Technology Project I
-CS3343, SoC students: CS1020 or its equivalent; Other students: NM2208 or NM2217 or NM3209 or the prerequisites for SoC students
+CS3284, CS3283 
+CS3343, CS1020 or NM2208 or NM2217 or NM3209 
 CS3882, Read and passed 80 MCs of modules. Students from Engineering, Science, and FASS with sufficient computing background and have read and passed 80 MCs of module may also apply to read. Student selection process will be enforced.
-CS4215, (CS2010 Data Structures and Algorithms II or its equivalent) and CS2104 Programming Language Concepts
-CS4218, CS2103 or CS2103T Software Engineering
+CS4215, (CS2010 ) and CS2104 
+CS4218, CS2103 or CS2103T 
 CS4220, CS2220 or LSM2104
 CS4222, CS3103 or CG3204L
-CS4231, CS3230 Design and Analysis of Algorithms or CS3210 Parallel Computing
-CS4236, CS2107 Introduction to Information & System Security and CS3230 Design and Analysis of Algorithm.
-CS4242, CS3245 Information Retrieval or CS3246 Hypermedia and WWW
+CS4231, CS3230 or CS3210 
+CS4236, CS2107 and CS3230 
+CS4242, CS3245  or CS3246 
 CS4243R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
 CS4244, CS3243
 CS4246R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
 CS4247, CS3241
-CS4248R, Co-read with host module in current semester or pass host module in previous semester. Student selection process is enforced.
+CS4248R, CS4248
 CS4340, CS3343 and (CS4243 or CS4247 or CS4342)
 CS4347, (CS1020 Data Structures and Algorithms I or its equivalent), (MA1505 Mathematics I or MA1521 Calculus for Computing or MA1102R Calculus) and (MA1101R Linear Algebra I or MA1506 Mathematics II).
 CS4880, Students in their 3rd year of study in science, technology or business
@@ -1527,3 +1469,65 @@ TS3243, TS1101E or GEM1003
 TS3246, TS1101E or GEM1003 or EN1101E or GEK1000
 TS3247, TS1101E or GEM1003
 IE2130, MA1505, MA1506 or SA1101, or ST1131, or ST1131A, or ST1232, or ST2334.
+
+ACC3615, FNA3111/ACC3601 Co-requisite: FNA3123/ACC3606
+ACC4612E, Depends on the particular stream offered. It is envisaged that completion of one or more ACC3xxx modules will be a pre-requisite in most cases.
+BN2103, Stage 1 & 2 Bioengineering Students
+BN2201, BIE Stage 2 standing
+BN2203, BIE Stage 2 standing
+BSP3001A, All foundation modules
+BSP3001B, All foundation modules
+BSP3001C, All level 1000 and 2000 foundation modules
+BN4404, Stage 3 & 4 Engineering students
+BN4101R, Stage 4 standing
+CE3101, CE2 standing or higher
+CE4103, CE4 standing [Successful completion of relevant CE 2 and CE 3 modules which will be specified in the each project]
+CE4104, CE4 Standing
+CE4247, CE3132  or CE4 standing
+
+CE5105, CE2112 or CE4 standing or higher
+CE5106, CE2112 or CE4 standing or higher
+
+CE5107, Undergraduate: CE2112 &amp; CE3116 Graduate students: Background in Soil Mechanics and Foundation Engineering
+CH1101E, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH2141 / CL2241, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH2223, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH2273, Must obtain: 1) at least a B4 for (a) Higher Chinese at GCE 'O' level, or (b) Chinese Language at GCE 'AO' level (at GCE'A' level examination); OR 2) at least a pass for (a) Chinese at GCE 'A' level, or (b) Higher Chinese at GCE 'A' level; OR 3) at least C grade for Chinese Language (H1CL) at GCE 'A' level; OR 4) at least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' level. 5) Equivalent qualifications may be accepted.
+CH3223, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH3226, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH3229, Students must have obtained: 1. at least a B4 for (a) Higher Chinese at GCE ‘O’ level, or (b) Chinese Language at GCE ‘AO’ level (at GCE ‘A’ level examination); OR 2. at least a pass for (a) Chinese at GCE ‘A’ level, or (b) Higher Chinese at GCE ‘A’ level; OR 3. at least C grade for Chinese Language (H1CL) at GCE ‘A’ level; OR 4. at least a pass for (a) Chinese Language and Literature (H2CLL) at GCE ‘A’ level, or (b) Chinese Language and Literature (H3CLL) at GCE ‘A’ level. 5. Equivalent qualifications may be accepted.
+CH3248, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CH4244, Cohort 2006 and before: Completed 80MCs including minimum 56MCs of 14 CH or CL modules. Cohort 2007 onwards: Completed 80MCs, including 28MCs in CH or CL or 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+CH4261, Cohort 2006 and before: Completed 80MCs including minimum 56MCs of 14 CH or CL modules. Cohort 2007 onwards: Completed 80MCs, including 28MCs in CH or CL, with a minimum CAP of 3.5 or be on the Honours track.
+CH4281, Cohort 2006 and before: CL3281 and completed 80MCs including minimum 56MCs of 14 CH or CL modules. Cohort 2007 onwards: CL3281 and completed 80MCs, including 28MCs in CH or CL, with a minimum CAP of 3.5 or be on the Honours track.
+CH4401, Cohort 2006 and before: (1) Complete at least 100MCs including 56MCs of CH/CL major requirements and (2) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: Completed 110MCs including 60MCs of CH/CL major requirements with a minimum CAP of 3.5.
+CH4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. Complete at least 100MCs including 56MCs of major requirement and obtain a minimum CAP of 3.2. Cohort 2007 onwards: To be offered subject to the agreement of the Supervisor and Department. Completed 100MCs, including 60MCs in CH or CL, with a minimum CAP of 3.5
+CH5225, Graduate students in Chinese Studies, or 120 MCs (or equivalent) and permission of Department
+CH5225R, Graduate students in Chinese Studies, or 120 MCs (or equivalent) and permission of Department
+CH5242, Admission to a graduate programme in Chinese Studies, or 120 MCs (or equivalent) and permission of the Department.
+CH5242R, Admission to a graduate programme in Chinese Studies, or 120 MCs (or equivalent) and permission of the Department.
+CH5660, Subject to the approval from HOD
+CH6245, Graduate Students in Chinese Studies, or 120MCs (or equivalent) and permission of Department
+CH6262, Subject to the approval from HOD
+CL1101E, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL2103, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL2260, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL2281, 1) Exempted from NUS Qualifying English Test, or passed NUS Qualifying English Test, or exempted from further CELC Remedial English modules; AND 2) Grade 'B4' and above in Higher Chinese (HCL) at GCE 'O' Level or Chinese (CL) at GCE 'AO' Level; OR Grade 'C' and above in Chinese Language (H1CL) at GCE 'A' Level.
+CL3205, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL3208, Must obtain: 1) At least a B4 for (a) Higher Chinese at GCE 'O' Level, or (b) Chinese Language at GCE 'AO' Level (at GCE 'A' Level examination); OR 2) At least a pass for (a) Chinese at GCE 'A' Level, or (b) Higher Chinese at GCE 'A' Level; OR 3) At least C grade for Chinese Language (H1CL) at GCE 'A' Level; OR 4) At least a pass for (a) Chinese Language and Literature (H2CLL) at GCE 'A' Level, or (b) Chinese Language and Literature (H3CLL) at GCE 'A' Level. 5) Equivalent qualifications may be accepted.
+CL3211, "Students must have obtained: 1) at least a B4 for (a) Higher Chinese at GCE ‘O’ level, or (b) Chinese Language at GCE ‘AO’ level (at GCE ‘A’ level examination); OR 2) at least a pass for (a) Chinese at GCE ‘A’ level, or (b) Higher Chinese at GCE ‘A’ level; OR 3) at least C grade for Chinese Language (H1CL) at GCE ‘A’ level; OR 4) at least a pass for (a) Chinese Language and Literature (H2CLL) at GCE ‘A’ level, or (b) Chinese Language and Literature (H3CLL) at GCE ‘A’ level. 5) Equivalent qualifications may be accepted."
+CL3281, CL2280 or CL2281
+CE5604, CE2155, or CE4 standing or higher
+CE5611, CE 3165 or CE4 standing or higher
+CE5883A, CE 2134 Hydraulics and/or fluid mechanics background
+
+CG4001, Level 4 standing
+CM3312, SP1001 or NCC1001  or NCC1000; students must have completed 3 regular semesters of study, have declared Chemistry as first major and have completed a minimum of 32 MCs in Chemistry major at time of application.
+
+CM4199A, At least an overall CAP of 3.50, on fulfillment of 100MC or more; and major requirements under the B.Sc. programme. ( Only for students entering NUS in or after 2002 )
+CM4199B, At least an overall CAP of 3.50, on fulfillment of 100MC or more; and major requirements under the B.Sc. programme. (Only for students entering NUS in or after 2002 )
+
+CN4118R, CN3108 and at least 4 of the 5 core modules: CN3121, CN3124, CN3132, CN3135 and CN3421, or approved by the Head of the Department
+CP3200, Students can only take this module after completing 70 MCs. Student Selection process will be enforced
+CP3201, Students can only take this module after completing 70 MCs
+CP3208, SoC students who have passed at least 60 MCs and with approval from respective department.
