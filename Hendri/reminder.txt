@@ -1,0 +1,6 @@
+What to do.
+=============
+1. Remember to handle equivalent
+2. 80 MC and other same type of requirement is for timetable building
+3. Favor Level 1 non CS module
+4. Not favor level 3 & 4 non cs module
