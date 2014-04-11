@@ -32,28 +32,36 @@
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.JCPolyPanel = new System.Windows.Forms.Panel();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.comboBox4 = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
             this.projectPanel = new System.Windows.Forms.Panel();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.comboBox3 = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
             this.FocusAreaPanel = new System.Windows.Forms.Panel();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
             this.FYPPanel = new System.Windows.Forms.Panel();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.miniMaxPanel = new System.Windows.Forms.Panel();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.modsBox = new System.Windows.Forms.ComboBox();
             this.minMaxLabel = new System.Windows.Forms.Label();
             this.degreePanel = new System.Windows.Forms.Panel();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.cohortLabel = new System.Windows.Forms.Label();
             this.matricBox = new System.Windows.Forms.ComboBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.nameTextBox = new System.Windows.Forms.TextBox();
             this.nameLabel = new System.Windows.Forms.Label();
             this.welcomeLabel = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.label10 = new System.Windows.Forms.Label();
             this.button13 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.panel9 = new System.Windows.Forms.Panel();
@@ -108,20 +116,30 @@
             this.modulesInterestBox = new System.Windows.Forms.ComboBox();
             this.interestLabel = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.preferenceLBox = new System.Windows.Forms.ListBox();
             this.delButton4 = new System.Windows.Forms.Button();
             this.addButton4 = new System.Windows.Forms.Button();
             this.preferenceBox = new System.Windows.Forms.ComboBox();
             this.preferenceLabel = new System.Windows.Forms.Label();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.JCPolyPanel.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             this.projectPanel.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             this.FocusAreaPanel.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             this.FYPPanel.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.miniMaxPanel.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.degreePanel.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.tabPage2.SuspendLayout();
             this.panel9.SuspendLayout();
             this.panel8.SuspendLayout();
@@ -133,6 +151,9 @@
             this.panel3.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -150,6 +171,7 @@
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
             this.tabControl1.Controls.Add(this.tabPage3);
+            this.tabControl1.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tabControl1.Location = new System.Drawing.Point(16, 8);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
@@ -158,6 +180,7 @@
             // 
             // tabPage1
             // 
+            this.tabPage1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.tabPage1.Controls.Add(this.JCPolyPanel);
             this.tabPage1.Controls.Add(this.projectPanel);
             this.tabPage1.Controls.Add(this.button1);
@@ -177,12 +200,23 @@
             // 
             // JCPolyPanel
             // 
+            this.JCPolyPanel.Controls.Add(this.pictureBox6);
             this.JCPolyPanel.Controls.Add(this.comboBox4);
             this.JCPolyPanel.Controls.Add(this.label4);
-            this.JCPolyPanel.Location = new System.Drawing.Point(6, 444);
+            this.JCPolyPanel.Location = new System.Drawing.Point(6, 383);
             this.JCPolyPanel.Name = "JCPolyPanel";
             this.JCPolyPanel.Size = new System.Drawing.Size(1000, 60);
             this.JCPolyPanel.TabIndex = 9;
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox6.Location = new System.Drawing.Point(357, 4);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox6.TabIndex = 5;
+            this.pictureBox6.TabStop = false;
+            this.pictureBox6.Visible = false;
             // 
             // comboBox4
             // 
@@ -197,6 +231,7 @@
             this.comboBox4.Name = "comboBox4";
             this.comboBox4.Size = new System.Drawing.Size(100, 29);
             this.comboBox4.TabIndex = 1;
+            this.comboBox4.SelectedIndexChanged += new System.EventHandler(this.comboBox4_SelectedIndexChanged);
             // 
             // label4
             // 
@@ -210,12 +245,23 @@
             // 
             // projectPanel
             // 
+            this.projectPanel.Controls.Add(this.pictureBox7);
             this.projectPanel.Controls.Add(this.comboBox3);
             this.projectPanel.Controls.Add(this.label3);
-            this.projectPanel.Location = new System.Drawing.Point(6, 383);
+            this.projectPanel.Location = new System.Drawing.Point(6, 444);
             this.projectPanel.Name = "projectPanel";
             this.projectPanel.Size = new System.Drawing.Size(1000, 60);
             this.projectPanel.TabIndex = 8;
+            // 
+            // pictureBox7
+            // 
+            this.pictureBox7.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox7.Location = new System.Drawing.Point(857, 4);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox7.TabIndex = 6;
+            this.pictureBox7.TabStop = false;
+            this.pictureBox7.Visible = false;
             // 
             // comboBox3
             // 
@@ -230,6 +276,7 @@
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(600, 29);
             this.comboBox3.TabIndex = 1;
+            this.comboBox3.SelectedIndexChanged += new System.EventHandler(this.comboBox3_SelectedIndexChanged);
             // 
             // label3
             // 
@@ -243,12 +290,23 @@
             // 
             // FocusAreaPanel
             // 
+            this.FocusAreaPanel.Controls.Add(this.pictureBox5);
             this.FocusAreaPanel.Controls.Add(this.comboBox2);
             this.FocusAreaPanel.Controls.Add(this.label2);
             this.FocusAreaPanel.Location = new System.Drawing.Point(6, 322);
             this.FocusAreaPanel.Name = "FocusAreaPanel";
             this.FocusAreaPanel.Size = new System.Drawing.Size(1000, 60);
             this.FocusAreaPanel.TabIndex = 7;
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox5.Location = new System.Drawing.Point(457, 4);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox5.TabIndex = 6;
+            this.pictureBox5.TabStop = false;
+            this.pictureBox5.Visible = false;
             // 
             // comboBox2
             // 
@@ -271,6 +329,7 @@
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(200, 29);
             this.comboBox2.TabIndex = 1;
+            this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
             // label2
             // 
@@ -284,12 +343,23 @@
             // 
             // FYPPanel
             // 
+            this.FYPPanel.Controls.Add(this.pictureBox4);
             this.FYPPanel.Controls.Add(this.comboBox1);
             this.FYPPanel.Controls.Add(this.label1);
             this.FYPPanel.Location = new System.Drawing.Point(6, 261);
             this.FYPPanel.Name = "FYPPanel";
             this.FYPPanel.Size = new System.Drawing.Size(1000, 60);
             this.FYPPanel.TabIndex = 6;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox4.Location = new System.Drawing.Point(307, 4);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox4.TabIndex = 5;
+            this.pictureBox4.TabStop = false;
+            this.pictureBox4.Visible = false;
             // 
             // comboBox1
             // 
@@ -303,6 +373,7 @@
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(50, 29);
             this.comboBox1.TabIndex = 1;
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // label1
             // 
@@ -316,12 +387,23 @@
             // 
             // miniMaxPanel
             // 
+            this.miniMaxPanel.Controls.Add(this.pictureBox3);
             this.miniMaxPanel.Controls.Add(this.modsBox);
             this.miniMaxPanel.Controls.Add(this.minMaxLabel);
             this.miniMaxPanel.Location = new System.Drawing.Point(6, 200);
             this.miniMaxPanel.Name = "miniMaxPanel";
             this.miniMaxPanel.Size = new System.Drawing.Size(1000, 60);
             this.miniMaxPanel.TabIndex = 5;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox3.Location = new System.Drawing.Point(307, 4);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox3.TabIndex = 5;
+            this.pictureBox3.TabStop = false;
+            this.pictureBox3.Visible = false;
             // 
             // modsBox
             // 
@@ -336,6 +418,7 @@
             this.modsBox.Name = "modsBox";
             this.modsBox.Size = new System.Drawing.Size(50, 29);
             this.modsBox.TabIndex = 1;
+            this.modsBox.SelectedIndexChanged += new System.EventHandler(this.modsBox_SelectedIndexChanged);
             // 
             // minMaxLabel
             // 
@@ -349,12 +432,23 @@
             // 
             // degreePanel
             // 
+            this.degreePanel.Controls.Add(this.pictureBox2);
             this.degreePanel.Controls.Add(this.cohortLabel);
             this.degreePanel.Controls.Add(this.matricBox);
             this.degreePanel.Location = new System.Drawing.Point(6, 139);
             this.degreePanel.Name = "degreePanel";
             this.degreePanel.Size = new System.Drawing.Size(1000, 60);
             this.degreePanel.TabIndex = 3;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox2.Location = new System.Drawing.Point(395, 0);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox2.TabIndex = 4;
+            this.pictureBox2.TabStop = false;
+            this.pictureBox2.Visible = false;
             // 
             // cohortLabel
             // 
@@ -381,15 +475,27 @@
             this.matricBox.Name = "matricBox";
             this.matricBox.Size = new System.Drawing.Size(300, 38);
             this.matricBox.TabIndex = 3;
+            this.matricBox.SelectedIndexChanged += new System.EventHandler(this.matricBox_SelectedIndexChanged);
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Controls.Add(this.nameTextBox);
             this.panel1.Controls.Add(this.nameLabel);
             this.panel1.Location = new System.Drawing.Point(6, 78);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1000, 60);
             this.panel1.TabIndex = 2;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox1.Location = new System.Drawing.Point(395, 0);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox1.TabIndex = 3;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Visible = false;
             // 
             // nameTextBox
             // 
@@ -398,6 +504,7 @@
             this.nameTextBox.Name = "nameTextBox";
             this.nameTextBox.Size = new System.Drawing.Size(300, 35);
             this.nameTextBox.TabIndex = 2;
+            this.nameTextBox.TextChanged += new System.EventHandler(this.nameTextBox_TextChanged);
             // 
             // nameLabel
             // 
@@ -419,6 +526,7 @@
             // 
             // tabPage2
             // 
+            this.tabPage2.Controls.Add(this.label10);
             this.tabPage2.Controls.Add(this.button13);
             this.tabPage2.Controls.Add(this.button2);
             this.tabPage2.Controls.Add(this.panel9);
@@ -434,6 +542,17 @@
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Modules Taken";
             this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.ForeColor = System.Drawing.Color.Red;
+            this.label10.Location = new System.Drawing.Point(5, 8);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(531, 30);
+            this.label10.TabIndex = 12;
+            this.label10.Text = "Please skip this page if you have not taken any modules";
             // 
             // button13
             // 
@@ -462,17 +581,19 @@
             this.panel9.Controls.Add(this.button12);
             this.panel9.Controls.Add(this.comboBox9);
             this.panel9.Controls.Add(this.label9);
-            this.panel9.Location = new System.Drawing.Point(508, 359);
+            this.panel9.Location = new System.Drawing.Point(508, 390);
             this.panel9.Name = "panel9";
             this.panel9.Size = new System.Drawing.Size(500, 176);
             this.panel9.TabIndex = 9;
             // 
             // listBox5
             // 
+            this.listBox5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox5.FormattingEnabled = true;
+            this.listBox5.ItemHeight = 21;
             this.listBox5.Location = new System.Drawing.Point(2, 62);
             this.listBox5.Name = "listBox5";
-            this.listBox5.Size = new System.Drawing.Size(444, 108);
+            this.listBox5.Size = new System.Drawing.Size(444, 88);
             this.listBox5.TabIndex = 8;
             // 
             // button11
@@ -524,17 +645,19 @@
             this.panel8.Controls.Add(this.button10);
             this.panel8.Controls.Add(this.comboBox8);
             this.panel8.Controls.Add(this.label8);
-            this.panel8.Location = new System.Drawing.Point(508, 183);
+            this.panel8.Location = new System.Drawing.Point(508, 217);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(500, 176);
             this.panel8.TabIndex = 8;
             // 
             // listBox4
             // 
+            this.listBox4.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox4.FormattingEnabled = true;
+            this.listBox4.ItemHeight = 21;
             this.listBox4.Location = new System.Drawing.Point(2, 62);
             this.listBox4.Name = "listBox4";
-            this.listBox4.Size = new System.Drawing.Size(444, 108);
+            this.listBox4.Size = new System.Drawing.Size(444, 88);
             this.listBox4.TabIndex = 8;
             // 
             // button9
@@ -575,9 +698,9 @@
             this.label8.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(-3, 1);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(259, 30);
+            this.label8.Size = new System.Drawing.Size(85, 30);
             this.label8.TabIndex = 0;
-            this.label8.Text = "Breadth/Singapore Studies";
+            this.label8.Text = "Breadth";
             // 
             // panel7
             // 
@@ -586,17 +709,19 @@
             this.panel7.Controls.Add(this.button8);
             this.panel7.Controls.Add(this.comboBox7);
             this.panel7.Controls.Add(this.label7);
-            this.panel7.Location = new System.Drawing.Point(8, 359);
+            this.panel7.Location = new System.Drawing.Point(8, 390);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(500, 176);
             this.panel7.TabIndex = 7;
             // 
             // listBox3
             // 
+            this.listBox3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox3.FormattingEnabled = true;
+            this.listBox3.ItemHeight = 21;
             this.listBox3.Location = new System.Drawing.Point(2, 62);
             this.listBox3.Name = "listBox3";
-            this.listBox3.Size = new System.Drawing.Size(444, 108);
+            this.listBox3.Size = new System.Drawing.Size(444, 88);
             this.listBox3.TabIndex = 8;
             // 
             // button7
@@ -648,17 +773,19 @@
             this.panel6.Controls.Add(this.button6);
             this.panel6.Controls.Add(this.comboBox6);
             this.panel6.Controls.Add(this.label6);
-            this.panel6.Location = new System.Drawing.Point(8, 183);
+            this.panel6.Location = new System.Drawing.Point(8, 217);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(500, 176);
             this.panel6.TabIndex = 6;
             // 
             // listBox2
             // 
+            this.listBox2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox2.FormattingEnabled = true;
+            this.listBox2.ItemHeight = 21;
             this.listBox2.Location = new System.Drawing.Point(2, 62);
             this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(444, 108);
+            this.listBox2.Size = new System.Drawing.Size(444, 88);
             this.listBox2.TabIndex = 8;
             // 
             // button5
@@ -699,9 +826,9 @@
             this.label6.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(-3, 1);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(249, 30);
+            this.label6.Size = new System.Drawing.Size(458, 30);
             this.label6.TabIndex = 0;
-            this.label6.Text = "General Education (GEM):";
+            this.label6.Text = "General Education (GEM)/Singapore Studies (SS)";
             // 
             // panel5
             // 
@@ -710,17 +837,19 @@
             this.panel5.Controls.Add(this.button4);
             this.panel5.Controls.Add(this.comboBox5);
             this.panel5.Controls.Add(this.label5);
-            this.panel5.Location = new System.Drawing.Point(508, 7);
+            this.panel5.Location = new System.Drawing.Point(508, 41);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(500, 176);
             this.panel5.TabIndex = 5;
             // 
             // listBox1
             // 
+            this.listBox1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 21;
             this.listBox1.Location = new System.Drawing.Point(2, 62);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(444, 108);
+            this.listBox1.Size = new System.Drawing.Size(444, 88);
             this.listBox1.TabIndex = 8;
             // 
             // button3
@@ -772,17 +901,19 @@
             this.modulesPanel.Controls.Add(this.addButton);
             this.modulesPanel.Controls.Add(this.modulesTakenBox);
             this.modulesPanel.Controls.Add(this.modulesLabel);
-            this.modulesPanel.Location = new System.Drawing.Point(8, 7);
+            this.modulesPanel.Location = new System.Drawing.Point(8, 41);
             this.modulesPanel.Name = "modulesPanel";
             this.modulesPanel.Size = new System.Drawing.Size(500, 176);
             this.modulesPanel.TabIndex = 4;
             // 
             // modulesTakenLBox
             // 
+            this.modulesTakenLBox.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.modulesTakenLBox.FormattingEnabled = true;
+            this.modulesTakenLBox.ItemHeight = 21;
             this.modulesTakenLBox.Location = new System.Drawing.Point(2, 62);
             this.modulesTakenLBox.Name = "modulesTakenLBox";
-            this.modulesTakenLBox.Size = new System.Drawing.Size(444, 108);
+            this.modulesTakenLBox.Size = new System.Drawing.Size(444, 88);
             this.modulesTakenLBox.TabIndex = 8;
             // 
             // delButton
@@ -864,6 +995,7 @@
             // 
             // panel3
             // 
+            this.panel3.Controls.Add(this.pictureBox10);
             this.panel3.Controls.Add(this.modulesDislikeLBox);
             this.panel3.Controls.Add(this.delButton3);
             this.panel3.Controls.Add(this.addButton3);
@@ -928,6 +1060,7 @@
             // 
             // panel2
             // 
+            this.panel2.Controls.Add(this.pictureBox9);
             this.panel2.Controls.Add(this.modulesInterestLBox);
             this.panel2.Controls.Add(this.delButton2);
             this.panel2.Controls.Add(this.addButton2);
@@ -992,6 +1125,7 @@
             // 
             // panel4
             // 
+            this.panel4.Controls.Add(this.pictureBox8);
             this.panel4.Controls.Add(this.preferenceLBox);
             this.panel4.Controls.Add(this.delButton4);
             this.panel4.Controls.Add(this.addButton4);
@@ -1001,6 +1135,16 @@
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(460, 176);
             this.panel4.TabIndex = 11;
+            // 
+            // pictureBox8
+            // 
+            this.pictureBox8.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox8.Location = new System.Drawing.Point(330, -4);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox8.TabIndex = 16;
+            this.pictureBox8.TabStop = false;
+            this.pictureBox8.Visible = false;
             // 
             // preferenceLBox
             // 
@@ -1054,10 +1198,32 @@
             this.preferenceLabel.TabIndex = 0;
             this.preferenceLabel.Text = "Personal Preference:";
             // 
+            // pictureBox9
+            // 
+            this.pictureBox9.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox9.Location = new System.Drawing.Point(327, -1);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox9.TabIndex = 17;
+            this.pictureBox9.TabStop = false;
+            this.pictureBox9.Visible = false;
+            // 
+            // pictureBox10
+            // 
+            this.pictureBox10.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox10.Location = new System.Drawing.Point(327, -1);
+            this.pictureBox10.Name = "pictureBox10";
+            this.pictureBox10.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox10.TabIndex = 18;
+            this.pictureBox10.TabStop = false;
+            this.pictureBox10.Visible = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1059, 632);
             this.Controls.Add(this.tabControl1);
             this.Name = "Form1";
@@ -1067,19 +1233,27 @@
             this.tabPage1.ResumeLayout(false);
             this.JCPolyPanel.ResumeLayout(false);
             this.JCPolyPanel.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             this.projectPanel.ResumeLayout(false);
             this.projectPanel.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             this.FocusAreaPanel.ResumeLayout(false);
             this.FocusAreaPanel.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             this.FYPPanel.ResumeLayout(false);
             this.FYPPanel.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.miniMaxPanel.ResumeLayout(false);
             this.miniMaxPanel.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.degreePanel.ResumeLayout(false);
             this.degreePanel.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.tabPage2.ResumeLayout(false);
+            this.tabPage2.PerformLayout();
             this.panel9.ResumeLayout(false);
             this.panel9.PerformLayout();
             this.panel8.ResumeLayout(false);
@@ -1099,6 +1273,9 @@
             this.panel2.PerformLayout();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -1190,6 +1367,17 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button14;
         private System.Windows.Forms.Button button15;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.PictureBox pictureBox6;
+        private System.Windows.Forms.PictureBox pictureBox7;
+        private System.Windows.Forms.PictureBox pictureBox5;
+        private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.PictureBox pictureBox8;
+        private System.Windows.Forms.PictureBox pictureBox9;
+        private System.Windows.Forms.PictureBox pictureBox10;
 
 
     }

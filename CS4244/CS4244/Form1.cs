@@ -84,6 +84,7 @@ namespace CS4244
                 string value = modulesInterestBox.SelectedItem.ToString();
                 modulesInterestLBox.Items.Add(value);
                 modulesInterestBox.Items.Remove(value);
+                pictureBox9.Visible = true;
             }
         }
 
@@ -95,6 +96,9 @@ namespace CS4244
                 string value = modulesInterestLBox.SelectedItem.ToString();
                 modulesInterestLBox.Items.RemoveAt(index);
                 modulesInterestBox.Items.Add(value);
+
+                if (modulesInterestLBox.Items.Count == 0)
+                    pictureBox9.Visible = false;
             }
         }
         // Modules Dislike
@@ -106,6 +110,7 @@ namespace CS4244
                 string value = modulesDislikeBox.SelectedItem.ToString();
                 modulesDislikeLBox.Items.Add(value);
                 modulesDislikeBox.Items.Remove(value);
+                pictureBox10.Visible = true;
             }
         }
 
@@ -117,6 +122,9 @@ namespace CS4244
                 string value = modulesDislikeLBox.SelectedItem.ToString();
                 modulesDislikeLBox.Items.RemoveAt(index);
                 modulesDislikeBox.Items.Add(value);
+
+                if (modulesDislikeLBox.Items.Count == 0)
+                    pictureBox10.Visible = false;
             }
         }
         // Personal Preference
@@ -128,6 +136,7 @@ namespace CS4244
                 string value = preferenceBox.SelectedItem.ToString();
                 preferenceLBox.Items.Add(value);
                 preferenceBox.Items.Remove(value);
+                pictureBox8.Visible = true;
             }
         }
 
@@ -139,6 +148,9 @@ namespace CS4244
                 string value = preferenceLBox.SelectedItem.ToString();
                 preferenceLBox.Items.RemoveAt(index);
                 preferenceBox.Items.Add(value);
+
+                if (preferenceLBox.Items.Count == 0)
+                    pictureBox8.Visible = false;
             }
         }
         // Core
@@ -354,24 +366,226 @@ namespace CS4244
             index--;
             tabControl1.SelectTab(index);
         }
-        // Tab3 Done
-        private void button14_Click(object sender, EventArgs e)
-        {
-            int index = tabControl1.SelectedIndex;
-            index++;
-
-            if (index == 3)
-            {
-                Form2 form2 = new Form2();
-                form2.ShowDialog();
-            }
-        }
         // Tab3 Back
         private void button15_Click(object sender, EventArgs e)
         {
             int index = tabControl1.SelectedIndex;
             index--;
             tabControl1.SelectTab(index);
+        }
+        // Tab3 Done
+        private void button14_Click(object sender, EventArgs e)
+        {
+            User u = new User();
+
+            List<string> fields = new List<string>();
+
+            // Tab1 info
+            if (nameTextBox.Text.Trim() == "")
+                fields.Add("Name");
+
+            if (matricBox.SelectedIndex < 0)
+                fields.Add("Cohort");
+
+            if (modsBox.SelectedIndex < 0)
+                fields.Add("Min/Max Mods Per Sem");
+
+            if (comboBox1.SelectedIndex < 0)
+                fields.Add("FYP");
+
+            if (comboBox2.SelectedIndex < 0)
+                fields.Add("Focus Area");
+
+            if (comboBox4.SelectedIndex < 0)
+                fields.Add("JC/Poly");
+
+            if (comboBox3.SelectedIndex < 0)
+                fields.Add("Project Type");
+
+            // Tab2 info
+            // Core
+            if (modulesTakenLBox.Items.Count != 0)
+            {
+                for (int i = 0; i < modulesTakenLBox.Items.Count; i++)
+                {
+                    u.setCore(modulesTakenLBox.Items[i].ToString());
+                }
+            }
+            else
+            {
+                u.setCore("");
+            }
+            // Focus Areas
+            if (listBox1.Items.Count != 0)
+            {
+                for (int i = 0; i < listBox1.Items.Count; i++)
+                {
+                    u.setFocusAreas(listBox1.Items[i].ToString());
+                }
+            }
+            else
+            {
+                u.setFocusAreas("");
+            }
+            // GEM
+            if (listBox2.Items.Count != 0)
+            {
+                for (int i = 0; i < listBox2.Items.Count; i++)
+                {
+                    u.setGem(listBox2.Items[i].ToString());
+                }
+            }
+            else
+            {
+                u.setGem("");
+            }
+            // Breadth
+            if (listBox4.Items.Count != 0)
+            {
+                for (int i = 0; i < listBox4.Items.Count; i++)
+                {
+                    u.setBreadth(listBox4.Items[i].ToString());
+                }
+            }
+            else
+            {
+                u.setBreadth("");
+            }
+            // UE
+            if (listBox3.Items.Count != 0)
+            {
+                for (int i = 0; i < listBox3.Items.Count; i++)
+                {
+                    u.setUe(listBox3.Items[i].ToString());
+                }
+            }
+            else
+            {
+                u.setUe("");
+            }
+            // Science Modules
+            if (listBox5.Items.Count != 0)
+            {
+                for (int i = 0; i < listBox5.Items.Count; i++)
+                {
+                    u.setScienceMods(listBox5.Items[i].ToString());
+                }
+            }
+            else
+            {
+                u.setScienceMods("");
+            }
+            // Tab3 info
+            if (preferenceLBox.Items.Count == 0)
+                fields.Add("Personal Preference");
+
+            if (modulesInterestLBox.Items.Count == 0)
+                fields.Add("Modules you are interested in");
+
+            if (modulesDislikeLBox.Items.Count == 0)
+                fields.Add("Modules you dislike");
+
+            // Checking all required fields
+            if (fields.Count == 0)
+            {
+                // Tab 1
+                u.setName(nameTextBox.Text);
+                u.setCohort(matricBox.SelectedItem.ToString());
+                u.setMinMax(modsBox.SelectedItem.ToString());
+                u.setFYP(comboBox1.SelectedItem.ToString());
+                u.setFocusArea(comboBox2.SelectedItem.ToString());
+                u.setJCPoly(comboBox4.SelectedItem.ToString());
+                u.setProjectType(comboBox3.SelectedItem.ToString());
+
+                // Tab 2
+
+                // Tab 3
+                // Personal Preference
+                for (int i = 0; i < preferenceLBox.Items.Count; i++)
+                {
+                    u.setScienceMods(preferenceLBox.Items[i].ToString());
+                }
+                // Modules Like
+                for (int i = 0; i < modulesInterestLBox.Items.Count; i++)
+                {
+                    u.setScienceMods(modulesInterestLBox.Items[i].ToString());
+                }
+                // Modules Dislike
+                for (int i = 0; i < modulesDislikeLBox.Items.Count; i++)
+                {
+                    u.setScienceMods(modulesDislikeLBox.Items[i].ToString());
+                }
+
+                Form2 form2 = new Form2();
+                form2.ShowDialog();
+            }
+            else
+            {
+                string field = "";
+
+                for (int i = 0; i < fields.Count; i++)
+                {
+                    field += "\r\n" + fields[i];
+                }
+                MessageBox.Show("Please fill in the required fields:\r\n" + field);
+                tabControl1.SelectTab(0);
+            }
+        }
+
+        private void nameTextBox_TextChanged(object sender, EventArgs e)
+        {
+            if (nameTextBox.Text != "")
+                pictureBox1.Visible = true;
+            else
+                pictureBox1.Visible = false;
+        }
+
+        private void matricBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (matricBox.SelectedIndex > -1)
+                pictureBox2.Visible = true;
+            else
+                pictureBox2.Visible = false;
+        }
+
+        private void modsBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (modsBox.SelectedIndex > -1)
+                pictureBox3.Visible = true;
+            else
+                pictureBox3.Visible = false;
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (comboBox1.SelectedIndex > -1)
+                pictureBox4.Visible = true;
+            else
+                pictureBox4.Visible = false;
+        }
+
+        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (comboBox2.SelectedIndex > -1)
+                pictureBox5.Visible = true;
+            else
+                pictureBox5.Visible = false;
+        }
+
+        private void comboBox4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (comboBox4.SelectedIndex > -1)
+                pictureBox6.Visible = true;
+            else
+                pictureBox6.Visible = false;
+        }
+
+        private void comboBox3_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (comboBox3.SelectedIndex > -1)
+                pictureBox7.Visible = true;
+            else
+                pictureBox7.Visible = false;
         }
     }
 }
