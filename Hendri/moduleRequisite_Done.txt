@@ -226,7 +226,7 @@ EE1003, A-level Math, and A-level Physics
 EE2011, MA1505 and MA1506
 EE2011E, TE2002
 EE2012, MA1505 and MA1506
-EE2020, A-level Physics or EE1002 / CG1108 / EG1108
+EE2020, A_level_Physics or EE1002 / CG1108 / EG1108
 EE2021, EE1002/EG1108 /CG1108
 EE2022, EE1002/EG1108/CG1108
 EE2023, MA1506 
@@ -421,7 +421,7 @@ LAK2201,  LAK1201
 LAK3202, LAK3201 
 LAK3203, LAK3201 
 LAK4202, LAK4201 
-LAL2201, Passed LAL1201 
+LAL2201,  LAL1201 
 
 
 LAM2201,  LAM1201 
@@ -792,3 +792,65 @@ SP2174, SP2173
 SP2251, PC1144 or PC1432  or  CM1101  or CM1131  or PC1321 or GEK1509 
 SP3176, SP3175 
 SP3202, GEK1542
+
+ST1131, AO_Level_Mathematics or H1_Mathematics or MA1301 or MA1301FC
+ST1232, AO_Level_Mathematics or H1_Mathematics 
+ST2131 / MA2216, MA1102 or MA1102R or MA1312 or MA1507 or MA1505 or MA1505C or MA1521
+ST2132, MA2216 or ST2131 or ST2334
+ST2334, MA1306 or MA1102 or MA1102R or MA1505 or MA1505C or MA1521 or MA1312 or MA1507
+ST3131, ST2131 or MA2216 or ST2334
+ST3232, ST2132 or ST2334
+ST3240, ST3131
+ST3241, ST3131
+ST3247, {ST2131 or ST2334 or MA2216} and {CS1010 or CS1010E or CS1010S or CS1010FC or CG1101 or IT1002 or IT1006}
+ST4238 / MA4251, MA3238 or ST3236
+ST4240, ST3131
+ST4242, ST3131
+ST4245, ST3131 or QF3101
+ST5217, LSM1102 and ST2132 and ST3236
+SW3101, SW1101E
+
+SW3103A, SW1101E, SW2101, SW2104, SW2105
+SW3216, SW1101E and SW2101
+TC2401, TC1401
+TE2002, TE2102 or TG1401
+TE2003, TE2002
+TE3201, TE2101
+TE3801, EE2005E or EE2021E & TE2003
+TM3101, TM2101 or ME2101E
+TS2217, TS1101E or GEM1003
+TS2234, TS1101E or GEM1003
+TS2236, TS1101E or GEM1003
+TS2240, TS1101E or GEM1003
+
+TS3233, TS1101E or GEM1003
+TS3234, TS1101E or GEM1003
+TS3235 / SSA3201, TS1101E or GEM1003
+TS3237, TS1101E or GEM1003
+TS3240, TS1101E or GEM1003
+TS3243, TS1101E or GEM1003
+TS3246, TS1101E or GEM1003 or EN1101E or GEK1000
+TS3247, TS1101E or GEM1003
+CH2141 / CL2241,  AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CH2223, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CH2273, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CH3223, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CH3226, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CH3229, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CH3248, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CL1101E, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CL2103, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CL2241 / CH2141, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CL2260, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CL2281, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CL3205, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CL3208, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CL3211, O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+CL3281, CL2280 or CL2281
+CN2116, CN111FC, CN1111, CN2125
+CN2121, CN1111FC, CM1502, CN1111
+CN2122, MA1505, MA1506
+CH1101E,  O_Level_Chinese or AO_Level_Chinese or  A_Level_Chinese or H1_Chinese or H2_Chinese or H3_Chinese
+UWC2102E, UWC2101
+ZB3289, ZB3288
+ACC3615, FNA3111 or ACC3601 and  FNA3123 or ACC3606

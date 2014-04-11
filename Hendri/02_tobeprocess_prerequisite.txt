@@ -269,3 +269,158 @@ SW2101, Students majoring in Social Work, SW1101E
 SW2105, Only for students majoring in Social Work, SW1101E
 SW2106, Students from 2008 cohort onwards and majoring in Social Work.
 SW3104, SW3103A. Students from 2007 cohort onwards.
+
+TS3103, TS major students who have completed a minimum of 80 MCs.
+
+USE2316, Not applicable to USP First-Tier modules. USP Advanced modules (Course-Based Modules, CBMs) may state general pre-requisite skills/knowledge. Prerequisites should not make reference to NUS modules.
+USE2317, Not applicable to USP First-Tier modules. USP Advanced modules (Course-Based Modules, CBMs) may state general pre-requisite skills/knowledge. Pre-requisites should not make reference to NUS modules.
+USE2318, Not applicable to USP First-Tier modules. USP Advanced modules (Course-Based Modules, CBMs) may state general pre-requisite skills/knowledge. Prerequisites should not make reference to NUS modules.
+UWC2101C, Not applicable to USP First-Tier modules.
+UWC2101Y, Not applicable to USP First-Tier modules
+XFA4402, Cohort 2004 to 2006: (1) Passed EC4101/EC4151 or EC4102/EC4152 and (2) Complete at least 100 MCs including at least 56MCs of EC major requirements and (3) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: (1) Passed EC4101/EC4151 or EC4102/EC4152 and 2. Completed 110MCs including 60MCs of EC major requirements with a minimum SJAP of 4.0 and CAP of 3.5.
+ZB4199, Students majoring in computational biology
+FIN3129, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA/BBA(Acc) curriculum.
+
+FIN4119, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA/BBA(Acc) curriculum.
+
+EC4332, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and EC3332/EC3224 Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152 and EC3332/EC3224
+EC4333, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and EC3333/EC3209 Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152, and [EC3333/EC3209 or FNA3102/FIN3102 or FNA2004/FIN2004/FIN2004X]
+EC4341, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and EC3341/EC3205 Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152 and EC3341/EC3205
+EC4351, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and EC3351/EC3206. Cohort 2007 onwards: Completed 80MCs, including 28MCsin EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152, EC3303, and EC3351/EC3206.
+EC4361, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and EC3361/EC3208. Cohort 2007 onwards: Completed 80MCs, including 28MCsin EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152, EC3303, and EC3361/EC3208.
+EC4371, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and EC3371/EC3223. Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC or 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152, EC3303 and EC3371/EC3223.
+EC4394, Cohort 2006 and before: EC3101/EC3151, EC3102/EC3152 and (EC3303/EC3231 or ST3131 or SA3101) Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151, EC3102/EC3152 and (EC3303/EC3231or ST3131 or SA3101)
+EC4401, Cohort 2001: [Passed EC4101/EC4151 or EC4102/EC4152] and must have completed a minimum of 100 MC with CAP = 4.0 or better. Cohort 2002 & 2003: (1) Passed EC4101/EC4151 or EC4102/EC4152 and; (2) Complete at least 100MCs and; (3) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP (based on at least 56MCs of EC major requirements) of 4.0 and CAP of 3.5. Cohort 2004 to 2006: (1) Passed EC4101/EC4151 or EC4102/EC4152 and; (2) Complete at least 100MCs including at least 56MCs of EC major requirements and; (3) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: (1) Passed EC4101/EC4151 or EC4102/EC4152 and; (2) Completed 110MCs including 60MCs of EC major requirements with a minimum SJAP of 4.0 and CAP of 3.5.
+EC4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. [Passed EC4101/EC4151 or EC4102/EC4152] and complete at least 100MCs including 56MCs of major requirements and obtain a minimum CAP of 3.2. Cohort 2007 onwards: To be offered subject to the agreement of the Supervisor and Department. Completed 100MCs, with 60MCs in EC that include EC4101 or EC4102, and with CAP of at least 3.5.
+EC4880, Cohort 2006 and before: EC3101/EC3151 and EC3102/EC3152 Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a minimum CAP of 3.5 or be on the Honours track. EC3101/EC3151 and EC3102/EC3152
+
+CM3312, SP1001 or NCC1001  or NCC1000; students must have completed 3 regular semesters of study, have declared Chemistry as first major and have completed a minimum of 32 MCs in Chemistry major at time of application.
+
+CE5107, Undergraduate: CE2112 &amp; CE3116 Graduate students: Background in Soil Mechanics and Foundation Engineering
+CH4244, Cohort 2006 and before: Completed 80MCs including minimum 56MCs of 14 CH or CL modules. Cohort 2007 onwards: Completed 80MCs, including 28MCs in CH or CL or 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+CH4261, Cohort 2006 and before: Completed 80MCs including minimum 56MCs of 14 CH or CL modules. Cohort 2007 onwards: Completed 80MCs, including 28MCs in CH or CL, with a minimum CAP of 3.5 or be on the Honours track.
+CH4281, Cohort 2006 and before: CL3281 and completed 80MCs including minimum 56MCs of 14 CH or CL modules. Cohort 2007 onwards: CL3281 and completed 80MCs, including 28MCs in CH or CL, with a minimum CAP of 3.5 or be on the Honours track.
+CH4401, Cohort 2006 and before: (1) Complete at least 100MCs including 56MCs of CH/CL major requirements and (2) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. Cohort 2007 onwards: Completed 110MCs including 60MCs of CH/CL major requirements with a minimum CAP of 3.5.
+CH4660, Cohort 2006 and before: To be offered subject to the agreement of the Supervisor and Department. Complete at least 100MCs including 56MCs of major requirement and obtain a minimum CAP of 3.2. Cohort 2007 onwards: To be offered subject to the agreement of the Supervisor and Department. Completed 100MCs, including 60MCs in CH or CL, with a minimum CAP of 3.5
+CH5225, Graduate students in Chinese Studies, or 120 MCs (or equivalent) and permission of Department
+CH5225R, Graduate students in Chinese Studies, or 120 MCs (or equivalent) and permission of Department
+CH5242, Admission to a graduate programme in Chinese Studies, or 120 MCs (or equivalent) and permission of the Department.
+CH5242R, Admission to a graduate programme in Chinese Studies, or 120 MCs (or equivalent) and permission of the Department.
+
+CH6245, Graduate Students in Chinese Studies, or 120MCs (or equivalent) and permission of Department
+
+
+
+
+
+
+
+
+BN2103, Stage 1 & 2 Bioengineering Students
+BN2201, BIE Stage 2 standing
+BN2203, BIE Stage 2 standing
+BSP3001A, All foundation modules
+BSP3001B, All foundation modules
+BSP3001C, All level 1000 and 2000 foundation modules
+BN4404, Stage 3 & 4 Engineering students
+BN4101R, Stage 4 standing
+CE3101, CE2 standing or higher
+CE4103, CE4 standing [Successful completion of relevant CE 2 and CE 3 modules which will be specified in the each project]
+CE4104, CE4 Standing
+CE4247, CE3132  or CE4 standing
+
+CE5105, CE2112 or CE4 standing or higher
+CE5106, CE2112 or CE4 standing or higher
+
+
+
+
+
+CL3281, CL2280 or CL2281
+CE5604, CE2155, or CE4 standing or higher
+CE5611, CE 3165 or CE4 standing or higher
+CE5883A, CE 2134 Hydraulics and/or fluid mechanics background
+
+CG4001, Level 4 standing
+
+
+
+CN4118R, CN3108 and at least 4 of the 5 core modules: CN3121, CN3124, CN3132, CN3135 and CN3421, or approved by the Head of the Department
+
+DSC3229, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA/BBA(Acc) curriculum.
+DSC4219, Vary according to project topic. In general, however, students will have to have completed the core modules of the BBA/BBA(Acc) curriculum.
+EC3303, (EC1101E or EC1301/EC1310 or BSP1005) and (EC2303/EC2231/DSC1007 or any ST or SA module or MQ2205 or GM2303 or MA2216 or BZ1008/BK1004)
+EC3312, EC2101/EC2151 and a module on probability (BK1004, EC2303/EC2231, GM2303, MA2216, MQ2205, any SA module, any ST module, or their equivalent).
+EC3352, Minimum CAP of 4.0 and minimum average grade point for EC2101 Microeconomic Analysis 1 and EC2102 Macroeconomic Analysis 1 together of 4.0.
+EC4101, Cohort 2006 and before: Min avg grade point for EC3101/EC3151 and EC3102/EC3152 together of 4.0. Note: If student do not have the current pre-requisites for EC4101/EC4151 and EC4102/EC4152, but have: 1. passed at least 14 EC modules (or 56MCs) (inclusive of EC3101/EC3151 and EC3102/EC3152), and; 2. obtained an SJAP (avg grade of all EC modules) of at least 3.5, then student may submit an appeal for the pre-requisite waiver using CORS. Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a min CAP of 3.5 or be on the Honours track. Min avg grade point for EC3101/EC3151 and EC3102/EC3152 together of 4.0. Note: If student do not have the current pre-requisites for EC4101/EC4151 and EC4102/EC4152, but have: 1. passed at least 14 EC modules (or 56MCs) (inclusive of EC3101/EC3151 and EC3102/EC3152), and; 2. obtained an SJAP (avg grade of all EC modules) of at least 3.5, then student may submit an appeal for the pre-requisite waiver using CORS.
+EC4102, Cohort 2006 and before: Min avg grade point for EC3101/EC3151 and EC3102/EC3152 together of 4.0. Note: If student do not have the current pre-requisites for EC4101/EC4151 and EC4102/EC4152, but have: 1. passed at least 14 EC modules (or 56MCs) (inclusive of EC3101/EC3151 and EC3102/EC3152), and; 2. obtained an SJAP (avg grade of all EC modules) of at least 3.5, then student may submit an appeal for the pre-requisite waiver using CORS. Cohort 2007 onwards: Completed 80MCs, including 28MCs in EC, with a min CAP of 3.5 or be on the Honours track. Min avg grade point for EC3101/EC3151 and EC3102/EC3152 together of 4.0. Note: If student do not have the current pre-requisites for EC4101/EC4151 and EC4102/EC4152, but have: 1. passed at least 14 EC modules (or 56MCs) (inclusive of EC3101/EC3151 and EC3102/EC3152), and; 2. obtained an SJAP (avg grade of all EC modules) of at least 3.5, then student may submit an appeal for the pre-requisite waiver using CORS.
+EC4324, Completed 80MCs including 28MCs in EC, with a minimum CAP of 3.5 or be on the Honours track and EC3101/EC3151, EC3102/EC3152 and (EC3312/ EC3322)
+
+EC3551, Students must: have declared a Major, completed a minimum of 24 MC in that Major, and have a CAP of at least 3.5.
+CP4101, Attain at least 70% of the MC requirement for the respective degree
+EE3031E, Level 3 standing
+EL4216, Completed 80 MCs, including 28 MCs in EL, with a minimum CAP of 3.5 or be on the Honours track.
+EL4254, Completed 80 MCs, including 28 MCs in EL or 28 MCs in GL/GL recognised non-language modules, with a minimum CAP of 3.5 or be on the Honours track.
+EL4255, Completed 80 MCs, including 28 MCs in EL, with a minimum CAP of 3.5 or be on the Honours track.
+EL4401, Completed 110 MCs, including 60 MCs of EL major requirements with a minimum CAP of 3.5.
+EL4660, To be offered subject to the agreement of the Supervisor and Department. Completed 100 MCs, including 60 MCs in EL, with a minimum CAP of 3.5.
+EL4880A, Completed 80 MCs, including 28 MCs in EL, with a minimum CAP of 3.5 or be on the Honours track.
+EM1201, Open only to students enrolled in the Bachelor of Music Programme from AY2009/10 onwards. Students who score Band C in the YSTCM English Placement Test or students who have passed Foundation English Course 2 are required to read this module.
+
+EN3222, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3229, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3241, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3249, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+
+ES1531, Students who are required to read ES1000 and/or EAP modules ES1102 must pass it/them before taking ES1531.
+ES1541, If students are required to take ES1000 (Basic English) and ES1102 (English for Academic Purposes), they must complete them before taking ES1541.
+ES2002, Students who are required to read ES1000 must pass it before taking ES2002.
+ES2007S, Students who are required to read ES1000 and/or EAP modules ES1102 must pass it/them before taking ES2007S.
+ES2331, If students are required to take ES1000 (Basic English) and/or ES1102 (English for Academic Purposes), they must complete and pass these modules before 
+
+PS3257, Completed 20 MCs in Political Science
+vel 4 Standing
+EN4223, Completed 80 MCs, including 28 MCs in English Literature, with a minimum CAP of 3.5 or be on the Honours track.
+EN4226, Completed 80 MCs including 28 MCs in English Literature, with a minimum CAP of 3.5 or be on the Honours track.
+EN4232 / AS4232, Completed 80 MCs including 28 MCs in English Literature, with a minimum CAP of 3.5 or be on the Honours track.
+EN4247, Completed 80MCs, including 28MCs in EN, with a minimum CAP of 3.5 or be on the Honours track.
+EN4262, Completed 80 MCs including 28 MCs in English Literature, with a minimum CAP of 3.5 or be on the Honours track.
+EN4401, Completed 110MCs including 60MCs of EN major requirements witha minimum CAP of 3.5.
+EN4660, To be offered subject to the agreement of the Supervisor and Department. Completed 100MCs, including 60MCs in EN, with a minimum CAP of 3.5.
+
+EN3261 / EU3217, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+EN3265, Cohort 2011 and before: EN1101E or EN2101E or GEK1000. Cohort 2012 onwards: (i) EN1101E or EN2101E or GEK1000, AND (ii) EN2201 or EN2202 or EN2203 or EN2204
+
+ESE4403, ESE4 standing or higher
+ESE4502, ESE4 standing
+ESE5401, Water Science & Technology or ESE4 standing or higher
+ESE5405, ESE4 standing or higher
+ESE5602, ESE4 standing or higher
+ESP4901, Level 4 standing
+EU4401, Cohort 2006 and before: (i) Complete at least 100MCs including 56MCs of EU/LA [French or German]/recognised modules and (ii) Obtain one of the following minimum standards at the point of registration: (a) minimum CAP of 4.0 or (b) minimum SJAP of 4.0 and CAP of 3.5. For EU majors only. Cohort 2007 onwards: Completed 110MCs including 60MCs of EU major requirements with a minimum CAP of 3.5.
+
+IE3100E, Level 3 Standing
+IEM2201E, I&E I
+IEM2201H, I&E I
+
+IE4100, ISE B.Eng. 4 standing
+IE4100E, Level 4 Standing
+
+IEM2201K, I&E I
+IEM2201L, I&E I
+
+ME4101A, Stage 4 standing
+
+MUA4172, 4th year standing
+OT5205, CE4 standing
+TE4001, Level 4 Standing.
+TG3001, Level 3 Standing
+TG3101A, Level 3 standing AND approval from the Director, BTech.
+TG3101B, Level 3 standing AND approval from the Director, BTech.
+
+TM4101, Senior Level 3 Standing (For AY 2006/2007 intake & earlier); Level 4 standing (For AY 2007/2008 intake onwards)
+TP5026, CE4 standing or higher
+TP5028, CE4 standing or higher
+
+
+CE3101, CE2 standing or higher
