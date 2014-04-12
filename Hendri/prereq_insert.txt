@@ -1,0 +1,2050 @@
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC1006', 'FNA1002,ACC1002');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC2002', 'BK1003,BZ1002,BH1002,FNA1002,FNA1002X,FNA1002E,ACC1002,ACC1002X,BH1002E,CS1304,EC3212,EG1422');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3601', 'FNA1002,ACC1002');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3602', 'FNA2002,ACC2002');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3604', 'BSP1004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3606', 'FNA3111,ACC3601');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3613', 'FNA3121,ACC3603');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3614', 'FNA2004,FIN2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC4612A', 'ACC3613');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('AR2102', 'AR1101,AR1102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('AR3102', 'AR2101,AR2102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('AR3102A', 'AR2101,AR2102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('AR4102', 'AR3101,AR3102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('AR4104', 'AR3101,AR3102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BLD3001', 'MNO1001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BLD3002', 'MNO1001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BLD3003', 'MNO1001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BN2401', 'MA1506');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BN3401', 'EE2009');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BN4201', 'BN3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BN4203', 'BN3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BN4402', 'EG1108,PC1432');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BSP2001', 'BSP1005,BH1005,BZ1006,BK1008');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BSP2005', 'BSP2001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BSP4512', 'BSP2001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CE3116', 'CE2112');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CE3132', 'CE2134');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CE3165', 'CE2155');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CE4221', 'CE3121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CE4231', 'MA1505');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CE4231', 'MA1506');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CE4258', 'CE3155');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CE5207', 'CE3121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CE5308', 'CE5307');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CG1108', 'A_Level_Physics,H2_Physics,H1_Physics,PC1222');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CG2271', 'CG1102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CG3204L', 'EE3204');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM1121', 'A_level_Chemistry,H2_Chemistry,CM1417');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM1161', 'A_level_Chemistry,H2_Chemistry');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM1191', 'A_level_Chemistry,H2_Chemistry');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM1402', 'A_level_Chemistry,H2_Chemistry,CM1417');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM1502', 'A_level_Chemistry,H2_Chemistry');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM2101', 'CM1131,CM1401,by department approval.');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM2111', 'CM1111');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM2121', 'CM1121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM2142', 'CM1131,FST1101,CM1401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM2161', 'CM1161');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM2191', 'CM1191');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM2192', 'CM1191');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM2192A', 'CM1191,FST1101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3193', 'CM3181');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3194', 'CM3181');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3211', 'CM2111');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3222', 'CM2121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3225', 'CM2121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3232', 'CM2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3251', 'SP2251');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3253', 'CM1131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3253', 'CM2111');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3261', 'CM3241,CM2142,CM2166');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3262', 'CM2263');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3264', 'CM1121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3265', 'CM1121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3295', 'CM2142');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3301', 'GEK1542');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM4214', 'CM3211,CM3212');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM4241', 'CM3242');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM4242', 'CM3242');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM4268', 'CM3265,CM3221');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM4271', 'CM2121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM4271', 'CM3225');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM4274', 'CM2121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM5225', 'CM4222');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2116E', 'TC1101,CN1111E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2125', 'CN2122');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2125E', 'TC2112,CN2122E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3124', 'CN2122');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3124E', 'TC2112,CN2122E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4223R', 'MLE1101,EE2004,EE3431C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4227E', 'TC3111,CN3121E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4227R', 'CN3121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4246R', 'CN2116');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4248', 'CN2116');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4248', 'CN3132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN5173', 'CN3132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CP3101A', 'CS2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CP3101B', 'CS1020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CP3209', 'CS2309');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS1010R', 'CS1010');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS1020', 'CS1010');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS1020E', 'CS1010E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS1231', 'A_level_Mathematics,H2_Mathematics,MA1301,MA1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS1231R', 'CS1231');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2010', 'CS1020,CS1020E,CG1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2020', 'CS1010,CS1101S,CS1010S,CS1010FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2100', 'CS1010');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2100R', 'CS2100');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2103', 'CS1020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2103R', 'CS2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2103T', 'CS1020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2104R', 'CS2104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2105', 'CS1020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2105R', 'CS2105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2106', 'CS2100,EE2007,EE2024');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2106R', 'CS2106');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2107', 'CS1010');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3103', '(CS2105,EE3204)');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3103L', 'CS3103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3202', 'CS3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3210', 'CS2100,CG2007');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3211', 'CS2106,CG2271');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3217', 'CS2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3218', 'MA1521');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3218', 'MA1101R');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3218', 'CS1020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3230R', 'CS3230');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3233', 'CS2010');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3233R', 'CS3233');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3234', 'CS1231,MA1100');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3240', 'CS1020,NM2217,NM3209');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3241', 'CS1020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3241R', 'CS3241');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3243R', 'CS3243');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3245', 'CS2010');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3247', 'CS3241');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3247', 'PC1221');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3249', 'CS2103,CS2103T');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3284', 'CS3283');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3343', 'CS1020,NM2208,NM2217,NM3209');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4215', '(CS2010 )');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4215', 'CS2104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4218', 'CS2103,CS2103T');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4220', 'CS2220,LSM2104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4222', 'CS3103,CG3204L');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4231', 'CS3230,CS3210');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4236', 'CS2107');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4236', 'CS3230');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4242', 'CS3245,CS3246');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4243R', 'CS4242');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4244', 'CS3243');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4246R', 'CS4242');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4247', 'CS3241');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4248R', 'CS4248');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5214', 'CS3212,CS4212');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5218', 'CS3212,CS4212.');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5230', 'CS3231');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5232', 'CS1231,CS3234');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5331', 'CS3235');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5342', 'CS4341,CS3246');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('DSC3201', 'DSC2006,BH2006,BZ2003,BK2006');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('DSC3202', 'DSC2006,BH2006,BZ2003,BK2006');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('DSC3203', 'DSC2006,BH2006,BZ2003,BK2006');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('DSC3216', 'ST1131A,ST1131,ST1232,MA2216,ST2131,ST2334,EE2003,ME2491');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('DSC3224', 'DSC1007');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('DSC3226', 'DSC2006');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('DSC3226', 'DSC3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('DSC3226', 'DSC3202');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('DSC4211G', 'DSC2006');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC2101', 'EC1101E,EC1301,EC1310,USSE01,USE2301,BSP1005,BH1005,BZ1006');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC2102', 'EC1101E,EC1301,EC1310,USSE01,USE2301,BSP1005,BH2001,BZ2001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC2374', 'EC1101E,EC1301,EC1310,BSP1005,USSE01,USE2301');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3101', 'EC2101,EC2151');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3304', 'EC3303,EC3231,SA3101,ST3131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3322', 'EC2101,EC2151');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3332', 'EC2102,EC2152,EC1101E,EC1301,EC1310,USSE01,USE2301');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3351', 'EC2101,EC2151');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3361', 'EC2101,EC2151');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3371', 'EC2101,EC2151');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3375', 'EC1101E,EC1301');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3376', 'EC3341');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3377', 'EC2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3377', 'EC2102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3381', 'EC2101,EC2151');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3384', 'EC2101,EC2151');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3394', 'EC2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3394', 'EC2102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3394', 'EC3303');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3880B', 'EC2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3880B', 'EC2102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE2011', 'MA1505');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE2011', 'MA1506');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE2011E', 'TE2002');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE2012', 'MA1505');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE2012', 'MA1506');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE2020', 'A_level_Physics,EE1002,CG1108,EG1108');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE2021', 'EE1002,EG1108,CG1108');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE2022', 'EE1002,EG1108,CG1108');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE2023', 'MA1506');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE2024', 'EE2020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE2031', 'EE2021');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE2032', 'EE2011');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE2032', 'EE2023');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3013C', 'EG1108,CG1108,EE1002');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3013E', 'EE2021E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3013E', 'TG1401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3032', 'EE2024');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3104C', 'EE2011');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3131C', 'EE2023');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3331C', 'EE2023');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3407', 'EE2021');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3407E', 'EE2005E,EE2021E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3501E', 'EE2005E,EE2021E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4001', 'Le');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4104', 'EE3104C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4110', 'EE3104C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4112E', 'EE2011E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4114', 'EE3131C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4210', 'EE3204,CS2105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4210E', 'EE3204E,CS2105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4212', 'EE3206,EE3731C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4213', 'EE3206');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4218', 'EE2020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4302', 'EE3331C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4306', 'EE3331C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4307', 'EE3331C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4401', 'EE3431C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4408', 'EE2021');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4410A', 'EE3408C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4415', 'EE2020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4415E', 'EE2006E,EE2020E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4431', 'EE3431C,EE3406');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4432', 'EE2021');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4509', 'EE2021');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4511', 'EE2022');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4603', 'EE2023');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4605', 'EE3731C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE5907R', 'EE2012');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE5907R', 'CS1101C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EG1108', 'H1_Physics H2_Physics,A_Level_Physics,PC1222');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EG1109', 'A_Level_Mathematics,H2_Mathematics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EG1310', 'EG1108,EE1002');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EL2201', 'EL1101E,GEK1011');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EL2211', 'EL1101E,GEK1011');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EL3202', 'EL2102,EL2202');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EL3208', 'EL1101E,GEK1011');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EL3209', 'EL1101E,GEK1011.');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EL3252', 'EL1101E,GEK1011');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EL3880F', 'EL1101E,GEK1011');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EN2201', 'EN1101E,EN2101E,GEK1000');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EN2271', 'EL1101E,EN1101E,EN2101E,TS1101E,GEK1011,GEK1000,GEM1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EN3880A', 'EN1101E,EN2101E,GEK1000,EN2203,EN2204.');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ENV3101', 'ENV2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ES1102', 'ES1000.');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ES1501A', 'ES1000,ES1102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ES1501Q', 'ES1000,ES1102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ESE4405', 'ESE3401,ESE3001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ESP1104', 'A_Level_Physics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ESP3903', 'ESP3902');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ESP4402', 'ME3122,CN2125');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FDP2001', 'A-level mathematics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FDP2002', 'A-level Physics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN2004', 'BK1003,BZ1002,BH1002,FNA1002,ACC1002,FNA1002X,ACC1002X,FNA1002E,BH1002E,EC3212,EG1422');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN2004X', 'BK1003,BZ1002,BH1002,FNA1002,ACC1002,FNA1002X,ACC1002X,FNA1002E,BH1002E,EC3212,EG1422');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3101A', 'FNA2004,FIN2004,BH2004,BZ2004,BK2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3102A', 'FNA2004,FIN2004,BH2004,BZ2004,BK2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3102B', 'FNA2004,FIN2004,BH2004,BZ2004,BK2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3103A', 'FNA2004,FIN2004,BH2004,BZ2004,BK2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3103B', 'FNA2004,FIN2004,BH2004,BZ2004,BK2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3113', 'FNA1002,FNA1002X,ACC1002,ACC1002X,BH1002,BZ1002,BK1003,FNA1002E,BH1002E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3116', 'FNA3102,FNA3102A,FNA3102B,FNA3102C,FIN3102,FIN3102A,FIN3102B,FIN3102C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3118', 'FNA3101,FIN3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3131', 'FNA3102,FIN3102,FIN3102A,FIN3102B,FIN3102C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN4112K', 'FIN3102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN4113', 'FIN3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN4113', 'ST1131A');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FST2102A', 'CM1191');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FST2102A', 'FST1101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FST2106', 'FST1101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FST2106', 'LSM1101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FST2201', 'LSM1101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FST2289', 'FST2288');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FST3289', 'FST3288');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FST4102', 'FST3103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FST4103', 'FST3104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FST4202', 'FST3102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FST4202', 'LSM2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FST5203', 'FST3101,LSM3232');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('GE3216', 'GE2215');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('GE3243', 'GE3880A,GE3244');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('GEK1513', 'O_Level_physics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('GEK1524', 'O_Level_physics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('GEK2508', 'O_Level_physics,GEK1520,PC1322,GEK1508,PC1325');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('GEM2509', 'A_level_Mathematics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('GL2102', 'GL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('GL2103', 'GL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IE2100', 'ST2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IEM2201J', 'IEM1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS2101', 'ES1000,ET1000,ES1102,EG1471,H2_English,H1_English');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS2102', 'CS1010');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS2103', 'CS1020,CS1102,CS1102C,CS1102S');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3150', '[IS1105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3150', 'IS1112 ]');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3240', '[EC1101,EC1101E,EC1301,EC1310,EC1311,A_Level_Economics,BSP1005 ]');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3242', '[CS2250,IS1105]');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3243', '[CS2250,IS1105]');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3260', 'CS1020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS4150', 'IS2150');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS4203', '[CS3253,IS3101]');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS4224', '[CS3361,IS3220]');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS4227', '[CS3361 of IS3220]');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IT1006', 'A_Levels_Mathematics,H2_Mathematics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IT2001', 'CS1010,GEK1511,IT1001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IT2002', 'CS1010');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('JS2101', 'JS1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('JS3208', 'LAJ2202');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAB2201', 'LAB1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAB3201', 'LAB2201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAB3202', 'LAB3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAB4201', 'LAB3202');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAB4202', 'LAB4201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAC2201', 'LAC1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAC3201', 'LAC2201,LAC2202');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAC3202', 'LAC3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAC4202', 'LAC4201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAF2201', 'LAF1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAF3202', 'LAF3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAF3203', 'LAF3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAF4202', 'LAF4201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAG2201', 'LAG1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAG3202', 'LAG3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAG3203', 'LAG3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAG4202', 'LAG4201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAH2201', 'LAH1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAH3202', 'LAH3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAI1732', 'LAI1731');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAJ2201', 'Passed LAJ1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAJ2202', 'Passed LAJ2201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAJ2203', 'Passed LAJ2202');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAJ3201', 'Passed LAJ2203');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAJ3202', 'LAJ3201,LAJ3203');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAK2201', 'LAK1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAK3202', 'LAK3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAK3203', 'LAK3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAK4202', 'LAK4201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAL2201', 'LAL1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAM2201', 'LAM1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAM3201', 'LAM2201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAM3202', 'LAM3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAR2201', 'LAR1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAR3202', 'LAR3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAR4202', 'LAR4201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAT2201', 'LAT1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAT3201', 'LAT2201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAT3202', 'LAT3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAT4201', 'LAT3202');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAT4202', 'LAT4201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAV2201', 'LAV1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAV3201', 'LAV2201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAV3202', 'LAV3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAV4202', 'LAV4201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM1101', 'A_Level_Biology,H2_Biology,LSM1301,LSM1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM1102', 'A_Level_Biology,H2_Biology,LSM1301,LSM1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM1103', 'A_Level_Biology,H2_Biology,LSM1301,LSM1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM1104', 'A_Level_Biology,H2_Biology,LSM1301,LSM1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM1202', 'A_Level_Biology,H2_Biology,LSM1301,LSM1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM2101', 'LSM1101,LSM1401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM2103', 'LSM1101,LSM1401,LSM1102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM2201A', 'LSM1101,LSM1401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM2202A', 'LSM1101,LSM1102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM2203', 'LSM1101,LSM1102,LSM1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM2241', 'LSM1101,LSM1401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM2251', 'LSM1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3211', 'LSM2101,LSM2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3212', 'LSM2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3213', 'LSM2102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3213', 'LSM2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3214', 'LSM2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3214', 'LSM3212');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3221', 'LSM3211');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3223', 'LSM2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3224', 'LSM2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3224', 'LSM2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3225', 'LSM2101,LSM2102,LSM2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3232', 'LSM2101,LSM2102,LSM2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3243', 'LSM1101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3244', 'LSM2102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3255', 'LSM2251');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3256', 'LSM1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3256', 'LSM1104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3257', 'ST1232  AND LSM2251');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3262', 'LSM1104,LSM1201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3264', 'LSM1101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3266', 'LSM1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3272', 'LSM1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4214', 'LSM3211');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4214', 'LSM4243');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4215', 'LSM3212 AND LSM3214');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4221', 'LSM3211,LSM3221');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4222', 'LSM3223');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4223', 'LSM3232,LSM3225');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4225', 'LSM2102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4231', 'LSM2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4234', 'LSM2102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4234', 'LSM2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4241', 'LSM3231');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4243', 'LSM2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4244', 'LSM2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4253', 'LSM2251,LSM3252');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4262', 'LSM2251');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4264', 'LSM3254');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4265', 'LSM2251');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4265', 'LSM3255');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA1101R', 'A_Level_Mathematics,H2_Mathematics,MA1301,MA1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA1102R', 'A_Level_Mathematics,H2_Mathematics,MA1301,MA1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA1104', 'MA1102,MA1102R,MA1505,MA1505C,MA1521,EE1401,EE1461,EG1402');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA1301', 'O_level_Additional_Mathematics,AO_level_mathematics,H1_Mathematics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA1301FC', 'O_level_Additional_Mathematics,AO_level_mathematics,H1_Mathematics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA1312', 'AO_Level_Mathematics,H1_Mathematics,MA1301,MA1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA1505', 'A_Level_Mathematics,H2_Mathematics,MA1301,MA1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA1506', 'MA1102R,MA1505,MA1521');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA1508', 'A_level_Mathematics,H2_Mathematics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA1521', 'A_Level_Mathematics,H2_Mathematics,MA1301,MA1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA2101', 'MA1101,MA1101R,MA1506,MA1508,GM1302,GM1308');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA2108', 'MA1102,MA1102R,MA1505,MA1505C,MA1507,MA1521');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA2219', 'MA1100,MA1101R,MA1506,MA1508,MA1102R,MA1505,MA1507,CS1231');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3110', 'MA2108,MA2108S');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3218', 'MA2101,MA2101S');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3233', 'MA2214');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3252', 'MA1101,MA1101R,MA1306,MA1311,MA1508,MA1506,GM1306');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3259', 'MA2216,MA3233,MA3501,ST2131,ST2334,LSM2241');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA4207', 'MA3110,MA3110S,MA3205,MA3219');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA4211', 'MA3207H,MA3209');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA4252', 'MA3220');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA4254', 'MA2215,MA3252');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA4255', 'MA2213');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA4255', 'MA3220');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA4266', 'MA3209');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA5204', 'MA3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA5210', 'MA3209,MA3215,MA3251,MA4266');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA5216', 'MA5210');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA5220', 'MA3205');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA5220', 'MA4207');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA5241', 'MA4229');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA5260', 'MA5259,ST5214');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME2114', 'ME2113');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME2135', 'ME2134');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME2135E', 'ME2134E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME3102', 'ME3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME3221', 'ME2121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME3232', 'ME2135');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME3233', 'ME2135');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME3251', 'ME2151');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME3251E', 'ME2151E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME4212', 'ME2114');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME4225', 'ME3122');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME4231', 'ME2135');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME4246', 'ME2142');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME4253', 'ME2151');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME4255', 'ME2151');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME4261', 'ME3162');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME4261E', 'ME3162E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME4262E', 'ME3162E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME4265', 'ME2113');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT2401A', 'MKT1003,BH1003,BZ1003,BK2003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT2401B', 'MKT1003,BH1003,BZ1003,BK2003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT2401C', 'MKT1003,BH1003,BZ1003,BK2003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT2412', 'MKT1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT2413', 'MKT1003,BH1003,BZ1003,BK2003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT3402A', 'MKT1003,BH1003,BZ1003,BK2003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT3402B', 'MKT1003,BH1003,BZ1003,BK2003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT3412', 'MKT1003,BH1003,BZ1003,BK2003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT3413', 'MKT1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT3415', 'MKT1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT3418A', 'MKT1003,BH1003,BZ1003,BK2003,TR2201.');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT3418B', 'MKT1003,BH1003,BZ1003,BK2003,TR2201.');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT3424', 'MKT1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT4411', 'MKT2401,MKT2401A,MKT2401B');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT4413', 'MKT2401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE2103', 'MLE2102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE2105', 'MLE1101,MLE2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE3101', 'MLE1101,MLE2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4101', 'MLE2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4101', 'MLE2104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4101', 'MLE2105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4101', 'MLE3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4101R', 'MLE2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4101R', 'MLE2104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4101R', 'MLE2105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4101R', 'MLE3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4202', 'MLE3104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4203', 'MLE3104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4203', 'BN3301');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4206', 'MLE2104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4206', 'MLE2105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4207', 'MLE2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE4208', 'MLE2105,EE3406');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MNO2007', 'MNO1001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MNO2009', 'MNO1001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MNO2302', 'MNO1001,BH1001,BZ1001,BK2002,HR2001,HR2101,HR3111,HR3308');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MNO3301', 'MNO1001,BH1001,BZ1001,BK2002,HR2001,HR2101,HR3111,HR3308');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MNO3303', 'MNO1001,BH1001,BZ1001,BK2002,HR2001,HR2101,HR3111,HR3308');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MNO3313J', 'MNO1001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MNO3322', 'MNO1001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MNO3322', 'MNO2007');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MNO3323', 'MNO1001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MNO3323', 'MNO2007');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MNO4315', 'MNO1001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA1150', 'MUA1180');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA1156', 'MUA1180');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA1181', 'MUA1180');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA1191', 'MUA1190');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA2120', 'MUA2119');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA2128', 'MUA2127');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA2176', 'MUA2175');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA2181', 'MUA2180');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA2183', 'MUA2182');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA2187', 'MUA2186');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA2191', 'MUA 2190');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA3120', 'MUA3119');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA3128', 'MUA3127');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA3130', 'MUA3129');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA3175', 'MUA2176');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA3176', 'MUA3175');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA3187', 'MUA3186');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA3191', 'MUA 3190');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA3195', 'MUA 3194');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA3206', 'MUA3205');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA4174', 'MUA4173');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA4175', 'MUA3176');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA4176', 'MUA1171');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA4191', 'MUA 4190');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA4203', 'MUA4105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA4205', 'MUA4203,MUA4204');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUA4232', 'MUA4231');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUH2116', 'MUH2115');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUH4202', 'MUH2116');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NM3211', 'NM2220');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR1108', 'NUR1107');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR1115', 'NUR1114');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR1118', 'NUR1117');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR2107', 'NUR2106');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR2107', 'NUR2116');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR2116', 'NUR2106');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR2118', 'NUR2117');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR3114', 'NUR1104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR3115', 'NUR3105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR3116', 'NUR3105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR4101', 'NUR3109');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('OT5203', 'OT5201,CE5887');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('OT5204', 'CE5307,OT5201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('OT5206', 'CE2112');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PA2106', 'PR1908');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC1221', 'O_level_Physics,O_Level_CombinedPhysics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC1222', 'O_level_Physics,O_Level_CombinedPhysics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC1431FC', 'A_level_Physics,H2_Physics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC2130B', 'PC1144,PC1432,PC1433.');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC2133', 'PC1144,PC1433.');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC2193', 'PC1141,PC1142,PC1143,PC1144,PC1431,PC1431FC,PC1432,PC1433');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC2232', 'EE2011');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC3193', 'PC2193');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC3233', 'PC2130,PC2130B');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC3241', 'PC2131,PC2231,PC3235,MLE2104,PC2133,EE2005.');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC3243', 'PC2131,PC2231,PC3130,PC3241,PC3235,PC2133,EE2005');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC3246', 'PC2130,PC2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC3251', 'SP2251');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC3267', 'PC2131,PC2267,EE2011');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC4232', 'PC3246,PC4248,PC3274');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC4240', 'PC3235');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC4242', 'PC3231');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC4243', 'PC3233');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC4245', 'PC3232,PC4130');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC4253', 'PC3235,PC3241,PC3242');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC4262', 'PC3231');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC4264', 'PC3241');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC4274', 'PC3214,PC3234,PC3274');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC5202', 'PC4241');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC5203', 'PC4130');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC5203', 'PC4240');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC5207', 'PC4258');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC5210', 'PC3274');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC5210', 'PC4130');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC5212', 'PC4130,PC4240,PC4201,PC4214');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC5213', 'PC4267,PC4268');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC5228', 'PC4130');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PF2103', 'PF1102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PF2104', 'PF1104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PF3103', 'PF2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PF3201', 'PF2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PF3201', 'PF2104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PF3303', 'PF2104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PF4304', 'PF1102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PF4304', 'PF1104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL2131', 'O_level_Mathematics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL2132', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL2132', 'PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3231', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3231', 'PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3231', 'PL2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3232', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3233', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3234', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3235', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3236', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3237', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3241', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3241', 'PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3243', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3243', 'PL3233');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3250', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3250', 'PL3233');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3251', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3251', 'PL3234');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR1102', 'A_level_Chemistry');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR2102', 'PR1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3101A', 'FNA2004,FIN2004,BH2004,BZ2004,BK2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3102A', 'FNA2004,FIN2004,BH2004,BZ2004,BK2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3102B', 'FNA2004,FIN2004,BH2004,BZ2004,BK2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3103A', 'FNA2004,FIN2004,BH2004,BZ2004,BK2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3103B', 'FNA2004,FIN2004,BH2004,BZ2004,BK2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3113', 'FNA1002,FNA1002X,ACC1002,ACC1002X,BH1002,BZ1002,BK1003,FNA1002E,BH1002E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3116', 'FNA3102,FNA3102A,FNA3102B,FNA3102C,FIN3102,FIN3102A,FIN3102B,FIN3102C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3118', 'FNA3101,FIN3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR3103', 'PR2104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR3104', 'PR1101,LSM1101,LSM1201,LSM1301,LSM1301FC,CM1121,A_level_Biology,H2_Biology');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR3106', 'PP2106,PA2106');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR3107', 'PR1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR3288', 'PR2288,PR2289');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR3289', 'PR2288,PR2289');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR4102', 'PR4101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR4104', 'PR3105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR4105', 'PR1101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR4106', 'PR1102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR4201', 'PR1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR5212', 'PR3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR5216', 'PR4205');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR5220', 'PR3104,PR3301');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PS3265', 'PS1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('QF5210', '(QF3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('QF5210', 'MA4269)');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE2104', 'RE1101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE2107', 'RE1104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE2201', 'ST1131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE3105', 'RE3103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE3106', 'RE2106');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE3201', 'RE2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE3201', 'RE2104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE3211', 'RE2105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE3212', 'RE3104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE3221', 'RE2105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE3222', 'RE3102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE4001', 'RE4182');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE4210', 'RE4211');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE4210', 'RE4212');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE4213', 'RE3104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE4213', 'RE4211');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE4220', 'RE4221');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE4220', 'RE4222');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE4223', 'RE3102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE4223', 'RE4221');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('RE4223', 'RE4222');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('SN3275', 'A_level_Tamil,O_level_Tamil,O_Level_Higher_Tamil');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('SP2174', 'SP2173');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('SP2251', 'PC1144,PC1432,CM1101,CM1131,PC1321,GEK1509');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('SP3176', 'SP3175');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('SP3202', 'GEK1542');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST1131', 'AO_Level_Mathematics,H1_Mathematics,MA1301,MA1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST1232', 'AO_Level_Mathematics,H1_Mathematics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST2131', 'MA2216,MA1102,MA1102R,MA1312,MA1507,MA1505,MA1505C,MA1521');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST2132', 'MA2216,ST2131,ST2334');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST2334', 'MA1306,MA1102,MA1102R,MA1505,MA1505C,MA1521,MA1312,MA1507');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST3131', 'ST2131,MA2216,ST2334');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST3232', 'ST2132,ST2334');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST3240', 'ST3131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST3241', 'ST3131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST4238', 'MA4251,MA3238,ST3236');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST4240', 'ST3131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST4242', 'ST3131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST4245', 'ST3131,QF3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST5217', 'LSM1102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST5217', 'ST2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST5217', 'ST3236');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('SW3101', 'SW1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('SW3216', 'SW1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('SW3216', 'SW2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TC2401', 'TC1401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TE2002', 'TE2102,TG1401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TE2003', 'TE2002');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TE3201', 'TE2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TM3101', 'TM2101,ME2101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TS2217', 'TS1101E,GEM1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TS2234', 'TS1101E,GEM1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TS2236', 'TS1101E,GEM1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TS2240', 'TS1101E,GEM1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TS3233', 'TS1101E,GEM1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TS3234', 'TS1101E,GEM1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TS3235', 'SSA3201,TS1101E,GEM1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TS3237', 'TS1101E,GEM1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TS3240', 'TS1101E,GEM1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TS3243', 'TS1101E,GEM1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TS3246', 'TS1101E,GEM1003,EN1101E,GEK1000');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TS3247', 'TS1101E,GEM1003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CH2141', 'CL2241,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CH2223', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CH2273', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CH3223', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CH3226', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CH3229', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CH3248', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CL1101E', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CL2103', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CL2241', 'CH2141,O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CL2260', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CL2281', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CL3205', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CL3208', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CL3211', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CL3281', 'CL2280,CL2281');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CH1101E', 'O_Level_Chinese,AO_Level_Chinese,A_Level_Chinese,H1_Chinese,H2_Chinese,H3_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('UWC2102E', 'UWC2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ZB3289', 'ZB3288');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3603', 'FNA1002,ACC1002');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3603', 'FNA2002');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3605', 'FNA1002,ACC1002');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3605', 'BSP1004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3611', 'FNA1002,ACC1002');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3611', 'BSP1004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3612', 'FNA2004,FIN2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3612', 'BSP1004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'TC1401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'TC1422');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'CN1111E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'TC1402,TC2401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'TC2421');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'CN2121E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'CN2122E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'CN2116E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'CN2125E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'CN3124E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'CN3421E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'CN3121E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'CN3132E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4118E', 'CN4111E,CN3135E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4208E', 'TC2106,CN2116E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4208E', 'TC2112,CN2122E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2101', 'ES1000,ES1102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2102', 'CS1020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2102', 'CS1231,MA1100');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2102R', 'CS1020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS2102R', 'CS1231,MA1100');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3201', 'CS2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3201', 'CS2301,IS2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3223', 'CS2010');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3223', 'CS2102,CS2102S');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3225', 'CS2010');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3225', 'CS2220,LSM2104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3230', 'CS2010');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3230', 'CS1231,MA1100');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3243', 'CS2010');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3243', 'CS1231,MA1100');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4340', 'CS3343');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4340', 'CS4243,CS4247,CS4342');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4347', 'CS1020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4347', 'MA1505,MA1521,MA1102R');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS4347', 'MA1101R,MA1506');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5222', 'CS2106');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5222', 'CS3220,CS4223');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5233', 'CS1020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5233', 'MA1102R,MA1505,MA1505C,MA1521');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5233', 'MA1101R,MA1506');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5233', 'ST1232,ST2131,ST2334');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5241', 'CS1020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5241', 'CS1231');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5241', 'MA1102R,MA1505,MA1521');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5241', 'MA1101R,MA1506');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5272', 'CS1020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5272', 'CS1104,CS2100');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3102', 'EC2102,EC2152,BSP2001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3102', 'EC2101,EC2151');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3333', 'EC2101,EC2151');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3333 EC2102', 'EC2152,BSP2001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3341', 'EC2101,EC2151');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EC3341', 'EC2102,EC2152,BSP2001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3304', 'EE2010');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3304', 'EE3331C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3501C', 'EG1108,CG1108');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE3501C', 'EE2022');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4434', 'EE2020');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE4434', 'EE2021');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ESP2110', 'ESP1104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ESP2110', 'ESP1107');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3117', 'FNA2004,FIN2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3117', 'FNA3102,FIN3102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3130', 'ACC1002');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3130', 'FIN2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3130', 'FIN3102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN4112G', 'FIN3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN4112G', 'FIN3102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN4112G', 'FIN3103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN4112H', 'FIN3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN4112H', 'FIN3102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN4112H', 'FIN3103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ID2106', 'ID1105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ID2106', 'ID1106');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ID3106', 'ID2105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ID3106 ID2106', '');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3230', 'IS1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3230', 'IS1105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3230', 'CS2105,IS1112');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM2102', 'LSM1101,LSM1401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM2102', 'LSM1102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3241', 'LSM2102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3241', 'LSM2104,LSM2241');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3242', 'LSM3232');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3242', 'LSM2101,LSM2102,LSM2103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM3242', 'LSM3232');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA2213', 'MA1102R,MA1312,MA1507,MA1505,MA1521,EG1402,EE1401,EE1461');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA2213', 'MA1101R,MA1311,MA1508,MA1506');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3111', 'MA1104,MA1507');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3111', 'MA3110,MA3110S');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3201', 'MA2202,MA2202S');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3201', 'MA2101,MA2101S');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3215', 'MA1104,MA1104S,MA2221,MA1507,MA1505,MA2311');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3215', 'MA1101R,MA1311,MA1506,MA1508');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3227', 'MA2213');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3227', 'MA1104,MA1506,MA1507,MA1505,MA2311');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3227', 'MA2101,MA2101S');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3227', 'MA2216,ST2131,ST2334');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3238', 'ST3236,MA1101,MA1101R,MA1311,MA1508,GM1302');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3238', 'ST3236,MA2216,ST2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3266', 'MA1101R,MA1506,MA1508');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3266', 'MA1104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA3266', 'MA3220');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA4229', 'MA2101,MA2101S');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA4229', 'MA3110,MA3110S');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA4263', 'MA2202,MA2202S');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA4263', 'MA3111,MA3111S');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA4269', 'MA1104,MA1506,MA1507');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA4269', 'MA3269');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA5206', 'MA4211');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA5206', 'MA4262,MA5205');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA5248', 'MA4262');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MA5248', 'MA3245,MA4269');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT3513', 'MKT1003,TR2201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MKT3513', 'BSP1005');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC5206', 'PC4130,PC4201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC5206', 'PC5201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL5222R', 'PL2101Y,PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL5222R', 'PL2102Y,PL2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR2105', 'A_level_Chemistry');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR2105', 'A_level_Biology');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR2105', 'LSM1301,LSM1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3117', 'FNA2004,FIN2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN3117', 'FNA3102,FIN3102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR3105', 'PX3108');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR3105 PP2107', 'PA2107');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR4206', 'PR2103 PR4206');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PR4206', '(PR3102,PR3301)');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('QF3101', '(MA1104,MA1505,MA1507)');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('QF3101', '(MA2222,QF2101,MA3269)');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST3247', 'ST2131,ST2334,MA2216');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ST3247', 'CS1010,CS1010E,CS1010S,CS1010FC,CG1101,IT1002,IT1006');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('TE3801', 'EE2005E,EE2021E & TE2003');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3615', 'FNA3111,ACC3601');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ACC3615', 'FNA3123,ACC3606');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('AR3721', 'AR1731');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('AR3721', 'AR1326,');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('AR3721', 'AR2326');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('AR3721', 'AR2723');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BLD3004', 'MNO1001');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BLD3004', 'MNO2007');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('BN3501', 'MA1506,PC1432,CN2122,ME2134,BN2202');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CE3155', 'EG1109FC,EG1109');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3291', 'CM2111,');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3291', 'CM2121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3291', 'CM2102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3292', 'CM2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3292', 'CM2142');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3292', 'CM2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3296', 'CM2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CM3296', 'CM2167');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN1111', 'H2_Mathematics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN1111', 'H2_Chemistry');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN1111', 'H2_Physics,PC1221');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2108', 'CN2121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2108', 'CN2122');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2108', 'LSM1401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2116', 'CN111FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2116', 'CN1111');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2116', 'CN2125');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2121', 'CN1111FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2121', 'CM1502');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2121', 'CN1111');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2122', 'MA1505');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2122', 'MA1506');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3108', 'CN2108');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3108', 'CN2116');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3108', 'CN2125');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3108', 'CN3124');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3109', 'CN3121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3109', 'CN3132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3132', 'CN1111FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3132', 'CN1111');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3132', 'CN2125');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3135', 'CN2121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3135', 'CN2122');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3421', 'CN1111FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3421', 'MA1505');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3421', 'MA1506');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN3421', 'CN1111');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4121', 'CN2116');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4121', 'CN3124');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4121', 'CN3132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4121', 'CN3135');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4121', 'CN3421');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4121', 'EG2401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4122', 'CN2116');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4122', 'CN2121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4122', 'CN3124');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4122', 'CN3132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4123E', 'CN3135E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4123E', 'CN3421E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4123E', 'CN4122E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4123E', 'TG2415');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4201R', 'CM1501');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4201R', 'CN2116');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4201R', 'CN3132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4238R', 'CN1111FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4238R', 'CN1111');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4238R', 'CN3421');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4240R', 'LSM1401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN4240R', 'CN2116');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3242', 'CS3241');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3242', 'PC1221');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3242', 'MA1521');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS3242', 'MA1101R');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5231', 'CS1231');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5231', 'CS2105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CS5231', 'CS2106');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE1003', 'A_level_Mathematics,');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EE1003', 'A_level_Physics');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EG2401', 'ES1501A');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EG2401', 'ES1501B');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EG2401', 'ES1501C');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EG2401', 'EG1413,ES1531');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EL3258', 'EL1101E,GEK1011');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('EL3258', 'EL2251');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ESE4407', 'ESE3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ESE4407', 'ESE3201');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ESE4407', 'ESE3401');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN4116', 'FIN2004');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('FIN4116', 'FIN3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IE2130', 'MA1505,MA1506  SA1101,ST1131,ST1131A,ST1232,ST2334.');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IE3100R', 'IE2100');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IE3100R', 'IE2110');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IE3100R', 'IE2140');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IE3100R', 'IE2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IE4220', 'IE2100');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IE4220', 'IE2110');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IE4230', 'IE2130');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IE4230', 'IE3101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LAC3204', 'O_Level_Chinese,AO_Level_Chinese');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('LSM4255', 'A_Level_Mathematics,H2_Mathematics,,MA1301,MA1301FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME2143', 'EG1108');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME2143', 'PC1431');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME2143', 'PC1431FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME3291', 'MA1505');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME3291', 'MA1506');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME4262', 'ME2162');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('ME4262', 'ME3162');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE2104', 'EG1109FC,MLE1101,MLE2101,EG1109');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUT3205', 'MUT1121');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUT3205', 'MUT1122');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MUT3205', 'MUT3XXX');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR4104', 'NUR4101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR4104', 'NUR4102');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('NUR4104', 'NUR4103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC2230', 'PC1142,PC1144,PC1431 PC1431FC,PC1433');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC2230', 'MA1505,MA1507');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3238', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3238', 'PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3238', 'PL2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3238', 'PL3235');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3249', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3249', 'PL3232');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3249', 'PL3233');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3256', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3256', 'PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3256', 'PL2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3256', 'PL3234');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3281D', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3281D', 'PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3281D', 'PL2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3281D', 'PL3233');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3282', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3282', 'PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3282', 'PL2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3282', 'PL3235');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3282C', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3282C', 'PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3282C', 'PL2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3282C', 'PL3235');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3284', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3284', 'PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3284', 'PL2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3285', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3285', 'PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3285', 'PL2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3285', 'PL3232');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3286', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3286', 'PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3286', 'PL2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3286', 'PL3242');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3288', 'PL1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3288', 'PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3288', 'PL2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3288', 'PL3232');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL3288', 'PL3233');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL5225R', 'PL2101Y,PL2131');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL5225R', 'PL2102Y,PL2132');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PL5225R', 'PL5221');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PS3258', 'PS2102B,PS2102,PS3257');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('SW3103A', 'SW1101E');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('SW3103A', 'SW2101');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('SW3103A', 'SW2104');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('SW3103A', 'SW2105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2116', 'CN111FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2116', 'CN1111');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2116', 'CN2125');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2121', 'CN1111FC');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2121', 'CM1502');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2121', 'CN1111');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2122', 'MA1505');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('CN2121', 'MA1506');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS2150', 'CS1020,CS1102,CS1102S');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS2150', 'IS1112');
+
