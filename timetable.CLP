@@ -3,6 +3,10 @@
   (slot current-sem)
   (slot current-mc)
   (slot current-stage))
+  
+(defclass SINGLESEM
+  (is-a USER)
+  (slot moduleid))
 
 (defclass CURRENTSELECTION
   (is-a USER)
@@ -14,16 +18,16 @@
   (slot exam-date)
   (slot exam-time))
 
-(defclass TIMETABLE-CANDIDATE 
+(defclass TIMETABLECANDIDATE 
   (is-a USER)
   (slot moduleid))
 
 (definstances INITIALISEDATA
   (currentdata of CURRENTDATA (current-mc 0) (current-stage 1)))
 
-; timetable planning 1 - single sem limitation;
+; timetable planning 1 - single sem limitation ;
 
-(defrule timetable-planning-1
+(defrule timetable-planning-one
 ?candidate <- (object (is-a CANDIDATEMODULE) (moduleid ?id))
 ?single-sem <- (object (is-a SINGLESEM) (moduleid ?id))
 ?module <- (object (is-a MODULE) (moduleid ?id) (MC ?mod-mc))
@@ -31,46 +35,46 @@
 =>
 (if
 ; make sure no unmet prereqs ;
-  (not 
-    (any-instancep 
-      ((?preq MODULEPREQ))
-      ((not 
-        (any-instancep
-          ((?taken MODULETAKEN))
-          (
-            (= ?preq:modulepreq ?taken:moduleid) 
-            (= ?preq:moduleid ?candidate:moduleid)))))))
+  (and 
+    (not 
+      (any-instancep 
+        ((?preq MODULEPREQ))
+        (not 
+          (any-instancep
+            ((?taken MODULETAKEN))
+            (and 
+              (= ?preq:modulepreq ?taken:moduleid) 
+              (= ?preq:moduleid ?id))))))
 ; make sure no clashing schedule ;
-  (not
-    (any-instancep
-      ((?othermod CURRENTSELECTION)(?time1 MODULETIME)(?time2 MODULETIME))
-      (
-        (= ?candidate:moduleid ?time1:moduleid)
-        (= ?othermod:moduleid ?time2:moduleid)
-        (neq ?candidate:moduleid ?othermod:moduleid)
-        (= ?currentdata:current-sem ?time1:semester)
-        (= ?time1:semester ?time2:semester)
-        (= ?time1:day ?time2:day)
-        (or 
-          (and 
-            (< ?time1:starttime ?time2:starttime)
-            (< ?time2:starttime ?time1:endtime))
-          (and
-            (< ?time2:starttime ?time1:starttime)
-            (< ?time1:starttime ?time2:endtime))))))
-          
+    (not
+      (any-instancep
+        ((?othermod CURRENTSELECTION)(?time1 MODULETIME)(?time2 MODULETIME))
+        (and 
+          (= ?id ?time1:moduleid)
+          (= ?othermod:moduleid ?time2:moduleid)
+          (neq ?id ?othermod:moduleid)
+          (= ?sem ?time1:semester)
+          (= ?time1:semester ?time2:semester)
+          (= ?time1:day ?time2:day)
+          (or 
+            (and 
+              (< ?time1:starttime ?time2:starttime)
+              (< ?time2:starttime ?time1:endtime))
+            (and
+              (< ?time2:starttime ?time1:starttime)
+              (< ?time1:starttime ?time2:endtime))))))  
 ; make sure no clashing exam ;
-  (not
-    (any-instancep
-      ((?exammod CURRENTSELECTION)(?exam1 EXAM)(?exam2 EXAM))
-      (
-        (= ?candidate:moduleid ?exam1:moduleid)
-        (= ?exammod:moduleid ?exam2:moduleid)
-        (neq ?candidate:moduleid ?exammod:moduleid)
-        (= ?exam1:exam-date ?exam2:exam-date)
-        (= ?exam1:exam-time ?exam2:exam-time))))
+    (not
+      (any-instancep
+        ((?exammod CURRENTSELECTION)(?exam1 EXAM)(?exam2 EXAM))
+        (and 
+          (= ?id ?exam1:moduleid)
+          (= ?exammod:moduleid ?exam2:moduleid)
+          (neq ?id ?exammod:moduleid)
+          (= ?exam1:exam-date ?exam2:exam-date)
+          (= ?exam1:exam-time ?exam2:exam-time))))
 ; make sure not over mc limit of 20;
-  (<= 20 (+ ?mc ?mod-mc))
+    (<= 20 (+ ?mc ?mod-mc)))
 ; if all satisfied add mod to selection ;
 then 
   (send [currentdata] put-current-mc (+ ?mc ?mod-mc))
@@ -79,70 +83,71 @@ then
   
 ; transition from stage 1 to 2 ;
 
-(defrule stage1to2
+(defrule stage-one-to-two
 ?currentdata <-(object (is-a CURRENTDATA)(current-stage 1))
 =>
 (send [currentdata] put-stage 2))
 
 
-; timetable planning 2 - no single sem limitation;
+; timetable planning 2 - no single sem limitation ;
 
-(defrule timetable-planning-2
+(defrule timetable-planning-two
 ?candidate <- (object (is-a CANDIDATEMODULE) (moduleid ?id))
 ?module <- (object (is-a MODULE) (moduleid ?id) (MC ?mod-mc))
-?currentdata <-(object (is-a CURRENTDATA) (current-sem ?sem)(current-mc ?mc)(current-stage 2))
+?currentdata <-(object (is-a CURRENTDATA) (current-sem ?sem)(current-mc ?mc)(current-stage 1))
 =>
 (if
 ; make sure no unmet prereqs ;
-  (not 
-    (any-instancep 
-      ((?preq MODULEPREQ))
-      ((not 
-        (any-instancep
-          ((?taken MODULETAKEN))
-          (
-            (= ?preq:modulepreq ?taken:moduleid) 
-            (= ?preq:moduleid ?candidate:moduleid)))))))
+  (and 
+    (not 
+      (any-instancep 
+        ((?preq MODULEPREQ))
+        (not 
+          (any-instancep
+            ((?taken MODULETAKEN))
+            (and 
+              (= ?preq:modulepreq ?taken:moduleid) 
+              (= ?preq:moduleid ?id))))))
 ; make sure no clashing schedule ;
-  (not
-    (any-instancep
-      ((?othermod CURRENTSELECTION)(?time1 MODULETIME)(?time2 MODULETIME))
-      (
-        (= ?candidate:moduleid ?time1:moduleid)
-        (= ?othermod:moduleid ?time2:moduleid)
-        (neq ?candidate:moduleid ?othermod:moduleid)
-        (= ?currentdata:current-sem ?time1:semester)
-        (= ?time1:semester ?time2:semester)
-        (= ?time1:day ?time2:day)
-        (or 
-          (and 
-            (< ?time1:starttime ?time2:starttime)
-            (< ?time2:starttime ?time1:endtime))
-          (and
-            (< ?time2:starttime ?time1:starttime)
-            (< ?time1:starttime ?time2:endtime))))))
-          
+    (not
+      (any-instancep
+        ((?othermod CURRENTSELECTION)(?time1 MODULETIME)(?time2 MODULETIME))
+        (and 
+          (= ?id ?time1:moduleid)
+          (= ?othermod:moduleid ?time2:moduleid)
+          (neq ?id ?othermod:moduleid)
+          (= ?sem ?time1:semester)
+          (= ?time1:semester ?time2:semester)
+          (= ?time1:day ?time2:day)
+          (or 
+            (and 
+              (< ?time1:starttime ?time2:starttime)
+              (< ?time2:starttime ?time1:endtime))
+            (and
+              (< ?time2:starttime ?time1:starttime)
+              (< ?time1:starttime ?time2:endtime))))))  
 ; make sure no clashing exam ;
-  (not
-    (any-instancep
-      ((?exammod CURRENTSELECTION)(?exam1 EXAM)(?exam2 EXAM))
-      (
-        (= ?candidate:moduleid ?exam1:moduleid)
-        (= ?exammod:moduleid ?exam2:moduleid)
-        (neq ?candidate:moduleid ?exammod:moduleid)
-        (= ?exam1:exam-date ?exam2:exam-date)
-        (= ?exam1:exam-time ?exam2:exam-time))))
+    (not
+      (any-instancep
+        ((?exammod CURRENTSELECTION)(?exam1 EXAM)(?exam2 EXAM))
+        (and 
+          (= ?id ?exam1:moduleid)
+          (= ?exammod:moduleid ?exam2:moduleid)
+          (neq ?id ?exammod:moduleid)
+          (= ?exam1:exam-date ?exam2:exam-date)
+          (= ?exam1:exam-time ?exam2:exam-time))))
 ; make sure not over mc limit of 20;
-  (<= 20 (+ ?mc ?mod-mc))
+    (<= 20 (+ ?mc ?mod-mc)))
 ; if all satisfied add mod to selection ;
 then 
   (send [currentdata] put-current-mc (+ ?mc ?mod-mc))
   (make-instance [?id] of CURRENTSELECTION (moduleid ?id))
   (unmake-instance [?id] of CANDIDATEMODULE)))
 
+
 ; transition from stage 2 to 3 ;
 
-(defrule stage2to3
+(defrule stage-two-to-three
 ?currentdata <-(object (is-a CURRENTDATA)(current-stage 2))
 =>
 (send [currentdata] put-stage 3))
@@ -158,7 +163,7 @@ then
 
 ; transition from stage 3 to 4 ;
 
-(defrule stage3to4
+(defrule stage-three-to-four
 ?currentdata <-(object (is-a CURRENTDATA)(current-stage 3))
 =>
 (send [currentdata] put-stage 4))
@@ -169,12 +174,12 @@ then
 (defrule remove-clash-examdate
 ?candidate <- (object (is-a TIMETABLECANDIDATE) (moduleid ?candidate-id))
 ?selected <- (object (is-a CURRENTSELECTION) (moduleid ?selected-id))
-?exam1 <- (object (is-a EXAM) (moduleid ?candidate-id) (exam-day ?day)(exam-time ?time))
-?exam2 <- (object (is-a EXAM) (moduleid ?selected-id) (exam-day ?day)(exam-time ?time))
+?exam1 <- (object (is-a EXAM) (moduleid ?candidate-id) (exam-date ?date)(exam-time ?time))
+?exam2 <- (object (is-a EXAM) (moduleid ?selected-id) (exam-date ?date)(exam-time ?time))
 ?currentdata <- (object (is-a CURRENTDATA) (current-stage 4))
 =>
 (make-instance [?selected-id] of CANDIDATEMODULE (moduleid ?selected-id))
-(unmake-instance [?selected])
+(unmake-instance [?selected] of CURRENTSELECTION)
 (send [currentdata] put-current-stage 2))
 
 
@@ -186,18 +191,18 @@ then
 ?time2 <- (object (is-a MODULETIME)(moduleid ?selected-id) (day ?mod-day)(semester ?sem)(starttime ?start2)(endtime ?end2))
 (test 
   (or 
-    (and (?start1 < ?start2)
-         (?start2 < ?end1))
-    (and (?start2 < ?start1)
-         (?start1 < !end2))))
+    (and (< ?start1 ?start2)
+         (< ?start2 ?end1))
+    (and (< ?start2 ?start1)
+         (< ?start1 ?end2))))
 =>
-(make-instance [?selected-id] of CANDIDATEMODULE (moduleid ?selectedid))
-(unmake-instance [?selected])
+(make-instance [?selected-id] of CANDIDATEMODULE (moduleid ?selected-id))
+(unmake-instance [?selected] of CURRENTSELECTION)
 (send [currentdata] put-current-stage 2))
 
 ; transition from stage 4 to 5 ;
 
-(defrule stage4to5
+(defrule stage-four-to-five
 ?currentdata <-(object (is-a CURRENTDATA)(current-stage 4))
 =>
 (send [currentdata] put-stage 5))
@@ -208,16 +213,14 @@ then
 (defrule remove-lowest-scoring-candidate
 ?currentdata <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-mc ?mc) (current-stage 5))
 ?candidate <- (object (is-a CANDIDATEMODULE) (moduleid ?selected-id) (moduletagtotalscore ?selected-score))
-?module <- (object (is-a MODULE) (moduleid ?selected-id) (mc ?selected-mc))
+?module <- (object (is-a MODULE) (moduleid ?selected-id) (MC ?selected-mc))
 (test 
   (not 
     (any-instancep
-      ((?othercandidate CANDIDATEMODULE)(?othermodule MODULE))
-      (
-        (= ?othercandidate:moduleid ?othermodule:moduleid)
-        (< ?othermodule:moduletagtotalscore ?module:moduletagtotalscore)))))
+      ((?othercandidate CANDIDATEMODULE))
+      (< ?othercandidate:moduletagtotalscore ?selected-score))))
 =>
 (send [currentdata] put-current-mc (- ?mc ?selected-mc))
 (send [currentdata] put-current-stage 1)
-(unmake-instance [?selected-id]))
+(unmake-instance [?candidate] of CANDIDATEMODULE))
 
