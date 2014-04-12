@@ -25,7 +25,7 @@
            (MODULETAKEN (moduleid ?preq))))
 ; make sure no clashing schedule
     (not 
-      (not
+      (exists
         (CURRENTDATA (current-sem ?sem))
         (CURRENTSELECTION (moduleid ?othermod))
         (MODULETIME 
@@ -47,7 +47,7 @@
                (?start1 < !end2)))))
 ; make sure no clashing exam
     (not
-      (not
+      (exists
         (CURRENTSELECTION (moduleid ?exammod))
         (EXAM (moduleid ?exammod) (exam-time ?time))
         (EXAM (moduleid ?id) (exam-time ?time))))
@@ -73,7 +73,7 @@
            (MODULETAKEN (moduleid ?preq))))
 ; make sure no clashing schedule
     (not 
-      (not
+      (exists
         (CURRENTDATA (current-sem ?sem))
         (CURRENTSELECTION (moduleid ?othermod))
         (MODULETIME 
@@ -95,7 +95,7 @@
                (?start1 < !end2)))))
 ; make sure no clashing exam
     (not
-      (not
+      (exists
         (CURRENTSELECTION (moduleid ?exammod))
         (EXAM (moduleid ?exammod) (exam-time ?time))
         (EXAM (moduleid ?id) (exam-time ?time))))
