@@ -1,7 +1,7 @@
 (defclass CURRENTDATA
   (is-a USER)
   (slot current-sem)
-  (slot mc))
+  (slot current-mc))
 
 (defclass CURRENTSELECTION
   (is-a USER)
@@ -10,7 +10,12 @@
 (defclass EXAM
   (is-a USER)
   (slot moduleid)
+  (slot exam-day)
   (slot exam-time))
+
+(defclass TIMETABLE-CANDIDATE 
+  (is-a USER)
+  (slot moduleid))
 
 (defrule timetable-planning-1
 (CANDIDATEMODULE (moduleid ?id))
@@ -49,20 +54,21 @@
     (not
       (exists
         (CURRENTSELECTION (moduleid ?exammod))
-        (EXAM (moduleid ?exammod) (exam-time ?time))
-        (EXAM (moduleid ?id) (exam-time ?time))))
+        (EXAM (moduleid ?exammod) (exam-day ?day)(exam-time ?time))
+        (EXAM (moduleid ?id) (exam-day ?day)(exam-time ?time))))
 ; make sure not over mc limit
-    (CURRENTMC (mc ?current-mc))
-    (< 19 (+ ?mod-mc ?current-mc)))
+    (CURRENTDATA (current-mc ?mc))
+    (< 19 (+ ?mod-mc ?mc)))
 ; if all satisfied add mod to selection
   then 
     (assert (CURRENTSELECTION (moduleid ?id)))
-    (retract (CURRENTMC (mc ?current-mc)))
-    (assert (CURRENTMC (mc (+ ?mod-mc ?current-mc))))))
+    (retract (CURRENTDATA (current-sem ?sem)(current-mc ?mc)))
+    (assert (CURRENTDATA (current-sem ?sem)(current-mc (+ ?mod-mc ?mc))))))
 
 
 (defrule timetable-planning-2
 (CANDIDATEMODULE (moduleid ?id))
+(SINGLESEM (moduleid ?id))
 (MODULE (moduleid ?id) (MC ?mod-mc))
 =>
 (if
@@ -97,15 +103,19 @@
     (not
       (exists
         (CURRENTSELECTION (moduleid ?exammod))
-        (EXAM (moduleid ?exammod) (exam-time ?time))
-        (EXAM (moduleid ?id) (exam-time ?time))))
+        (EXAM (moduleid ?exammod) (exam-day ?day)(exam-time ?time))
+        (EXAM (moduleid ?id) (exam-day ?day)(exam-time ?time))))
 ; make sure not over mc limit
-    (CURRENTMC (mc ?current-mc))
-    (< 19 (+ ?mod-mc ?current-mc)))
+    (CURRENTDATA (current-mc ?mc))
+    (< 19 (+ ?mod-mc ?mc)))
 ; if all satisfied add mod to selection
   then 
     (assert (CURRENTSELECTION (moduleid ?id)))
-    (retract (CURRENTMC (mc ?current-mc)))
-    (assert (CURRENTMC (mc (+ ?mod-mc ?current-mc))))))
+    (retract (CURRENTDATA (current-sem ?sem)(current-mc ?mc)))
+    (assert (CURRENTDATA (current-sem ?sem)(current-mc (+ ?mod-mc ?mc))))))
 
+(defrule candidate-to-timetable-candidate
+(CANDIDATEMODULE (moduleid ?id))
+=>
+(assert (TIMETABLECANDIDATE (moduleid ?id))))
 
