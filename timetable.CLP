@@ -1,7 +1,8 @@
 (defclass CURRENTDATA
   (is-a USER)
   (slot current-sem)
-  (slot current-mc))
+  (slot current-mc)
+  (slot current-stage))
 
 (defclass CURRENTSELECTION
   (is-a USER)
@@ -17,144 +18,206 @@
   (is-a USER)
   (slot moduleid))
 
+(definstances INITIALISEDATA
+  (currentdata of CURRENTDATA (current-mc 0) (current-stage 1)))
+
+; timetable planning 1 - single sem limitation;
+
 (defrule timetable-planning-1
-(CANDIDATEMODULE (moduleid ?id))
-(SINGLESEM (moduleid ?id))
-(MODULE (moduleid ?id) (MC ?mod-mc))
+?candidate <- (object (is-a CANDIDATEMODULE) (moduleid ?id))
+?single-sem <- (object (is-a SINGLESEM) (moduleid ?id))
+?module <- (object (is-a MODULE) (moduleid ?id) (MC ?mod-mc))
+?currentdata <-(object (is-a CURRENTDATA) (current-sem ?sem)(current-mc ?mc)(current-stage 1))
 =>
 (if
-  (and 
-; make sure no unmet prereqs
-    (not 
-      (not (MODULEPREQ (moduleid ?id) (modulepreq ?preq))
-           (MODULETAKEN (moduleid ?preq))))
-; make sure no clashing schedule
-    (not 
-      (CURRENTDATA (current-sem ?sem))
-      (CURRENTSELECTION (moduleid ?othermod))
-      (MODULETIME 
-        (moduleid ?id) 
-        (day ?mod-day)
-        (semester ?sem)
-        (starttime ?start1)
-        (endtime ?end2))
-      (MODULETIME 
-        (moduleid ?othermod) 
-        (day ?mod-day)
-        (semester ?sem)
-        (starttime ?start2)
-        (endtime ?end2))
-      (or 
-        (and (?start1 < ?start2)
-             (?start2 < ?end1))
-        (and (?start2 < ?start1)
-             (?start1 < !end2)))))
-; make sure no clashing exam
-    (not
-      (CURRENTSELECTION (moduleid ?exammod))
-      (EXAM (moduleid ?exammod) (exam-date ?date)(exam-time ?time))
-      (EXAM (moduleid ?id) (exam-date ?date)(exam-time ?time))))
-; make sure not over mc limit
-    (CURRENTDATA (current-mc ?mc))
-    (< 19 (+ ?mod-mc ?mc)))
-; if all satisfied add mod to selection
-  then 
-    (assert (CURRENTSELECTION (moduleid ?id)))
-    (retract (CURRENTDATA (current-sem ?sem)(current-mc ?mc)))
-    (assert (CURRENTDATA (current-sem ?sem)(current-mc (+ ?mod-mc ?mc))))))
+; make sure no unmet prereqs ;
+  (not 
+    (any-instancep 
+      ((?preq MODULEPREQ))
+      ((not 
+        (any-instancep
+          ((?taken MODULETAKEN))
+          (
+            (= ?preq:modulepreq ?taken:moduleid) 
+            (= ?preq:moduleid ?candidate:moduleid)))))))
+; make sure no clashing schedule ;
+  (not
+    (any-instancep
+      ((?othermod CURRENTSELECTION)(?time1 MODULETIME)(?time2 MODULETIME))
+      (
+        (= ?candidate:moduleid ?time1:moduleid)
+        (= ?othermod:moduleid ?time2:moduleid)
+        (neq ?candidate:moduleid ?othermod:moduleid)
+        (= ?currentdata:current-sem ?time1:semester)
+        (= ?time1:semester ?time2:semester)
+        (= ?time1:day ?time2:day)
+        (or 
+          (and 
+            (< ?time1:starttime ?time2:starttime)
+            (< ?time2:starttime ?time1:endtime))
+          (and
+            (< ?time2:starttime ?time1:starttime)
+            (< ?time1:starttime ?time2:endtime))))))
+          
+; make sure no clashing exam ;
+  (not
+    (any-instancep
+      ((?exammod CURRENTSELECTION)(?exam1 EXAM)(?exam2 EXAM))
+      (
+        (= ?candidate:moduleid ?exam1:moduleid)
+        (= ?exammod:moduleid ?exam2:moduleid)
+        (neq ?candidate:moduleid ?exammod:moduleid)
+        (= ?exam1:exam-date ?exam2:exam-date)
+        (= ?exam1:exam-time ?exam2:exam-time))))
+; make sure not over mc limit of 20;
+  (<= 20 (+ ?mc ?mod-mc))
+; if all satisfied add mod to selection ;
+then 
+  (send [currentdata] put-current-mc (+ ?mc ?mod-mc))
+  (make-instance [?id] of CURRENTSELECTION (moduleid ?id))
+  (unmake-instance [?id] of CANDIDATEMODULE)))
+  
+; transition from stage 1 to 2 ;
 
+(defrule stage1to2
+?currentdata <-(object (is-a CURRENTDATA)(current-stage 1))
+=>
+(send [currentdata] put-stage 2))
+
+
+; timetable planning 2 - no single sem limitation;
 
 (defrule timetable-planning-2
-(CANDIDATEMODULE (moduleid ?id))
-(SINGLESEM (moduleid ?id))
-(MODULE (moduleid ?id) (MC ?mod-mc))
+?candidate <- (object (is-a CANDIDATEMODULE) (moduleid ?id))
+?module <- (object (is-a MODULE) (moduleid ?id) (MC ?mod-mc))
+?currentdata <-(object (is-a CURRENTDATA) (current-sem ?sem)(current-mc ?mc)(current-stage 2))
 =>
 (if
-  (and 
-; make sure no unmet prereqs
-    (not 
-      (not (MODULEPREQ (moduleid ?id) (modulepreq ?preq))
-           (MODULETAKEN (moduleid ?preq))))
-; make sure no clashing schedule
-    (not 
-      (CURRENTDATA (current-sem ?sem))
-      (CURRENTSELECTION (moduleid ?othermod))
-      (MODULETIME 
-        (moduleid ?id) 
-        (day ?mod-day)
-        (semester ?sem)
-        (starttime ?start1)
-        (endtime ?end2))
-      (MODULETIME 
-        (moduleid ?othermod) 
-        (day ?mod-day)
-        (semester ?sem)
-        (starttime ?start2)
-        (endtime ?end2))
-      (or 
-        (and (?start1 < ?start2)
-             (?start2 < ?end1))
-        (and (?start2 < ?start1)
-             (?start1 < !end2)))))
-; make sure no clashing exam
-    (not
-      (CURRENTSELECTION (moduleid ?exammod))
-      (EXAM (moduleid ?exammod) (exam-date ?date)(exam-time ?time))
-      (EXAM (moduleid ?id) (exam-date ?date)(exam-time ?time))))
-; make sure not over mc limit
-    (CURRENTDATA (current-mc ?mc))
-    (< 19 (+ ?mod-mc ?mc)))
-; if all satisfied add mod to selection
-  then 
-    (assert (CURRENTSELECTION (moduleid ?id)))
-    (retract (CURRENTDATA (current-sem ?sem)(current-mc ?mc)))
-    (assert (CURRENTDATA (current-sem ?sem)(current-mc (+ ?mod-mc ?mc))))))
+; make sure no unmet prereqs ;
+  (not 
+    (any-instancep 
+      ((?preq MODULEPREQ))
+      ((not 
+        (any-instancep
+          ((?taken MODULETAKEN))
+          (
+            (= ?preq:modulepreq ?taken:moduleid) 
+            (= ?preq:moduleid ?candidate:moduleid)))))))
+; make sure no clashing schedule ;
+  (not
+    (any-instancep
+      ((?othermod CURRENTSELECTION)(?time1 MODULETIME)(?time2 MODULETIME))
+      (
+        (= ?candidate:moduleid ?time1:moduleid)
+        (= ?othermod:moduleid ?time2:moduleid)
+        (neq ?candidate:moduleid ?othermod:moduleid)
+        (= ?currentdata:current-sem ?time1:semester)
+        (= ?time1:semester ?time2:semester)
+        (= ?time1:day ?time2:day)
+        (or 
+          (and 
+            (< ?time1:starttime ?time2:starttime)
+            (< ?time2:starttime ?time1:endtime))
+          (and
+            (< ?time2:starttime ?time1:starttime)
+            (< ?time1:starttime ?time2:endtime))))))
+          
+; make sure no clashing exam ;
+  (not
+    (any-instancep
+      ((?exammod CURRENTSELECTION)(?exam1 EXAM)(?exam2 EXAM))
+      (
+        (= ?candidate:moduleid ?exam1:moduleid)
+        (= ?exammod:moduleid ?exam2:moduleid)
+        (neq ?candidate:moduleid ?exammod:moduleid)
+        (= ?exam1:exam-date ?exam2:exam-date)
+        (= ?exam1:exam-time ?exam2:exam-time))))
+; make sure not over mc limit of 20;
+  (<= 20 (+ ?mc ?mod-mc))
+; if all satisfied add mod to selection ;
+then 
+  (send [currentdata] put-current-mc (+ ?mc ?mod-mc))
+  (make-instance [?id] of CURRENTSELECTION (moduleid ?id))
+  (unmake-instance [?id] of CANDIDATEMODULE)))
+
+; transition from stage 2 to 3 ;
+
+(defrule stage2to3
+?currentdata <-(object (is-a CURRENTDATA)(current-stage 2))
+=>
+(send [currentdata] put-stage 3))
+
+
+; timetable planning 3 - converting candidate to timetable-candidate ;
 
 (defrule candidate-to-timetable-candidate
-(CANDIDATEMODULE (moduleid ?id))
+?candidate <- (object (is-a CANDIDATEMODULE) (moduleid ?id))
+?currentdata <- (object (is-a CURRENTDATA) (current-stage 3))
 =>
-(assert (TIMETABLECANDIDATE (moduleid ?id))))
+(make-instance [?id] of TIMETABLECANDIDATE (moduleid ?id)))
+
+; transition from stage 3 to 4 ;
+
+(defrule stage3to4
+?currentdata <-(object (is-a CURRENTDATA)(current-stage 3))
+=>
+(send [currentdata] put-stage 4))
+
+
+; timetable planning 4 - remove clashing modules from selection ;
 
 (defrule remove-clash-examdate
-(TIMETABLECANDIDATE (moduleid ?candidate-id))
-(CURRENTSELECTION (moduleid ?selected-id))
-(EXAM (moduleid ?candidate-id) (exam-day ?day)(exam-time ?time))
-(EXAM (moduleid ?selected-id) (exam-day ?day)(exam-time ?time))
+?candidate <- (object (is-a TIMETABLECANDIDATE) (moduleid ?candidate-id))
+?selected <- (object (is-a CURRENTSELECTION) (moduleid ?selected-id))
+?exam1 <- (object (is-a EXAM) (moduleid ?candidate-id) (exam-day ?day)(exam-time ?time))
+?exam2 <- (object (is-a EXAM) (moduleid ?selected-id) (exam-day ?day)(exam-time ?time))
+?currentdata <- (object (is-a CURRENTDATA) (current-stage 4))
 =>
-(retract (CURRENTSELECTION (moduleid ?selected-id)))
-(assert (CANDIDATEMODULE (moduleid ?selected-id))))
+(make-instance [?selected-id] of CANDIDATEMODULE (moduleid ?selected-id))
+(unmake-instance [?selected])
+(send [currentdata] put-current-stage 2))
+
 
 (defrule remove-clash-moduleschedule
-(TIMETABLECANDIDATE (moduleid ?candidate-id))
-(CURRENTSELECTION (moduleid ?selected-id))
-(CURRENTDATA (current-sem ?sem))
-(MODULETIME 
-  (moduleid ?candidate-id) 
-  (day ?mod-day)
-  (semester ?sem)
-  (starttime ?start1)
-  (endtime ?end2))
-(MODULETIME 
-  (moduleid ?selected-id) 
-  (day ?mod-day)
-  (semester ?sem)
-  (starttime ?start2)
-  (endtime ?end2))
-(or 
-  (and (?start1 < ?start2)
-       (?start2 < ?end1))
-  (and (?start2 < ?start1)
-       (?start1 < !end2)))
+?candidate <- (object (is-a TIMETABLECANDIDATE) (moduleid ?candidate-id))
+?selected <- (object (is-a CURRENTSELECTION) (moduleid ?selected-id))
+?currentdata <- (object (is-a CURRENTDATA) (current-sem ?sem)(current-stage 4))
+?time1 <- (object (is-a MODULETIME)(moduleid ?candidate-id) (day ?mod-day)(semester ?sem)(starttime ?start1)(endtime ?end1))
+?time2 <- (object (is-a MODULETIME)(moduleid ?selected-id) (day ?mod-day)(semester ?sem)(starttime ?start2)(endtime ?end2))
+(test 
+  (or 
+    (and (?start1 < ?start2)
+         (?start2 < ?end1))
+    (and (?start2 < ?start1)
+         (?start1 < !end2))))
 =>
-(retract (CURRENTSELECTION (moduleid ?selected-id)))
-(assert (CANDIDATEMODULE (moduleid ?selected-id))))
+(make-instance [?selected-id] of CANDIDATEMODULE (moduleid ?selectedid))
+(unmake-instance [?selected])
+(send [currentdata] put-current-stage 2))
+
+; transition from stage 4 to 5 ;
+
+(defrule stage4to5
+?currentdata <-(object (is-a CURRENTDATA)(current-stage 4))
+=>
+(send [currentdata] put-stage 5))
+
+
+; timetable planning 5 - remove lowest scoring candidate ;
 
 (defrule remove-lowest-scoring-candidate
-(CANDIDATEMODULE (moduleid ?selected-id) (moduletagtotalscore ?selected-score)
-(not 
-  (CANDIDATEMODULE 
-    (moduleid ?another-id) 
-    (moduletagtotalscore ?another-score&:(< ?another-score ?selected-score))))
+?currentdata <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-mc ?mc) (current-stage 5))
+?candidate <- (object (is-a CANDIDATEMODULE) (moduleid ?selected-id) (moduletagtotalscore ?selected-score))
+?module <- (object (is-a MODULE) (moduleid ?selected-id) (mc ?selected-mc))
+(test 
+  (not 
+    (any-instancep
+      ((?othercandidate CANDIDATEMODULE)(?othermodule MODULE))
+      (
+        (= ?othercandidate:moduleid ?othermodule:moduleid)
+        (< ?othermodule:moduletagtotalscore ?module:moduletagtotalscore)))))
 =>
-(retract (CANDIDATEMODULE (moduleid ?selected-id))))
+(send [currentdata] put-current-mc (- ?mc ?selected-mc))
+(send [currentdata] put-current-stage 1)
+(unmake-instance [?selected-id]))
 
