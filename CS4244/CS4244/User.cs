@@ -26,6 +26,11 @@ namespace CS4244
         private List<string> _moduleLike = new List<string>();
         private List<string> _moduleDislike = new List<string>();
 
+        private List<string> _moduleLikeInstance = new List<string>();
+        private List<string> _moduleDislikeInstance = new List<string>();
+        private List<string> _moduleTagInstance = new List<string>();
+        private List<string> _focusAreaInstance = new List<string>();
+
         public void setName(string name)
         {
             _name = name;
@@ -184,6 +189,88 @@ namespace CS4244
         public List<string> getModuleDislike()
         {
             return _moduleDislike;
+        }
+
+        public void createInterestModuleInstance()
+        {
+            List<string> createInstance = new List<string>();
+            List<string> moduleLike = new List<string>();
+
+            moduleLike = _moduleLike;
+
+            for (int i = 0; i < moduleLike.Count; i++)
+            {
+                string[] temp = moduleLike[i].Split(' ');
+                createInstance.Add("(make-instance [Interest " + temp[0].Trim() + "] of INTERESTEDMODULE (moduleid "+ temp[0].Trim() + "))");
+            }
+
+            _moduleLikeInstance = createInstance;
+        }
+
+        public List<string> getInterestModuleInstance()
+        {
+            return _moduleLikeInstance;
+        }
+
+        public void createDisInterestModuleInstance()
+        {
+            List<string> createInstance = new List<string>();
+            List<string> moduleDislike = new List<string>();
+
+            moduleDislike = _moduleDislike;
+
+            for (int i = 0; i < moduleDislike.Count; i++)
+            {
+                string[] temp = moduleDislike[i].Split(' ');
+                createInstance.Add("(make-instance [DisInterest " + temp[0].Trim() + "] of NOTINTERESTEDMODULE (moduleid " + temp[0].Trim() + "))");
+            }
+
+            _moduleDislikeInstance = createInstance;
+        }
+
+        public List<string> getDisInterestModuleInstance()
+        {
+            return _moduleDislikeInstance;
+        }
+
+        public void createInterestTagInstance()
+        {
+            List<string> createInstance = new List<string>();
+            List<string> moduleTag = new List<string>();
+
+            moduleTag = _personalPreference;
+
+            for (int i = 0; i < moduleTag.Count; i++)
+            {
+                createInstance.Add("(make-instance [Tag " + moduleTag[i].Trim() + "] of INTERESTEDTAG (tag " + moduleTag[i].Trim() + "))");
+            }
+
+            _moduleTagInstance = createInstance;
+        }
+
+        public List<string> getInterestTagInstance()
+        {
+            return _moduleTagInstance;
+        }
+
+        public void createFocusAreaInstance()
+        {
+            List<string> createInstance = new List<string>();
+            List<string> focusArea = new List<string>();
+
+            focusArea = _focusAreas;
+
+            for (int i = 0; i < focusArea.Count; i++)
+            {
+                createInstance.Add("(make-instance [FocusArea " + focusArea[i].Trim() + "] of FOCUSAREA (moduleid " + focusArea[i].Trim() + ") (type SECONDARY))");
+            }
+
+            _focusAreaInstance = createInstance;
+        }
+
+        public List<string> getFocusAreaInstance()
+        {
+            return _focusAreaInstance;
         }
     }
 }

@@ -39,7 +39,7 @@ namespace CS4244
                     modulesTakenBox.Items.Add(code + " " + name);
                     modulesInterestBox.Items.Add(code + " " + name);
                     modulesDislikeBox.Items.Add(code + " " + name);
-                    comboBox5.Items.Add(code + " " + name);
+                    //comboBox5.Items.Add(code + " " + name);
                     comboBox6.Items.Add(code + " " + name);
                     comboBox7.Items.Add(code + " " + name);
                     comboBox8.Items.Add(code + " " + name);
@@ -56,6 +56,34 @@ namespace CS4244
                     string tag = reader.GetString(0);
                     preferenceBox.Items.Add(tag);
                 }
+
+                // Init FocusArea
+                query = "Select fa.[Primary], fa.Elective from FocusArea fa";
+                command = new SQLiteCommand(query, con);
+                reader = command.ExecuteReader();
+                string primary = "";
+                string elective = "";
+
+                while (reader.Read())
+                {
+                    primary = reader.GetString(0);
+                    elective = reader.GetString(1);
+
+                    string[] primarys = primary.Split(',');
+                    string[] electives = elective.Split(',');
+
+                    for (int i = 0; i < primarys.Count(); i++)
+                    {
+                        comboBox5.Items.Add(primarys[i]);
+                    }
+
+                    for (int i = 0; i < electives.Count(); i++)
+                    {
+                        comboBox5.Items.Add(electives[i]);
+                    }
+                }
+
+                
 
                 con.Close();
             }
@@ -162,7 +190,6 @@ namespace CS4244
                 string value = modulesTakenBox.SelectedItem.ToString();
                 modulesTakenLBox.Items.Add(value);
                 modulesTakenBox.Items.Remove(value);
-                comboBox5.Items.Remove(value);
                 comboBox6.Items.Remove(value);
                 comboBox7.Items.Remove(value);
                 comboBox8.Items.Remove(value);
@@ -178,7 +205,6 @@ namespace CS4244
                 string value = modulesTakenLBox.SelectedItem.ToString();
                 modulesTakenLBox.Items.RemoveAt(index);
                 modulesTakenBox.Items.Add(value);
-                comboBox5.Items.Add(value);
                 comboBox6.Items.Add(value);
                 comboBox7.Items.Add(value);
                 comboBox8.Items.Add(value);
@@ -195,10 +221,6 @@ namespace CS4244
                 listBox1.Items.Add(value);
                 modulesTakenBox.Items.Remove(value);
                 comboBox5.Items.Remove(value);
-                comboBox6.Items.Remove(value);
-                comboBox7.Items.Remove(value);
-                comboBox8.Items.Remove(value);
-                comboBox9.Items.Remove(value);
             }
         }
 
@@ -211,10 +233,6 @@ namespace CS4244
                 listBox1.Items.RemoveAt(index);
                 modulesTakenBox.Items.Add(value);
                 comboBox5.Items.Add(value);
-                comboBox6.Items.Add(value);
-                comboBox7.Items.Add(value);
-                comboBox8.Items.Add(value);
-                comboBox9.Items.Add(value);
             }
         }
         // GEM
@@ -226,7 +244,6 @@ namespace CS4244
                 string value = comboBox6.SelectedItem.ToString();
                 listBox2.Items.Add(value);
                 modulesTakenBox.Items.Remove(value);
-                comboBox5.Items.Remove(value);
                 comboBox6.Items.Remove(value);
                 comboBox7.Items.Remove(value);
                 comboBox8.Items.Remove(value);
@@ -242,7 +259,6 @@ namespace CS4244
                 string value = listBox2.SelectedItem.ToString();
                 listBox2.Items.RemoveAt(index);
                 modulesTakenBox.Items.Add(value);
-                comboBox5.Items.Add(value);
                 comboBox6.Items.Add(value);
                 comboBox7.Items.Add(value);
                 comboBox8.Items.Add(value);
@@ -258,7 +274,6 @@ namespace CS4244
                 string value = comboBox8.SelectedItem.ToString();
                 listBox4.Items.Add(value);
                 modulesTakenBox.Items.Remove(value);
-                comboBox5.Items.Remove(value);
                 comboBox6.Items.Remove(value);
                 comboBox7.Items.Remove(value);
                 comboBox8.Items.Remove(value);
@@ -274,7 +289,6 @@ namespace CS4244
                 string value = listBox4.SelectedItem.ToString();
                 listBox4.Items.RemoveAt(index);
                 modulesTakenBox.Items.Add(value);
-                comboBox5.Items.Add(value);
                 comboBox6.Items.Add(value);
                 comboBox7.Items.Add(value);
                 comboBox8.Items.Add(value);
@@ -290,7 +304,6 @@ namespace CS4244
                 string value = comboBox7.SelectedItem.ToString();
                 listBox3.Items.Add(value);
                 modulesTakenBox.Items.Remove(value);
-                comboBox5.Items.Remove(value);
                 comboBox6.Items.Remove(value);
                 comboBox7.Items.Remove(value);
                 comboBox8.Items.Remove(value);
@@ -306,7 +319,6 @@ namespace CS4244
                 string value = listBox3.SelectedItem.ToString();
                 listBox3.Items.RemoveAt(index);
                 modulesTakenBox.Items.Add(value);
-                comboBox5.Items.Add(value);
                 comboBox6.Items.Add(value);
                 comboBox7.Items.Add(value);
                 comboBox8.Items.Add(value);
@@ -322,7 +334,6 @@ namespace CS4244
                 string value = comboBox9.SelectedItem.ToString();
                 listBox5.Items.Add(value);
                 modulesTakenBox.Items.Remove(value);
-                comboBox5.Items.Remove(value);
                 comboBox6.Items.Remove(value);
                 comboBox7.Items.Remove(value);
                 comboBox8.Items.Remove(value);
@@ -338,7 +349,6 @@ namespace CS4244
                 string value = listBox5.SelectedItem.ToString();
                 listBox5.Items.RemoveAt(index);
                 modulesTakenBox.Items.Add(value);
-                comboBox5.Items.Add(value);
                 comboBox6.Items.Add(value);
                 comboBox7.Items.Add(value);
                 comboBox8.Items.Add(value);
@@ -479,11 +489,11 @@ namespace CS4244
             if (preferenceLBox.Items.Count == 0)
                 fields.Add("Personal Preference");
 
-            if (modulesInterestLBox.Items.Count == 0)
-                fields.Add("Modules you are interested in");
+            //if (modulesInterestLBox.Items.Count == 0)
+            //    fields.Add("Modules you are interested in");
 
-            if (modulesDislikeLBox.Items.Count == 0)
-                fields.Add("Modules you dislike");
+            //if (modulesDislikeLBox.Items.Count == 0)
+            //    fields.Add("Modules you dislike");
 
             // Checking all required fields
             if (fields.Count == 0)
@@ -503,18 +513,23 @@ namespace CS4244
                 // Personal Preference
                 for (int i = 0; i < preferenceLBox.Items.Count; i++)
                 {
-                    u.setScienceMods(preferenceLBox.Items[i].ToString());
+                    u.setPersonalPref(preferenceLBox.Items[i].ToString());
                 }
                 // Modules Like
                 for (int i = 0; i < modulesInterestLBox.Items.Count; i++)
                 {
-                    u.setScienceMods(modulesInterestLBox.Items[i].ToString());
+                    u.setModulesLike(modulesInterestLBox.Items[i].ToString());
                 }
                 // Modules Dislike
                 for (int i = 0; i < modulesDislikeLBox.Items.Count; i++)
                 {
-                    u.setScienceMods(modulesDislikeLBox.Items[i].ToString());
+                    u.setModuleDislike(modulesDislikeLBox.Items[i].ToString());
                 }
+
+                u.createInterestModuleInstance();
+                u.createDisInterestModuleInstance();
+                u.createInterestTagInstance();
+                u.createFocusAreaInstance();
 
                 Form2 form2 = new Form2();
                 form2.ShowDialog();
@@ -570,6 +585,48 @@ namespace CS4244
                 pictureBox5.Visible = true;
             else
                 pictureBox5.Visible = false;
+
+            string focusArea = comboBox2.SelectedItem.ToString();
+            comboBox5.Items.Clear();
+
+            AutoCompleteStringCollection collection = new AutoCompleteStringCollection();
+            SQLiteConnection con = new SQLiteConnection(dbConnectionString);
+
+            try
+            {
+                con.Open();
+                string query = "Select fa.[Primary], fa.Elective from FocusArea fa where FocusArea = '" + focusArea + "'";
+                SQLiteCommand command = new SQLiteCommand(query, con);
+                SQLiteDataReader reader = command.ExecuteReader();
+
+                string primary = "";
+                string elective = "";
+
+                while (reader.Read())
+                {
+                    primary = reader.GetString(0);
+                    elective = reader.GetString(1);
+
+                    string[] primarys = primary.Split(',');
+                    string[] electives = elective.Split(',');
+
+                    for (int i = 0; i < primarys.Count(); i++)
+                    {
+                        comboBox5.Items.Add(primarys[i]);
+                    }
+
+                    for (int i = 0; i < electives.Count(); i++)
+                    {
+                        comboBox5.Items.Add(electives[i]);
+                    }
+                }
+
+                con.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void comboBox4_SelectedIndexChanged(object sender, EventArgs e)
