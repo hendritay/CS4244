@@ -49,7 +49,7 @@
   (slot day)
   (slot starttime)
   (slot endtime)
-  (slot semester)  
+  (slot semester)
  )
  
  (defclass REQUIREMENT
@@ -79,10 +79,6 @@
    (slot focussecondary)
    (slot interestedmodule)
   )
-  
- 
-  
-  
   
   
  

@@ -1,0 +1,9466 @@
+[
+	{
+		"S/No": "1",
+		"Faculty": "ARTS",
+		"Code": "AS4232",
+		"Title": "TOPICS IN AMERICAN LITERATURE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "2",
+		"Faculty": "ARTS",
+		"Code": "CH1101E",
+		"Title": "INTRODUCTION TO CHINESE STUDIES",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "3",
+		"Faculty": "ARTS",
+		"Code": "CH2141",
+		"Title": "GENERAL HISTORY OF CHINA",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "4",
+		"Faculty": "ARTS",
+		"Code": "CH2223",
+		"Title": "CHINESE FICTION",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "5",
+		"Faculty": "ARTS",
+		"Code": "CH2291",
+		"Title": "CHINESE TRADITION (TAUGHT IN ENGLISH)",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "6",
+		"Faculty": "ARTS",
+		"Code": "CH2297",
+		"Title": "EXPLORING CHINESE CINEMA: SHANGHAI-HONG KONG-SINGAPORE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "7",
+		"Faculty": "ARTS",
+		"Code": "CH3223",
+		"Title": "SELECTED AUTHORS/TEXTS II",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "8",
+		"Faculty": "ARTS",
+		"Code": "CH3226",
+		"Title": "MODERN CHINESE LITERATURE",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "9",
+		"Faculty": "ARTS",
+		"Code": "CH3229",
+		"Title": "MODERN LITERATURE IN TAIWAN AND HONG KONG",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "10",
+		"Faculty": "ARTS",
+		"Code": "CH3248",
+		"Title": "CONTEMPORARY CHINA: 1949 TO PRESENT",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "11",
+		"Faculty": "ARTS",
+		"Code": "CL1101E",
+		"Title": "INTRODUCTION TO CHINESE LANGUAGE",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "12",
+		"Faculty": "ARTS",
+		"Code": "CL2103",
+		"Title": "CHINESE GRAMMAR",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "13",
+		"Faculty": "ARTS",
+		"Code": "CL2241",
+		"Title": "GENERAL HISTORY OF CHINA",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "14",
+		"Faculty": "ARTS",
+		"Code": "CL2260",
+		"Title": "SELECTED READINGS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "15",
+		"Faculty": "ARTS",
+		"Code": "CL2281",
+		"Title": "TRANSLATION AND INTERPRETATION",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "16",
+		"Faculty": "ARTS",
+		"Code": "CL2291",
+		"Title": "CHINESE ANTHROPOLINGUISTICS (TAUGHT IN ENGLISH)",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "17",
+		"Faculty": "ARTS",
+		"Code": "CL3205",
+		"Title": "TOPICS ON CHINESE LINGUISTICS II",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "18",
+		"Faculty": "ARTS",
+		"Code": "CL3208",
+		"Title": "CHINESE PHONOLOGY",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "19",
+		"Faculty": "ARTS",
+		"Code": "CL3211",
+		"Title": "THE STANDARDIZATION OF THE CHINESE LANGUAGE",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "20",
+		"Faculty": "ARTS",
+		"Code": "CL3281",
+		"Title": "ADVANCED TRANSLATION",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "21",
+		"Faculty": "ARTS",
+		"Code": "EC1101E",
+		"Title": "INTRODUCTION TO ECONOMIC ANALYSIS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "22",
+		"Faculty": "ARTS",
+		"Code": "EC1301",
+		"Title": "PRINCIPLES OF ECONOMICS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "23",
+		"Faculty": "ARTS",
+		"Code": "EC2101",
+		"Title": "MICROECONOMIC ANALYSIS I",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "24",
+		"Faculty": "ARTS",
+		"Code": "EC2102",
+		"Title": "MACROECONOMIC ANALYSIS I",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "25",
+		"Faculty": "ARTS",
+		"Code": "EC2104",
+		"Title": "QUANTITATIVE METHODS FOR ECONOMIC ANALYSIS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "26",
+		"Faculty": "ARTS",
+		"Code": "EC2303",
+		"Title": "FOUNDATIONS FOR ECONOMETRICS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "27",
+		"Faculty": "ARTS",
+		"Code": "EC2373",
+		"Title": "GLOBAL ECONOMIC DIMENSIONS OF SINGAPORE",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "28",
+		"Faculty": "ARTS",
+		"Code": "EC2374",
+		"Title": "ECONOMY OF MODERN CHINA I",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "29",
+		"Faculty": "ARTS",
+		"Code": "EC3101",
+		"Title": "MICROECONOMIC ANALYSIS II",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "30",
+		"Faculty": "ARTS",
+		"Code": "EC3102",
+		"Title": "MACROECONOMIC ANALYSIS II",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "31",
+		"Faculty": "ARTS",
+		"Code": "EC3303",
+		"Title": "ECONOMETRICS I",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "32",
+		"Faculty": "ARTS",
+		"Code": "EC3304",
+		"Title": "ECONOMETRICS II",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "33",
+		"Faculty": "ARTS",
+		"Code": "EC3312",
+		"Title": "GAME THEORY & APPLICATIONS TO ECONOMICS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "34",
+		"Faculty": "ARTS",
+		"Code": "EC3322",
+		"Title": "INDUSTRIAL ORGANISATION I",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "35",
+		"Faculty": "ARTS",
+		"Code": "EC3332",
+		"Title": "MONEY AND BANKING I",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "36",
+		"Faculty": "ARTS",
+		"Code": "EC3333",
+		"Title": "FINANCIAL ECONOMICS I",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "37",
+		"Faculty": "ARTS",
+		"Code": "EC3341",
+		"Title": "INTERNATIONAL ECONOMICS I",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "38",
+		"Faculty": "ARTS",
+		"Code": "EC3351",
+		"Title": "PUBLIC FINANCE",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "39",
+		"Faculty": "ARTS",
+		"Code": "EC3361",
+		"Title": "LABOUR ECONOMICS I",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "40",
+		"Faculty": "ARTS",
+		"Code": "EC3371",
+		"Title": "DEVELOPMENT ECONOMICS I",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "41",
+		"Faculty": "ARTS",
+		"Code": "EC3375",
+		"Title": "ECONOMY AND BUSINESS OF JAPAN AND KOREA",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "42",
+		"Faculty": "ARTS",
+		"Code": "EC3376",
+		"Title": "EUROPEAN ECONOMIC INTEGRATION",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "43",
+		"Faculty": "ARTS",
+		"Code": "EC3377",
+		"Title": "GLOBAL ECONOMIC HISTORY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "44",
+		"Faculty": "ARTS",
+		"Code": "EC3381",
+		"Title": "URBAN ECONOMICS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "45",
+		"Faculty": "ARTS",
+		"Code": "EC3384",
+		"Title": "RESOURCE AND ENERGY ECONOMICS I",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "46",
+		"Faculty": "ARTS",
+		"Code": "EC3394",
+		"Title": "ECONOMICS AND PSYCHOLOGY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "47",
+		"Faculty": "ARTS",
+		"Code": "EC3396",
+		"Title": "ECONOMIC ANALYSIS OF LAW I",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "48",
+		"Faculty": "ARTS",
+		"Code": "EC3880B",
+		"Title": "TOPICS IN ECONOMICS: ECONOMICS OF AGEING",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "49",
+		"Faculty": "ARTS",
+		"Code": "EC4101",
+		"Title": "MICROECONOMIC ANALYSIS III",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "50",
+		"Faculty": "ARTS",
+		"Code": "EC4102",
+		"Title": "MACROECONOMIC ANALYSIS III",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "51",
+		"Faculty": "ARTS",
+		"Code": "EC4324",
+		"Title": "ECONOMICS OF COMPETITION POLICY",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "52",
+		"Faculty": "ARTS",
+		"Code": "EC4332",
+		"Title": "MONEY AND BANKING II",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "53",
+		"Faculty": "ARTS",
+		"Code": "EC4333",
+		"Title": "FINANCIAL ECONOMICS II",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "54",
+		"Faculty": "ARTS",
+		"Code": "EC4341",
+		"Title": "INTERNATIONAL ECONOMICS II",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "55",
+		"Faculty": "ARTS",
+		"Code": "EC4351",
+		"Title": "PUBLIC ECONOMICS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "56",
+		"Faculty": "ARTS",
+		"Code": "EC4361",
+		"Title": "LABOUR ECONOMICS II",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "57",
+		"Faculty": "ARTS",
+		"Code": "EC4371",
+		"Title": "DEVELOPMENT ECONOMICS II",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "58",
+		"Faculty": "ARTS",
+		"Code": "EC4394",
+		"Title": "BEHAVIOURAL ECONOMICS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "59",
+		"Faculty": "ARTS",
+		"Code": "EC4880",
+		"Title": "TOPICS IN ECONOMICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "60",
+		"Faculty": "ARTS",
+		"Code": "EC5314",
+		"Title": "TIME SERIES ANALYSIS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "61",
+		"Faculty": "ARTS",
+		"Code": "EC5326",
+		"Title": "POLICY IMPACT EVALUATION METHODS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "62",
+		"Faculty": "ARTS",
+		"Code": "EC5326R",
+		"Title": "POLICY IMPACT EVALUATION METHODS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "63",
+		"Faculty": "ARTS",
+		"Code": "EC5332",
+		"Title": "MONEY & BANKING",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "64",
+		"Faculty": "ARTS",
+		"Code": "EC5332R",
+		"Title": "MONEY & BANKING",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "65",
+		"Faculty": "ARTS",
+		"Code": "EC5342",
+		"Title": "INTERNATIONAL TRADE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "66",
+		"Faculty": "ARTS",
+		"Code": "EC5352",
+		"Title": "PUBLIC ECONOMICS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "67",
+		"Faculty": "ARTS",
+		"Code": "EC5361",
+		"Title": "LABOUR ECONOMICS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "68",
+		"Faculty": "ARTS",
+		"Code": "EC5883",
+		"Title": "TOPICS IN APPLIED ECONOMICS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "69",
+		"Faculty": "ARTS",
+		"Code": "EC6101",
+		"Title": "ADVANCED MICROECONOMIC THEORY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "70",
+		"Faculty": "ARTS",
+		"Code": "EC6102",
+		"Title": "ADVANCED MACROECONOMIC THEORY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "71",
+		"Faculty": "ARTS",
+		"Code": "EC6103",
+		"Title": "ECONOMETRIC MODELLING AND APPLICATIONS II",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "72",
+		"Faculty": "ARTS",
+		"Code": "EC6104",
+		"Title": "ADVANCED MATHEMATICAL ECONOMICS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "73",
+		"Faculty": "ARTS",
+		"Code": "ECA5315",
+		"Title": "FINANCIAL ECONOMETRICS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "74",
+		"Faculty": "ARTS",
+		"Code": "ECA5333",
+		"Title": "FINANCIAL MARKETS & PORTFOLIO MANAGEMENT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "75",
+		"Faculty": "ARTS",
+		"Code": "ECA5334",
+		"Title": "CORPORATE FINANCE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "76",
+		"Faculty": "ARTS",
+		"Code": "ECA5341",
+		"Title": "INTERNATIONAL TRADE & FINANCE",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "77",
+		"Faculty": "ARTS",
+		"Code": "ECA5351",
+		"Title": "PUBLIC FINANCE",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "78",
+		"Faculty": "ARTS",
+		"Code": "ECA5373",
+		"Title": "THE SINGAPORE ECONOMY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "79",
+		"Faculty": "ARTS",
+		"Code": "ECA5374",
+		"Title": "THE MODERN CHINESE ECONOMY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "80",
+		"Faculty": "ARTS",
+		"Code": "ECA5880",
+		"Title": "TOPICS IN APPLIED ECONOMICS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "81",
+		"Faculty": "ARTS",
+		"Code": "EL1101E",
+		"Title": "THE NATURE OF LANGUAGE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "82",
+		"Faculty": "ARTS",
+		"Code": "EL2201",
+		"Title": "STRUCTURE OF SENTENCES AND MEANING",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "83",
+		"Faculty": "ARTS",
+		"Code": "EL2211",
+		"Title": "HISTORICAL VARIATION IN ENGLISH",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "84",
+		"Faculty": "ARTS",
+		"Code": "EL3202",
+		"Title": "PHONETICS AND PHONOLOGY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "85",
+		"Faculty": "ARTS",
+		"Code": "EL3208",
+		"Title": "BILINGUALISM",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "86",
+		"Faculty": "ARTS",
+		"Code": "EL3209",
+		"Title": "LANGUAGE, CULTURE, AND MIND",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "87",
+		"Faculty": "ARTS",
+		"Code": "EL3252",
+		"Title": "LANGUAGE PLANNING AND POLICY",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "88",
+		"Faculty": "ARTS",
+		"Code": "EL4880A",
+		"Title": "SYSTEMIC FUNCTIONAL GRAMMAR",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "89",
+		"Faculty": "ARTS",
+		"Code": "EL5253",
+		"Title": "TEXTUAL CONSTRUCTION OF KNOWLEDGE",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "90",
+		"Faculty": "ARTS",
+		"Code": "EL5253R",
+		"Title": "TEXTUAL CONSTRUCTION OF KNOWLEDGE",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "91",
+		"Faculty": "ARTS",
+		"Code": "EL5270",
+		"Title": "EXPLORATIONS IN APPLIED LINGUISTICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "92",
+		"Faculty": "ARTS",
+		"Code": "EL5270R",
+		"Title": "EXPLORATIONS IN APPLIED LINGUISTICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "93",
+		"Faculty": "ARTS",
+		"Code": "EL6884",
+		"Title": "TOPICS IN APPLIED LINGUISTICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "94",
+		"Faculty": "ARTS",
+		"Code": "EN1101E",
+		"Title": "AN INTRODUCTION TO LITERARY STUDIES",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "95",
+		"Faculty": "ARTS",
+		"Code": "EN2201",
+		"Title": "BACKGROUNDS TO WESTERN LITERATURE AND CULTURE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "96",
+		"Faculty": "ARTS",
+		"Code": "EN2203",
+		"Title": "INTRODUCTION TO FILM STUDIES",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "97",
+		"Faculty": "ARTS",
+		"Code": "EN3261",
+		"Title": "EUROPEAN LITERATURE I",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "98",
+		"Faculty": "ARTS",
+		"Code": "EN3265",
+		"Title": "SOUTH ASIAN LITERATURES IN ENGLISH",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "99",
+		"Faculty": "ARTS",
+		"Code": "EN4223",
+		"Title": "TOPICS IN THE NINETEENTH CENTURY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "100",
+		"Faculty": "ARTS",
+		"Code": "EN4232",
+		"Title": "TOPICS IN AMERICAN LITERATURE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "101",
+		"Faculty": "ARTS",
+		"Code": "EN5242",
+		"Title": "WOMEN NOVELISTS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "102",
+		"Faculty": "ARTS",
+		"Code": "EN5242R",
+		"Title": "WOMEN NOVELISTS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "103",
+		"Faculty": "ARTS",
+		"Code": "EN6102",
+		"Title": "ADVANCED CRITICAL READING",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "104",
+		"Faculty": "ARTS",
+		"Code": "EN6880",
+		"Title": "TOPICS IN THE NEW LITERATURES",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "105",
+		"Faculty": "ARTS",
+		"Code": "EU1101E",
+		"Title": "MAKING OF MODERN EUROPE",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "106",
+		"Faculty": "ARTS",
+		"Code": "EU2203",
+		"Title": "ANCIENT WESTERN POLITICAL THOUGHT",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "107",
+		"Faculty": "ARTS",
+		"Code": "EU2214",
+		"Title": "INTRODUCTION TO CONTINENTAL PHILOSOPHY",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "108",
+		"Faculty": "ARTS",
+		"Code": "EU2223",
+		"Title": "AGES OF THE MEDITERRANEAN",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "109",
+		"Faculty": "ARTS",
+		"Code": "EU3217",
+		"Title": "EUROPEAN LITERATURE I",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "110",
+		"Faculty": "ARTS",
+		"Code": "EU3224",
+		"Title": "SOCIAL THOUGHT & SOCIAL THEORY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "111",
+		"Faculty": "ARTS",
+		"Code": "EU3228",
+		"Title": "THE EU AND ASEAN IN THE WORLD",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "112",
+		"Faculty": "ARTS",
+		"Code": "EU3230",
+		"Title": "COLD WAR IN EUROPE, 1945-1991",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "113",
+		"Faculty": "ARTS",
+		"Code": "EU3231",
+		"Title": "MODERN IMPERIALISM",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "114",
+		"Faculty": "ARTS",
+		"Code": "EU3233",
+		"Title": "THE EUROPEAN UNION IN EAST ASIA",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "115",
+		"Faculty": "ARTS",
+		"Code": "EU4224",
+		"Title": "WAR AND DIPLOMACY IN EARLY MODERN EUROPE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "116",
+		"Faculty": "ARTS",
+		"Code": "EU4228",
+		"Title": "EUROPEAN FOREIGN POLICY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "117",
+		"Faculty": "ARTS",
+		"Code": "FMA1201R",
+		"Title": "FS: SINGAPORE'S LITTLE INDIA: A 'COMMUNITY SPACE'?",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "118",
+		"Faculty": "ARTS",
+		"Code": "GE1101E",
+		"Title": "GEOGRAPHICAL JOURNEYS: EXPLORING WORLD ENVIRONMENTS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "119",
+		"Faculty": "ARTS",
+		"Code": "GE2101",
+		"Title": "METHODS AND PRACTICES IN GEOGRAPHY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "120",
+		"Faculty": "ARTS",
+		"Code": "GE2202",
+		"Title": "ECONOMY & SPACE",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "121",
+		"Faculty": "ARTS",
+		"Code": "GE2206",
+		"Title": "GEOGRAPHIES OF LIFE AND DEATH",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "122",
+		"Faculty": "ARTS",
+		"Code": "GE2218",
+		"Title": "LEISURE, RECREATION AND TOURISM",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "123",
+		"Faculty": "ARTS",
+		"Code": "GE2220",
+		"Title": "TERRESTRIAL AND COASTAL ENVIRONMENTS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "124",
+		"Faculty": "ARTS",
+		"Code": "GE3204",
+		"Title": "CITIES AND REGIONS: PLANNING FOR CHANGE",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "125",
+		"Faculty": "ARTS",
+		"Code": "GE3206",
+		"Title": "GENDER, SPACE & PLACE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "126",
+		"Faculty": "ARTS",
+		"Code": "GE3221",
+		"Title": "ECOLOGICAL SYSTEMS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "127",
+		"Faculty": "ARTS",
+		"Code": "GE3242",
+		"Title": "SEDIMENTS AND SEDIMENTARY BASINS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "128",
+		"Faculty": "ARTS",
+		"Code": "GE3243",
+		"Title": "APPLIED PETROLEUM EXPLORATION",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "129",
+		"Faculty": "ARTS",
+		"Code": "GE4202",
+		"Title": "REMAKING THE GLOBAL ECONOMY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "130",
+		"Faculty": "ARTS",
+		"Code": "GE4207",
+		"Title": "COASTAL MANAGEMENT",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "131",
+		"Faculty": "ARTS",
+		"Code": "GE4218",
+		"Title": "INTERPRETING TOURISM SPACES AND CULTURES",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "132",
+		"Faculty": "ARTS",
+		"Code": "GE5212",
+		"Title": "GLOBAL CITIES",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "133",
+		"Faculty": "ARTS",
+		"Code": "GE5214",
+		"Title": "SOUTHEAST ASIAN CULTURAL LANDSCAPES",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "134",
+		"Faculty": "ARTS",
+		"Code": "GEK1000",
+		"Title": "AN INTRODUCTION TO LITERARY STUDIES",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "135",
+		"Faculty": "ARTS",
+		"Code": "GEK1001",
+		"Title": "GEOGRAPHICAL JOURNEYS: EXPLORING WORLD ENVIRONMENTS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "136",
+		"Faculty": "ARTS",
+		"Code": "GEK1002",
+		"Title": "INTRODUCTION TO JAPANESE STUDIES",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "137",
+		"Faculty": "ARTS",
+		"Code": "GEK1003",
+		"Title": "INTRODUCTION TO POLITICS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "138",
+		"Faculty": "ARTS",
+		"Code": "GEK1008",
+		"Title": "SOUTHEAST ASIA: A CHANGING REGION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "139",
+		"Faculty": "ARTS",
+		"Code": "GEK1011",
+		"Title": "THE NATURE OF LANGUAGE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "140",
+		"Faculty": "ARTS",
+		"Code": "GEK1012",
+		"Title": "CONTEMPORARY SOCIAL ISSUES IN SINGAPORE",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "141",
+		"Faculty": "ARTS",
+		"Code": "GEK1022",
+		"Title": "GEOPOLITICS:GEOGRAPHIES OF WAR & PEACE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "142",
+		"Faculty": "ARTS",
+		"Code": "GEK1048",
+		"Title": "GANDHI AND CONFLICT RESOLUTION: GLOBAL LEGACIES",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "143",
+		"Faculty": "ARTS",
+		"Code": "GEK1056",
+		"Title": "THE VISUAL IMAGE AROUND THE WORLD",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "144",
+		"Faculty": "ARTS",
+		"Code": "GEK1058",
+		"Title": "LANGUAGE AND THE PRESERVATION OF CULTURE",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "145",
+		"Faculty": "ARTS",
+		"Code": "GEK1059",
+		"Title": "INVESTIGATING STANDARD ENGLISH",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "146",
+		"Faculty": "ARTS",
+		"Code": "GEK1064",
+		"Title": "PSYCHOLOGY IN EVERYDAY LIFE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "147",
+		"Faculty": "ARTS",
+		"Code": "GEK2001",
+		"Title": "CHANGING LANDSCAPES OF SINGAPORE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "148",
+		"Faculty": "ARTS",
+		"Code": "GEK2003",
+		"Title": "GOVERNMENT AND POLITICS OF SINGAPORE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "149",
+		"Faculty": "ARTS",
+		"Code": "GEK2010",
+		"Title": "FOREIGN POLICY AND DIPLOMACY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "150",
+		"Faculty": "ARTS",
+		"Code": "GEK2024",
+		"Title": "POLITICAL IDEOLOGIES",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "151",
+		"Faculty": "ARTS",
+		"Code": "GEK2030",
+		"Title": "INTRODUCTION TO CONTINENTAL PHILOSOPHY",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "152",
+		"Faculty": "ARTS",
+		"Code": "GEK2036",
+		"Title": "GREEK PHILOSOPHY (SOCRATES AND PLATO)",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "153",
+		"Faculty": "ARTS",
+		"Code": "GEK2037",
+		"Title": "INTRODUCTION TO THE PHILOSOPHY OF TECHNOLOGY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "154",
+		"Faculty": "ARTS",
+		"Code": "GEK2042",
+		"Title": "CULTURAL BORROWING: JAPAN AND CHINA",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "155",
+		"Faculty": "ARTS",
+		"Code": "GEK2047",
+		"Title": "EXPLORING CHINESE CINEMA: SHANGHAI-HONG KONG-SINGAPORE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "156",
+		"Faculty": "ARTS",
+		"Code": "GEK3007",
+		"Title": "POLITICS, MUSIC AND SOCIETY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "157",
+		"Faculty": "ARTS",
+		"Code": "GEM1003",
+		"Title": "INTRODUCTION TO THEATRE AND DRAMA",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "158",
+		"Faculty": "ARTS",
+		"Code": "GEM1004FC",
+		"Title": "REASON AND PERSUASION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "159",
+		"Faculty": "ARTS",
+		"Code": "GEM1033",
+		"Title": "RELIGION AND FILM",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "160",
+		"Faculty": "ARTS",
+		"Code": "GEM1036",
+		"Title": "GLOBALISATION AND NEW MEDIA",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "161",
+		"Faculty": "ARTS",
+		"Code": "GEM2006",
+		"Title": "LOGIC",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "162",
+		"Faculty": "ARTS",
+		"Code": "GL1101E",
+		"Title": "GLOBAL ISSUES",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "163",
+		"Faculty": "ARTS",
+		"Code": "GL2102",
+		"Title": "GLOBAL POLITICAL ECONOMY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "164",
+		"Faculty": "ARTS",
+		"Code": "GL2103",
+		"Title": "GLOBAL GOVERNANCE",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "165",
+		"Faculty": "ARTS",
+		"Code": "HY1101E",
+		"Title": "ASIA AND THE MODERN WORLD",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "166",
+		"Faculty": "ARTS",
+		"Code": "HY2216",
+		"Title": "TOTAL WAR, 1815-1945",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "167",
+		"Faculty": "ARTS",
+		"Code": "HY2229",
+		"Title": "NATION-BUILDING IN SINGAPORE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "168",
+		"Faculty": "ARTS",
+		"Code": "HY2232",
+		"Title": "MODERN JAPAN: CONFLICT IN HISTORY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "169",
+		"Faculty": "ARTS",
+		"Code": "HY2239",
+		"Title": "CHINESE BUSINESSES IN SINGAPORE & BEYOND",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "170",
+		"Faculty": "ARTS",
+		"Code": "HY2242",
+		"Title": "SINGAPORE'S MILITARY HISTORY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "171",
+		"Faculty": "ARTS",
+		"Code": "HY2256",
+		"Title": "AGES OF THE MEDITERRANEAN",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "172",
+		"Faculty": "ARTS",
+		"Code": "HY3201",
+		"Title": "INDONESIA: HISTORY, ECONOMY AND SOCIETY",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "173",
+		"Faculty": "ARTS",
+		"Code": "HY3209",
+		"Title": "COLD WAR IN EUROPE, 1945-1991",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "174",
+		"Faculty": "ARTS",
+		"Code": "HY3226",
+		"Title": "MEMORY, HERITAGE & HISTORY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "175",
+		"Faculty": "ARTS",
+		"Code": "HY3236",
+		"Title": "THE STRUGGLE FOR INDIA, 1920-1964",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "176",
+		"Faculty": "ARTS",
+		"Code": "HY3242",
+		"Title": "MODERN IMPERIALISM",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "177",
+		"Faculty": "ARTS",
+		"Code": "HY3248",
+		"Title": "PEOPLE'S REPUBLIC OF CHINA, 1949-1989",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "178",
+		"Faculty": "ARTS",
+		"Code": "HY3252",
+		"Title": "FROM TROPICAL MEDICINE TO BIOSCIENCE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "179",
+		"Faculty": "ARTS",
+		"Code": "HY4205",
+		"Title": "WAR AND DIPLOMACY IN EARLY MODERN EUROPE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "180",
+		"Faculty": "ARTS",
+		"Code": "HY4215",
+		"Title": "THE CLASSICAL EMPIRES OF SOUTHEAST ASIA",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "181",
+		"Faculty": "ARTS",
+		"Code": "HY4222",
+		"Title": "ASIAN BUSINESS HISTORY: CASE STUDIES",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "182",
+		"Faculty": "ARTS",
+		"Code": "JS1101E",
+		"Title": "INTRODUCTION TO JAPANESE STUDIES",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "183",
+		"Faculty": "ARTS",
+		"Code": "JS2213",
+		"Title": "POPULAR CULTURE IN CONTEMPORARY JAPAN",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "184",
+		"Faculty": "ARTS",
+		"Code": "JS2224",
+		"Title": "JAPAN AND SINGAPORE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "185",
+		"Faculty": "ARTS",
+		"Code": "JS2226",
+		"Title": "GLOBAL CITY TOKYO",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "186",
+		"Faculty": "ARTS",
+		"Code": "JS2230",
+		"Title": "ITADAKIMASU - FOOD IN JAPAN",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "187",
+		"Faculty": "ARTS",
+		"Code": "JS3210",
+		"Title": "JAPAN IN THE TWENTIETH CENTURY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "188",
+		"Faculty": "ARTS",
+		"Code": "JS3211",
+		"Title": "MODERN JAPANESE RELIGION",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "189",
+		"Faculty": "ARTS",
+		"Code": "JS3230",
+		"Title": "MEN AND WOMEN IN MODERN JAPANESE LITERATURE",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "190",
+		"Faculty": "ARTS",
+		"Code": "LAJ1201",
+		"Title": "JAPANESE 1",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "191",
+		"Faculty": "ARTS",
+		"Code": "LAJ2201",
+		"Title": "JAPANESE 2",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "192",
+		"Faculty": "ARTS",
+		"Code": "LAJ2202",
+		"Title": "JAPANESE 3",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "193",
+		"Faculty": "ARTS",
+		"Code": "LAJ2203",
+		"Title": "JAPANESE 4",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "194",
+		"Faculty": "ARTS",
+		"Code": "MS1102E",
+		"Title": "MALAYS - TRADITION, CONFLICT AND CHANGE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "195",
+		"Faculty": "ARTS",
+		"Code": "MS2211",
+		"Title": "CRITICISM IN MODERN MALAY LITERATURE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "196",
+		"Faculty": "ARTS",
+		"Code": "MS2213",
+		"Title": "MALAY FAMILIES AND HOUSEHOLDS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "197",
+		"Faculty": "ARTS",
+		"Code": "MS3209",
+		"Title": "THE MALAYS OF SINGAPORE",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "198",
+		"Faculty": "ARTS",
+		"Code": "MS3212",
+		"Title": "CLASSICAL MALAY LITERATURE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "199",
+		"Faculty": "ARTS",
+		"Code": "MS3215",
+		"Title": "MALAYS AND MODERNIZATION",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "200",
+		"Faculty": "ARTS",
+		"Code": "MS3216",
+		"Title": "GENDER IN MALAY SOCIETIES",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "201",
+		"Faculty": "ARTS",
+		"Code": "MS3218",
+		"Title": "THE RELIGIOUS LIFE OF THE MALAYS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "202",
+		"Faculty": "ARTS",
+		"Code": "MS3219",
+		"Title": "MUSLIM PERSONAL LAW IN SOUTHEAST ASIA",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "203",
+		"Faculty": "ARTS",
+		"Code": "MS4201",
+		"Title": "SOCIAL CHANGE 1900 - 1950",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "204",
+		"Faculty": "ARTS",
+		"Code": "MS4880A",
+		"Title": "TOPICS IN MUSLIM REVIVALISM",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "205",
+		"Faculty": "ARTS",
+		"Code": "MS5201",
+		"Title": "CRITIQUES IN MALAY STUDIES",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "206",
+		"Faculty": "ARTS",
+		"Code": "MS6202",
+		"Title": "ELITE AND INTELLECTUALS IN MALAY SOCIETY",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "207",
+		"Faculty": "ARTS",
+		"Code": "NM1101E",
+		"Title": "COMMUNICATIONS, NEW MEDIA AND SOCIETY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "208",
+		"Faculty": "ARTS",
+		"Code": "NM2101",
+		"Title": "THEORIES OF COMMUNICATIONS AND NEW MEDIA",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "209",
+		"Faculty": "ARTS",
+		"Code": "NM2103",
+		"Title": "QUANTITATIVE RESEARCH METHODS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "210",
+		"Faculty": "ARTS",
+		"Code": "NM2104",
+		"Title": "QUALITATIVE COMMUNICATION RESEARCH METHODS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "211",
+		"Faculty": "ARTS",
+		"Code": "NM2201",
+		"Title": "INTERCULTURAL COMMUNICATION",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "212",
+		"Faculty": "ARTS",
+		"Code": "NM2203",
+		"Title": "SOCIAL MEDIA IN COMMUNICATION MANAGEMENT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "213",
+		"Faculty": "ARTS",
+		"Code": "NM2212",
+		"Title": "VISUAL DESIGN",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "214",
+		"Faculty": "ARTS",
+		"Code": "NM2213",
+		"Title": "HUMAN-COMPUTER INTERACTION DESIGN",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "215",
+		"Faculty": "ARTS",
+		"Code": "NM2219",
+		"Title": "PRINCIPLES OF COMMUNICATION MANAGEMENT",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "216",
+		"Faculty": "ARTS",
+		"Code": "NM2220",
+		"Title": "INTRODUCTION TO MEDIA WRITING",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "217",
+		"Faculty": "ARTS",
+		"Code": "NM2302",
+		"Title": "MOBILITY AND NEW MEDIA",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "218",
+		"Faculty": "ARTS",
+		"Code": "NM3202",
+		"Title": "GOVERNANCE AND NEW MEDIA",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "219",
+		"Faculty": "ARTS",
+		"Code": "NM3203",
+		"Title": "COPYRIGHT AND NEW MEDIA",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "220",
+		"Faculty": "ARTS",
+		"Code": "NM3204",
+		"Title": "E-LEARNING",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "221",
+		"Faculty": "ARTS",
+		"Code": "NM3214",
+		"Title": "NEW MEDIA AND SCIENCE COMMUNICATION",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "222",
+		"Faculty": "ARTS",
+		"Code": "NM3215",
+		"Title": "ADVERTISING STRATEGIES",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "223",
+		"Faculty": "ARTS",
+		"Code": "NM3224",
+		"Title": "CULTURE INDUSTRIES",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "224",
+		"Faculty": "ARTS",
+		"Code": "NM4102",
+		"Title": "ADVANCED COMMUNICATIONS & NEW MEDIA RESEARCH",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "225",
+		"Faculty": "ARTS",
+		"Code": "NM4202",
+		"Title": "TRANSNATIONAL INFORMATION PRODUCERS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "226",
+		"Faculty": "ARTS",
+		"Code": "PH1102E",
+		"Title": "INTRODUCTION TO PHILOSOPHY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "227",
+		"Faculty": "ARTS",
+		"Code": "PH2110",
+		"Title": "LOGIC",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "228",
+		"Faculty": "ARTS",
+		"Code": "PH2202",
+		"Title": "MAJOR POLITICAL PHILOSOPHERS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "229",
+		"Faculty": "ARTS",
+		"Code": "PH2212",
+		"Title": "INTRODUCTION TO CONTINENTAL PHILOSOPHY",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "230",
+		"Faculty": "ARTS",
+		"Code": "PH2222",
+		"Title": "GREEK PHILOSOPHY (SOCRATES AND PLATO)",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "231",
+		"Faculty": "ARTS",
+		"Code": "PH2223",
+		"Title": "INTRODUCTION TO THE PHILOSOPHY OF TECHNOLOGY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "232",
+		"Faculty": "ARTS",
+		"Code": "PH2241",
+		"Title": "PHILOSOPHY OF MIND",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "233",
+		"Faculty": "ARTS",
+		"Code": "PH2302",
+		"Title": "CHINESE PHILOSOPHICAL TRADITIONS I",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "234",
+		"Faculty": "ARTS",
+		"Code": "PH3202",
+		"Title": "PHILOSOPHY OF LAW",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "235",
+		"Faculty": "ARTS",
+		"Code": "PH3204",
+		"Title": "ISSUES IN INDIAN PHILOSOPHY",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "236",
+		"Faculty": "ARTS",
+		"Code": "PH3206",
+		"Title": "RECENT PHILOSOPHY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "237",
+		"Faculty": "ARTS",
+		"Code": "PH4201",
+		"Title": "PHILOSOPHY OF SCIENCE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "238",
+		"Faculty": "ARTS",
+		"Code": "PL1101E",
+		"Title": "INTRODUCTION TO PSYCHOLOGY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "239",
+		"Faculty": "ARTS",
+		"Code": "PL2131",
+		"Title": "RESEARCH AND STATISTICAL METHODS I",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "240",
+		"Faculty": "ARTS",
+		"Code": "PL2132",
+		"Title": "RESEARCH AND STATISTICAL METHODS II",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "241",
+		"Faculty": "ARTS",
+		"Code": "PL3232",
+		"Title": "BIOLOGICAL PSYCHOLOGY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "242",
+		"Faculty": "ARTS",
+		"Code": "PL3233",
+		"Title": "COGNITIVE PSYCHOLOGY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "243",
+		"Faculty": "ARTS",
+		"Code": "PL3234",
+		"Title": "DEVELOPMENTAL PSYCHOLOGY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "244",
+		"Faculty": "ARTS",
+		"Code": "PL3235",
+		"Title": "SOCIAL PSYCHOLOGY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "245",
+		"Faculty": "ARTS",
+		"Code": "PL3236",
+		"Title": "ABNORMAL PSYCHOLOGY",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "246",
+		"Faculty": "ARTS",
+		"Code": "PL3237",
+		"Title": "LANGUAGE & COGNITIVE PROCESSES",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "247",
+		"Faculty": "ARTS",
+		"Code": "PL3238",
+		"Title": "SOCIAL COGNITION",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "248",
+		"Faculty": "ARTS",
+		"Code": "PL3241",
+		"Title": "PERSONALITY & INDIVIDUAL DIFFERENCES",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "249",
+		"Faculty": "ARTS",
+		"Code": "PL3243",
+		"Title": "SENSATION AND PERCEPTION",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "250",
+		"Faculty": "ARTS",
+		"Code": "PL3249",
+		"Title": "MEMORY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "251",
+		"Faculty": "ARTS",
+		"Code": "PL3250",
+		"Title": "HUMAN PERFORMANCE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "252",
+		"Faculty": "ARTS",
+		"Code": "PL3251",
+		"Title": "ATYPICAL DEVELOPMENT AND LANGUAGE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "253",
+		"Faculty": "ARTS",
+		"Code": "PL3256",
+		"Title": "INFANT DEVELOPMENT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "254",
+		"Faculty": "ARTS",
+		"Code": "PL4202",
+		"Title": "HISTORY AND SYSTEMS OF PSYCHOLOGY",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "255",
+		"Faculty": "ARTS",
+		"Code": "PL4205",
+		"Title": "DEVELOPMENTAL PROCESSES",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "256",
+		"Faculty": "ARTS",
+		"Code": "PL4207",
+		"Title": "SOCIAL PSYCHOLOGY: THEORIES AND METHODS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "257",
+		"Faculty": "ARTS",
+		"Code": "PL4208",
+		"Title": "INTRODUCTION TO COUNSELLING PSYCHOLOGY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "258",
+		"Faculty": "ARTS",
+		"Code": "PL4218",
+		"Title": "PSYCHOLOGICAL ASSESSMENT",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "259",
+		"Faculty": "ARTS",
+		"Code": "PL4219",
+		"Title": "ADVANCED ABNORMAL PSYCHOLOGY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "260",
+		"Faculty": "ARTS",
+		"Code": "PL4221",
+		"Title": "EARLY LANGUAGE DEVELOPMENT",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "261",
+		"Faculty": "ARTS",
+		"Code": "PL4222",
+		"Title": "NEUROSCIENCE OF MEMORY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "262",
+		"Faculty": "ARTS",
+		"Code": "PL4224",
+		"Title": "CHILD ABNORMAL PSYCHOLOGY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "263",
+		"Faculty": "ARTS",
+		"Code": "PL4226",
+		"Title": "CORRECTIONAL PSYCHOLOGY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "264",
+		"Faculty": "ARTS",
+		"Code": "PL4228",
+		"Title": "CRIMINAL FORENSIC PSYCHOLOGY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "265",
+		"Faculty": "ARTS",
+		"Code": "PL4229",
+		"Title": "PSYCHOLOGICAL THERAPIES",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "266",
+		"Faculty": "ARTS",
+		"Code": "PL4231",
+		"Title": "PERSONALITY BIOLOGY, ECONOMICS AND WELLBEING",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "267",
+		"Faculty": "ARTS",
+		"Code": "PL4234",
+		"Title": "PATIENT AND HEALTH CARE",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "268",
+		"Faculty": "ARTS",
+		"Code": "PL4235",
+		"Title": "MORAL PSYCHOLOGY",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "269",
+		"Faculty": "ARTS",
+		"Code": "PL4880J",
+		"Title": "THE RIGHT AND LEFT BRAIN",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "270",
+		"Faculty": "ARTS",
+		"Code": "PL5222",
+		"Title": "MULTIVARIATE STATISTICS IN PSYCHOLOGY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "271",
+		"Faculty": "ARTS",
+		"Code": "PL5222R",
+		"Title": "MULTIVARIATE STATISTICS IN PSYCHOLOGY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "272",
+		"Faculty": "ARTS",
+		"Code": "PL5225",
+		"Title": "STRUCTURAL EQUATION MODELING",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "273",
+		"Faculty": "ARTS",
+		"Code": "PL5225R",
+		"Title": "STRUCTURAL EQUATION MODELING",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "274",
+		"Faculty": "ARTS",
+		"Code": "PLC5003",
+		"Title": "CLINICAL HEALTH PSYCHOLOGY",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "275",
+		"Faculty": "ARTS",
+		"Code": "PS1101E",
+		"Title": "INTRODUCTION TO POLITICS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "276",
+		"Faculty": "ARTS",
+		"Code": "PS2203",
+		"Title": "ANCIENT WESTERN POLITICAL THOUGHT",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "277",
+		"Faculty": "ARTS",
+		"Code": "PS2233",
+		"Title": "POLITICAL IDEOLOGIES",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "278",
+		"Faculty": "ARTS",
+		"Code": "PS2234",
+		"Title": "INTRODUCTION TO COMPARATIVE POLITICS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "279",
+		"Faculty": "ARTS",
+		"Code": "PS2237",
+		"Title": "INTRODUCTION TO INTERNATIONAL RELATIONS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "280",
+		"Faculty": "ARTS",
+		"Code": "PS2239",
+		"Title": "FOREIGN POLICY AND DIPLOMACY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "281",
+		"Faculty": "ARTS",
+		"Code": "PS2240",
+		"Title": "INTRODUCTION TO PUBLIC ADMINISTRATION",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "282",
+		"Faculty": "ARTS",
+		"Code": "PS2244",
+		"Title": "PUBLIC ADMINISTRATION IN SINGAPORE",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "283",
+		"Faculty": "ARTS",
+		"Code": "PS2245",
+		"Title": "SOUTHEAST ASIAN POLITICS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "284",
+		"Faculty": "ARTS",
+		"Code": "PS2248",
+		"Title": "CHINESE POLITICS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "285",
+		"Faculty": "ARTS",
+		"Code": "PS2249",
+		"Title": "GOVERNMENT AND POLITICS OF SINGAPORE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "286",
+		"Faculty": "ARTS",
+		"Code": "PS3232",
+		"Title": "DEMOCRATIC THEORY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "287",
+		"Faculty": "ARTS",
+		"Code": "PS3249",
+		"Title": "SINGAPORE'S FOREIGN POLICY",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "288",
+		"Faculty": "ARTS",
+		"Code": "PS3257",
+		"Title": "POLITICAL INQUIRY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "289",
+		"Faculty": "ARTS",
+		"Code": "PS3258",
+		"Title": "RESEARCH METHODS IN POLITICAL SCIENCE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "290",
+		"Faculty": "ARTS",
+		"Code": "PS3262",
+		"Title": "MANAGING NON-PROFIT ORGANISATIONS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "291",
+		"Faculty": "ARTS",
+		"Code": "PS3263",
+		"Title": "COMPARATIVE STUDY OF DEVELOPMENT",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "292",
+		"Faculty": "ARTS",
+		"Code": "PS3265",
+		"Title": "CIVIL-MILITARY RELATIONS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "293",
+		"Faculty": "ARTS",
+		"Code": "PS3266",
+		"Title": "POLITICS, MUSIC AND SOCIETY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "294",
+		"Faculty": "ARTS",
+		"Code": "PS3880H",
+		"Title": "THE POLITICS OF EUROPEAN INTEGRATION",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "295",
+		"Faculty": "ARTS",
+		"Code": "PS4202",
+		"Title": "POLITICAL PARTIES AND ELECTIONS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "296",
+		"Faculty": "ARTS",
+		"Code": "PS4209",
+		"Title": "PUBLIC ORGANISATION THEORY AND PRACTICE",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "297",
+		"Faculty": "ARTS",
+		"Code": "PS4218",
+		"Title": "EUROPEAN FOREIGN POLICY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "298",
+		"Faculty": "ARTS",
+		"Code": "PS4220",
+		"Title": "RHETORIC AND POLITICS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "299",
+		"Faculty": "ARTS",
+		"Code": "PS4225",
+		"Title": "CONTEMPORARY ISSUES IN CHINESE POLITICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "300",
+		"Faculty": "ARTS",
+		"Code": "PS4882D",
+		"Title": "TOPICS IN IR: POLITICS OF GLOBAL MIGRATION",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "301",
+		"Faculty": "ARTS",
+		"Code": "PS4882I",
+		"Title": "TOPICS IN IR: INTERNATIONAL SOCIETY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "302",
+		"Faculty": "ARTS",
+		"Code": "PS4883A",
+		"Title": "TOPICS IN PT: ORIENTALISM AND FEMININITY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "303",
+		"Faculty": "ARTS",
+		"Code": "PS4883B",
+		"Title": "TOPICS IN PT: THE ENLIGHTENMENT",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "304",
+		"Faculty": "ARTS",
+		"Code": "PS4884C",
+		"Title": "*",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "305",
+		"Faculty": "ARTS",
+		"Code": "SC1101E",
+		"Title": "MAKING SENSE OF SOCIETY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "306",
+		"Faculty": "ARTS",
+		"Code": "SC2101",
+		"Title": "METHODS OF SOCIAL RESEARCH",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "307",
+		"Faculty": "ARTS",
+		"Code": "SC2202",
+		"Title": "SOCIOLOGY OF WORK",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "308",
+		"Faculty": "ARTS",
+		"Code": "SC2204",
+		"Title": "SOCIAL INEQUALITIES : WHO GETS AHEAD?",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "309",
+		"Faculty": "ARTS",
+		"Code": "SC2209",
+		"Title": "MONEY, BUSINESS AND SOCIAL NETWORKS",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "310",
+		"Faculty": "ARTS",
+		"Code": "SC2211",
+		"Title": "MEDICAL SOCIOLOGY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "311",
+		"Faculty": "ARTS",
+		"Code": "SC2212",
+		"Title": "SOCIOLOGY OF DEVIANCE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "312",
+		"Faculty": "ARTS",
+		"Code": "SC2214",
+		"Title": "MEDIA AND CULTURE",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "313",
+		"Faculty": "ARTS",
+		"Code": "SC2215",
+		"Title": "THE SOCIOLOGY OF FOOD",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "314",
+		"Faculty": "ARTS",
+		"Code": "SC2220",
+		"Title": "GENDER STUDIES",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "315",
+		"Faculty": "ARTS",
+		"Code": "SC2221",
+		"Title": "ENVIRONMENT AND SOCIETY",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "316",
+		"Faculty": "ARTS",
+		"Code": "SC3101",
+		"Title": "SOCIAL THOUGHT & SOCIAL THEORY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "317",
+		"Faculty": "ARTS",
+		"Code": "SC3203",
+		"Title": "RACE AND ETHNIC RELATIONS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "318",
+		"Faculty": "ARTS",
+		"Code": "SC3206",
+		"Title": "URBAN SOCIOLOGY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "319",
+		"Faculty": "ARTS",
+		"Code": "SC3208",
+		"Title": "RELIGION IN SOCIETY & CULTURE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "320",
+		"Faculty": "ARTS",
+		"Code": "SC3211",
+		"Title": "SCIENCE, TECHNOLOGY & SOCIETY",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "321",
+		"Faculty": "ARTS",
+		"Code": "SC3213",
+		"Title": "ETHNOGRAPHIC ANALYSIS OF VISUAL MEDIA",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "322",
+		"Faculty": "ARTS",
+		"Code": "SC3214",
+		"Title": "SOCIOLOGY OF LIFE COURSE AND AGEING",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "323",
+		"Faculty": "ARTS",
+		"Code": "SC3216",
+		"Title": "SELF AND SOCIETY",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "324",
+		"Faculty": "ARTS",
+		"Code": "SC3219",
+		"Title": "SEXUALITY IN COMPARATIVE PERSPECTIVE",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "325",
+		"Faculty": "ARTS",
+		"Code": "SC3222",
+		"Title": "SOCIAL TRANSFORMATIONS IN MODERN CHINA",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "326",
+		"Faculty": "ARTS",
+		"Code": "SC3227",
+		"Title": "MODERNITY AND SOCIAL CHANGE",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "327",
+		"Faculty": "ARTS",
+		"Code": "SC4210",
+		"Title": "SOCIOLOGY OF MIGRATION",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "328",
+		"Faculty": "ARTS",
+		"Code": "SC4218",
+		"Title": "RELIGIONS, SECULARITY, POST-SECULARITY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "329",
+		"Faculty": "ARTS",
+		"Code": "SC4220",
+		"Title": "GENDER, CULTURE AND AGEING",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "330",
+		"Faculty": "ARTS",
+		"Code": "SC4221",
+		"Title": "COMPARATIVE ANALYSIS OF HUMAN RIGHTS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "331",
+		"Faculty": "ARTS",
+		"Code": "SC4222",
+		"Title": "BODY AND SOCIETY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "332",
+		"Faculty": "ARTS",
+		"Code": "SC4223",
+		"Title": "HEALTH AND SOCIAL BEHAVIOUR",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "333",
+		"Faculty": "ARTS",
+		"Code": "SC4225",
+		"Title": "THE SOCIOLOGY OF CITIES AND DEVELOPMENT PLANNING IN ASIA",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "334",
+		"Faculty": "ARTS",
+		"Code": "SC4882B",
+		"Title": "CITIZENSHIP, NATION AND GLOBALIZATION",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "335",
+		"Faculty": "ARTS",
+		"Code": "SCXXX2",
+		"Title": "*",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "336",
+		"Faculty": "ARTS",
+		"Code": "SE1101E",
+		"Title": "SOUTHEAST ASIA: A CHANGING REGION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "337",
+		"Faculty": "ARTS",
+		"Code": "SE2210",
+		"Title": "POPULAR CULTURE IN SOUTHEAST ASIA",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "338",
+		"Faculty": "ARTS",
+		"Code": "SE2217",
+		"Title": "WAR AND SOUTHEAST ASIA",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "339",
+		"Faculty": "ARTS",
+		"Code": "SE2223",
+		"Title": "DOING RESEARCH IN SOUTHEAST ASIAN STUDIES",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "340",
+		"Faculty": "ARTS",
+		"Code": "SE2226",
+		"Title": "MORO PEOPLES OF THE PHILIPPINES",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "341",
+		"Faculty": "ARTS",
+		"Code": "SE3216",
+		"Title": "MIGRATION AND DIASPORA IN SOUTHEAST ASIA",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "342",
+		"Faculty": "ARTS",
+		"Code": "SE3218",
+		"Title": "INDUSTRIALISING SINGAPORE AND SE ASIA",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "343",
+		"Faculty": "ARTS",
+		"Code": "SE3220",
+		"Title": "COUNTRY STUDIES: MAINLAND SOUTHEAST ASIA",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "344",
+		"Faculty": "ARTS",
+		"Code": "SE5221",
+		"Title": "SOUTHEAST ASIAN CULTURAL LANDSCAPES",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "345",
+		"Faculty": "ARTS",
+		"Code": "SE5221R",
+		"Title": "SOUTHEAST ASIAN CULTURAL LANDSCAPE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "346",
+		"Faculty": "ARTS",
+		"Code": "SE5233",
+		"Title": "ECONOMIES OF SOUTHEAST ASIA",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "347",
+		"Faculty": "ARTS",
+		"Code": "SE5233R",
+		"Title": "ECONOMIES OF SOUTHEAST ASIA",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "348",
+		"Faculty": "ARTS",
+		"Code": "SE5241",
+		"Title": "COUNTRY STUDIES: MAINLAND SOUTHEAST ASIA",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "349",
+		"Faculty": "ARTS",
+		"Code": "SE5241R",
+		"Title": "COUNTRY STUDIES: MAINLAND SOUTHEAST ASIA",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "350",
+		"Faculty": "ARTS",
+		"Code": "SE6233",
+		"Title": "ECONOMIC DEVELOPMENT ISSUES IN SE ASIA",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "351",
+		"Faculty": "ARTS",
+		"Code": "SN1101E",
+		"Title": "SOUTH ASIA : PEOPLE, CULTURE, DEVELOP'M",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "352",
+		"Faculty": "ARTS",
+		"Code": "SN2232",
+		"Title": "SOUTH ASIA:POVERTY, INEQUALITY, POWER",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "353",
+		"Faculty": "ARTS",
+		"Code": "SN2233",
+		"Title": "GLOBALIZING INDIA: THE POLITICS OF ECONOMIC CHANGE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "354",
+		"Faculty": "ARTS",
+		"Code": "SN2271",
+		"Title": "RELIGION AND SOCIETY IN SOUTH ASIA",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "355",
+		"Faculty": "ARTS",
+		"Code": "SN2277",
+		"Title": "INDIAN COMMUNITIES IN SOUTHEAST ASIA",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "356",
+		"Faculty": "ARTS",
+		"Code": "SN3262",
+		"Title": "THE STRUGGLE FOR INDIA, 1920-1964",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "357",
+		"Faculty": "ARTS",
+		"Code": "SN3272",
+		"Title": "ISSUES IN INDIAN PHILOSOPHY",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "358",
+		"Faculty": "ARTS",
+		"Code": "SN3274",
+		"Title": "SOUTH ASIAN CINEMA",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "359",
+		"Faculty": "ARTS",
+		"Code": "SN3275",
+		"Title": "TAMIL STUDIES II",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "360",
+		"Faculty": "ARTS",
+		"Code": "SN5101",
+		"Title": "SOUTH ASIAN BIBLIOGRAPHY",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "361",
+		"Faculty": "ARTS",
+		"Code": "SSA1201",
+		"Title": "SINGAPORE SOCIETY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "362",
+		"Faculty": "ARTS",
+		"Code": "SSA1202",
+		"Title": "SOUTHEAST ASIA: A CHANGING REGION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "363",
+		"Faculty": "ARTS",
+		"Code": "SSA1207",
+		"Title": "SINGAPORE LITERATURE IN ENGLISH: SELECTED TEXTS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "364",
+		"Faculty": "ARTS",
+		"Code": "SSA1208",
+		"Title": "EVERYDAY LIFE OF CHINESE SINGAPOREANS: PAST & PRESENT (TAUGHT IN ENGLISH)",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "365",
+		"Faculty": "ARTS",
+		"Code": "SSA2202",
+		"Title": "CHANGING LANDSCAPES OF SINGAPORE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "366",
+		"Faculty": "ARTS",
+		"Code": "SSA2203",
+		"Title": "CHINESE BUSINESSES IN SINGAPORE & BEYOND",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "367",
+		"Faculty": "ARTS",
+		"Code": "SSA2204",
+		"Title": "NATION-BUILDING IN SINGAPORE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "368",
+		"Faculty": "ARTS",
+		"Code": "SSA2205",
+		"Title": "JAPAN AND SINGAPORE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "369",
+		"Faculty": "ARTS",
+		"Code": "SSA2208",
+		"Title": "SINGAPORE'S MILITARY HISTORY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "370",
+		"Faculty": "ARTS",
+		"Code": "SSA2209",
+		"Title": "GOVERNMENT AND POLITICS OF SINGAPORE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "371",
+		"Faculty": "ARTS",
+		"Code": "SSA2214",
+		"Title": "SINGAPORE AND INDIA: EMERGING RELATIONS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "372",
+		"Faculty": "ARTS",
+		"Code": "SSA2215",
+		"Title": "THE BIOPHYSICAL ENVIRONMENT OF SINGAPORE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "373",
+		"Faculty": "ARTS",
+		"Code": "SSA2220",
+		"Title": "GLOBAL ECONOMIC DIMENSIONS OF SINGAPORE",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "374",
+		"Faculty": "ARTS",
+		"Code": "SSA2222",
+		"Title": "PUBLIC ADMINISTRATION IN SINGAPORE",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "375",
+		"Faculty": "ARTS",
+		"Code": "SSA3201",
+		"Title": "SINGAPORE ENGLISH-LANGUAGE THEATRE",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "376",
+		"Faculty": "ARTS",
+		"Code": "SSA3203",
+		"Title": "THE MALAYS OF SINGAPORE",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "377",
+		"Faculty": "ARTS",
+		"Code": "SSA3205",
+		"Title": "SINGAPORE'S FOREIGN POLICY",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "378",
+		"Faculty": "ARTS",
+		"Code": "SW1101E",
+		"Title": "SOCIAL WORK: A HEART-HEAD-HAND CONNECTION",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "379",
+		"Faculty": "ARTS",
+		"Code": "SW2101",
+		"Title": "WORKING WITH INDIVIDUALS AND FAMILIES",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "380",
+		"Faculty": "ARTS",
+		"Code": "SW2104",
+		"Title": "HUMAN DEVELOPMENT OVER THE LIFESPAN",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "381",
+		"Faculty": "ARTS",
+		"Code": "SW2105",
+		"Title": "RELATIONSHIP SKILLS & SOCIAL WORK",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "382",
+		"Faculty": "ARTS",
+		"Code": "SW2106",
+		"Title": "SOCIAL GROUP WORK PRACTICE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "383",
+		"Faculty": "ARTS",
+		"Code": "SW3101",
+		"Title": "SOCIAL WORK RESEARCH METHODS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "384",
+		"Faculty": "ARTS",
+		"Code": "SW3213",
+		"Title": "WORKING WITH OLDER ADULTS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "385",
+		"Faculty": "ARTS",
+		"Code": "SW3216",
+		"Title": "URBAN YOUTH WORK",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "386",
+		"Faculty": "ARTS",
+		"Code": "SW3217",
+		"Title": "MENTAL HEALTH AND ILLNESS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "387",
+		"Faculty": "ARTS",
+		"Code": "SW3219",
+		"Title": "CHILD-CENTRIC SOCIAL WORK",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "388",
+		"Faculty": "ARTS",
+		"Code": "SW4213",
+		"Title": "SOCIAL NETWORKS & SOCIAL SUPPORT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "389",
+		"Faculty": "ARTS",
+		"Code": "SW4214",
+		"Title": "COMPARATIVE SOCIAL SERVICE SYSTEMS IN SEA",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "390",
+		"Faculty": "ARTS",
+		"Code": "SW4216",
+		"Title": "ADVANCED STUDIES IN COMMUNITY WORK",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "391",
+		"Faculty": "ARTS",
+		"Code": "SW5106",
+		"Title": "SOCIAL POLICY AND WELFARE SERVICES",
+		"Date": "TBA",
+		"Time": ""
+	},
+	{
+		"S/No": "392",
+		"Faculty": "ARTS",
+		"Code": "SW5213",
+		"Title": "PRACTICE WITH PERSONS WITH DISABILITY",
+		"Date": "TBA",
+		"Time": ""
+	},
+	{
+		"S/No": "393",
+		"Faculty": "ARTS",
+		"Code": "SW5253",
+		"Title": "VOLUNTEER MANAGEMENT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "394",
+		"Faculty": "ARTS",
+		"Code": "SW5253R",
+		"Title": "VOLUNTEER MANAGEMENT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "395",
+		"Faculty": "ARTS",
+		"Code": "SWD5102",
+		"Title": "SOCIAL WORK WITH GROUPS AND COMMUNITY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "396",
+		"Faculty": "ARTS",
+		"Code": "SWD5104",
+		"Title": "HUMAN AND SOCIAL DEVELOPMENT",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "397",
+		"Faculty": "ARTS",
+		"Code": "SWD5263",
+		"Title": "FAMILY CENTRED PRACTICE",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "398",
+		"Faculty": "ARTS",
+		"Code": "TS1101E",
+		"Title": "INTRODUCTION TO THEATRE AND DRAMA",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "399",
+		"Faculty": "ARTS",
+		"Code": "TS2217",
+		"Title": "INTRODUCTION TO PERFORMANCE STUDIES",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "400",
+		"Faculty": "ARTS",
+		"Code": "TS2236",
+		"Title": "CROSSING BOUNDARIES IN PERFORMANCE",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "401",
+		"Faculty": "ARTS",
+		"Code": "TS2240",
+		"Title": "VOICE STUDIES AND PRODUCTION",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "402",
+		"Faculty": "ARTS",
+		"Code": "TS3233",
+		"Title": "SOUTHEAST ASIAN PERFORMANCE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "403",
+		"Faculty": "ARTS",
+		"Code": "TS3234",
+		"Title": "PERFORMANCE AND POPULAR CULTURE",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "404",
+		"Faculty": "ARTS",
+		"Code": "TS3235",
+		"Title": "SINGAPORE ENGLISH-LANGUAGE THEATRE",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "405",
+		"Faculty": "ARTS",
+		"Code": "TS3243",
+		"Title": "STAGE AND SCREEN",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "406",
+		"Faculty": "ARTS",
+		"Code": "TS3246",
+		"Title": "SHAKESPEARE AND ASIAN PERFORMANCES",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "407",
+		"Faculty": "ARTS",
+		"Code": "TS4213",
+		"Title": "STYLISTICS OF DRAMA",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "408",
+		"Faculty": "ARTS",
+		"Code": "TS4217",
+		"Title": "CULTURAL PERFORMANCE IN ASIA",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "409",
+		"Faculty": "ARTS",
+		"Code": "TS4880B",
+		"Title": "APPLIED THEATRE",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "410",
+		"Faculty": "BIZ",
+		"Code": "ACC1002",
+		"Title": "FINANCIAL ACCOUNTING",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "411",
+		"Faculty": "BIZ",
+		"Code": "ACC1002X",
+		"Title": "FINANCIAL ACCOUNTING",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "412",
+		"Faculty": "BIZ",
+		"Code": "ACC1006",
+		"Title": "ACCOUNTING INFORMATION SYSTEMS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "413",
+		"Faculty": "BIZ",
+		"Code": "ACC2002",
+		"Title": "MANAGERIAL ACCOUNTING",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "414",
+		"Faculty": "BIZ",
+		"Code": "ACC3601",
+		"Title": "CORPORATE ACCOUNTING AND REPORTING",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "415",
+		"Faculty": "BIZ",
+		"Code": "ACC3602",
+		"Title": "MANAGERIAL PLANNING AND CONTROL",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "416",
+		"Faculty": "BIZ",
+		"Code": "ACC3603",
+		"Title": "ASSURANCE AND ATTESTATION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "417",
+		"Faculty": "BIZ",
+		"Code": "ACC3604",
+		"Title": "CORPORATE AND SECURITIES LAW",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "418",
+		"Faculty": "BIZ",
+		"Code": "ACC3605",
+		"Title": "TAXATION",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "419",
+		"Faculty": "BIZ",
+		"Code": "ACC3606",
+		"Title": "ADVANCED CORPORATE ACCOUNTING AND REPORTING",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "420",
+		"Faculty": "BIZ",
+		"Code": "ACC3611",
+		"Title": "CORPORATE GOVERNANCE AND ETHICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "421",
+		"Faculty": "BIZ",
+		"Code": "ACC3612",
+		"Title": "RISK MANAGEMENT AND INTERNAL CONTROL",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "422",
+		"Faculty": "BIZ",
+		"Code": "ACC3613",
+		"Title": "ADVANCED ASSURANCE AND ATTESTATION",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "423",
+		"Faculty": "BIZ",
+		"Code": "ACC3614",
+		"Title": "VALUATION",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "424",
+		"Faculty": "BIZ",
+		"Code": "ACC3615",
+		"Title": "ACCOUNTING THEORY",
+		"Date": "10/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "425",
+		"Faculty": "BIZ",
+		"Code": "BSP1004",
+		"Title": "LEGAL ENVIRONMENT OF BUSINESS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "426",
+		"Faculty": "BIZ",
+		"Code": "BSP1004X",
+		"Title": "LEGAL ENVIRONMENT OF BUSINESS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "427",
+		"Faculty": "BIZ",
+		"Code": "BSP1005",
+		"Title": "MANAGERIAL ECONOMICS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "428",
+		"Faculty": "BIZ",
+		"Code": "BSP2001",
+		"Title": "MACRO AND INTERNATIONAL ECONOMICS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "429",
+		"Faculty": "BIZ",
+		"Code": "BSP2005",
+		"Title": "ASIAN BUSINESS ENVIRONMENTS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "430",
+		"Faculty": "BIZ",
+		"Code": "DSC1007",
+		"Title": "BUSINESS ANALYTICS - MODELS & DECISIONS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "431",
+		"Faculty": "BIZ",
+		"Code": "DSC1007X",
+		"Title": "BUSINESS ANALYTICS - MODELS & DECISIONS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "432",
+		"Faculty": "BIZ",
+		"Code": "DSC2006",
+		"Title": "OPERATIONS MANAGEMENT",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "433",
+		"Faculty": "BIZ",
+		"Code": "DSC2008",
+		"Title": "BUSINESS ANALYTICS - DATA & DECISIONS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "434",
+		"Faculty": "BIZ",
+		"Code": "DSC3201",
+		"Title": "SUPPLY CHAIN MANAGEMENT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "435",
+		"Faculty": "BIZ",
+		"Code": "FIN2004",
+		"Title": "FINANCE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "436",
+		"Faculty": "BIZ",
+		"Code": "FIN2004X",
+		"Title": "FINANCE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "437",
+		"Faculty": "BIZ",
+		"Code": "FIN3117",
+		"Title": "BANK MANAGEMENT",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "438",
+		"Faculty": "BIZ",
+		"Code": "HR2002",
+		"Title": "HUMAN CAPITAL IN ORGANIZATIONS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "439",
+		"Faculty": "BIZ",
+		"Code": "MKT1003X",
+		"Title": "MARKETING",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "440",
+		"Faculty": "BIZ",
+		"Code": "MNO1001X",
+		"Title": "MANAGEMENT AND ORGANISATION",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "441",
+		"Faculty": "BIZ",
+		"Code": "SSB1204",
+		"Title": "LABOUR LAW IN SINGAPORE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "442",
+		"Faculty": "BIZ",
+		"Code": "TR2201",
+		"Title": "ENTREPRENEURIAL MARKETING",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "443",
+		"Faculty": "BIZ",
+		"Code": "TR2202",
+		"Title": "TECHNOLOGICAL INNOVATION",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "444",
+		"Faculty": "ENG",
+		"Code": "BN2201",
+		"Title": "QUANTITATIVE PHYSIOLOGY FOR BIOENGINEERS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "445",
+		"Faculty": "ENG",
+		"Code": "BN2401",
+		"Title": "BIOSIGNALS PROCESSING",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "446",
+		"Faculty": "ENG",
+		"Code": "BN3401",
+		"Title": "BIOMEDICAL ELECTRONICS & SYSTEMS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "447",
+		"Faculty": "ENG",
+		"Code": "BN3501",
+		"Title": "EQUILIBRIUM AND KINETIC BIOPROCESSES",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "448",
+		"Faculty": "ENG",
+		"Code": "BN4201",
+		"Title": "MUSCULOSKELETAL BIOMECHANICS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "449",
+		"Faculty": "ENG",
+		"Code": "BN4203",
+		"Title": "REHABILITATION ENGINEERING",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "450",
+		"Faculty": "ENG",
+		"Code": "BN4402",
+		"Title": "ELECTROPHYSIOLOGY",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "451",
+		"Faculty": "ENG",
+		"Code": "BN4404",
+		"Title": "BIOELECTROMECHANICAL SYSTEMS - BIOMEMS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "452",
+		"Faculty": "ENG",
+		"Code": "BN5102",
+		"Title": "ENGINEERING PRINCIPLES IN MEDICINE II",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "453",
+		"Faculty": "ENG",
+		"Code": "BN5201",
+		"Title": "ADVANCED BIOMATERIALS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "454",
+		"Faculty": "ENG",
+		"Code": "BN5203",
+		"Title": "ADVANCED TISSUE ENGINEERING",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "455",
+		"Faculty": "ENG",
+		"Code": "CE2112",
+		"Title": "SOIL MECHANICS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "456",
+		"Faculty": "ENG",
+		"Code": "CE2183",
+		"Title": "CONSTRUCTION PROJECT MANAGEMENT",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "457",
+		"Faculty": "ENG",
+		"Code": "CE3116",
+		"Title": "FOUNDATION ENGINEERING",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "458",
+		"Faculty": "ENG",
+		"Code": "CE3132",
+		"Title": "WATER RESOURCES ENGINEERING",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "459",
+		"Faculty": "ENG",
+		"Code": "CE3155",
+		"Title": "STRUCTURAL ANALYSIS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "460",
+		"Faculty": "ENG",
+		"Code": "CE3165",
+		"Title": "STRUCTURAL CONCRETE DESIGN",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "461",
+		"Faculty": "ENG",
+		"Code": "CE4221",
+		"Title": "DESIGN OF LAND TRANSPORT INFRASTRUCTURES",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "462",
+		"Faculty": "ENG",
+		"Code": "CE4231",
+		"Title": "EARTH'S CLIMATE: SCIENCE & MODELLING",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "463",
+		"Faculty": "ENG",
+		"Code": "CE4258",
+		"Title": "STRUCTURAL STABILITY & DYNAMICS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "464",
+		"Faculty": "ENG",
+		"Code": "CE5105",
+		"Title": "ANALYTICAL & NUMERICAL METHODS IN FOUNDATION ENGINEERING",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "465",
+		"Faculty": "ENG",
+		"Code": "CE5106",
+		"Title": "GROUND IMPROVEMENT",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "466",
+		"Faculty": "ENG",
+		"Code": "CE5107",
+		"Title": "PILE FOUNDATIONS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "467",
+		"Faculty": "ENG",
+		"Code": "CE5112",
+		"Title": "STRUCTURAL SUPPORT SYSTEMS FOR EXCAVATION",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "468",
+		"Faculty": "ENG",
+		"Code": "CE5207",
+		"Title": "PAVEMENT NETWORK MANAGEMENT SYSTEMS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "469",
+		"Faculty": "ENG",
+		"Code": "CE5308",
+		"Title": "COASTAL PROCESSES & SEDIMENT TRANSPORT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "470",
+		"Faculty": "ENG",
+		"Code": "CE5603",
+		"Title": "ENGINEERING ECONOMICS & PROJECT EVALUATION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "471",
+		"Faculty": "ENG",
+		"Code": "CE5604",
+		"Title": "ADVANCED CONCRETE TECHNOLOGY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "472",
+		"Faculty": "ENG",
+		"Code": "CE5611",
+		"Title": "PRECAST CONCRETE TECHNOLOGY",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "473",
+		"Faculty": "ENG",
+		"Code": "CE5805",
+		"Title": "CONSTRUCTION EQUIPMENT & METHODS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "474",
+		"Faculty": "ENG",
+		"Code": "CE5881",
+		"Title": "TOPICS IN GEOTECHNICAL ENGINEERING: SOIL DYNAMICS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "475",
+		"Faculty": "ENG",
+		"Code": "CE5883A",
+		"Title": "TOPICS IN HYDRAULIC & WATER RESOURCES - ENVIRONMENTAL HYDRAULICS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "476",
+		"Faculty": "ENG",
+		"Code": "CE6002",
+		"Title": "ANALYSIS OF CIVIL ENGINEERING EXPERIMENTS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "477",
+		"Faculty": "ENG",
+		"Code": "CE6006",
+		"Title": "ADVANCED FINITE ELEMENT ANALYSIS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "478",
+		"Faculty": "ENG",
+		"Code": "CE6102",
+		"Title": "GEOTECHNICAL ANALYSIS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "479",
+		"Faculty": "ENG",
+		"Code": "CG1108",
+		"Title": "ELECTRICAL ENGINEERING",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "480",
+		"Faculty": "ENG",
+		"Code": "CN1111",
+		"Title": "CHEMICAL ENGINEERING PRINCIPLES",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "481",
+		"Faculty": "ENG",
+		"Code": "CN1111E",
+		"Title": "CHEMICAL ENGINEERING PRINCIPLES",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "482",
+		"Faculty": "ENG",
+		"Code": "CN2116",
+		"Title": "CHEMICAL KINETICS & REACTOR DESIGN",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "483",
+		"Faculty": "ENG",
+		"Code": "CN2116E",
+		"Title": "CHEMICAL KINETICS AND REACTOR DESIGN",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "484",
+		"Faculty": "ENG",
+		"Code": "CN2121",
+		"Title": "CHEMICAL ENGINEERING THERMODYNAMICS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "485",
+		"Faculty": "ENG",
+		"Code": "CN2122",
+		"Title": "FLUID MECHANICS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "486",
+		"Faculty": "ENG",
+		"Code": "CN2125",
+		"Title": "HEAT & MASS TRANSFER",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "487",
+		"Faculty": "ENG",
+		"Code": "CN2125E",
+		"Title": "HEAT AND MASS TRANSFER",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "488",
+		"Faculty": "ENG",
+		"Code": "CN3124",
+		"Title": "FLUID-SOLID SYSTEMS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "489",
+		"Faculty": "ENG",
+		"Code": "CN3124E",
+		"Title": "PARTICLE TECHNOLOGY",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "490",
+		"Faculty": "ENG",
+		"Code": "CN3132",
+		"Title": "SEPARATION PROCESSES",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "491",
+		"Faculty": "ENG",
+		"Code": "CN3135",
+		"Title": "PROCESS SAFETY, HEALTH AND ENVIRONMENT",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "492",
+		"Faculty": "ENG",
+		"Code": "CN3421",
+		"Title": "PROCESS MODELING AND NUMERICAL SIMULATION",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "493",
+		"Faculty": "ENG",
+		"Code": "CN4122",
+		"Title": "PROCESS SYNTHESIS AND SIMULATION",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "494",
+		"Faculty": "ENG",
+		"Code": "CN4201R",
+		"Title": "PETROLEUM REFINING",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "495",
+		"Faculty": "ENG",
+		"Code": "CN4203R",
+		"Title": "POLYMER ENGINEERING",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "496",
+		"Faculty": "ENG",
+		"Code": "CN4208E",
+		"Title": "BIOCHEMICAL ENGINEERING",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "497",
+		"Faculty": "ENG",
+		"Code": "CN4210E",
+		"Title": "MEMBRANE SCIENCE AND ENGINEERING",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "498",
+		"Faculty": "ENG",
+		"Code": "CN4223R",
+		"Title": "MICROELECTRONIC THIN FILMS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "499",
+		"Faculty": "ENG",
+		"Code": "CN4227E",
+		"Title": "ADVANCED PROCESS CONTROL",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "500",
+		"Faculty": "ENG",
+		"Code": "CN4227R",
+		"Title": "ADVANCED PROCESS CONTROL",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "501",
+		"Faculty": "ENG",
+		"Code": "CN4240R",
+		"Title": "PROCESSES FOR EFFLUENT CONTROL",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "502",
+		"Faculty": "ENG",
+		"Code": "CN4246R",
+		"Title": "CHEMICAL AND BIO CATALYSIS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "503",
+		"Faculty": "ENG",
+		"Code": "CN5040",
+		"Title": "ADVANCED TRANSPORT PHENOMENA",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "504",
+		"Faculty": "ENG",
+		"Code": "CN5050",
+		"Title": "ADVANCED SEPARATION PROCESSES",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "505",
+		"Faculty": "ENG",
+		"Code": "CN5131",
+		"Title": "COLLOIDS & SURFACES",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "506",
+		"Faculty": "ENG",
+		"Code": "CN5161",
+		"Title": "POLYMER PROCESSING ENGINEERING",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "507",
+		"Faculty": "ENG",
+		"Code": "CN5173",
+		"Title": "DOWNSTREAM PROCESSING OF BIOCHEMICAL & PHARMACEUTICAL PRODUCTS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "508",
+		"Faculty": "ENG",
+		"Code": "CN5193",
+		"Title": "INSTRUMENTAL METHODS OF ANALYSIS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "509",
+		"Faculty": "ENG",
+		"Code": "CN6163",
+		"Title": "INORGANIC NANOMATERIALS FOR SUSTAINABILITY",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "510",
+		"Faculty": "ENG",
+		"Code": "EE2011",
+		"Title": "ENGINEERING ELECTROMAGNETICS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "511",
+		"Faculty": "ENG",
+		"Code": "EE2011E",
+		"Title": "ENGINEERING ELECTROMAGNETICS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "512",
+		"Faculty": "ENG",
+		"Code": "EE2012",
+		"Title": "ANALYTICAL METHODS IN ECE",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "513",
+		"Faculty": "ENG",
+		"Code": "EE2021",
+		"Title": "DEVICES AND CIRCUITS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "514",
+		"Faculty": "ENG",
+		"Code": "EE2021E",
+		"Title": "DEVICES AND CIRCUITS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "515",
+		"Faculty": "ENG",
+		"Code": "EE2022",
+		"Title": "ELECTRICAL ENERGY SYSTEMS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "516",
+		"Faculty": "ENG",
+		"Code": "EE2023",
+		"Title": "SIGNALS AND SYSTEMS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "517",
+		"Faculty": "ENG",
+		"Code": "EE2024",
+		"Title": "PROGRAMMING FOR COMPUTER INTERFACES",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "518",
+		"Faculty": "ENG",
+		"Code": "EE3104C",
+		"Title": "INTRO TO RF AND MICROWAVE SYS & CIRCUITS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "519",
+		"Faculty": "ENG",
+		"Code": "EE3131C",
+		"Title": "COMMUNICATION SYSTEMS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "520",
+		"Faculty": "ENG",
+		"Code": "EE3304",
+		"Title": "DIGITAL CONTROL SYSTEMS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "521",
+		"Faculty": "ENG",
+		"Code": "EE3331C",
+		"Title": "FEEDBACK CONTROL SYSTEMS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "522",
+		"Faculty": "ENG",
+		"Code": "EE3407",
+		"Title": "ANALOG ELECTRONICS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "523",
+		"Faculty": "ENG",
+		"Code": "EE3407E",
+		"Title": "ANALOG ELECTRONICS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "524",
+		"Faculty": "ENG",
+		"Code": "EE3431C",
+		"Title": "MICROELECTRONICS MATERIALS AND DEVICES",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "525",
+		"Faculty": "ENG",
+		"Code": "EE3431E",
+		"Title": "MICROELECTRONICS MATERIALS AND DEVICES",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "526",
+		"Faculty": "ENG",
+		"Code": "EE3501C",
+		"Title": "POWER ELECTRONICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "527",
+		"Faculty": "ENG",
+		"Code": "EE3501E",
+		"Title": "POWER ELECTRONICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "528",
+		"Faculty": "ENG",
+		"Code": "EE4104",
+		"Title": "MICROWAVE CIRCUITS & DEVICES",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "529",
+		"Faculty": "ENG",
+		"Code": "EE4112E",
+		"Title": "HIGH FREQUENCY (HF) TECHNIQUES",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "530",
+		"Faculty": "ENG",
+		"Code": "EE4114",
+		"Title": "OPTICAL COMMUNICATIONS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "531",
+		"Faculty": "ENG",
+		"Code": "EE4210",
+		"Title": "COMPUTER COMMUNICATION NETWORKS II",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "532",
+		"Faculty": "ENG",
+		"Code": "EE4210E",
+		"Title": "COMPUTER COMMUNICATIONS NETWORKS II",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "533",
+		"Faculty": "ENG",
+		"Code": "EE4212",
+		"Title": "COMPUTER VISION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "534",
+		"Faculty": "ENG",
+		"Code": "EE4213",
+		"Title": "IMAGE AND VIDEO PROCESSING",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "535",
+		"Faculty": "ENG",
+		"Code": "EE4218",
+		"Title": "EMBEDDED HARDWARE SYSTEM DESIGN",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "536",
+		"Faculty": "ENG",
+		"Code": "EE4302",
+		"Title": "ADVANCED CONTROL SYSTEMS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "537",
+		"Faculty": "ENG",
+		"Code": "EE4401",
+		"Title": "OPTOELECTRONICS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "538",
+		"Faculty": "ENG",
+		"Code": "EE4408",
+		"Title": "SILICON DEVICE RELIABILITY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "539",
+		"Faculty": "ENG",
+		"Code": "EE4415",
+		"Title": "INTEGRATED DIGITAL DESIGN",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "540",
+		"Faculty": "ENG",
+		"Code": "EE4415E",
+		"Title": "INTEGRATED DIGITAL DESIGN",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "541",
+		"Faculty": "ENG",
+		"Code": "EE4431",
+		"Title": "NANO-DEVICE ENGINEERING",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "542",
+		"Faculty": "ENG",
+		"Code": "EE4432",
+		"Title": "DEVICES FOR ELECTRIC ENERGY GENERATION",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "543",
+		"Faculty": "ENG",
+		"Code": "EE4434",
+		"Title": "INTEGRATED CIRCUIT TECHNOLOGY, DESIGN AND TESTING",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "544",
+		"Faculty": "ENG",
+		"Code": "EE4509",
+		"Title": "SILICON MICRO SYSTEMS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "545",
+		"Faculty": "ENG",
+		"Code": "EE4511",
+		"Title": "SUSTAINABLE ENERGY SYSTEMS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "546",
+		"Faculty": "ENG",
+		"Code": "EE4603",
+		"Title": "BIOMEDICAL IMAGING SYSTEMS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "547",
+		"Faculty": "ENG",
+		"Code": "EE5102",
+		"Title": "MULTIVARIABLE CONTROL SYSTEMS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "548",
+		"Faculty": "ENG",
+		"Code": "EE5106R",
+		"Title": "ADVANCED ROBOTICS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "549",
+		"Faculty": "ENG",
+		"Code": "EE5132",
+		"Title": "WIRELESS AND SENSOR NETWORKS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "550",
+		"Faculty": "ENG",
+		"Code": "EE5134",
+		"Title": "OPTICAL NETWORKS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "551",
+		"Faculty": "ENG",
+		"Code": "EE5138R",
+		"Title": "OPTIMIZATION FOR COMMUNICATION SYSTEMS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "552",
+		"Faculty": "ENG",
+		"Code": "EE5201",
+		"Title": "MAGNETIC RECORDING TECHNOLOGY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "553",
+		"Faculty": "ENG",
+		"Code": "EE5402",
+		"Title": "RF CIRCUIT DESIGN I",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "554",
+		"Faculty": "ENG",
+		"Code": "EE5404",
+		"Title": "SATELLITE COMMUNICATIONS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "555",
+		"Faculty": "ENG",
+		"Code": "EE5431R",
+		"Title": "FUNDAMENTALS OF NANOELECTRONICS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "556",
+		"Faculty": "ENG",
+		"Code": "EE5432R",
+		"Title": "MICROELECTRONIC PROCESSES & CHARACTERIZATION",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "557",
+		"Faculty": "ENG",
+		"Code": "EE5433R",
+		"Title": "FUNCTIONAL DEVICES",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "558",
+		"Faculty": "ENG",
+		"Code": "EE5434",
+		"Title": "CMOS PROCESSES AND INTEGRATION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "559",
+		"Faculty": "ENG",
+		"Code": "EE5439",
+		"Title": "MICRO/NANO ELECTROMECHANICAL SYSTEMS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "560",
+		"Faculty": "ENG",
+		"Code": "EE5507R",
+		"Title": "ANALOG INTEGRATED CIRCUITS DESIGN",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "561",
+		"Faculty": "ENG",
+		"Code": "EE5508",
+		"Title": "SEMICONDUCTOR FUNDAMENTALS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "562",
+		"Faculty": "ENG",
+		"Code": "EE5711R",
+		"Title": "MODELLING AND CONTROL OF POWER ELECTRONIC CONVERTERS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "563",
+		"Faculty": "ENG",
+		"Code": "EE5831R",
+		"Title": "ELECTROMAGNETIC WAVE THEORY",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "564",
+		"Faculty": "ENG",
+		"Code": "EE5903",
+		"Title": "REAL-TIME SYSTEMS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "565",
+		"Faculty": "ENG",
+		"Code": "EE5904R",
+		"Title": "NEURAL NETWORKS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "566",
+		"Faculty": "ENG",
+		"Code": "EE5907R",
+		"Title": "PATTERN RECOGNITION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "567",
+		"Faculty": "ENG",
+		"Code": "EE6102",
+		"Title": "MULTIVARIABLE CONTROL SYSTEMS (ADVANCED)",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "568",
+		"Faculty": "ENG",
+		"Code": "EE6130",
+		"Title": "INFORMATION AND CODING THEORY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "569",
+		"Faculty": "ENG",
+		"Code": "EE6134",
+		"Title": "OPTICAL NETWORKS (ADVANCED)",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "570",
+		"Faculty": "ENG",
+		"Code": "EE6135",
+		"Title": "DIGITAL COMMUNICATIONS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "571",
+		"Faculty": "ENG",
+		"Code": "EE6201",
+		"Title": "MAGNETIC RECORDING TECHNOLOGY (ADVANCED)",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "572",
+		"Faculty": "ENG",
+		"Code": "EE6436",
+		"Title": "ADVANCED CHARACTERIZATION OF MATERIALS AND DEVICES",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "573",
+		"Faculty": "ENG",
+		"Code": "EE6438",
+		"Title": "MAGNETIC MATERIALS AND DEVICES",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "574",
+		"Faculty": "ENG",
+		"Code": "EE6439",
+		"Title": "MICRO/NANO ELECTROMECHANICAL SYSTEMS (ADVANCED)",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "575",
+		"Faculty": "ENG",
+		"Code": "EE6901",
+		"Title": "3D VISION",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "576",
+		"Faculty": "ENG",
+		"Code": "EG1108",
+		"Title": "ELECTRICAL ENGINEERING",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "577",
+		"Faculty": "ENG",
+		"Code": "EG1109",
+		"Title": "STATICS AND MECHANICS OF MATERIALS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "578",
+		"Faculty": "ENG",
+		"Code": "EG2401",
+		"Title": "ENGINEERING PROFESSIONALISM",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "579",
+		"Faculty": "ENG",
+		"Code": "ESE2401",
+		"Title": "WATER SCIENCE & TECHNOLOGY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "580",
+		"Faculty": "ENG",
+		"Code": "ESE3001",
+		"Title": "WATER QUALITY ENGINEERING",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "581",
+		"Faculty": "ENG",
+		"Code": "ESE4403",
+		"Title": "MEMBRANE TECH IN ENV APPLNS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "582",
+		"Faculty": "ENG",
+		"Code": "ESE4407",
+		"Title": "ENVIRONMENTAL FORENSICS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "583",
+		"Faculty": "ENG",
+		"Code": "ESE5003",
+		"Title": "ENVIRONMENTAL CHEMICAL PRINCIPLES",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "584",
+		"Faculty": "ENG",
+		"Code": "ESE5401",
+		"Title": "WATER QUALITY MANAGEMENT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "585",
+		"Faculty": "ENG",
+		"Code": "ESE5405",
+		"Title": "WATER TREATMENT PROCESSES",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "586",
+		"Faculty": "ENG",
+		"Code": "ESE5601",
+		"Title": "ENVIRONMENTAL RISK ASSESSMENT",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "587",
+		"Faculty": "ENG",
+		"Code": "ESE5602",
+		"Title": "ENVIRONMENTAL MANAGEMENT SYSTEMS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "588",
+		"Faculty": "ENG",
+		"Code": "ESE5901",
+		"Title": "ENVIRONMENTAL TECHNOLOGY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "589",
+		"Faculty": "ENG",
+		"Code": "ESE6301",
+		"Title": "TOPICS IN ENVIRONMENTAL BIOTECHNOLOGY",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "590",
+		"Faculty": "ENG",
+		"Code": "ESP1104",
+		"Title": "INTRODUCTION TO ELECTRONIC SYSTEMS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "591",
+		"Faculty": "ENG",
+		"Code": "ESP4402",
+		"Title": "TRANSPORT PHENOMENA IN ENERGY SYSTEMS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "592",
+		"Faculty": "ENG",
+		"Code": "GEK1029T",
+		"Title": "MANAGING CHANGE: POWER & PARADOX",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "593",
+		"Faculty": "ENG",
+		"Code": "GEK1513",
+		"Title": "WIRELESS COMMUNICATIONS - PAST, PRESENT AND FUTURE",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "594",
+		"Faculty": "ENG",
+		"Code": "GEK1522",
+		"Title": "GLOBAL ENVIRONMENTAL ISSUES",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "595",
+		"Faculty": "ENG",
+		"Code": "GEK1522T",
+		"Title": "GLOBAL ENVIRONMENTAL ISSUES",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "596",
+		"Faculty": "ENG",
+		"Code": "GEM1915FC",
+		"Title": "TOWARDS AN UNDERSTANDING OF THE COMPLEX WORLD",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "597",
+		"Faculty": "ENG",
+		"Code": "IE2100",
+		"Title": "PROBABILITY MODELS WITH APPLICATIONS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "598",
+		"Faculty": "ENG",
+		"Code": "IE2100E",
+		"Title": "PROBABILITY MODELS WITH APPLICATIONS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "599",
+		"Faculty": "ENG",
+		"Code": "IE2130",
+		"Title": "QUALITY ENGINEERING I",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "600",
+		"Faculty": "ENG",
+		"Code": "IE2130E",
+		"Title": "QUALITY ENGINEERING I",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "601",
+		"Faculty": "ENG",
+		"Code": "IE2140",
+		"Title": "ENGINEERING ECONOMY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "602",
+		"Faculty": "ENG",
+		"Code": "IE2140E",
+		"Title": "ENGINEERING ECONOMY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "603",
+		"Faculty": "ENG",
+		"Code": "IE2150",
+		"Title": "HUMAN FACTORS ENGINEERING",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "604",
+		"Faculty": "ENG",
+		"Code": "IE2150E",
+		"Title": "HUMAN FACTORS ENGINEERING",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "605",
+		"Faculty": "ENG",
+		"Code": "IE4220",
+		"Title": "SUPPLY CHAIN MODELLING",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "606",
+		"Faculty": "ENG",
+		"Code": "IE4220E",
+		"Title": "SUPPLY CHAIN MODELLING",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "607",
+		"Faculty": "ENG",
+		"Code": "IE4230",
+		"Title": "QUALITY ENGINEERING II",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "608",
+		"Faculty": "ENG",
+		"Code": "IE4230E",
+		"Title": "QUALITY ENGINEERING II",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "609",
+		"Faculty": "ENG",
+		"Code": "IE5002",
+		"Title": "APPLIED ENGINEERING STATISTICS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "610",
+		"Faculty": "ENG",
+		"Code": "IE5003",
+		"Title": "COST ANALYSIS AND ENGINEERING ECONOMY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "611",
+		"Faculty": "ENG",
+		"Code": "IE5107",
+		"Title": "MATERIAL FLOW SYSTEMS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "612",
+		"Faculty": "ENG",
+		"Code": "IE5108",
+		"Title": "FACILITY LAYOUT AND LOCATION",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "613",
+		"Faculty": "ENG",
+		"Code": "IE5211",
+		"Title": "NEW PRODUCT MANAGEMENT",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "614",
+		"Faculty": "ENG",
+		"Code": "IE5213",
+		"Title": "SERVICE INNOVATION AND MANAGEMENT",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "615",
+		"Faculty": "ENG",
+		"Code": "IE5401",
+		"Title": "INDUSTRIAL LOGISTICS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "616",
+		"Faculty": "ENG",
+		"Code": "IE5404",
+		"Title": "LARGE SCALE SYSTEMS ENGINEERING",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "617",
+		"Faculty": "ENG",
+		"Code": "IE6001",
+		"Title": "MATHEMATICAL PROGRAMMING FOR ENGINEERING",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "618",
+		"Faculty": "ENG",
+		"Code": "MCH5001",
+		"Title": "POWER ELECTRONICS & APPLICATIONS TOELECTRO-MECHANICAL SYSTEMS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "619",
+		"Faculty": "ENG",
+		"Code": "MCH5002",
+		"Title": "APPLICATIONS OF MECHATRONICS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "620",
+		"Faculty": "ENG",
+		"Code": "MCH5107",
+		"Title": "KINEMATICS AND DYNAMICS OF MECHANISMS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "621",
+		"Faculty": "ENG",
+		"Code": "ME2114",
+		"Title": "MECHANICS OF MATERIALS II",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "622",
+		"Faculty": "ENG",
+		"Code": "ME2114E",
+		"Title": "MECHANICS OF MATERIALS II",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "623",
+		"Faculty": "ENG",
+		"Code": "ME2135",
+		"Title": "FLUID MECHANICS II",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "624",
+		"Faculty": "ENG",
+		"Code": "ME2135E",
+		"Title": "FLUID MECHANICS II",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "625",
+		"Faculty": "ENG",
+		"Code": "ME2143",
+		"Title": "SENSORS & ACTUATORS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "626",
+		"Faculty": "ENG",
+		"Code": "ME2143E",
+		"Title": "SENSORS AND ACTUATORS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "627",
+		"Faculty": "ENG",
+		"Code": "ME3221",
+		"Title": "ENERGY CONVERSION PROCESSES",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "628",
+		"Faculty": "ENG",
+		"Code": "ME3232",
+		"Title": "COMPRESSIBLE FLOW",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "629",
+		"Faculty": "ENG",
+		"Code": "ME3233",
+		"Title": "UNSTEADY FLOW IN FLUID SYSTEMS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "630",
+		"Faculty": "ENG",
+		"Code": "ME3241",
+		"Title": "MICROPROCESSOR APPLICATIONS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "631",
+		"Faculty": "ENG",
+		"Code": "ME3241E",
+		"Title": "MICROPROCESSOR APPLICATIONS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "632",
+		"Faculty": "ENG",
+		"Code": "ME3251",
+		"Title": "MATERIALS FOR ENGINEERS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "633",
+		"Faculty": "ENG",
+		"Code": "ME3251E",
+		"Title": "MATERIALS FOR ENGINEERS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "634",
+		"Faculty": "ENG",
+		"Code": "ME3291",
+		"Title": "NUMERICAL METHODS IN ENGINEERING",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "635",
+		"Faculty": "ENG",
+		"Code": "ME4212",
+		"Title": "AIRCRAFT STRUCTURES",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "636",
+		"Faculty": "ENG",
+		"Code": "ME4213",
+		"Title": "VIBRATION THEORY AND APPLICATIONS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "637",
+		"Faculty": "ENG",
+		"Code": "ME4225",
+		"Title": "INDUSTRIAL HEAT TRANSFER",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "638",
+		"Faculty": "ENG",
+		"Code": "ME4225E",
+		"Title": "INDUSTRIAL HEAT TRANSFER",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "639",
+		"Faculty": "ENG",
+		"Code": "ME4227",
+		"Title": "INTERNAL COMBUSTION ENGINES",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "640",
+		"Faculty": "ENG",
+		"Code": "ME4231",
+		"Title": "AERODYNAMICS AND PROPULSION",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "641",
+		"Faculty": "ENG",
+		"Code": "ME4241",
+		"Title": "AIRCRAFT PERFORMANCE, STABILITY AND CONTROL",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "642",
+		"Faculty": "ENG",
+		"Code": "ME4246",
+		"Title": "LINEAR SYSTEMS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "643",
+		"Faculty": "ENG",
+		"Code": "ME4253",
+		"Title": "BIOMATERIALS ENGINEERING",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "644",
+		"Faculty": "ENG",
+		"Code": "ME4255",
+		"Title": "MATERIALS FAILURE",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "645",
+		"Faculty": "ENG",
+		"Code": "ME4261",
+		"Title": "TOOL ENGINEERING",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "646",
+		"Faculty": "ENG",
+		"Code": "ME4261E",
+		"Title": "TOOL ENGINEERING",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "647",
+		"Faculty": "ENG",
+		"Code": "ME4262",
+		"Title": "AUTOMATION IN MANUFACTURING",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "648",
+		"Faculty": "ENG",
+		"Code": "ME4262E",
+		"Title": "AUTOMATION IN MANUFACTURING",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "649",
+		"Faculty": "ENG",
+		"Code": "ME5103",
+		"Title": "PLATES AND SHELLS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "650",
+		"Faculty": "ENG",
+		"Code": "ME5105",
+		"Title": "SHOCK AND VIBRATION CONTROL",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "651",
+		"Faculty": "ENG",
+		"Code": "ME5205",
+		"Title": "ENERGY ENGINEERING",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "652",
+		"Faculty": "ENG",
+		"Code": "ME5361",
+		"Title": "ADVANCED COMPUTATIONAL FLUID DYNAMICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "653",
+		"Faculty": "ENG",
+		"Code": "ME5402",
+		"Title": "ADVANCED ROBOTICS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "654",
+		"Faculty": "ENG",
+		"Code": "ME5404",
+		"Title": "NEURAL NETWORKS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "655",
+		"Faculty": "ENG",
+		"Code": "ME5502",
+		"Title": "ENGINEERING PLASTICS AND COMPOSITE MATERIALS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "656",
+		"Faculty": "ENG",
+		"Code": "ME5506",
+		"Title": "CORROSION OF MATERIALS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "657",
+		"Faculty": "ENG",
+		"Code": "ME5708",
+		"Title": "PRESSURE SURGES IN LIQUID & GAS FLOW SYSTEMS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "658",
+		"Faculty": "ENG",
+		"Code": "ME6107",
+		"Title": "PLASTICITY AND INELASTIC DEFORMATION",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "659",
+		"Faculty": "ENG",
+		"Code": "ME6204",
+		"Title": "CONVECTIVE HEAT TRANSFER",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "660",
+		"Faculty": "ENG",
+		"Code": "ME6503",
+		"Title": "THEORY OF TRANSFORMATIONS IN METALS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "661",
+		"Faculty": "ENG",
+		"Code": "ME6604",
+		"Title": "MODELLING OF MACHINING PROCESSES",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "662",
+		"Faculty": "ENG",
+		"Code": "MLE1101",
+		"Title": "INTRODUCTORY MATERIALS SCIENCE AND ENGINEERING",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "663",
+		"Faculty": "ENG",
+		"Code": "MLE2103",
+		"Title": "PHASE TRANSFORMATION AND KINETICS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "664",
+		"Faculty": "ENG",
+		"Code": "MLE2104",
+		"Title": "MECHANICAL PROPERTIES OF MATERIALS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "665",
+		"Faculty": "ENG",
+		"Code": "MLE2105",
+		"Title": "ELECTRONIC PROPERTIES OF MATERIALS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "666",
+		"Faculty": "ENG",
+		"Code": "MLE3101",
+		"Title": "MATERIALS CHARACTERIZATION",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "667",
+		"Faculty": "ENG",
+		"Code": "MLE4202",
+		"Title": "SELECTED ADVANCED TOPICS ON POLYMERS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "668",
+		"Faculty": "ENG",
+		"Code": "MLE4203",
+		"Title": "POLYMERIC BIOMEDICAL MATERIALS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "669",
+		"Faculty": "ENG",
+		"Code": "MLE4206",
+		"Title": "CURRENT TOPICS ON NANOMATERIALS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "670",
+		"Faculty": "ENG",
+		"Code": "MLE4207",
+		"Title": "GROWTH ASPECTS OF SEMICONDUCTORS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "671",
+		"Faculty": "ENG",
+		"Code": "MLE4208",
+		"Title": "PHOTOVOLTAICS MATERIALS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "672",
+		"Faculty": "ENG",
+		"Code": "MLE5104",
+		"Title": "PHYSICAL PROPERTIES OF MATERIALS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "673",
+		"Faculty": "ENG",
+		"Code": "MST5002",
+		"Title": "MATERIALS CHARACTERISATION",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "674",
+		"Faculty": "ENG",
+		"Code": "MT4003",
+		"Title": "ENGINEERING PRODUCT DEVELOPMENT",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "675",
+		"Faculty": "ENG",
+		"Code": "MT5002",
+		"Title": "MANAGEMENT OF INDUSTRIAL R&D",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "676",
+		"Faculty": "ENG",
+		"Code": "MT5004",
+		"Title": "USER-CENTRED ENGINEERING & PRODUCT DEVELOPMENT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "677",
+		"Faculty": "ENG",
+		"Code": "MT5011",
+		"Title": "FINANCE FOR ENGINEERING & TECHNOLOGY MANAGEMENT",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "678",
+		"Faculty": "ENG",
+		"Code": "OT5203",
+		"Title": "DESIGN OF FLOATING STRUCTURES",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "679",
+		"Faculty": "ENG",
+		"Code": "OT5204",
+		"Title": "MOORINGS & RISERS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "680",
+		"Faculty": "ENG",
+		"Code": "OT5205",
+		"Title": "OFFSHORE PIPELINES",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "681",
+		"Faculty": "ENG",
+		"Code": "OT5206",
+		"Title": "OFFSHORE FOUNDATIONS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "682",
+		"Faculty": "ENG",
+		"Code": "SDM5002",
+		"Title": "SYSTEMS ENGINEERING",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "683",
+		"Faculty": "ENG",
+		"Code": "SDM5003",
+		"Title": "KNOWLEDGE MANAGEMENT",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "684",
+		"Faculty": "ENG",
+		"Code": "SE2218T",
+		"Title": "CHANGING ECONOMIC LANDSCAPE OF SOUTHEAST ASIA",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "685",
+		"Faculty": "ENG",
+		"Code": "SH5003",
+		"Title": "FUNDAMENTALS IN ENVIRONMENTAL PROTECTION",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "686",
+		"Faculty": "ENG",
+		"Code": "SH5105",
+		"Title": "NOISE AND OTHER PHYSICAL HAZARDS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "687",
+		"Faculty": "ENG",
+		"Code": "SH5108",
+		"Title": "CHEMICAL HAZARD MANAGEMENT",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "688",
+		"Faculty": "ENG",
+		"Code": "SH5201",
+		"Title": "HAZARD IDENTIFICATION & EVALUATION TECHNIQUES",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "689",
+		"Faculty": "ENG",
+		"Code": "SH5204",
+		"Title": "SAFETY ENGINEERING",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "690",
+		"Faculty": "ENG",
+		"Code": "SH5205",
+		"Title": "INCIDENT MANAGEMENT",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "691",
+		"Faculty": "ENG",
+		"Code": "SSB1204T",
+		"Title": "LABOUR LAW IN SINGAPORE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "692",
+		"Faculty": "ENG",
+		"Code": "TC1401",
+		"Title": "MATHEMATICS I",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "693",
+		"Faculty": "ENG",
+		"Code": "TC1422",
+		"Title": "MATERIALS FOR CHEMICAL ENGINEERS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "694",
+		"Faculty": "ENG",
+		"Code": "TC2401",
+		"Title": "MATHEMATICS II",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "695",
+		"Faculty": "ENG",
+		"Code": "TE2002",
+		"Title": "ENGINEERING MATHEMATICS II",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "696",
+		"Faculty": "ENG",
+		"Code": "TE2003",
+		"Title": "ADVANCED MATHEMATICS FOR ENGINEERS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "697",
+		"Faculty": "ENG",
+		"Code": "TE2101",
+		"Title": "PROGRAMMING METHODOLOGY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "698",
+		"Faculty": "ENG",
+		"Code": "TE3201",
+		"Title": "SOFTWARE ENGINEERING",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "699",
+		"Faculty": "ENG",
+		"Code": "TE3801",
+		"Title": "ROBUST DESIGN OF ELECTRONIC CIRCUITS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "700",
+		"Faculty": "ENG",
+		"Code": "TG1401",
+		"Title": "ENGINEERING MATHEMATICS I",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "701",
+		"Faculty": "ENG",
+		"Code": "TG2415",
+		"Title": "ETHICS IN ENGINEERING",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "702",
+		"Faculty": "ENG",
+		"Code": "TM2401",
+		"Title": "ENGINEERING MATHEMATICS II",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "703",
+		"Faculty": "ENG",
+		"Code": "TM4209",
+		"Title": "THE MANAGEMENT OF NEW PROD. DEVELOPMENT",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "704",
+		"Faculty": "ENG",
+		"Code": "TP5026",
+		"Title": "TRANSPORTATION MANAGEMENT & POLICY",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "705",
+		"Faculty": "ENG",
+		"Code": "TP5028",
+		"Title": "INTERMODAL TRANSPORTATION OPERATIONS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "706",
+		"Faculty": "LAW",
+		"Code": "LC1001A",
+		"Title": "CRIMINAL LAW (A)",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "707",
+		"Faculty": "LAW",
+		"Code": "LC1001B",
+		"Title": "CRIMINAL LAW (B)",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "708",
+		"Faculty": "LAW",
+		"Code": "LC1001C",
+		"Title": "CRIMINAL LAW (C)",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "709",
+		"Faculty": "LAW",
+		"Code": "LC1001D",
+		"Title": "CRIMINAL LAW (D)",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "710",
+		"Faculty": "LAW",
+		"Code": "LC1001E",
+		"Title": "CRIMINAL LAW (E)",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "711",
+		"Faculty": "LAW",
+		"Code": "LC1003",
+		"Title": "LAW OF CONTRACT",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "712",
+		"Faculty": "LAW",
+		"Code": "LC2006A",
+		"Title": "EQUITY & TRUSTS (A)",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "713",
+		"Faculty": "LAW",
+		"Code": "LC2006B",
+		"Title": "EQUITY & TRUSTS (B)",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "714",
+		"Faculty": "LAW",
+		"Code": "LC2006C",
+		"Title": "EQUITY & TRUSTS (C)",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "715",
+		"Faculty": "LAW",
+		"Code": "LC2007",
+		"Title": "PUBLIC LAW",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "716",
+		"Faculty": "LAW",
+		"Code": "LC3001B",
+		"Title": "EVIDENCE (B)",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "717",
+		"Faculty": "LAW",
+		"Code": "LC5070",
+		"Title": "FOUNDATIONS OF IP LAW",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "718",
+		"Faculty": "LAW",
+		"Code": "LL4014",
+		"Title": "CONSTRUCTION LAW",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "719",
+		"Faculty": "LAW",
+		"Code": "LL4029",
+		"Title": "INTERNATIONAL COMMERCIAL ARBITRATION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "720",
+		"Faculty": "LAW",
+		"Code": "LL4055",
+		"Title": "SECURITIES REGULATION",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "721",
+		"Faculty": "LAW",
+		"Code": "LL4064",
+		"Title": "COMPETITION LAW AND POLICY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "722",
+		"Faculty": "LAW",
+		"Code": "LL4070",
+		"Title": "FOUNDATIONS OF INTELLECTUAL PROPERTY LAW",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "723",
+		"Faculty": "LAW",
+		"Code": "LL4074",
+		"Title": "MERGERS & ACQUISITIONS (M&A)",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "724",
+		"Faculty": "LAW",
+		"Code": "LL4075",
+		"Title": "IP AND COMPETITION LAW",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "725",
+		"Faculty": "LAW",
+		"Code": "LL4161",
+		"Title": "INTELLIGENCE LAW",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "726",
+		"Faculty": "LAW",
+		"Code": "LL4171",
+		"Title": "ASEAN ENVIRONMENTAL LAW, POLICY & GOVERNANCE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "727",
+		"Faculty": "LAW",
+		"Code": "LL4172",
+		"Title": "JAPANESE CORPORATE LAW & GOVERNANCE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "728",
+		"Faculty": "LAW",
+		"Code": "LL4233",
+		"Title": "EUROPEAN COMPANY LAW",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "729",
+		"Faculty": "LAW",
+		"Code": "LL4238",
+		"Title": "INTERNATIONAL CORPORATE FINANCE",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "730",
+		"Faculty": "LAW",
+		"Code": "LL4400",
+		"Title": "BIOMEDICAL LAW & ETHICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "731",
+		"Faculty": "LAW",
+		"Code": "LL4402",
+		"Title": "CORPORATE INSOLVENCY LAW",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "732",
+		"Faculty": "LAW",
+		"Code": "LL4403",
+		"Title": "FAMILY LAW",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "733",
+		"Faculty": "LAW",
+		"Code": "LL4407",
+		"Title": "LAW OF INSURANCE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "734",
+		"Faculty": "LAW",
+		"Code": "LL5014",
+		"Title": "CONSTRUCTION LAW",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "735",
+		"Faculty": "LAW",
+		"Code": "LL5029",
+		"Title": "INTERNATIONAL COMMERCIAL ARBITRATION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "736",
+		"Faculty": "LAW",
+		"Code": "LL5055",
+		"Title": "SECURITIES REGULATION",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "737",
+		"Faculty": "LAW",
+		"Code": "LL5064",
+		"Title": "COMPETITION LAW AND POLICY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "738",
+		"Faculty": "LAW",
+		"Code": "LL5070",
+		"Title": "FOUNDATIONS OF IP LAW",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "739",
+		"Faculty": "LAW",
+		"Code": "LL5074",
+		"Title": "MERGERS & ACQUISITIONS (M&A)",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "740",
+		"Faculty": "LAW",
+		"Code": "LL5075",
+		"Title": "IP AND COMPETITION LAW",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "741",
+		"Faculty": "LAW",
+		"Code": "LL5161",
+		"Title": "INTELLIGENCE LAW",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "742",
+		"Faculty": "LAW",
+		"Code": "LL5171",
+		"Title": "ASEAN ENVIRONMENTAL LAW, POLICY AND GOVERNANCE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "743",
+		"Faculty": "LAW",
+		"Code": "LL5172",
+		"Title": "JAPANESE CORPORATE LAW & GOVERNANCE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "744",
+		"Faculty": "LAW",
+		"Code": "LL5233",
+		"Title": "EUROPEAN COMPANY LAW",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "745",
+		"Faculty": "LAW",
+		"Code": "LL5238",
+		"Title": "INTERNATIONAL CORPORATE FINANCE",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "746",
+		"Faculty": "LAW",
+		"Code": "LL5400",
+		"Title": "BIOMEDICAL LAW & ETHICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "747",
+		"Faculty": "LAW",
+		"Code": "LL5402",
+		"Title": "CORPORATE INSOLVENCY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "748",
+		"Faculty": "LAW",
+		"Code": "LL5403",
+		"Title": "FAMILY LAW",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "749",
+		"Faculty": "LAW",
+		"Code": "LL5407",
+		"Title": "LAW OF INSURANCE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "750",
+		"Faculty": "LAW",
+		"Code": "LL6014",
+		"Title": "CONSTRUCTION LAW",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "751",
+		"Faculty": "LAW",
+		"Code": "LL6029",
+		"Title": "INTERNATIONAL COMMERCIAL ARBITRATION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "752",
+		"Faculty": "LAW",
+		"Code": "LL6055",
+		"Title": "SECURITIES REGULATION",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "753",
+		"Faculty": "LAW",
+		"Code": "LL6064",
+		"Title": "COMPETITION LAW AND POLICY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "754",
+		"Faculty": "LAW",
+		"Code": "LL6070",
+		"Title": "FOUNDATIONS OF IP LAW",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "755",
+		"Faculty": "LAW",
+		"Code": "LL6074",
+		"Title": "MERGERS & ACQUISITIONS (M&A)",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "756",
+		"Faculty": "LAW",
+		"Code": "LL6075",
+		"Title": "IP AND COMPETITION LAW",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "757",
+		"Faculty": "LAW",
+		"Code": "LL6161",
+		"Title": "INTELLIGENCE LAW",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "758",
+		"Faculty": "LAW",
+		"Code": "LL6171",
+		"Title": "ASEAN ENVIRONMENTAL LAW, POLICY AND GOVERNANCE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "759",
+		"Faculty": "LAW",
+		"Code": "LL6172",
+		"Title": "JAPANESE CORPORATE LAW & GOVERNANCE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "760",
+		"Faculty": "LAW",
+		"Code": "LL6233",
+		"Title": "EUROPEAN COMPANY LAW",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "761",
+		"Faculty": "LAW",
+		"Code": "LL6238",
+		"Title": "INTERNATIONAL CORPORATE FINANCE",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "762",
+		"Faculty": "LAW",
+		"Code": "LL6400",
+		"Title": "BIOMEDICAL LAW & ETHICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "763",
+		"Faculty": "LAW",
+		"Code": "LL6402",
+		"Title": "CORPORATE INSOLVENCY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "764",
+		"Faculty": "LAW",
+		"Code": "LL6403",
+		"Title": "FAMILY LAW",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "765",
+		"Faculty": "LAW",
+		"Code": "LL6407",
+		"Title": "LAW OF INSURANCE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "766",
+		"Faculty": "LKYSPP",
+		"Code": "PP5105",
+		"Title": "COST BENEFIT ANALYSIS IN PUBLIC POLICY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "767",
+		"Faculty": "LKYSPP",
+		"Code": "PP5143",
+		"Title": "GAMES, DECISIONS AND SOCIAL CHOICE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "768",
+		"Faculty": "LKYSPP",
+		"Code": "PP5241J",
+		"Title": "ASIA IN THE WORLD ECONOMY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "769",
+		"Faculty": "LKYSPP",
+		"Code": "PP5241K",
+		"Title": "POLITICAL ECONOMY OF INTERNATIONAL TRADE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "770",
+		"Faculty": "LKYSPP",
+		"Code": "PP5246",
+		"Title": "PUBLIC POLICY AND MANAGEMENT OF HEALTH SYSTEMS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "771",
+		"Faculty": "LKYSPP",
+		"Code": "PP5413",
+		"Title": "INTRODUCTION TO SOCIAL POLICY (GATEWAY)",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "772",
+		"Faculty": "LKYSPP",
+		"Code": "PP5415",
+		"Title": "FOUNDATIONS OF PUBLIC MANAGEMENT (GATEWAY)",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "773",
+		"Faculty": "NON_FAC",
+		"Code": "ES1102",
+		"Title": "ENGLISH FOR ACADEMIC PURPOSES",
+		"Date": "25/04/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "774",
+		"Faculty": "NON_FAC",
+		"Code": "ES1531",
+		"Title": "CRITICAL THINKING AND WRITING",
+		"Date": "25/04/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "775",
+		"Faculty": "NON_FAC",
+		"Code": "ES5000",
+		"Title": "GRADUATE ENGLISH COURSE (BASIC LEVEL)",
+		"Date": "25/04/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "776",
+		"Faculty": "NON_FAC",
+		"Code": "ES5001A",
+		"Title": "GRADUATE ENGLISH COURSE (INTERMEDIATE LEVEL)",
+		"Date": "25/04/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "777",
+		"Faculty": "SCI",
+		"Code": "CM1121",
+		"Title": "ORGANIC CHEMISTRY 1",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "778",
+		"Faculty": "SCI",
+		"Code": "CM1161",
+		"Title": "PRINCIPLES OF CHEMICAL PROCESS I",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "779",
+		"Faculty": "SCI",
+		"Code": "CM1402",
+		"Title": "GENERAL CHEMISTRY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "780",
+		"Faculty": "SCI",
+		"Code": "CM1502",
+		"Title": "GENERAL AND PHYSICAL CHEMISTRY FOR ENGINEERS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "781",
+		"Faculty": "SCI",
+		"Code": "CM2101",
+		"Title": "PHYSICAL CHEMISTRY 2",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "782",
+		"Faculty": "SCI",
+		"Code": "CM2111",
+		"Title": "INORGANIC CHEMISTRY 2",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "783",
+		"Faculty": "SCI",
+		"Code": "CM2121",
+		"Title": "ORGANIC CHEMISTRY 2",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "784",
+		"Faculty": "SCI",
+		"Code": "CM2142",
+		"Title": "ANALYTICAL CHEMISTRY 1",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "785",
+		"Faculty": "SCI",
+		"Code": "CM2161",
+		"Title": "PRINCIPLES OF CHEMICAL PROCESS II",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "786",
+		"Faculty": "SCI",
+		"Code": "CM3211",
+		"Title": "ORGANOMETALLIC CHEMISTRY",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "787",
+		"Faculty": "SCI",
+		"Code": "CM3222",
+		"Title": "ORGANIC REACTION MECHANISMS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "788",
+		"Faculty": "SCI",
+		"Code": "CM3225",
+		"Title": "BIOMOLECULES",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "789",
+		"Faculty": "SCI",
+		"Code": "CM3232",
+		"Title": "PHY CHEM OF THE SOLID STATE & INTERFACES",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "790",
+		"Faculty": "SCI",
+		"Code": "CM3251",
+		"Title": "NANOCHEMISTRY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "791",
+		"Faculty": "SCI",
+		"Code": "CM3253",
+		"Title": "MATERIALS CHEMISTRY 1",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "792",
+		"Faculty": "SCI",
+		"Code": "CM3261",
+		"Title": "ENVIRONMENTAL CHEMISTRY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "793",
+		"Faculty": "SCI",
+		"Code": "CM3262",
+		"Title": "ADVANCED INORGANIC MATERIALS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "794",
+		"Faculty": "SCI",
+		"Code": "CM3264",
+		"Title": "PETROLEUM AND INDUSTRIAL ORGANICS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "795",
+		"Faculty": "SCI",
+		"Code": "CM3265",
+		"Title": "POLYMER CHEMISTRY II",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "796",
+		"Faculty": "SCI",
+		"Code": "CM3296",
+		"Title": "MOLECULAR MODELLING: THEORY & PRACTICE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "797",
+		"Faculty": "SCI",
+		"Code": "CM3301",
+		"Title": "ADVANCED FORENSIC SCIENCE",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "798",
+		"Faculty": "SCI",
+		"Code": "CM4214",
+		"Title": "STRUCTURAL METHODS IN INORGANIC CHEM",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "799",
+		"Faculty": "SCI",
+		"Code": "CM4236",
+		"Title": "SPECTROSCOPY IN BIOPHYSICAL CHEMISTRY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "800",
+		"Faculty": "SCI",
+		"Code": "CM4241",
+		"Title": "TRACE ANALYSIS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "801",
+		"Faculty": "SCI",
+		"Code": "CM4242",
+		"Title": "ADVANCED ANALYTICAL TECHNIQUES",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "802",
+		"Faculty": "SCI",
+		"Code": "CM4268",
+		"Title": "ADVANCED POLYMER SCIENCE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "803",
+		"Faculty": "SCI",
+		"Code": "CM4269",
+		"Title": "SUSTAINABLE & GREEN CHEMISTRY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "804",
+		"Faculty": "SCI",
+		"Code": "CM4271",
+		"Title": "MEDICINAL CHEMISTRY",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "805",
+		"Faculty": "SCI",
+		"Code": "CM4274",
+		"Title": "THE ART AND METHODOLOGY IN TOTAL SYNTHESIS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "806",
+		"Faculty": "SCI",
+		"Code": "CM5111",
+		"Title": "GRADUATE INORGANIC CHEMISTRY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "7:00 PM"
+	},
+	{
+		"S/No": "807",
+		"Faculty": "SCI",
+		"Code": "CM5121",
+		"Title": "GRADUATE ORGANIC CHEMISTRY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "7:00 PM"
+	},
+	{
+		"S/No": "808",
+		"Faculty": "SCI",
+		"Code": "CM5225",
+		"Title": "ASYMMETRIC CATALYSIS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "7:00 PM"
+	},
+	{
+		"S/No": "809",
+		"Faculty": "SCI",
+		"Code": "CM5237",
+		"Title": "ADVANCED OPTICAL SPECTROSCOPY AND IMAGING",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "7:00 PM"
+	},
+	{
+		"S/No": "810",
+		"Faculty": "SCI",
+		"Code": "CM5241",
+		"Title": "MODERN ANALYTICAL TECHNIQUES",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "7:00 PM"
+	},
+	{
+		"S/No": "811",
+		"Faculty": "SCI",
+		"Code": "CM5243",
+		"Title": "X-RAY CRYSTALLOGRAPHY:A PRACT'L APPROACH",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "7:00 PM"
+	},
+	{
+		"S/No": "812",
+		"Faculty": "SCI",
+		"Code": "CM5262",
+		"Title": "CONTEMPORARY MATERIALS CHEMISTRY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "7:00 PM"
+	},
+	{
+		"S/No": "813",
+		"Faculty": "SCI",
+		"Code": "CZ5226",
+		"Title": "ADVANCED BIOINFORMATICS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "814",
+		"Faculty": "SCI",
+		"Code": "ENV2102",
+		"Title": "ENVIRONMENTAL LAW, POLICY, GOVERNANCE & MANAGEMENT",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "815",
+		"Faculty": "SCI",
+		"Code": "ENV3101",
+		"Title": "ENVIRONMENTAL CHALLENGES: ASIAN CASE STUDIES I",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "816",
+		"Faculty": "SCI",
+		"Code": "FE5103",
+		"Title": "EQUITY PRODUCTS AND EXOTICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:30 AM"
+	},
+	{
+		"S/No": "817",
+		"Faculty": "SCI",
+		"Code": "FE5107",
+		"Title": "RISK ANALYSES AND MANAGEMENT",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "2:00 PM"
+	},
+	{
+		"S/No": "818",
+		"Faculty": "SCI",
+		"Code": "FE5116",
+		"Title": "PROGRAMMING AND ADVANCED NUMERICAL METHODS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:30 AM"
+	},
+	{
+		"S/No": "819",
+		"Faculty": "SCI",
+		"Code": "FE5116D",
+		"Title": "PROGRAMMING AND ADVANCED NUMERICAL METHODS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:30 AM"
+	},
+	{
+		"S/No": "820",
+		"Faculty": "SCI",
+		"Code": "FE5208",
+		"Title": "TERM STRUCTURE AND INTEREST RATE DERIVATIVES",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "2:00 PM"
+	},
+	{
+		"S/No": "821",
+		"Faculty": "SCI",
+		"Code": "FE5218",
+		"Title": "CREDIT RISK",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "7:00 PM"
+	},
+	{
+		"S/No": "822",
+		"Faculty": "SCI",
+		"Code": "FST2102A",
+		"Title": "CHEMISTRY OF FOOD COMPONENTS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "823",
+		"Faculty": "SCI",
+		"Code": "FST2106",
+		"Title": "POST HARVEST FOOD PROCESSING",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "824",
+		"Faculty": "SCI",
+		"Code": "FST2201",
+		"Title": "INTRODUCTION TO HUMAN NUTRITION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "825",
+		"Faculty": "SCI",
+		"Code": "FST4102",
+		"Title": "ADVANCED FOOD PROCESSING TECHNOLOGY",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "826",
+		"Faculty": "SCI",
+		"Code": "FST4103",
+		"Title": "FOOD COLLOIDS AND COMPONENTS SCIENCE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "827",
+		"Faculty": "SCI",
+		"Code": "FST4202",
+		"Title": "NUTRITIONAL BIOCHEMISTRY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "828",
+		"Faculty": "SCI",
+		"Code": "FST5203",
+		"Title": "ADVANCED FOOD MICROBIOLOGY AND SAFETY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "829",
+		"Faculty": "SCI",
+		"Code": "GEK1505",
+		"Title": "LIVING WITH MATHEMATICS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "830",
+		"Faculty": "SCI",
+		"Code": "GEK1515",
+		"Title": "ENVIRONMENTAL BIOLOGY",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "831",
+		"Faculty": "SCI",
+		"Code": "GEK1527",
+		"Title": "GENES AND SOCIETY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "832",
+		"Faculty": "SCI",
+		"Code": "GEK1538",
+		"Title": "PLANTS AND SOCIETY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "833",
+		"Faculty": "SCI",
+		"Code": "GEK1540",
+		"Title": "MODERN TECHNOLOGY IN MEDICINE AND HEALTH",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "834",
+		"Faculty": "SCI",
+		"Code": "GEK1544",
+		"Title": "THE MATHEMATICS OF GAMES",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "835",
+		"Faculty": "SCI",
+		"Code": "GEK2506",
+		"Title": "DRUGS AND SOCIETY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "836",
+		"Faculty": "SCI",
+		"Code": "GEM1536",
+		"Title": "DARWIN AND EVOLUTION",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "837",
+		"Faculty": "SCI",
+		"Code": "GEM2900",
+		"Title": "UNDERSTAND'G UNCERTAINTY & STATS THINK'G",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "838",
+		"Faculty": "SCI",
+		"Code": "GEM2901",
+		"Title": "REPORTING STATISTICS IN THE MEDIA",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "839",
+		"Faculty": "SCI",
+		"Code": "LSM1101",
+		"Title": "BIOCHEMISTRY OF BIOMOLECULES",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "840",
+		"Faculty": "SCI",
+		"Code": "LSM1102",
+		"Title": "MOLECULAR GENETICS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "841",
+		"Faculty": "SCI",
+		"Code": "LSM1103",
+		"Title": "BIODIVERSITY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "842",
+		"Faculty": "SCI",
+		"Code": "LSM1104",
+		"Title": "GENERAL PHYSIOLOGY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "843",
+		"Faculty": "SCI",
+		"Code": "LSM1202",
+		"Title": "HUMAN ANATOMY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "844",
+		"Faculty": "SCI",
+		"Code": "LSM1301",
+		"Title": "GENERAL BIOLOGY",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "845",
+		"Faculty": "SCI",
+		"Code": "LSM1302",
+		"Title": "GENES AND SOCIETY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "846",
+		"Faculty": "SCI",
+		"Code": "LSM1303",
+		"Title": "ANIMAL BEHAVIOUR",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "847",
+		"Faculty": "SCI",
+		"Code": "LSM2101",
+		"Title": "METABOLISM AND REGULATION",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "848",
+		"Faculty": "SCI",
+		"Code": "LSM2102",
+		"Title": "MOLECULAR BIOLOGY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "849",
+		"Faculty": "SCI",
+		"Code": "LSM2103",
+		"Title": "CELL BIOLOGY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "850",
+		"Faculty": "SCI",
+		"Code": "LSM2241",
+		"Title": "INTRODUCTORY BIOINFORMATICS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "851",
+		"Faculty": "SCI",
+		"Code": "LSM2251",
+		"Title": "ECOLOGY AND ENVIRONMENT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "852",
+		"Faculty": "SCI",
+		"Code": "LSM3211",
+		"Title": "FUNDAMENTAL PHARMACOLOGY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "853",
+		"Faculty": "SCI",
+		"Code": "LSM3212",
+		"Title": "HUMAN PHYSIOLOGY: CARDIOPULMONARY SYSTEM",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "854",
+		"Faculty": "SCI",
+		"Code": "LSM3213",
+		"Title": "MOLECULAR AND CELLULAR NEUROBIOLOGY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "855",
+		"Faculty": "SCI",
+		"Code": "LSM3214",
+		"Title": "HUMAN PHYSIOLOGY - HORMONES AND HEALTH",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "856",
+		"Faculty": "SCI",
+		"Code": "LSM3221",
+		"Title": "HUMAN PHARMACOLOGY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "857",
+		"Faculty": "SCI",
+		"Code": "LSM3223",
+		"Title": "IMMUNOLOGY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "858",
+		"Faculty": "SCI",
+		"Code": "LSM3224",
+		"Title": "MOLECULAR BASIS OF HUMAN DISEASES",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "859",
+		"Faculty": "SCI",
+		"Code": "LSM3225",
+		"Title": "MOLECULAR MICROBIOLOGY IN HUMAN DISEASES",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "860",
+		"Faculty": "SCI",
+		"Code": "LSM3232",
+		"Title": "MICROBIOLOGY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "861",
+		"Faculty": "SCI",
+		"Code": "LSM3241",
+		"Title": "BIOINFORMATICS & BIOCOMPUTING",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "862",
+		"Faculty": "SCI",
+		"Code": "LSM3242",
+		"Title": "APPLIED MICROBIOLOGY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "863",
+		"Faculty": "SCI",
+		"Code": "LSM3243",
+		"Title": "MOLECULAR BIOPHYSICS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "864",
+		"Faculty": "SCI",
+		"Code": "LSM3244",
+		"Title": "MOLECULAR BIOTECHNOLOGY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "865",
+		"Faculty": "SCI",
+		"Code": "LSM3255",
+		"Title": "ECOLOGY OF TERRESTRIAL ENVIRONMENTS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "866",
+		"Faculty": "SCI",
+		"Code": "LSM3256",
+		"Title": "TROPICAL HORTICULTURE",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "867",
+		"Faculty": "SCI",
+		"Code": "LSM3257",
+		"Title": "QUANTITATIVE METHODS FOR ECOLOGICAL RESEARCH",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "868",
+		"Faculty": "SCI",
+		"Code": "LSM3262",
+		"Title": "ENVIRONMENTAL ANIMAL PHYSIOLOGY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "869",
+		"Faculty": "SCI",
+		"Code": "LSM3264",
+		"Title": "ENVIRONMENTAL BIOCHEMISTRY",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "870",
+		"Faculty": "SCI",
+		"Code": "LSM3266",
+		"Title": "AVIAN BIOLOGY AND EVOLUTION",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "871",
+		"Faculty": "SCI",
+		"Code": "LSM3272",
+		"Title": "GLOBAL CHANGE BIOLOGY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "872",
+		"Faculty": "SCI",
+		"Code": "LSM4214",
+		"Title": "CANCER PHARMACOLOGY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "873",
+		"Faculty": "SCI",
+		"Code": "LSM4215",
+		"Title": "EXTREME PHYSIOLOGY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "874",
+		"Faculty": "SCI",
+		"Code": "LSM4221",
+		"Title": "DRUG DISCOVERY AND CLINICAL TRIALS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "875",
+		"Faculty": "SCI",
+		"Code": "LSM4222",
+		"Title": "ADVANCED IMMUNOLOGY",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "876",
+		"Faculty": "SCI",
+		"Code": "LSM4223",
+		"Title": "ADVANCES IN ANTIMICROBIAL STRATEGIES",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "877",
+		"Faculty": "SCI",
+		"Code": "LSM4225",
+		"Title": "GENETIC MEDICINE IN THE POST-GENOMIC ERA",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "878",
+		"Faculty": "SCI",
+		"Code": "LSM4231",
+		"Title": "STRUCTURAL BIOLOGY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "879",
+		"Faculty": "SCI",
+		"Code": "LSM4234",
+		"Title": "MECHANOBIOLOGY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "880",
+		"Faculty": "SCI",
+		"Code": "LSM4241",
+		"Title": "FUNCTIONAL GENOMICS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "881",
+		"Faculty": "SCI",
+		"Code": "LSM4243",
+		"Title": "TUMOUR BIOLOGY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "882",
+		"Faculty": "SCI",
+		"Code": "LSM4244",
+		"Title": "ONCOGENES AND SIGNAL TRANSDUCTION",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "883",
+		"Faculty": "SCI",
+		"Code": "LSM4253",
+		"Title": "BEHAVIOURAL BIOLOGY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "884",
+		"Faculty": "SCI",
+		"Code": "LSM4255",
+		"Title": "METHODS IN MATHEMATICAL BIOLOGY",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "885",
+		"Faculty": "SCI",
+		"Code": "LSM4262",
+		"Title": "TROPICAL CONSERVATION BIOLOGY",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "886",
+		"Faculty": "SCI",
+		"Code": "LSM4264",
+		"Title": "FRESHWATER BIOLOGY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "887",
+		"Faculty": "SCI",
+		"Code": "LSM4265",
+		"Title": "URBAN ECOLOGY",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "888",
+		"Faculty": "SCI",
+		"Code": "MA1101R",
+		"Title": "LINEAR ALGEBRA I",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "889",
+		"Faculty": "SCI",
+		"Code": "MA1102R",
+		"Title": "CALCULUS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "890",
+		"Faculty": "SCI",
+		"Code": "MA1104",
+		"Title": "MULTIVARIABLE CALCULUS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "891",
+		"Faculty": "SCI",
+		"Code": "MA1301",
+		"Title": "INTRODUCTORY MATHEMATICS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "892",
+		"Faculty": "SCI",
+		"Code": "MA1312",
+		"Title": "CALCULUS WITH APPLICATIONS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "893",
+		"Faculty": "SCI",
+		"Code": "MA1505",
+		"Title": "MATHEMATICS I",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "894",
+		"Faculty": "SCI",
+		"Code": "MA1506",
+		"Title": "MATHEMATICS II",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "895",
+		"Faculty": "SCI",
+		"Code": "MA1508",
+		"Title": "LINEAR ALGEBRA WITH APPLICATIONS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "896",
+		"Faculty": "SCI",
+		"Code": "MA1521",
+		"Title": "CALCULUS FOR COMPUTING",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "897",
+		"Faculty": "SCI",
+		"Code": "MA2101",
+		"Title": "LINEAR ALGEBRA II",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "898",
+		"Faculty": "SCI",
+		"Code": "MA2108",
+		"Title": "MATHEMATICAL ANALYSIS I",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "899",
+		"Faculty": "SCI",
+		"Code": "MA2108S",
+		"Title": "MATHEMATICAL ANALYSIS I (S)",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "900",
+		"Faculty": "SCI",
+		"Code": "MA2213",
+		"Title": "NUMERICAL ANALYSIS I",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "901",
+		"Faculty": "SCI",
+		"Code": "MA2216",
+		"Title": "PROBABILITY",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "902",
+		"Faculty": "SCI",
+		"Code": "MA2219",
+		"Title": "INTRODUCTION TO GEOMETRY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "903",
+		"Faculty": "SCI",
+		"Code": "MA3110",
+		"Title": "MATHEMATICAL ANALYSIS II",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "904",
+		"Faculty": "SCI",
+		"Code": "MA3110S",
+		"Title": "MATHEMATICAL ANALYSIS II (S)",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "905",
+		"Faculty": "SCI",
+		"Code": "MA3111",
+		"Title": "COMPLEX ANALYSIS I",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "906",
+		"Faculty": "SCI",
+		"Code": "MA3111S",
+		"Title": "COMPLEX ANALYSIS I (S)",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "907",
+		"Faculty": "SCI",
+		"Code": "MA3201",
+		"Title": "ALGEBRA II",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "908",
+		"Faculty": "SCI",
+		"Code": "MA3215",
+		"Title": "3-DIMENSIONAL DIFFERENTIAL GEOMETRY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "909",
+		"Faculty": "SCI",
+		"Code": "MA3218",
+		"Title": "APPLIED ALGEBRA",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "910",
+		"Faculty": "SCI",
+		"Code": "MA3227",
+		"Title": "NUMERICAL ANALYSIS II",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "911",
+		"Faculty": "SCI",
+		"Code": "MA3233",
+		"Title": "COMBINATORICS AND GRAPHS II",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "912",
+		"Faculty": "SCI",
+		"Code": "MA3238",
+		"Title": "STOCHASTIC PROCESSES I",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "913",
+		"Faculty": "SCI",
+		"Code": "MA3252",
+		"Title": "LINEAR AND NETWORK OPTIMISATION",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "914",
+		"Faculty": "SCI",
+		"Code": "MA3259",
+		"Title": "MATHEMATICAL METHODS IN GENOMICS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "915",
+		"Faculty": "SCI",
+		"Code": "MA3266",
+		"Title": "INTRODUCTION TO FOURIER ANALYSIS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "916",
+		"Faculty": "SCI",
+		"Code": "MA4207",
+		"Title": "MATHEMATICAL LOGIC",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "917",
+		"Faculty": "SCI",
+		"Code": "MA4211",
+		"Title": "FUNCTIONAL ANALYSIS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "918",
+		"Faculty": "SCI",
+		"Code": "MA4229",
+		"Title": "APPROXIMATION THEORY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "919",
+		"Faculty": "SCI",
+		"Code": "MA4251",
+		"Title": "STOCHASTIC PROCESSES II",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "920",
+		"Faculty": "SCI",
+		"Code": "MA4252",
+		"Title": "ADVANCED ORDINARY DIFFERENTIAL EQUATIONS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "921",
+		"Faculty": "SCI",
+		"Code": "MA4254",
+		"Title": "DISCRETE OPTIMIZATION",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "922",
+		"Faculty": "SCI",
+		"Code": "MA4255",
+		"Title": "NUMERICAL METHODS IN DIFFERENTIAL EQUATIONS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "923",
+		"Faculty": "SCI",
+		"Code": "MA4263",
+		"Title": "INTRODUCTION TO ANALYTIC NUMBER THEORY",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "924",
+		"Faculty": "SCI",
+		"Code": "MA4266",
+		"Title": "TOPOLOGY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "925",
+		"Faculty": "SCI",
+		"Code": "MA4269",
+		"Title": "MATHEMATICAL FINANCE II",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "926",
+		"Faculty": "SCI",
+		"Code": "MA4292",
+		"Title": "UNDERGRADUATE TOPICS IN MATHEMATICS II",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "927",
+		"Faculty": "SCI",
+		"Code": "MA5204",
+		"Title": "GRADUATE ALGEBRA II",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "928",
+		"Faculty": "SCI",
+		"Code": "MA5206",
+		"Title": "GRADUATE ANALYSIS II",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "929",
+		"Faculty": "SCI",
+		"Code": "MA5210",
+		"Title": "DIFFERENTIABLE MANIFOLDS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "930",
+		"Faculty": "SCI",
+		"Code": "MA5216",
+		"Title": "DIFFERENTIAL GEOMETRY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "931",
+		"Faculty": "SCI",
+		"Code": "MA5217",
+		"Title": "GRADUATE COMPLEX ANALYSIS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "932",
+		"Faculty": "SCI",
+		"Code": "MA5220",
+		"Title": "LOGIC AND FOUNDATION OF MATHEMATICS II",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "933",
+		"Faculty": "SCI",
+		"Code": "MA5241",
+		"Title": "COMPUTATIONAL HARMONIC ANALYSIS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "934",
+		"Faculty": "SCI",
+		"Code": "MA5248",
+		"Title": "STOCHASTIC ANALYSIS IN MATHEMATICAL FINANCE",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "935",
+		"Faculty": "SCI",
+		"Code": "MA5250",
+		"Title": "COMPUTATIONAL FLUID DYNAMICS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "936",
+		"Faculty": "SCI",
+		"Code": "MA5260",
+		"Title": "PROBABILITY THEORY II",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "937",
+		"Faculty": "SCI",
+		"Code": "PA2106",
+		"Title": "PHARMACOLOGY 1",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "938",
+		"Faculty": "SCI",
+		"Code": "PA2106A",
+		"Title": "PHARMACOLOGY 1",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "939",
+		"Faculty": "SCI",
+		"Code": "PC1143",
+		"Title": "PHYSICS III",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "940",
+		"Faculty": "SCI",
+		"Code": "PC1144",
+		"Title": "PHYSICS IV",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "941",
+		"Faculty": "SCI",
+		"Code": "PC1221",
+		"Title": "FUNDAMENTALS OF PHYSICS I",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "942",
+		"Faculty": "SCI",
+		"Code": "PC1222",
+		"Title": "FUNDAMENTALS OF PHYSICS II",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "943",
+		"Faculty": "SCI",
+		"Code": "PC1431",
+		"Title": "PHYSICS IE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "944",
+		"Faculty": "SCI",
+		"Code": "PC1432",
+		"Title": "PHYSICS IIE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "945",
+		"Faculty": "SCI",
+		"Code": "PC2130",
+		"Title": "QUANTUM MECHANICS I",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "946",
+		"Faculty": "SCI",
+		"Code": "PC2130B",
+		"Title": "APPLIED QUANTUM PHYSICS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "947",
+		"Faculty": "SCI",
+		"Code": "PC2131",
+		"Title": "ELECTRICITY & MAGNETISM I",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "948",
+		"Faculty": "SCI",
+		"Code": "PC2133",
+		"Title": "APPLIED SOLID STATE PHYSICS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "949",
+		"Faculty": "SCI",
+		"Code": "PC2230",
+		"Title": "THERMODYNAMICS AND STATISTICAL MECHANICS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "950",
+		"Faculty": "SCI",
+		"Code": "PC2232",
+		"Title": "PHYSICS FOR ELECTRICAL ENGINEERS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "951",
+		"Faculty": "SCI",
+		"Code": "PC3130",
+		"Title": "QUANTUM MECHANICS II",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "952",
+		"Faculty": "SCI",
+		"Code": "PC3233",
+		"Title": "ATOMIC & MOLECULAR PHYSICS I",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "953",
+		"Faculty": "SCI",
+		"Code": "PC3236",
+		"Title": "COMPUTATIONAL METHODS IN PHYSICS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "954",
+		"Faculty": "SCI",
+		"Code": "PC3241",
+		"Title": "SOLID STATE DEVICES",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "955",
+		"Faculty": "SCI",
+		"Code": "PC3243",
+		"Title": "PHOTONICS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "956",
+		"Faculty": "SCI",
+		"Code": "PC3246",
+		"Title": "NUCLEAR ASTROPHYSICS",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "957",
+		"Faculty": "SCI",
+		"Code": "PC3251",
+		"Title": "NANOPHYSICS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "958",
+		"Faculty": "SCI",
+		"Code": "PC3267",
+		"Title": "BIOPHYSICS II",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "959",
+		"Faculty": "SCI",
+		"Code": "PC4232",
+		"Title": "COSMOLOGY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "960",
+		"Faculty": "SCI",
+		"Code": "PC4240",
+		"Title": "SOLID STATE PHYSICS II",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "961",
+		"Faculty": "SCI",
+		"Code": "PC4242",
+		"Title": "ELECTRODYNAMICS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "962",
+		"Faculty": "SCI",
+		"Code": "PC4243",
+		"Title": "ATOMIC & MOLECULAR PHYSICS II",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "963",
+		"Faculty": "SCI",
+		"Code": "PC4245",
+		"Title": "PARTICLE PHYSICS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "964",
+		"Faculty": "SCI",
+		"Code": "PC4253",
+		"Title": "THIN FILM TECHNOLOGY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "965",
+		"Faculty": "SCI",
+		"Code": "PC4262",
+		"Title": "REMOTE SENSING",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "966",
+		"Faculty": "SCI",
+		"Code": "PC4264",
+		"Title": "ADVANCED SOLID STATE DEVICES",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "967",
+		"Faculty": "SCI",
+		"Code": "PC4274",
+		"Title": "MATHEMATICAL METHODS IN PHYSICS III",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "968",
+		"Faculty": "SCI",
+		"Code": "PC5202",
+		"Title": "ADVANCED STATISTICAL MECHANICS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "969",
+		"Faculty": "SCI",
+		"Code": "PC5203",
+		"Title": "ADVANCED SOLID STATE PHYSICS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "970",
+		"Faculty": "SCI",
+		"Code": "PC5206",
+		"Title": "SELECTED TOPICS IN QUANTUM FIELD THEORY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "971",
+		"Faculty": "SCI",
+		"Code": "PC5207",
+		"Title": "TOPICS IN OPTICAL PHYSICS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "972",
+		"Faculty": "SCI",
+		"Code": "PC5210",
+		"Title": "ADVANCED DYNAMICS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "973",
+		"Faculty": "SCI",
+		"Code": "PC5212",
+		"Title": "PHYSICS OF NANOSTRUCTURES",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "974",
+		"Faculty": "SCI",
+		"Code": "PC5228",
+		"Title": "QUANTUM INFORMATION AND COMPUTATION",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "975",
+		"Faculty": "SCI",
+		"Code": "PC5239",
+		"Title": "SPECIAL PROBLEMS IN PHYSICS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "976",
+		"Faculty": "SCI",
+		"Code": "PR1102",
+		"Title": "PHYSICAL PHARMACY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "977",
+		"Faculty": "SCI",
+		"Code": "PR2102",
+		"Title": "PHARMACY LAW",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "978",
+		"Faculty": "SCI",
+		"Code": "PR2105",
+		"Title": "PHARMACEUTICAL MICROBIOLOGY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "979",
+		"Faculty": "SCI",
+		"Code": "PR2202",
+		"Title": "COSMETICS & PERFUMES",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "980",
+		"Faculty": "SCI",
+		"Code": "PR3103",
+		"Title": "PHARMACEUTICAL ANALYSIS II",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "981",
+		"Faculty": "SCI",
+		"Code": "PR3104",
+		"Title": "PHARMACEUTICAL BIOTECHNOLOGY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "982",
+		"Faculty": "SCI",
+		"Code": "PR3105",
+		"Title": "PHARMACOTHERAPY I",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "983",
+		"Faculty": "SCI",
+		"Code": "PR3106",
+		"Title": "PHARMACOKINETICS & DRUG DISPOSITION",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "984",
+		"Faculty": "SCI",
+		"Code": "PR3107",
+		"Title": "PHARMACY PRACTICE II",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "985",
+		"Faculty": "SCI",
+		"Code": "PR3301",
+		"Title": "PHARMACEUTICAL DOSAGE FORMS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "986",
+		"Faculty": "SCI",
+		"Code": "PR4102",
+		"Title": "PHARMACOTHERAPY III",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "987",
+		"Faculty": "SCI",
+		"Code": "PR4105",
+		"Title": "NATURAL PRODUCTS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "988",
+		"Faculty": "SCI",
+		"Code": "PR4106",
+		"Title": "DOSAGE FORM DESIGN III",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "989",
+		"Faculty": "SCI",
+		"Code": "PR4201",
+		"Title": "PHARMACEUTICAL MARKETING",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "990",
+		"Faculty": "SCI",
+		"Code": "PR4206",
+		"Title": "INDUSTRIAL PHARMACY",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "991",
+		"Faculty": "SCI",
+		"Code": "PR5113",
+		"Title": "CLINICAL PHARMACOKINETICS & THERAPEUTIC DRUG MONITORING",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "992",
+		"Faculty": "SCI",
+		"Code": "PR5130",
+		"Title": "ADVANCED PHARMACOTHERAPY I",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "993",
+		"Faculty": "SCI",
+		"Code": "PR5133",
+		"Title": "ADVANCED PHARMACOTHERAPY IN SPECIAL POPULATIONS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "994",
+		"Faculty": "SCI",
+		"Code": "PR5212",
+		"Title": "ADVANCED TOPICS IN MEDICINAL CHEMISTRY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "995",
+		"Faculty": "SCI",
+		"Code": "PR5216",
+		"Title": "ADVANCES IN DRUG DELIVERY",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "996",
+		"Faculty": "SCI",
+		"Code": "PR5217",
+		"Title": "FORMULATION SCIENCE",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "997",
+		"Faculty": "SCI",
+		"Code": "PR5220",
+		"Title": "BIOPROCESS TECHNOLOGY",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "998",
+		"Faculty": "SCI",
+		"Code": "PR5230",
+		"Title": "PHARMACOECONOMICS AND OUTCOMES RESEARCH",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "999",
+		"Faculty": "SCI",
+		"Code": "PR5302",
+		"Title": "REGULATION OF DRUG DEVELOPMENT",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1000",
+		"Faculty": "SCI",
+		"Code": "PY1106",
+		"Title": "PHYSIOLOGY 2",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1001",
+		"Faculty": "SCI",
+		"Code": "QF3101",
+		"Title": "INVESTMENT INSTRUMENTS: THEORY AND COMPUTATION",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1002",
+		"Faculty": "SCI",
+		"Code": "QF5202",
+		"Title": "STRUCTURED PRODUCTS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1003",
+		"Faculty": "SCI",
+		"Code": "QF5210",
+		"Title": "FINANCIAL TIME SERIES: THEORY AND COMPUTATION",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1004",
+		"Faculty": "SCI",
+		"Code": "SP3202",
+		"Title": "EVIDENCE IN FORENSIC SCIENCE",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1005",
+		"Faculty": "SCI",
+		"Code": "SSS1207",
+		"Title": "NATURAL HERITAGE OF SINGAPORE",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1006",
+		"Faculty": "SCI",
+		"Code": "ST1131",
+		"Title": "INTRODUCTION TO STATISTICS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "1007",
+		"Faculty": "SCI",
+		"Code": "ST1232",
+		"Title": "STATISTICS FOR LIFE SCIENCES",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1008",
+		"Faculty": "SCI",
+		"Code": "ST2131",
+		"Title": "PROBABILITY",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1009",
+		"Faculty": "SCI",
+		"Code": "ST2132",
+		"Title": "MATHEMATICAL STATISTICS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1010",
+		"Faculty": "SCI",
+		"Code": "ST2334",
+		"Title": "PROBABILITY AND STATISTICS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1011",
+		"Faculty": "SCI",
+		"Code": "ST3131",
+		"Title": "REGRESSION ANALYSIS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1012",
+		"Faculty": "SCI",
+		"Code": "ST3232",
+		"Title": "DESIGN & ANALYSIS OF EXPERIMENTS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1013",
+		"Faculty": "SCI",
+		"Code": "ST3236",
+		"Title": "STOCHASTIC PROCESSES I",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1014",
+		"Faculty": "SCI",
+		"Code": "ST3240",
+		"Title": "MULTIVARIATE STATISTICAL ANALYSIS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1015",
+		"Faculty": "SCI",
+		"Code": "ST3241",
+		"Title": "CATEGORICAL DATA ANALYSIS I",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1016",
+		"Faculty": "SCI",
+		"Code": "ST3247",
+		"Title": "SIMULATION",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1017",
+		"Faculty": "SCI",
+		"Code": "ST4238",
+		"Title": "STOCHASTIC PROCESSES II",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1018",
+		"Faculty": "SCI",
+		"Code": "ST4240",
+		"Title": "DATA MINING",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1019",
+		"Faculty": "SCI",
+		"Code": "ST4242",
+		"Title": "ANALYSIS OF LONGITUDINAL DATA",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1020",
+		"Faculty": "SCI",
+		"Code": "ST4245",
+		"Title": "STATISTICAL METHODS FOR FINANCE",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1021",
+		"Faculty": "SCI",
+		"Code": "ST5202",
+		"Title": "APPLIED REGRESSION ANALYSIS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "7:00 PM"
+	},
+	{
+		"S/No": "1022",
+		"Faculty": "SCI",
+		"Code": "ST5208",
+		"Title": "STATISTICS FOR QUALITY AND PRODUCTIVITY IMPROVEMENTS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "7:00 PM"
+	},
+	{
+		"S/No": "1023",
+		"Faculty": "SCI",
+		"Code": "ST5209",
+		"Title": "ANALYSIS OF TIME SERIES DATA",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "7:00 PM"
+	},
+	{
+		"S/No": "1024",
+		"Faculty": "SCI",
+		"Code": "ST5217",
+		"Title": "STATISTICAL METHODS FOR GENETIC ANALYSIS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1025",
+		"Faculty": "SCI",
+		"Code": "ST5223",
+		"Title": "STATISTICAL MODELS:THEORY/APPLICATIONS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1026",
+		"Faculty": "SCI",
+		"Code": "ST5224",
+		"Title": "ADVANCED STATISTICAL THEORY II",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1027",
+		"Faculty": "SDE",
+		"Code": "AR1326",
+		"Title": "ARCHITECTURAL CONSTRUCTION",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1028",
+		"Faculty": "SDE",
+		"Code": "AR1721",
+		"Title": "CLIMATE RESPONSIVE ARCHITECTURE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1029",
+		"Faculty": "SDE",
+		"Code": "AR2327",
+		"Title": "ARCHITECTURE, STRUCTURE AND CONSTRUCTION",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1030",
+		"Faculty": "SDE",
+		"Code": "AR2723",
+		"Title": "STRATEGIES FOR SUSTAINABLE ARCHITECTURE",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1031",
+		"Faculty": "SDE",
+		"Code": "AR4223",
+		"Title": "ARCHITECTURE AND URBAN HERITAGE",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1032",
+		"Faculty": "SDE",
+		"Code": "BPS5102",
+		"Title": "CLIMATE CHANGE AND THE BUILT ENVIRONMENT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1033",
+		"Faculty": "SDE",
+		"Code": "BPS5204",
+		"Title": "ENERGY EFFICIENCY AND RENEWABLE ENERGY IN BUILDINGS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1034",
+		"Faculty": "SDE",
+		"Code": "BPS5205",
+		"Title": "SUSTAINABLE CONSTRUCTION AND MAINTAINABILITY",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1035",
+		"Faculty": "SDE",
+		"Code": "BPS5207",
+		"Title": "FIRE TECHNOLOGY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1036",
+		"Faculty": "SDE",
+		"Code": "DEP5103A",
+		"Title": "QUANTITATIVE METHODS FOR URBAN PLANNING",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1037",
+		"Faculty": "SDE",
+		"Code": "DEP5104",
+		"Title": "URBAN AND REGIONAL ECONOMICS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1038",
+		"Faculty": "SDE",
+		"Code": "GEK2005",
+		"Title": "INTRODUCTION TO URBAN PLANNING",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1039",
+		"Faculty": "SDE",
+		"Code": "GEK2013",
+		"Title": "REAL ESTATE FINANCE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1040",
+		"Faculty": "SDE",
+		"Code": "ID1121",
+		"Title": "HUMAN-CENTRED DESIGN",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1041",
+		"Faculty": "SDE",
+		"Code": "ID2324",
+		"Title": "MANUFACTURING FOR DESIGN",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1042",
+		"Faculty": "SDE",
+		"Code": "LA4202",
+		"Title": "PLANTING DESIGN",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1043",
+		"Faculty": "SDE",
+		"Code": "LA4212",
+		"Title": "TROPICAL PLANT IDENTIFICATION 2",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1044",
+		"Faculty": "SDE",
+		"Code": "LA5302",
+		"Title": "DETAIL DESIGN",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1045",
+		"Faculty": "SDE",
+		"Code": "PF1103",
+		"Title": "IT FOR PROJECTS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1046",
+		"Faculty": "SDE",
+		"Code": "PF1104",
+		"Title": "ENVIRONMENTAL SCIENCE FOR BUILDING",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1047",
+		"Faculty": "SDE",
+		"Code": "PF1105",
+		"Title": "FUNDAMENTALS OF FACILITIES MANAGEMENT",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1048",
+		"Faculty": "SDE",
+		"Code": "PF2103",
+		"Title": "MEASUREMENT (BUILDING WORKS)",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1049",
+		"Faculty": "SDE",
+		"Code": "PF2104",
+		"Title": "M&E ENGINEERING SYSTEMS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1050",
+		"Faculty": "SDE",
+		"Code": "PF2105",
+		"Title": "RESEARCH METHODS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1051",
+		"Faculty": "SDE",
+		"Code": "PF2108",
+		"Title": "PROJECT COST MANAGEMENT",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1052",
+		"Faculty": "SDE",
+		"Code": "PF2203",
+		"Title": "QUALITY AND PRODUCTIVITY MANAGEMENT",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1053",
+		"Faculty": "SDE",
+		"Code": "PF2303",
+		"Title": "MATERIALS TECHNOLOGY",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1054",
+		"Faculty": "SDE",
+		"Code": "PF3102",
+		"Title": "FACILITIES PLANNING AND DESIGN",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1055",
+		"Faculty": "SDE",
+		"Code": "PF3103",
+		"Title": "PROJECT MANAGEMENT LAW II",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1056",
+		"Faculty": "SDE",
+		"Code": "PF3201",
+		"Title": "MEASUREMENT (SPECIALIST WORKS)",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1057",
+		"Faculty": "SDE",
+		"Code": "PF3204",
+		"Title": "PROJECT RISK MANAGEMENT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1058",
+		"Faculty": "SDE",
+		"Code": "PF3303",
+		"Title": "INTELLIGENT FACILITIES",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1059",
+		"Faculty": "SDE",
+		"Code": "PF4103",
+		"Title": "TOTAL BUILDING PERFORMANCE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "1060",
+		"Faculty": "SDE",
+		"Code": "PF4203",
+		"Title": "PROJECT DISPUTE MANAGEMENT",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1061",
+		"Faculty": "SDE",
+		"Code": "PF4304",
+		"Title": "TOTAL BUILDING PERFORMANCE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "1062",
+		"Faculty": "SDE",
+		"Code": "PF4307",
+		"Title": "EVENT MANAGEMENT",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1063",
+		"Faculty": "SDE",
+		"Code": "PM5101",
+		"Title": "PROJECT MANAGEMENT",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1064",
+		"Faculty": "SDE",
+		"Code": "PM5105",
+		"Title": "DEVELOPMENT FINANCE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "1065",
+		"Faculty": "SDE",
+		"Code": "PM5107",
+		"Title": "TIME AND COST MANAGEMENT",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1066",
+		"Faculty": "SDE",
+		"Code": "PM5108",
+		"Title": "INTERNATIONAL PROJECT MANAGEMENT",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1067",
+		"Faculty": "SDE",
+		"Code": "PM5109",
+		"Title": "PROJECT MANAGEMENT LAW",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1068",
+		"Faculty": "SDE",
+		"Code": "RE1103",
+		"Title": "PROPERTY AND FACILITIES MANAGEMENT",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1069",
+		"Faculty": "SDE",
+		"Code": "RE1104",
+		"Title": "PRINCIPLES OF REAL ESTATE VALUATION",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1070",
+		"Faculty": "SDE",
+		"Code": "RE2104",
+		"Title": "REAL ESTATE FINANCE",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1071",
+		"Faculty": "SDE",
+		"Code": "RE2105",
+		"Title": "LAND LAW",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1072",
+		"Faculty": "SDE",
+		"Code": "RE2106",
+		"Title": "REAL ESTATE MARKETING & NEGOTIATION",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1073",
+		"Faculty": "SDE",
+		"Code": "RE2107",
+		"Title": "PROPERTY TAX AND STATUTORY VALUATION",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1074",
+		"Faculty": "SDE",
+		"Code": "RE2201",
+		"Title": "QUANTITATIVE METHODS IN REAL ESTATE",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1075",
+		"Faculty": "SDE",
+		"Code": "RE2301",
+		"Title": "GIS FOR REAL ESTATE",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1076",
+		"Faculty": "SDE",
+		"Code": "RE3105",
+		"Title": "REGIONAL REAL ESTATE DEVELOPMENT",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1077",
+		"Faculty": "SDE",
+		"Code": "RE3106",
+		"Title": "RESIDENTIAL PROPERTY MANAGEMENT",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1078",
+		"Faculty": "SDE",
+		"Code": "RE3201",
+		"Title": "RESEARCH METHODOLOGY",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "1079",
+		"Faculty": "SDE",
+		"Code": "RE3211",
+		"Title": "REAL ESTATE FINANCE LAW",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1080",
+		"Faculty": "SDE",
+		"Code": "RE3212",
+		"Title": "CORPORATE INVESTMENT IN REAL ESTATE",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1081",
+		"Faculty": "SDE",
+		"Code": "RE3221",
+		"Title": "REAL ESTATE DEVELOPMENT LAW",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1082",
+		"Faculty": "SDE",
+		"Code": "RE3222",
+		"Title": "URBAN DESIGN AND CONSERVATION",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1083",
+		"Faculty": "SDE",
+		"Code": "RE3301",
+		"Title": "CONSUMER BEHAVIOUR IN REAL ESTATE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1084",
+		"Faculty": "SDE",
+		"Code": "RE4213",
+		"Title": "REAL ESTATE RISK ANALYSIS AND MANAGEMENT",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1085",
+		"Faculty": "SDE",
+		"Code": "RE4302",
+		"Title": "INTERNATIONAL REAL ESTATE",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1086",
+		"Faculty": "SDE",
+		"Code": "RE5006",
+		"Title": "CORPORATE REAL ESTATE ASSET MANAGEMENT",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1087",
+		"Faculty": "SDE",
+		"Code": "RE5008",
+		"Title": "INTERNATIONAL REAL ESTATE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1088",
+		"Faculty": "SDE",
+		"Code": "RE6001",
+		"Title": "REAL ESTATE FINANCE & SECURITISATION",
+		"Date": "09/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1089",
+		"Faculty": "SDE",
+		"Code": "SSD2213",
+		"Title": "SINGAPORE URBAN HISTORY & ARCHITECTURE",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "1090",
+		"Faculty": "SOC",
+		"Code": "CG2271",
+		"Title": "REAL-TIME OPERATING SYSTEMS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1091",
+		"Faculty": "SOC",
+		"Code": "CP3101B",
+		"Title": "WEB PROGRAMMING AND APPLICATIONS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1092",
+		"Faculty": "SOC",
+		"Code": "CS1010",
+		"Title": "PROGRAMMING METHODOLOGY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1093",
+		"Faculty": "SOC",
+		"Code": "CS1010E",
+		"Title": "PROGRAMMING METHODOLOGY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1094",
+		"Faculty": "SOC",
+		"Code": "CS1010S",
+		"Title": "PROGRAMMING METHODOLOGY",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1095",
+		"Faculty": "SOC",
+		"Code": "CS1020",
+		"Title": "DATA STRUCTURES AND ALGORITHMS I",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1096",
+		"Faculty": "SOC",
+		"Code": "CS1020E",
+		"Title": "DATA STRUCTURES AND ALGORITHMS I",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1097",
+		"Faculty": "SOC",
+		"Code": "CS1231",
+		"Title": "DISCRETE STRUCTURES",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1098",
+		"Faculty": "SOC",
+		"Code": "CS2010",
+		"Title": "DATA STRUCTURES AND ALGORITHMS II",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1099",
+		"Faculty": "SOC",
+		"Code": "CS2100",
+		"Title": "COMPUTER ORGANISATION",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1100",
+		"Faculty": "SOC",
+		"Code": "CS2102",
+		"Title": "DATABASE SYSTEMS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1101",
+		"Faculty": "SOC",
+		"Code": "CS2103",
+		"Title": "SOFTWARE ENGINEERING",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1102",
+		"Faculty": "SOC",
+		"Code": "CS2103T",
+		"Title": "SOFTWARE ENGINEERING",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1103",
+		"Faculty": "SOC",
+		"Code": "CS2105",
+		"Title": "INTRODUCTION TO COMPUTER NETWORKS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1104",
+		"Faculty": "SOC",
+		"Code": "CS2106",
+		"Title": "INTRODUCTION TO OPERATING SYSTEMS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1105",
+		"Faculty": "SOC",
+		"Code": "CS2107",
+		"Title": "INTRODUCTION TO INFORMATION AND SYSTEM SECURITY",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1106",
+		"Faculty": "SOC",
+		"Code": "CS3103",
+		"Title": "COMPUTER NETWORKS AND PROTOCOLS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1107",
+		"Faculty": "SOC",
+		"Code": "CS3210",
+		"Title": "PARALLEL COMPUTING",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1108",
+		"Faculty": "SOC",
+		"Code": "CS3211",
+		"Title": "PARALLEL AND CONCURRENT PROGRAMMING",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "1109",
+		"Faculty": "SOC",
+		"Code": "CS3218",
+		"Title": "MULTIMODAL PROCESSING IN MOBILE PLATFORMS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1110",
+		"Faculty": "SOC",
+		"Code": "CS3223",
+		"Title": "DATABASE SYSTEMS IMPLEMENTATION",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1111",
+		"Faculty": "SOC",
+		"Code": "CS3225",
+		"Title": "COMBINATORIAL METHODS IN BIOINFORMATICS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1112",
+		"Faculty": "SOC",
+		"Code": "CS3230",
+		"Title": "DESIGN AND ANALYSIS OF ALGORITHMS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1113",
+		"Faculty": "SOC",
+		"Code": "CS3234",
+		"Title": "LOGIC AND FORMAL SYSTEMS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1114",
+		"Faculty": "SOC",
+		"Code": "CS3241",
+		"Title": "COMPUTER GRAPHICS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1115",
+		"Faculty": "SOC",
+		"Code": "CS3242",
+		"Title": "3D MODELING AND ANIMATION",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1116",
+		"Faculty": "SOC",
+		"Code": "CS3243",
+		"Title": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1117",
+		"Faculty": "SOC",
+		"Code": "CS3245",
+		"Title": "INFORMATION RETRIEVAL",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1118",
+		"Faculty": "SOC",
+		"Code": "CS3247",
+		"Title": "GAME DEVELOPMENT",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1119",
+		"Faculty": "SOC",
+		"Code": "CS3249",
+		"Title": "USER INTERFACE DEVELOPMENT",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1120",
+		"Faculty": "SOC",
+		"Code": "CS4215",
+		"Title": "PROGRAMMING LANGUAGE IMPLEMENTATION",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1121",
+		"Faculty": "SOC",
+		"Code": "CS4218",
+		"Title": "SOFTWARE TESTING AND DEBUGGING",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1122",
+		"Faculty": "SOC",
+		"Code": "CS4222",
+		"Title": "WIRELESS COMPUTING AND SENSOR NETWORKS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1123",
+		"Faculty": "SOC",
+		"Code": "CS4231",
+		"Title": "PARALLEL AND DISTRIBUTED ALGORITHMS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1124",
+		"Faculty": "SOC",
+		"Code": "CS4236",
+		"Title": "CRYPTOGRAPHY THEORY AND PRACTICE",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1125",
+		"Faculty": "SOC",
+		"Code": "CS4242",
+		"Title": "SOCIAL MEDIA COMPUTING",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1126",
+		"Faculty": "SOC",
+		"Code": "CS4244",
+		"Title": "KNOWLEDGE-BASED SYSTEMS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1127",
+		"Faculty": "SOC",
+		"Code": "CS4247",
+		"Title": "GRAPHICS RENDERING TECHNIQUES",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1128",
+		"Faculty": "SOC",
+		"Code": "CS4347",
+		"Title": "SOUND AND MUSIC COMPUTING",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1129",
+		"Faculty": "SOC",
+		"Code": "CS5214",
+		"Title": "DESIGN OF OPTIMISING COMPILERS",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1130",
+		"Faculty": "SOC",
+		"Code": "CS5222",
+		"Title": "ADVANCED COMPUTER ARCHITECTURE",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1131",
+		"Faculty": "SOC",
+		"Code": "CS5232",
+		"Title": "FORMAL SPECIFICATION AND DESIGN TECHNIQUES",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1132",
+		"Faculty": "SOC",
+		"Code": "CS5233",
+		"Title": "SIMULATION AND MODELLING TECHNIQUES",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1133",
+		"Faculty": "SOC",
+		"Code": "CS5272",
+		"Title": "EMBEDDED SOFTWARE DESIGN",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1134",
+		"Faculty": "SOC",
+		"Code": "GEM1501",
+		"Title": "PROBLEM SOLVING FOR COMPUTING",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1135",
+		"Faculty": "SOC",
+		"Code": "GEM2509",
+		"Title": "DATA QUALITY AND FUZZY LOGIC",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1136",
+		"Faculty": "SOC",
+		"Code": "IS1103",
+		"Title": "COMPUTING AND SOCIETY",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "1137",
+		"Faculty": "SOC",
+		"Code": "IS1105",
+		"Title": "STRATEGIC IT APPLICATIONS",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1138",
+		"Faculty": "SOC",
+		"Code": "IS1112",
+		"Title": "E-BUSINESS ESSENTIALS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1139",
+		"Faculty": "SOC",
+		"Code": "IS2102",
+		"Title": "REQUIREMENTS ANALYSIS AND DESIGN",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1140",
+		"Faculty": "SOC",
+		"Code": "IS2103",
+		"Title": "ENTERPRISE SYSTEMS DEVELOPMENT CONCEPTS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1141",
+		"Faculty": "SOC",
+		"Code": "IS2104",
+		"Title": "SOFTWARE TEAM DYNAMICS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1142",
+		"Faculty": "SOC",
+		"Code": "IS2150",
+		"Title": "E-BUSINESS DESIGN AND IMPLEMENTATION",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1143",
+		"Faculty": "SOC",
+		"Code": "IS3101",
+		"Title": "MANAGEMENT OF INFORMATION SYSTEMS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1144",
+		"Faculty": "SOC",
+		"Code": "IS3150",
+		"Title": "DIGITAL AND NEW MEDIA MARKETING",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1145",
+		"Faculty": "SOC",
+		"Code": "IS3221",
+		"Title": "ENTERPRISE RESOURCE PLANNING SYSTEMS",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "1146",
+		"Faculty": "SOC",
+		"Code": "IS3222",
+		"Title": "IT AND CUSTOMER RELATIONSHIP MANAGEMENT",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1147",
+		"Faculty": "SOC",
+		"Code": "IS3223",
+		"Title": "IT AND SUPPLY CHAIN MANAGEMENT",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1148",
+		"Faculty": "SOC",
+		"Code": "IS3230",
+		"Title": "PRINCIPLES OF INFORMATION SECURITY",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1149",
+		"Faculty": "SOC",
+		"Code": "IS3240",
+		"Title": "ECONOMICS OF E-BUSINESS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1150",
+		"Faculty": "SOC",
+		"Code": "IS3241",
+		"Title": "ENTERPRISE SOCIAL SYSTEMS",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1151",
+		"Faculty": "SOC",
+		"Code": "IS3242",
+		"Title": "SOFTWARE QUALITY MANAGEMENT",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1152",
+		"Faculty": "SOC",
+		"Code": "IS3243",
+		"Title": "TECHNOLOGY STRATEGY AND MANAGEMENT",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1153",
+		"Faculty": "SOC",
+		"Code": "IS3250",
+		"Title": "HEALTH INFORMATICS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1154",
+		"Faculty": "SOC",
+		"Code": "IS3260",
+		"Title": "GAMIFICATION FOR ORGANISATIONS AND INDIVIDUALS",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1155",
+		"Faculty": "SOC",
+		"Code": "IS4150",
+		"Title": "MOBILE AND UBIQUITOUS COMMERCE",
+		"Date": "08/05/2014 (Thu)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1156",
+		"Faculty": "SOC",
+		"Code": "IS4203",
+		"Title": "IT ADOPTION AND CHANGE MANAGEMENT",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1157",
+		"Faculty": "SOC",
+		"Code": "IS4226",
+		"Title": "IT OUTSOURCING AND OFFSHORING MANAGEMENT",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1158",
+		"Faculty": "SOC",
+		"Code": "IS4227",
+		"Title": "ENTERPRISE SERVICE-ORIENTED ARCHITECTURE",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1159",
+		"Faculty": "SOC",
+		"Code": "IS4240",
+		"Title": "BUSINESS INTELLIGENCE SYSTEMS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1160",
+		"Faculty": "SOC",
+		"Code": "IS5110",
+		"Title": "SOFTWARE PROJECT MANAGEMENT",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1161",
+		"Faculty": "SOC",
+		"Code": "IS5111",
+		"Title": "INTEGRATION OF IS AND BUSINESS",
+		"Date": "03/05/2014 (Sat)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1162",
+		"Faculty": "SOC",
+		"Code": "IS5114",
+		"Title": "INFORMATION TECHNOLOGY OUTSOURCING",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1163",
+		"Faculty": "SOC",
+		"Code": "IS5117",
+		"Title": "ELECTRONIC GOVERNMENT",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1164",
+		"Faculty": "SOC",
+		"Code": "IS6001",
+		"Title": "QUALITATIVE METHODS FOR IS RESEARCH",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1165",
+		"Faculty": "SOC",
+		"Code": "IS6103",
+		"Title": "DESIGN SCIENCE RESEARCH IN INFORMATION SYSTEMS",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "5:00 PM"
+	},
+	{
+		"S/No": "1166",
+		"Faculty": "SOC",
+		"Code": "IT1001",
+		"Title": "INTRODUCTION TO COMPUTING",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1167",
+		"Faculty": "SOC",
+		"Code": "IT1006",
+		"Title": "MATLAB PROGRAMMING FOR MATHEMATICS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1168",
+		"Faculty": "SOC",
+		"Code": "IT2001",
+		"Title": "NETWORK TECHNOLOGY AND APPLICATIONS",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1169",
+		"Faculty": "SOC",
+		"Code": "IT2002",
+		"Title": "DATABASE TECHNOLOGY AND MANAGEMENT",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "1170",
+		"Faculty": "SSHSPH",
+		"Code": "SPH2104",
+		"Title": "PUBLIC HEALTH NUTRITION",
+		"Date": "26/04/2014 (Sat)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1171",
+		"Faculty": "SSHSPH",
+		"Code": "SPH3103",
+		"Title": "PUBLIC HEALTH ECONOMICS",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1172",
+		"Faculty": "USP",
+		"Code": "ULS2202",
+		"Title": "EVOLUTION",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1173",
+		"Faculty": "USP",
+		"Code": "UNL2201",
+		"Title": "SPACE, TIME AND MATTER",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1174",
+		"Faculty": "USP",
+		"Code": "UQF2101H",
+		"Title": "QUANTITATIVE REASONING FOUNDATION: WAR AND DEMOCRACY",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1175",
+		"Faculty": "YLLSOM",
+		"Code": "MIC1000",
+		"Title": "INFECTION AND IMMUNITY",
+		"Date": "02/05/2014 (Fri)",
+		"Time": "2:30 PM"
+	},
+	{
+		"S/No": "1176",
+		"Faculty": "YLLSOM",
+		"Code": "NUR1109",
+		"Title": "HEALTHCARE ETHICS AND LAW",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1177",
+		"Faculty": "YLLSOM",
+		"Code": "NUR1115",
+		"Title": "MATERNAL AND CHILD HEALTH NURSING",
+		"Date": "28/04/2014 (Mon)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1178",
+		"Faculty": "YLLSOM",
+		"Code": "NUR1116",
+		"Title": "PSYCHOLOGY FOR HEALTH PROFESSIONALS",
+		"Date": "07/05/2014 (Wed)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1179",
+		"Faculty": "YLLSOM",
+		"Code": "NUR1118",
+		"Title": "ANATOMY AND PHYSIOLOGY II",
+		"Date": "05/05/2014 (Mon)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1180",
+		"Faculty": "YLLSOM",
+		"Code": "NUR2116",
+		"Title": "MEDICAL-SURGICAL NURSING II",
+		"Date": "06/05/2014 (Tue)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1181",
+		"Faculty": "YLLSOM",
+		"Code": "NUR2118",
+		"Title": "PATHOPHYSIOLOGY AND PHARMACOLOGY II",
+		"Date": "30/04/2014 (Wed)",
+		"Time": "1:00 PM"
+	},
+	{
+		"S/No": "1182",
+		"Faculty": "YLLSOM",
+		"Code": "NUR5301",
+		"Title": "ADVANCED PRACTICE NURSING I (ADULT HEALTH)",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	},
+	{
+		"S/No": "1183",
+		"Faculty": "YLLSOM",
+		"Code": "NUR5501",
+		"Title": "ADVANCED PRACTICE NURSING I (ACUTE CARE).",
+		"Date": "29/04/2014 (Tue)",
+		"Time": "9:00 AM"
+	}
+]
