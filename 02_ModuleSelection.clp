@@ -12,6 +12,7 @@
   (make-instance ?instancename of ALLMODULE (moduleid ?moduleid))
  ) 
  
+;  
 (defrule getNoPreqModule
   (object (is-a MODULE) (moduleid ?moduleid))
   (not (exists (object (is-a SPECIALPREREQMODULE) (moduleid ?moduleid))))
