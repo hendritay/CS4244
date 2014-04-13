@@ -1,22951 +1,22951 @@
 (definstances MODULETIMELIST
-([ACC10020] of MODULETIME 
+([timeACC10020] of MODULETIME 
 (moduleid  ACC1002)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ACC1002X0] of MODULETIME 
+([timeACC1002X0] of MODULETIME 
 (moduleid  ACC1002X)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ACC1002X1] of MODULETIME 
+([timeACC1002X1] of MODULETIME 
 (moduleid  ACC1002X)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC10060] of MODULETIME 
+([timeACC10060] of MODULETIME 
 (moduleid  ACC1006)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ACC20020] of MODULETIME 
+([timeACC20020] of MODULETIME 
 (moduleid  ACC2002)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ACC20021] of MODULETIME 
+([timeACC20021] of MODULETIME 
 (moduleid  ACC2002)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ACC36010] of MODULETIME 
+([timeACC36010] of MODULETIME 
 (moduleid  ACC3601)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36011] of MODULETIME 
+([timeACC36011] of MODULETIME 
 (moduleid  ACC3601)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36012] of MODULETIME 
+([timeACC36012] of MODULETIME 
 (moduleid  ACC3601)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ACC36013] of MODULETIME 
+([timeACC36013] of MODULETIME 
 (moduleid  ACC3601)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ACC36014] of MODULETIME 
+([timeACC36014] of MODULETIME 
 (moduleid  ACC3601)
 (day MONDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ACC36015] of MODULETIME 
+([timeACC36015] of MODULETIME 
 (moduleid  ACC3601)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36020] of MODULETIME 
+([timeACC36020] of MODULETIME 
 (moduleid  ACC3602)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ACC36021] of MODULETIME 
+([timeACC36021] of MODULETIME 
 (moduleid  ACC3602)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ACC36022] of MODULETIME 
+([timeACC36022] of MODULETIME 
 (moduleid  ACC3602)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36023] of MODULETIME 
+([timeACC36023] of MODULETIME 
 (moduleid  ACC3602)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36024] of MODULETIME 
+([timeACC36024] of MODULETIME 
 (moduleid  ACC3602)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36025] of MODULETIME 
+([timeACC36025] of MODULETIME 
 (moduleid  ACC3602)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ACC36030] of MODULETIME 
+([timeACC36030] of MODULETIME 
 (moduleid  ACC3603)
 (day MONDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ACC36031] of MODULETIME 
+([timeACC36031] of MODULETIME 
 (moduleid  ACC3603)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36032] of MODULETIME 
+([timeACC36032] of MODULETIME 
 (moduleid  ACC3603)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ACC36033] of MODULETIME 
+([timeACC36033] of MODULETIME 
 (moduleid  ACC3603)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36034] of MODULETIME 
+([timeACC36034] of MODULETIME 
 (moduleid  ACC3603)
 (day MONDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ACC36035] of MODULETIME 
+([timeACC36035] of MODULETIME 
 (moduleid  ACC3603)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36040] of MODULETIME 
+([timeACC36040] of MODULETIME 
 (moduleid  ACC3604)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ACC36041] of MODULETIME 
+([timeACC36041] of MODULETIME 
 (moduleid  ACC3604)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ACC36042] of MODULETIME 
+([timeACC36042] of MODULETIME 
 (moduleid  ACC3604)
 (day FRIDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ACC36043] of MODULETIME 
+([timeACC36043] of MODULETIME 
 (moduleid  ACC3604)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ACC36044] of MODULETIME 
+([timeACC36044] of MODULETIME 
 (moduleid  ACC3604)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36045] of MODULETIME 
+([timeACC36045] of MODULETIME 
 (moduleid  ACC3604)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36050] of MODULETIME 
+([timeACC36050] of MODULETIME 
 (moduleid  ACC3605)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ACC36051] of MODULETIME 
+([timeACC36051] of MODULETIME 
 (moduleid  ACC3605)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ACC36052] of MODULETIME 
+([timeACC36052] of MODULETIME 
 (moduleid  ACC3605)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36053] of MODULETIME 
+([timeACC36053] of MODULETIME 
 (moduleid  ACC3605)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36054] of MODULETIME 
+([timeACC36054] of MODULETIME 
 (moduleid  ACC3605)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36055] of MODULETIME 
+([timeACC36055] of MODULETIME 
 (moduleid  ACC3605)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36060] of MODULETIME 
+([timeACC36060] of MODULETIME 
 (moduleid  ACC3606)
 (day TUESDAY)
 (starttime 17:00)
 (endtime 19:00)
 (semester 2)
 )
-([ACC36110] of MODULETIME 
+([timeACC36110] of MODULETIME 
 (moduleid  ACC3611)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36111] of MODULETIME 
+([timeACC36111] of MODULETIME 
 (moduleid  ACC3611)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ACC36112] of MODULETIME 
+([timeACC36112] of MODULETIME 
 (moduleid  ACC3611)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ACC36113] of MODULETIME 
+([timeACC36113] of MODULETIME 
 (moduleid  ACC3611)
 (day WEDNESDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ACC36114] of MODULETIME 
+([timeACC36114] of MODULETIME 
 (moduleid  ACC3611)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ACC36115] of MODULETIME 
+([timeACC36115] of MODULETIME 
 (moduleid  ACC3611)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ACC36120] of MODULETIME 
+([timeACC36120] of MODULETIME 
 (moduleid  ACC3612)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ACC36121] of MODULETIME 
+([timeACC36121] of MODULETIME 
 (moduleid  ACC3612)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ACC36122] of MODULETIME 
+([timeACC36122] of MODULETIME 
 (moduleid  ACC3612)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36123] of MODULETIME 
+([timeACC36123] of MODULETIME 
 (moduleid  ACC3612)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ACC36124] of MODULETIME 
+([timeACC36124] of MODULETIME 
 (moduleid  ACC3612)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36125] of MODULETIME 
+([timeACC36125] of MODULETIME 
 (moduleid  ACC3612)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ACC36126] of MODULETIME 
+([timeACC36126] of MODULETIME 
 (moduleid  ACC3612)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36127] of MODULETIME 
+([timeACC36127] of MODULETIME 
 (moduleid  ACC3612)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36128] of MODULETIME 
+([timeACC36128] of MODULETIME 
 (moduleid  ACC3612)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36130] of MODULETIME 
+([timeACC36130] of MODULETIME 
 (moduleid  ACC3613)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ACC36131] of MODULETIME 
+([timeACC36131] of MODULETIME 
 (moduleid  ACC3613)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36132] of MODULETIME 
+([timeACC36132] of MODULETIME 
 (moduleid  ACC3613)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36133] of MODULETIME 
+([timeACC36133] of MODULETIME 
 (moduleid  ACC3613)
 (day MONDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ACC36134] of MODULETIME 
+([timeACC36134] of MODULETIME 
 (moduleid  ACC3613)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36135] of MODULETIME 
+([timeACC36135] of MODULETIME 
 (moduleid  ACC3613)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36140] of MODULETIME 
+([timeACC36140] of MODULETIME 
 (moduleid  ACC3614)
 (day FRIDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ACC36141] of MODULETIME 
+([timeACC36141] of MODULETIME 
 (moduleid  ACC3614)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36142] of MODULETIME 
+([timeACC36142] of MODULETIME 
 (moduleid  ACC3614)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ACC36143] of MODULETIME 
+([timeACC36143] of MODULETIME 
 (moduleid  ACC3614)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36144] of MODULETIME 
+([timeACC36144] of MODULETIME 
 (moduleid  ACC3614)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ACC36145] of MODULETIME 
+([timeACC36145] of MODULETIME 
 (moduleid  ACC3614)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ACC36150] of MODULETIME 
+([timeACC36150] of MODULETIME 
 (moduleid  ACC3615)
 (day MONDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ACC36151] of MODULETIME 
+([timeACC36151] of MODULETIME 
 (moduleid  ACC3615)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC36152] of MODULETIME 
+([timeACC36152] of MODULETIME 
 (moduleid  ACC3615)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36153] of MODULETIME 
+([timeACC36153] of MODULETIME 
 (moduleid  ACC3615)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ACC36154] of MODULETIME 
+([timeACC36154] of MODULETIME 
 (moduleid  ACC3615)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ACC36155] of MODULETIME 
+([timeACC36155] of MODULETIME 
 (moduleid  ACC3615)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ACC46110] of MODULETIME 
+([timeACC46110] of MODULETIME 
 (moduleid  ACC4611)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([ACC4612A0] of MODULETIME 
+([timeACC4612A0] of MODULETIME 
 (moduleid  ACC4612A)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([ACC4612C0] of MODULETIME 
+([timeACC4612C0] of MODULETIME 
 (moduleid  ACC4612C)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([ACC4612E0] of MODULETIME 
+([timeACC4612E0] of MODULETIME 
 (moduleid  ACC4612E)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([AR11020] of MODULETIME 
+([timeAR11020] of MODULETIME 
 (moduleid  AR1102)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([AR11021] of MODULETIME 
+([timeAR11021] of MODULETIME 
 (moduleid  AR1102)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([AR13260] of MODULETIME 
+([timeAR13260] of MODULETIME 
 (moduleid  AR1326)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([AR17210] of MODULETIME 
+([timeAR17210] of MODULETIME 
 (moduleid  AR1721)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([AR17240] of MODULETIME 
+([timeAR17240] of MODULETIME 
 (moduleid  AR1724)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([AR21020] of MODULETIME 
+([timeAR21020] of MODULETIME 
 (moduleid  AR2102)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([AR21021] of MODULETIME 
+([timeAR21021] of MODULETIME 
 (moduleid  AR2102)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([AR22250] of MODULETIME 
+([timeAR22250] of MODULETIME 
 (moduleid  AR2225)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([AR23270] of MODULETIME 
+([timeAR23270] of MODULETIME 
 (moduleid  AR2327)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([AR27230] of MODULETIME 
+([timeAR27230] of MODULETIME 
 (moduleid  AR2723)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([AR31020] of MODULETIME 
+([timeAR31020] of MODULETIME 
 (moduleid  AR3102)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([AR31021] of MODULETIME 
+([timeAR31021] of MODULETIME 
 (moduleid  AR3102)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([AR3102A0] of MODULETIME 
+([timeAR3102A0] of MODULETIME 
 (moduleid  AR3102A)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([AR3102A1] of MODULETIME 
+([timeAR3102A1] of MODULETIME 
 (moduleid  AR3102A)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([AR37210] of MODULETIME 
+([timeAR37210] of MODULETIME 
 (moduleid  AR3721)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([AR41020] of MODULETIME 
+([timeAR41020] of MODULETIME 
 (moduleid  AR4102)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([AR41021] of MODULETIME 
+([timeAR41021] of MODULETIME 
 (moduleid  AR4102)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([AR41040] of MODULETIME 
+([timeAR41040] of MODULETIME 
 (moduleid  AR4104)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([AR41041] of MODULETIME 
+([timeAR41041] of MODULETIME 
 (moduleid  AR4104)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([AR41420] of MODULETIME 
+([timeAR41420] of MODULETIME 
 (moduleid  AR4142)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([AR42230] of MODULETIME 
+([timeAR42230] of MODULETIME 
 (moduleid  AR4223)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([AR43230] of MODULETIME 
+([timeAR43230] of MODULETIME 
 (moduleid  AR4323)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([AR50110] of MODULETIME 
+([timeAR50110] of MODULETIME 
 (moduleid  AR5011)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([AR52210] of MODULETIME 
+([timeAR52210] of MODULETIME 
 (moduleid  AR5221)
 (day MONDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([AR5952J0] of MODULETIME 
+([timeAR5952J0] of MODULETIME 
 (moduleid  AR5952J)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([AR5952Z0] of MODULETIME 
+([timeAR5952Z0] of MODULETIME 
 (moduleid  AR5952Z)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([AR5952Z1] of MODULETIME 
+([timeAR5952Z1] of MODULETIME 
 (moduleid  AR5952Z)
 (day TUESDAY)
 (starttime 13:00)
 (endtime 16:00)
 (semester 2)
 )
-([AR5952Z2] of MODULETIME 
+([timeAR5952Z2] of MODULETIME 
 (moduleid  AR5952Z)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([AR5953L0] of MODULETIME 
+([timeAR5953L0] of MODULETIME 
 (moduleid  AR5953L)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([AS42320] of MODULETIME 
+([timeAS42320] of MODULETIME 
 (moduleid  AS4232)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([BFS10010] of MODULETIME 
+([timeBFS10010] of MODULETIME 
 (moduleid  BFS1001)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([BFS10011] of MODULETIME 
+([timeBFS10011] of MODULETIME 
 (moduleid  BFS1001)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([BFS10012] of MODULETIME 
+([timeBFS10012] of MODULETIME 
 (moduleid  BFS1001)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([BFS10013] of MODULETIME 
+([timeBFS10013] of MODULETIME 
 (moduleid  BFS1001)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([BFS10014] of MODULETIME 
+([timeBFS10014] of MODULETIME 
 (moduleid  BFS1001)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([BN20010] of MODULETIME 
+([timeBN20010] of MODULETIME 
 (moduleid  BN2001)
 (day SATURDAY)
 (starttime 22:00)
 (endtime 23:59)
 (semester 2)
 )
-([BN21030] of MODULETIME 
+([timeBN21030] of MODULETIME 
 (moduleid  BN2103)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([BN22010] of MODULETIME 
+([timeBN22010] of MODULETIME 
 (moduleid  BN2201)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([BN22030] of MODULETIME 
+([timeBN22030] of MODULETIME 
 (moduleid  BN2203)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([BN22031] of MODULETIME 
+([timeBN22031] of MODULETIME 
 (moduleid  BN2203)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([BN24010] of MODULETIME 
+([timeBN24010] of MODULETIME 
 (moduleid  BN2401)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([BN34010] of MODULETIME 
+([timeBN34010] of MODULETIME 
 (moduleid  BN3401)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([BN35010] of MODULETIME 
+([timeBN35010] of MODULETIME 
 (moduleid  BN3501)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([BN42010] of MODULETIME 
+([timeBN42010] of MODULETIME 
 (moduleid  BN4201)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([BN42030] of MODULETIME 
+([timeBN42030] of MODULETIME 
 (moduleid  BN4203)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([BN44020] of MODULETIME 
+([timeBN44020] of MODULETIME 
 (moduleid  BN4402)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([BN44040] of MODULETIME 
+([timeBN44040] of MODULETIME 
 (moduleid  BN4404)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([BSP10040] of MODULETIME 
+([timeBSP10040] of MODULETIME 
 (moduleid  BSP1004)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([BSP10041] of MODULETIME 
+([timeBSP10041] of MODULETIME 
 (moduleid  BSP1004)
 (day MONDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([BSP10042] of MODULETIME 
+([timeBSP10042] of MODULETIME 
 (moduleid  BSP1004)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([BSP10043] of MODULETIME 
+([timeBSP10043] of MODULETIME 
 (moduleid  BSP1004)
 (day MONDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([BSP10044] of MODULETIME 
+([timeBSP10044] of MODULETIME 
 (moduleid  BSP1004)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([BSP10045] of MODULETIME 
+([timeBSP10045] of MODULETIME 
 (moduleid  BSP1004)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([BSP10046] of MODULETIME 
+([timeBSP10046] of MODULETIME 
 (moduleid  BSP1004)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([BSP10047] of MODULETIME 
+([timeBSP10047] of MODULETIME 
 (moduleid  BSP1004)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([BSP1004X0] of MODULETIME 
+([timeBSP1004X0] of MODULETIME 
 (moduleid  BSP1004X)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([BSP10050] of MODULETIME 
+([timeBSP10050] of MODULETIME 
 (moduleid  BSP1005)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([BSP10051] of MODULETIME 
+([timeBSP10051] of MODULETIME 
 (moduleid  BSP1005)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([BSP20010] of MODULETIME 
+([timeBSP20010] of MODULETIME 
 (moduleid  BSP2001)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([BSP20011] of MODULETIME 
+([timeBSP20011] of MODULETIME 
 (moduleid  BSP2001)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([BSP20050] of MODULETIME 
+([timeBSP20050] of MODULETIME 
 (moduleid  BSP2005)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([BSP20051] of MODULETIME 
+([timeBSP20051] of MODULETIME 
 (moduleid  BSP2005)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([BSP3001A0] of MODULETIME 
+([timeBSP3001A0] of MODULETIME 
 (moduleid  BSP3001A)
 (day MONDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([BSP3001A1] of MODULETIME 
+([timeBSP3001A1] of MODULETIME 
 (moduleid  BSP3001A)
 (day MONDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([BSP3001B0] of MODULETIME 
+([timeBSP3001B0] of MODULETIME 
 (moduleid  BSP3001B)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([BSP3001B1] of MODULETIME 
+([timeBSP3001B1] of MODULETIME 
 (moduleid  BSP3001B)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([BSP3001C0] of MODULETIME 
+([timeBSP3001C0] of MODULETIME 
 (moduleid  BSP3001C)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([BSP3001C1] of MODULETIME 
+([timeBSP3001C1] of MODULETIME 
 (moduleid  BSP3001C)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([BSP3001C2] of MODULETIME 
+([timeBSP3001C2] of MODULETIME 
 (moduleid  BSP3001C)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([BSP45120] of MODULETIME 
+([timeBSP45120] of MODULETIME 
 (moduleid  BSP4512)
 (day MONDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([CE21120] of MODULETIME 
+([timeCE21120] of MODULETIME 
 (moduleid  CE2112)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 12:00)
 (semester 2)
 )
-([CE21121] of MODULETIME 
+([timeCE21121] of MODULETIME 
 (moduleid  CE2112)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CE21830] of MODULETIME 
+([timeCE21830] of MODULETIME 
 (moduleid  CE2183)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([CE21831] of MODULETIME 
+([timeCE21831] of MODULETIME 
 (moduleid  CE2183)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CE31010] of MODULETIME 
+([timeCE31010] of MODULETIME 
 (moduleid  CE3101)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([CE31020] of MODULETIME 
+([timeCE31020] of MODULETIME 
 (moduleid  CE3102)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([CE31160] of MODULETIME 
+([timeCE31160] of MODULETIME 
 (moduleid  CE3116)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([CE31161] of MODULETIME 
+([timeCE31161] of MODULETIME 
 (moduleid  CE3116)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CE31320] of MODULETIME 
+([timeCE31320] of MODULETIME 
 (moduleid  CE3132)
 (day MONDAY)
 (starttime 13:00)
 (endtime 14:00)
 (semester 2)
 )
-([CE31321] of MODULETIME 
+([timeCE31321] of MODULETIME 
 (moduleid  CE3132)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CE31550] of MODULETIME 
+([timeCE31550] of MODULETIME 
 (moduleid  CE3155)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 16:00)
 (semester 2)
 )
-([CE31551] of MODULETIME 
+([timeCE31551] of MODULETIME 
 (moduleid  CE3155)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CE31650] of MODULETIME 
+([timeCE31650] of MODULETIME 
 (moduleid  CE3165)
 (day MONDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([CE31651] of MODULETIME 
+([timeCE31651] of MODULETIME 
 (moduleid  CE3165)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CE42210] of MODULETIME 
+([timeCE42210] of MODULETIME 
 (moduleid  CE4221)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE42310] of MODULETIME 
+([timeCE42310] of MODULETIME 
 (moduleid  CE4231)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE42580] of MODULETIME 
+([timeCE42580] of MODULETIME 
 (moduleid  CE4258)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE42820] of MODULETIME 
+([timeCE42820] of MODULETIME 
 (moduleid  CE4282)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE51050] of MODULETIME 
+([timeCE51050] of MODULETIME 
 (moduleid  CE5105)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE51060] of MODULETIME 
+([timeCE51060] of MODULETIME 
 (moduleid  CE5106)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE51070] of MODULETIME 
+([timeCE51070] of MODULETIME 
 (moduleid  CE5107)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE52070] of MODULETIME 
+([timeCE52070] of MODULETIME 
 (moduleid  CE5207)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE53080] of MODULETIME 
+([timeCE53080] of MODULETIME 
 (moduleid  CE5308)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE56030] of MODULETIME 
+([timeCE56030] of MODULETIME 
 (moduleid  CE5603)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE56040] of MODULETIME 
+([timeCE56040] of MODULETIME 
 (moduleid  CE5604)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE56110] of MODULETIME 
+([timeCE56110] of MODULETIME 
 (moduleid  CE5611)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE58050] of MODULETIME 
+([timeCE58050] of MODULETIME 
 (moduleid  CE5805)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE58810] of MODULETIME 
+([timeCE58810] of MODULETIME 
 (moduleid  CE5881)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CE5883A0] of MODULETIME 
+([timeCE5883A0] of MODULETIME 
 (moduleid  CE5883A)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CG11080] of MODULETIME 
+([timeCG11080] of MODULETIME 
 (moduleid  CG1108)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CG22710] of MODULETIME 
+([timeCG22710] of MODULETIME 
 (moduleid  CG2271)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CG3204L0] of MODULETIME 
+([timeCG3204L0] of MODULETIME 
 (moduleid  CG3204L)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([CG40010] of MODULETIME 
+([timeCG40010] of MODULETIME 
 (moduleid  CG4001)
 (day SATURDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([CH1101E0] of MODULETIME 
+([timeCH1101E0] of MODULETIME 
 (moduleid  CH1101E)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CH21410] of MODULETIME 
+([timeCH21410] of MODULETIME 
 (moduleid  CH2141)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CH22230] of MODULETIME 
+([timeCH22230] of MODULETIME 
 (moduleid  CH2223)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CH22730] of MODULETIME 
+([timeCH22730] of MODULETIME 
 (moduleid  CH2273)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CH22910] of MODULETIME 
+([timeCH22910] of MODULETIME 
 (moduleid  CH2291)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CH22970] of MODULETIME 
+([timeCH22970] of MODULETIME 
 (moduleid  CH2297)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CH32230] of MODULETIME 
+([timeCH32230] of MODULETIME 
 (moduleid  CH3223)
 (day MONDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([CH32260] of MODULETIME 
+([timeCH32260] of MODULETIME 
 (moduleid  CH3226)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CH32290] of MODULETIME 
+([timeCH32290] of MODULETIME 
 (moduleid  CH3229)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([CH32480] of MODULETIME 
+([timeCH32480] of MODULETIME 
 (moduleid  CH3248)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CH42440] of MODULETIME 
+([timeCH42440] of MODULETIME 
 (moduleid  CH4244)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([CH42610] of MODULETIME 
+([timeCH42610] of MODULETIME 
 (moduleid  CH4261)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([CH42810] of MODULETIME 
+([timeCH42810] of MODULETIME 
 (moduleid  CH4281)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([CH52250] of MODULETIME 
+([timeCH52250] of MODULETIME 
 (moduleid  CH5225)
 (day TUESDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([CH5225R0] of MODULETIME 
+([timeCH5225R0] of MODULETIME 
 (moduleid  CH5225R)
 (day TUESDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([CH52420] of MODULETIME 
+([timeCH52420] of MODULETIME 
 (moduleid  CH5242)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CH5242R0] of MODULETIME 
+([timeCH5242R0] of MODULETIME 
 (moduleid  CH5242R)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CH58800] of MODULETIME 
+([timeCH58800] of MODULETIME 
 (moduleid  CH5880)
 (day MONDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([CH5880R0] of MODULETIME 
+([timeCH5880R0] of MODULETIME 
 (moduleid  CH5880R)
 (day MONDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([CH62010] of MODULETIME 
+([timeCH62010] of MODULETIME 
 (moduleid  CH6201)
 (day FRIDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([CH62450] of MODULETIME 
+([timeCH62450] of MODULETIME 
 (moduleid  CH6245)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CL1101E0] of MODULETIME 
+([timeCL1101E0] of MODULETIME 
 (moduleid  CL1101E)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CL21030] of MODULETIME 
+([timeCL21030] of MODULETIME 
 (moduleid  CL2103)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CL22410] of MODULETIME 
+([timeCL22410] of MODULETIME 
 (moduleid  CL2241)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CL22600] of MODULETIME 
+([timeCL22600] of MODULETIME 
 (moduleid  CL2260)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CL22810] of MODULETIME 
+([timeCL22810] of MODULETIME 
 (moduleid  CL2281)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CL22910] of MODULETIME 
+([timeCL22910] of MODULETIME 
 (moduleid  CL2291)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CL32050] of MODULETIME 
+([timeCL32050] of MODULETIME 
 (moduleid  CL3205)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([CL32080] of MODULETIME 
+([timeCL32080] of MODULETIME 
 (moduleid  CL3208)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([CL32110] of MODULETIME 
+([timeCL32110] of MODULETIME 
 (moduleid  CL3211)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([CL32810] of MODULETIME 
+([timeCL32810] of MODULETIME 
 (moduleid  CL3281)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM11210] of MODULETIME 
+([timeCM11210] of MODULETIME 
 (moduleid  CM1121)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CM11610] of MODULETIME 
+([timeCM11610] of MODULETIME 
 (moduleid  CM1161)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM11611] of MODULETIME 
+([timeCM11611] of MODULETIME 
 (moduleid  CM1161)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM11910] of MODULETIME 
+([timeCM11910] of MODULETIME 
 (moduleid  CM1191)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM14020] of MODULETIME 
+([timeCM14020] of MODULETIME 
 (moduleid  CM1402)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CM14021] of MODULETIME 
+([timeCM14021] of MODULETIME 
 (moduleid  CM1402)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CM15020] of MODULETIME 
+([timeCM15020] of MODULETIME 
 (moduleid  CM1502)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CM15021] of MODULETIME 
+([timeCM15021] of MODULETIME 
 (moduleid  CM1502)
 (day WEDNESDAY)
 (starttime 17:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM21010] of MODULETIME 
+([timeCM21010] of MODULETIME 
 (moduleid  CM2101)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 9:00)
 (semester 2)
 )
-([CM21011] of MODULETIME 
+([timeCM21011] of MODULETIME 
 (moduleid  CM2101)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CM21012] of MODULETIME 
+([timeCM21012] of MODULETIME 
 (moduleid  CM2101)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CM21110] of MODULETIME 
+([timeCM21110] of MODULETIME 
 (moduleid  CM2111)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CM21111] of MODULETIME 
+([timeCM21111] of MODULETIME 
 (moduleid  CM2111)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CM21112] of MODULETIME 
+([timeCM21112] of MODULETIME 
 (moduleid  CM2111)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM21210] of MODULETIME 
+([timeCM21210] of MODULETIME 
 (moduleid  CM2121)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CM21211] of MODULETIME 
+([timeCM21211] of MODULETIME 
 (moduleid  CM2121)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CM21212] of MODULETIME 
+([timeCM21212] of MODULETIME 
 (moduleid  CM2121)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 9:00)
 (semester 2)
 )
-([CM21420] of MODULETIME 
+([timeCM21420] of MODULETIME 
 (moduleid  CM2142)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM21421] of MODULETIME 
+([timeCM21421] of MODULETIME 
 (moduleid  CM2142)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM21422] of MODULETIME 
+([timeCM21422] of MODULETIME 
 (moduleid  CM2142)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM21610] of MODULETIME 
+([timeCM21610] of MODULETIME 
 (moduleid  CM2161)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM21611] of MODULETIME 
+([timeCM21611] of MODULETIME 
 (moduleid  CM2161)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM21910] of MODULETIME 
+([timeCM21910] of MODULETIME 
 (moduleid  CM2191)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM21920] of MODULETIME 
+([timeCM21920] of MODULETIME 
 (moduleid  CM2192)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM21921] of MODULETIME 
+([timeCM21921] of MODULETIME 
 (moduleid  CM2192)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM2192A0] of MODULETIME 
+([timeCM2192A0] of MODULETIME 
 (moduleid  CM2192A)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM31810] of MODULETIME 
+([timeCM31810] of MODULETIME 
 (moduleid  CM3181)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM31811] of MODULETIME 
+([timeCM31811] of MODULETIME 
 (moduleid  CM3181)
 (day MONDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM31812] of MODULETIME 
+([timeCM31812] of MODULETIME 
 (moduleid  CM3181)
 (day SATURDAY)
 (starttime 6:00)
 (endtime 23:59)
 (semester 2)
 )
-([CM31813] of MODULETIME 
+([timeCM31813] of MODULETIME 
 (moduleid  CM3181)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM31814] of MODULETIME 
+([timeCM31814] of MODULETIME 
 (moduleid  CM3181)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM31815] of MODULETIME 
+([timeCM31815] of MODULETIME 
 (moduleid  CM3181)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM32110] of MODULETIME 
+([timeCM32110] of MODULETIME 
 (moduleid  CM3211)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM32111] of MODULETIME 
+([timeCM32111] of MODULETIME 
 (moduleid  CM3211)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM32220] of MODULETIME 
+([timeCM32220] of MODULETIME 
 (moduleid  CM3222)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CM32221] of MODULETIME 
+([timeCM32221] of MODULETIME 
 (moduleid  CM3222)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CM32250] of MODULETIME 
+([timeCM32250] of MODULETIME 
 (moduleid  CM3225)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CM32251] of MODULETIME 
+([timeCM32251] of MODULETIME 
 (moduleid  CM3225)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CM32320] of MODULETIME 
+([timeCM32320] of MODULETIME 
 (moduleid  CM3232)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM32321] of MODULETIME 
+([timeCM32321] of MODULETIME 
 (moduleid  CM3232)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM32510] of MODULETIME 
+([timeCM32510] of MODULETIME 
 (moduleid  CM3251)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM32511] of MODULETIME 
+([timeCM32511] of MODULETIME 
 (moduleid  CM3251)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM32530] of MODULETIME 
+([timeCM32530] of MODULETIME 
 (moduleid  CM3253)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM32531] of MODULETIME 
+([timeCM32531] of MODULETIME 
 (moduleid  CM3253)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM32610] of MODULETIME 
+([timeCM32610] of MODULETIME 
 (moduleid  CM3261)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CM32611] of MODULETIME 
+([timeCM32611] of MODULETIME 
 (moduleid  CM3261)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CM32620] of MODULETIME 
+([timeCM32620] of MODULETIME 
 (moduleid  CM3262)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM32621] of MODULETIME 
+([timeCM32621] of MODULETIME 
 (moduleid  CM3262)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM32640] of MODULETIME 
+([timeCM32640] of MODULETIME 
 (moduleid  CM3264)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM32641] of MODULETIME 
+([timeCM32641] of MODULETIME 
 (moduleid  CM3264)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM32650] of MODULETIME 
+([timeCM32650] of MODULETIME 
 (moduleid  CM3265)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM32651] of MODULETIME 
+([timeCM32651] of MODULETIME 
 (moduleid  CM3265)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([CM32960] of MODULETIME 
+([timeCM32960] of MODULETIME 
 (moduleid  CM3296)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CM32961] of MODULETIME 
+([timeCM32961] of MODULETIME 
 (moduleid  CM3296)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CM33010] of MODULETIME 
+([timeCM33010] of MODULETIME 
 (moduleid  CM3301)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM33011] of MODULETIME 
+([timeCM33011] of MODULETIME 
 (moduleid  CM3301)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM33120] of MODULETIME 
+([timeCM33120] of MODULETIME 
 (moduleid  CM3312)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM33121] of MODULETIME 
+([timeCM33121] of MODULETIME 
 (moduleid  CM3312)
 (day MONDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM33122] of MODULETIME 
+([timeCM33122] of MODULETIME 
 (moduleid  CM3312)
 (day SATURDAY)
 (starttime 6:00)
 (endtime 23:59)
 (semester 2)
 )
-([CM33123] of MODULETIME 
+([timeCM33123] of MODULETIME 
 (moduleid  CM3312)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM33124] of MODULETIME 
+([timeCM33124] of MODULETIME 
 (moduleid  CM3312)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM33125] of MODULETIME 
+([timeCM33125] of MODULETIME 
 (moduleid  CM3312)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM42140] of MODULETIME 
+([timeCM42140] of MODULETIME 
 (moduleid  CM4214)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM42141] of MODULETIME 
+([timeCM42141] of MODULETIME 
 (moduleid  CM4214)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM42360] of MODULETIME 
+([timeCM42360] of MODULETIME 
 (moduleid  CM4236)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM42361] of MODULETIME 
+([timeCM42361] of MODULETIME 
 (moduleid  CM4236)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CM42410] of MODULETIME 
+([timeCM42410] of MODULETIME 
 (moduleid  CM4241)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([CM42411] of MODULETIME 
+([timeCM42411] of MODULETIME 
 (moduleid  CM4241)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([CM42420] of MODULETIME 
+([timeCM42420] of MODULETIME 
 (moduleid  CM4242)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([CM42421] of MODULETIME 
+([timeCM42421] of MODULETIME 
 (moduleid  CM4242)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([CM42680] of MODULETIME 
+([timeCM42680] of MODULETIME 
 (moduleid  CM4268)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CM42681] of MODULETIME 
+([timeCM42681] of MODULETIME 
 (moduleid  CM4268)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CM42690] of MODULETIME 
+([timeCM42690] of MODULETIME 
 (moduleid  CM4269)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CM42691] of MODULETIME 
+([timeCM42691] of MODULETIME 
 (moduleid  CM4269)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CM42710] of MODULETIME 
+([timeCM42710] of MODULETIME 
 (moduleid  CM4271)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CM42711] of MODULETIME 
+([timeCM42711] of MODULETIME 
 (moduleid  CM4271)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CM42740] of MODULETIME 
+([timeCM42740] of MODULETIME 
 (moduleid  CM4274)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CM42741] of MODULETIME 
+([timeCM42741] of MODULETIME 
 (moduleid  CM4274)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CM52250] of MODULETIME 
+([timeCM52250] of MODULETIME 
 (moduleid  CM5225)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 22:00)
 (semester 2)
 )
-([CM52370] of MODULETIME 
+([timeCM52370] of MODULETIME 
 (moduleid  CM5237)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 22:00)
 (semester 2)
 )
-([CM52450] of MODULETIME 
+([timeCM52450] of MODULETIME 
 (moduleid  CM5245)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 22:00)
 (semester 2)
 )
-([CM52620] of MODULETIME 
+([timeCM52620] of MODULETIME 
 (moduleid  CM5262)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 22:00)
 (semester 2)
 )
-([CN11110] of MODULETIME 
+([timeCN11110] of MODULETIME 
 (moduleid  CN1111)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 13:00)
 (semester 2)
 )
-([CN11111] of MODULETIME 
+([timeCN11111] of MODULETIME 
 (moduleid  CN1111)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CN1111E0] of MODULETIME 
+([timeCN1111E0] of MODULETIME 
 (moduleid  CN1111E)
 (day FRIDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([CN21080] of MODULETIME 
+([timeCN21080] of MODULETIME 
 (moduleid  CN2108)
 (day MONDAY)
 (starttime 12:00)
 (endtime 17:00)
 (semester 2)
 )
-([CN21081] of MODULETIME 
+([timeCN21081] of MODULETIME 
 (moduleid  CN2108)
 (day SATURDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CN21082] of MODULETIME 
+([timeCN21082] of MODULETIME 
 (moduleid  CN2108)
 (day SATURDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CN21083] of MODULETIME 
+([timeCN21083] of MODULETIME 
 (moduleid  CN2108)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 17:00)
 (semester 2)
 )
-([CN21084] of MODULETIME 
+([timeCN21084] of MODULETIME 
 (moduleid  CN2108)
 (day SATURDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CN21085] of MODULETIME 
+([timeCN21085] of MODULETIME 
 (moduleid  CN2108)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 17:00)
 (semester 2)
 )
-([CN21086] of MODULETIME 
+([timeCN21086] of MODULETIME 
 (moduleid  CN2108)
 (day SATURDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CN21087] of MODULETIME 
+([timeCN21087] of MODULETIME 
 (moduleid  CN2108)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 17:00)
 (semester 2)
 )
-([CN21160] of MODULETIME 
+([timeCN21160] of MODULETIME 
 (moduleid  CN2116)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CN21161] of MODULETIME 
+([timeCN21161] of MODULETIME 
 (moduleid  CN2116)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([CN2116E0] of MODULETIME 
+([timeCN2116E0] of MODULETIME 
 (moduleid  CN2116E)
 (day FRIDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([CN21210] of MODULETIME 
+([timeCN21210] of MODULETIME 
 (moduleid  CN2121)
 (day MONDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([CN21211] of MODULETIME 
+([timeCN21211] of MODULETIME 
 (moduleid  CN2121)
 (day WEDNESDAY)
 (starttime 13:00)
 (endtime 14:00)
 (semester 2)
 )
-([CN21220] of MODULETIME 
+([timeCN21220] of MODULETIME 
 (moduleid  CN2122)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 14:00)
 (semester 2)
 )
-([CN21221] of MODULETIME 
+([timeCN21221] of MODULETIME 
 (moduleid  CN2122)
 (day TUESDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([CN21250] of MODULETIME 
+([timeCN21250] of MODULETIME 
 (moduleid  CN2125)
 (day FRIDAY)
 (starttime 13:00)
 (endtime 14:00)
 (semester 2)
 )
-([CN21251] of MODULETIME 
+([timeCN21251] of MODULETIME 
 (moduleid  CN2125)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CN2125E0] of MODULETIME 
+([timeCN2125E0] of MODULETIME 
 (moduleid  CN2125E)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([CN31080] of MODULETIME 
+([timeCN31080] of MODULETIME 
 (moduleid  CN3108)
 (day WEDNESDAY)
 (starttime 13:00)
 (endtime 17:00)
 (semester 2)
 )
-([CN31090] of MODULETIME 
+([timeCN31090] of MODULETIME 
 (moduleid  CN3109)
 (day TUESDAY)
 (starttime 13:00)
 (endtime 17:00)
 (semester 2)
 )
-([CN31091] of MODULETIME 
+([timeCN31091] of MODULETIME 
 (moduleid  CN3109)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 17:00)
 (semester 2)
 )
-([CN31240] of MODULETIME 
+([timeCN31240] of MODULETIME 
 (moduleid  CN3124)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CN3124E0] of MODULETIME 
+([timeCN3124E0] of MODULETIME 
 (moduleid  CN3124E)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([CN31320] of MODULETIME 
+([timeCN31320] of MODULETIME 
 (moduleid  CN3132)
 (day MONDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([CN31321] of MODULETIME 
+([timeCN31321] of MODULETIME 
 (moduleid  CN3132)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 17:00)
 (semester 2)
 )
-([CN31350] of MODULETIME 
+([timeCN31350] of MODULETIME 
 (moduleid  CN3135)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CN34210] of MODULETIME 
+([timeCN34210] of MODULETIME 
 (moduleid  CN3421)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 17:00)
 (semester 2)
 )
-([CN34211] of MODULETIME 
+([timeCN34211] of MODULETIME 
 (moduleid  CN3421)
 (day TUESDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([CN4118E0] of MODULETIME 
+([timeCN4118E0] of MODULETIME 
 (moduleid  CN4118E)
 (day SATURDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([CN4118R0] of MODULETIME 
+([timeCN4118R0] of MODULETIME 
 (moduleid  CN4118R)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 18:00)
 (semester 2)
 )
-([CN4118R1] of MODULETIME 
+([timeCN4118R1] of MODULETIME 
 (moduleid  CN4118R)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CN41210] of MODULETIME 
+([timeCN41210] of MODULETIME 
 (moduleid  CN4121)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([CN41220] of MODULETIME 
+([timeCN41220] of MODULETIME 
 (moduleid  CN4122)
 (day TUESDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([CN4123E0] of MODULETIME 
+([timeCN4123E0] of MODULETIME 
 (moduleid  CN4123E)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([CN4201R0] of MODULETIME 
+([timeCN4201R0] of MODULETIME 
 (moduleid  CN4201R)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CN4203R0] of MODULETIME 
+([timeCN4203R0] of MODULETIME 
 (moduleid  CN4203R)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 16:00)
 (semester 2)
 )
-([CN4203R1] of MODULETIME 
+([timeCN4203R1] of MODULETIME 
 (moduleid  CN4203R)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([CN4208E0] of MODULETIME 
+([timeCN4208E0] of MODULETIME 
 (moduleid  CN4208E)
 (day MONDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([CN4210E0] of MODULETIME 
+([timeCN4210E0] of MODULETIME 
 (moduleid  CN4210E)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([CN4223R0] of MODULETIME 
+([timeCN4223R0] of MODULETIME 
 (moduleid  CN4223R)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CN4227E0] of MODULETIME 
+([timeCN4227E0] of MODULETIME 
 (moduleid  CN4227E)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([CN4227R0] of MODULETIME 
+([timeCN4227R0] of MODULETIME 
 (moduleid  CN4227R)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CN4227R1] of MODULETIME 
+([timeCN4227R1] of MODULETIME 
 (moduleid  CN4227R)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 12:00)
 (semester 2)
 )
-([CN4238R0] of MODULETIME 
+([timeCN4238R0] of MODULETIME 
 (moduleid  CN4238R)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([CN4240R0] of MODULETIME 
+([timeCN4240R0] of MODULETIME 
 (moduleid  CN4240R)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([CN4240R1] of MODULETIME 
+([timeCN4240R1] of MODULETIME 
 (moduleid  CN4240R)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([CN4246R0] of MODULETIME 
+([timeCN4246R0] of MODULETIME 
 (moduleid  CN4246R)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CN4246R1] of MODULETIME 
+([timeCN4246R1] of MODULETIME 
 (moduleid  CN4246R)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 12:00)
 (semester 2)
 )
-([CN42480] of MODULETIME 
+([timeCN42480] of MODULETIME 
 (moduleid  CN4248)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([CN51110] of MODULETIME 
+([timeCN51110] of MODULETIME 
 (moduleid  CN5111)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CN51730] of MODULETIME 
+([timeCN51730] of MODULETIME 
 (moduleid  CN5173)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([CP3101B0] of MODULETIME 
+([timeCP3101B0] of MODULETIME 
 (moduleid  CP3101B)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CP32010] of MODULETIME 
+([timeCP32010] of MODULETIME 
 (moduleid  CP3201)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS10100] of MODULETIME 
+([timeCS10100] of MODULETIME 
 (moduleid  CS1010)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([CS1010E0] of MODULETIME 
+([timeCS1010E0] of MODULETIME 
 (moduleid  CS1010E)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS1010S0] of MODULETIME 
+([timeCS1010S0] of MODULETIME 
 (moduleid  CS1010S)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CS10200] of MODULETIME 
+([timeCS10200] of MODULETIME 
 (moduleid  CS1020)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS10201] of MODULETIME 
+([timeCS10201] of MODULETIME 
 (moduleid  CS1020)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS1020E0] of MODULETIME 
+([timeCS1020E0] of MODULETIME 
 (moduleid  CS1020E)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CS12310] of MODULETIME 
+([timeCS12310] of MODULETIME 
 (moduleid  CS1231)
 (day MONDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([CS12311] of MODULETIME 
+([timeCS12311] of MODULETIME 
 (moduleid  CS1231)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS20100] of MODULETIME 
+([timeCS20100] of MODULETIME 
 (moduleid  CS2010)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS20200] of MODULETIME 
+([timeCS20200] of MODULETIME 
 (moduleid  CS2020)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS20201] of MODULETIME 
+([timeCS20201] of MODULETIME 
 (moduleid  CS2020)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS21000] of MODULETIME 
+([timeCS21000] of MODULETIME 
 (moduleid  CS2100)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([CS21001] of MODULETIME 
+([timeCS21001] of MODULETIME 
 (moduleid  CS2100)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CS21010] of MODULETIME 
+([timeCS21010] of MODULETIME 
 (moduleid  CS2101)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS21011] of MODULETIME 
+([timeCS21011] of MODULETIME 
 (moduleid  CS2101)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS21012] of MODULETIME 
+([timeCS21012] of MODULETIME 
 (moduleid  CS2101)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS21013] of MODULETIME 
+([timeCS21013] of MODULETIME 
 (moduleid  CS2101)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS21014] of MODULETIME 
+([timeCS21014] of MODULETIME 
 (moduleid  CS2101)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CS21015] of MODULETIME 
+([timeCS21015] of MODULETIME 
 (moduleid  CS2101)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CS21016] of MODULETIME 
+([timeCS21016] of MODULETIME 
 (moduleid  CS2101)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS21017] of MODULETIME 
+([timeCS21017] of MODULETIME 
 (moduleid  CS2101)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS21018] of MODULETIME 
+([timeCS21018] of MODULETIME 
 (moduleid  CS2101)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS21019] of MODULETIME 
+([timeCS21019] of MODULETIME 
 (moduleid  CS2101)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CS210110] of MODULETIME 
+([timeCS210110] of MODULETIME 
 (moduleid  CS2101)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS210111] of MODULETIME 
+([timeCS210111] of MODULETIME 
 (moduleid  CS2101)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CS210112] of MODULETIME 
+([timeCS210112] of MODULETIME 
 (moduleid  CS2101)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS210113] of MODULETIME 
+([timeCS210113] of MODULETIME 
 (moduleid  CS2101)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS210114] of MODULETIME 
+([timeCS210114] of MODULETIME 
 (moduleid  CS2101)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS210115] of MODULETIME 
+([timeCS210115] of MODULETIME 
 (moduleid  CS2101)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CS210116] of MODULETIME 
+([timeCS210116] of MODULETIME 
 (moduleid  CS2101)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS210117] of MODULETIME 
+([timeCS210117] of MODULETIME 
 (moduleid  CS2101)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CS210118] of MODULETIME 
+([timeCS210118] of MODULETIME 
 (moduleid  CS2101)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS210119] of MODULETIME 
+([timeCS210119] of MODULETIME 
 (moduleid  CS2101)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS210120] of MODULETIME 
+([timeCS210120] of MODULETIME 
 (moduleid  CS2101)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS21020] of MODULETIME 
+([timeCS21020] of MODULETIME 
 (moduleid  CS2102)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CS21030] of MODULETIME 
+([timeCS21030] of MODULETIME 
 (moduleid  CS2103)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS21050] of MODULETIME 
+([timeCS21050] of MODULETIME 
 (moduleid  CS2105)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CS21060] of MODULETIME 
+([timeCS21060] of MODULETIME 
 (moduleid  CS2106)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CS21070] of MODULETIME 
+([timeCS21070] of MODULETIME 
 (moduleid  CS2107)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS31030] of MODULETIME 
+([timeCS31030] of MODULETIME 
 (moduleid  CS3103)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CS32010] of MODULETIME 
+([timeCS32010] of MODULETIME 
 (moduleid  CS3201)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS32020] of MODULETIME 
+([timeCS32020] of MODULETIME 
 (moduleid  CS3202)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CS32100] of MODULETIME 
+([timeCS32100] of MODULETIME 
 (moduleid  CS3210)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS32110] of MODULETIME 
+([timeCS32110] of MODULETIME 
 (moduleid  CS3211)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CS32170] of MODULETIME 
+([timeCS32170] of MODULETIME 
 (moduleid  CS3217)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 17:00)
 (semester 2)
 )
-([CS32171] of MODULETIME 
+([timeCS32171] of MODULETIME 
 (moduleid  CS3217)
 (day MONDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([CS32180] of MODULETIME 
+([timeCS32180] of MODULETIME 
 (moduleid  CS3218)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CS32230] of MODULETIME 
+([timeCS32230] of MODULETIME 
 (moduleid  CS3223)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS32250] of MODULETIME 
+([timeCS32250] of MODULETIME 
 (moduleid  CS3225)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CS32300] of MODULETIME 
+([timeCS32300] of MODULETIME 
 (moduleid  CS3230)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CS32330] of MODULETIME 
+([timeCS32330] of MODULETIME 
 (moduleid  CS3233)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 22:00)
 (semester 2)
 )
-([CS32340] of MODULETIME 
+([timeCS32340] of MODULETIME 
 (moduleid  CS3234)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS32400] of MODULETIME 
+([timeCS32400] of MODULETIME 
 (moduleid  CS3240)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([CS32401] of MODULETIME 
+([timeCS32401] of MODULETIME 
 (moduleid  CS3240)
 (day TUESDAY)
 (starttime 18:30)
 (endtime 20:30)
 (semester 2)
 )
-([CS32410] of MODULETIME 
+([timeCS32410] of MODULETIME 
 (moduleid  CS3241)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS32420] of MODULETIME 
+([timeCS32420] of MODULETIME 
 (moduleid  CS3242)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS32430] of MODULETIME 
+([timeCS32430] of MODULETIME 
 (moduleid  CS3243)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CS32450] of MODULETIME 
+([timeCS32450] of MODULETIME 
 (moduleid  CS3245)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([CS32470] of MODULETIME 
+([timeCS32470] of MODULETIME 
 (moduleid  CS3247)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CS32490] of MODULETIME 
+([timeCS32490] of MODULETIME 
 (moduleid  CS3249)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CS32820] of MODULETIME 
+([timeCS32820] of MODULETIME 
 (moduleid  CS3282)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS32840] of MODULETIME 
+([timeCS32840] of MODULETIME 
 (moduleid  CS3284)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([CS33430] of MODULETIME 
+([timeCS33430] of MODULETIME 
 (moduleid  CS3343)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CS38820] of MODULETIME 
+([timeCS38820] of MODULETIME 
 (moduleid  CS3882)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([CS42150] of MODULETIME 
+([timeCS42150] of MODULETIME 
 (moduleid  CS4215)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS42180] of MODULETIME 
+([timeCS42180] of MODULETIME 
 (moduleid  CS4218)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([CS42200] of MODULETIME 
+([timeCS42200] of MODULETIME 
 (moduleid  CS4220)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([CS42220] of MODULETIME 
+([timeCS42220] of MODULETIME 
 (moduleid  CS4222)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS42310] of MODULETIME 
+([timeCS42310] of MODULETIME 
 (moduleid  CS4231)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS42360] of MODULETIME 
+([timeCS42360] of MODULETIME 
 (moduleid  CS4236)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS42420] of MODULETIME 
+([timeCS42420] of MODULETIME 
 (moduleid  CS4242)
 (day MONDAY)
 (starttime 18:30)
 (endtime 20:30)
 (semester 2)
 )
-([CS42440] of MODULETIME 
+([timeCS42440] of MODULETIME 
 (moduleid  CS4244)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([CS42470] of MODULETIME 
+([timeCS42470] of MODULETIME 
 (moduleid  CS4247)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([CS43400] of MODULETIME 
+([timeCS43400] of MODULETIME 
 (moduleid  CS4340)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([CS43470] of MODULETIME 
+([timeCS43470] of MODULETIME 
 (moduleid  CS4347)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([CS48800] of MODULETIME 
+([timeCS48800] of MODULETIME 
 (moduleid  CS4880)
 (day MONDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([CS52140] of MODULETIME 
+([timeCS52140] of MODULETIME 
 (moduleid  CS5214)
 (day FRIDAY)
 (starttime 18:30)
 (endtime 20:30)
 (semester 2)
 )
-([CS52180] of MODULETIME 
+([timeCS52180] of MODULETIME 
 (moduleid  CS5218)
 (day THURSDAY)
 (starttime 18:30)
 (endtime 20:30)
 (semester 2)
 )
-([CS52220] of MODULETIME 
+([timeCS52220] of MODULETIME 
 (moduleid  CS5222)
 (day THURSDAY)
 (starttime 18:30)
 (endtime 20:30)
 (semester 2)
 )
-([CS52300] of MODULETIME 
+([timeCS52300] of MODULETIME 
 (moduleid  CS5230)
 (day TUESDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([CS52310] of MODULETIME 
+([timeCS52310] of MODULETIME 
 (moduleid  CS5231)
 (day THURSDAY)
 (starttime 18:30)
 (endtime 20:30)
 (semester 2)
 )
-([CS52320] of MODULETIME 
+([timeCS52320] of MODULETIME 
 (moduleid  CS5232)
 (day MONDAY)
 (starttime 18:30)
 (endtime 20:30)
 (semester 2)
 )
-([CS52330] of MODULETIME 
+([timeCS52330] of MODULETIME 
 (moduleid  CS5233)
 (day WEDNESDAY)
 (starttime 18:30)
 (endtime 20:30)
 (semester 2)
 )
-([CS52410] of MODULETIME 
+([timeCS52410] of MODULETIME 
 (moduleid  CS5241)
 (day TUESDAY)
 (starttime 18:30)
 (endtime 20:30)
 (semester 2)
 )
-([CS52720] of MODULETIME 
+([timeCS52720] of MODULETIME 
 (moduleid  CS5272)
 (day WEDNESDAY)
 (starttime 18:30)
 (endtime 20:30)
 (semester 2)
 )
-([CS53310] of MODULETIME 
+([timeCS53310] of MODULETIME 
 (moduleid  CS5331)
 (day FRIDAY)
 (starttime 18:30)
 (endtime 20:30)
 (semester 2)
 )
-([CS53420] of MODULETIME 
+([timeCS53420] of MODULETIME 
 (moduleid  CS5342)
 (day WEDNESDAY)
 (starttime 18:30)
 (endtime 20:30)
 (semester 2)
 )
-([CZ52260] of MODULETIME 
+([timeCZ52260] of MODULETIME 
 (moduleid  CZ5226)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([DSC10070] of MODULETIME 
+([timeDSC10070] of MODULETIME 
 (moduleid  DSC1007)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([DSC10071] of MODULETIME 
+([timeDSC10071] of MODULETIME 
 (moduleid  DSC1007)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([DSC10072] of MODULETIME 
+([timeDSC10072] of MODULETIME 
 (moduleid  DSC1007)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([DSC10073] of MODULETIME 
+([timeDSC10073] of MODULETIME 
 (moduleid  DSC1007)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([DSC10074] of MODULETIME 
+([timeDSC10074] of MODULETIME 
 (moduleid  DSC1007)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([DSC10075] of MODULETIME 
+([timeDSC10075] of MODULETIME 
 (moduleid  DSC1007)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([DSC10076] of MODULETIME 
+([timeDSC10076] of MODULETIME 
 (moduleid  DSC1007)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([DSC10077] of MODULETIME 
+([timeDSC10077] of MODULETIME 
 (moduleid  DSC1007)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([DSC1007X0] of MODULETIME 
+([timeDSC1007X0] of MODULETIME 
 (moduleid  DSC1007X)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([DSC20060] of MODULETIME 
+([timeDSC20060] of MODULETIME 
 (moduleid  DSC2006)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([DSC20061] of MODULETIME 
+([timeDSC20061] of MODULETIME 
 (moduleid  DSC2006)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([DSC20080] of MODULETIME 
+([timeDSC20080] of MODULETIME 
 (moduleid  DSC2008)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([DSC32010] of MODULETIME 
+([timeDSC32010] of MODULETIME 
 (moduleid  DSC3201)
 (day MONDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([DSC32011] of MODULETIME 
+([timeDSC32011] of MODULETIME 
 (moduleid  DSC3201)
 (day MONDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([DSC32020] of MODULETIME 
+([timeDSC32020] of MODULETIME 
 (moduleid  DSC3202)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([DSC32030] of MODULETIME 
+([timeDSC32030] of MODULETIME 
 (moduleid  DSC3203)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([DSC32031] of MODULETIME 
+([timeDSC32031] of MODULETIME 
 (moduleid  DSC3203)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([DSC32130] of MODULETIME 
+([timeDSC32130] of MODULETIME 
 (moduleid  DSC3213)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([DSC32160] of MODULETIME 
+([timeDSC32160] of MODULETIME 
 (moduleid  DSC3216)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([DSC32240] of MODULETIME 
+([timeDSC32240] of MODULETIME 
 (moduleid  DSC3224)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([DSC32260] of MODULETIME 
+([timeDSC32260] of MODULETIME 
 (moduleid  DSC3226)
 (day MONDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([DSC4211C0] of MODULETIME 
+([timeDSC4211C0] of MODULETIME 
 (moduleid  DSC4211C)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([DSC4211G0] of MODULETIME 
+([timeDSC4211G0] of MODULETIME 
 (moduleid  DSC4211G)
 (day WEDNESDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([DSC51210] of MODULETIME 
+([timeDSC51210] of MODULETIME 
 (moduleid  DSC5121)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([DSC5211A0] of MODULETIME 
+([timeDSC5211A0] of MODULETIME 
 (moduleid  DSC5211A)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EC1101E0] of MODULETIME 
+([timeEC1101E0] of MODULETIME 
 (moduleid  EC1101E)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC13010] of MODULETIME 
+([timeEC13010] of MODULETIME 
 (moduleid  EC1301)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([EC13011] of MODULETIME 
+([timeEC13011] of MODULETIME 
 (moduleid  EC1301)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([EC21010] of MODULETIME 
+([timeEC21010] of MODULETIME 
 (moduleid  EC2101)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EC21011] of MODULETIME 
+([timeEC21011] of MODULETIME 
 (moduleid  EC2101)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EC21020] of MODULETIME 
+([timeEC21020] of MODULETIME 
 (moduleid  EC2102)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC21021] of MODULETIME 
+([timeEC21021] of MODULETIME 
 (moduleid  EC2102)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EC21040] of MODULETIME 
+([timeEC21040] of MODULETIME 
 (moduleid  EC2104)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EC23030] of MODULETIME 
+([timeEC23030] of MODULETIME 
 (moduleid  EC2303)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EC23730] of MODULETIME 
+([timeEC23730] of MODULETIME 
 (moduleid  EC2373)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EC23740] of MODULETIME 
+([timeEC23740] of MODULETIME 
 (moduleid  EC2374)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC31010] of MODULETIME 
+([timeEC31010] of MODULETIME 
 (moduleid  EC3101)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EC31020] of MODULETIME 
+([timeEC31020] of MODULETIME 
 (moduleid  EC3102)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([EC33030] of MODULETIME 
+([timeEC33030] of MODULETIME 
 (moduleid  EC3303)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EC33040] of MODULETIME 
+([timeEC33040] of MODULETIME 
 (moduleid  EC3304)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EC33120] of MODULETIME 
+([timeEC33120] of MODULETIME 
 (moduleid  EC3312)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC33220] of MODULETIME 
+([timeEC33220] of MODULETIME 
 (moduleid  EC3322)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EC33320] of MODULETIME 
+([timeEC33320] of MODULETIME 
 (moduleid  EC3332)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([EC33330] of MODULETIME 
+([timeEC33330] of MODULETIME 
 (moduleid  EC3333)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EC33410] of MODULETIME 
+([timeEC33410] of MODULETIME 
 (moduleid  EC3341)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC33510] of MODULETIME 
+([timeEC33510] of MODULETIME 
 (moduleid  EC3351)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EC33520] of MODULETIME 
+([timeEC33520] of MODULETIME 
 (moduleid  EC3352)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC33610] of MODULETIME 
+([timeEC33610] of MODULETIME 
 (moduleid  EC3361)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC33710] of MODULETIME 
+([timeEC33710] of MODULETIME 
 (moduleid  EC3371)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EC33750] of MODULETIME 
+([timeEC33750] of MODULETIME 
 (moduleid  EC3375)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC33760] of MODULETIME 
+([timeEC33760] of MODULETIME 
 (moduleid  EC3376)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([EC33770] of MODULETIME 
+([timeEC33770] of MODULETIME 
 (moduleid  EC3377)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EC33810] of MODULETIME 
+([timeEC33810] of MODULETIME 
 (moduleid  EC3381)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([EC33840] of MODULETIME 
+([timeEC33840] of MODULETIME 
 (moduleid  EC3384)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EC33940] of MODULETIME 
+([timeEC33940] of MODULETIME 
 (moduleid  EC3394)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EC33960] of MODULETIME 
+([timeEC33960] of MODULETIME 
 (moduleid  EC3396)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EC3880B0] of MODULETIME 
+([timeEC3880B0] of MODULETIME 
 (moduleid  EC3880B)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EC41010] of MODULETIME 
+([timeEC41010] of MODULETIME 
 (moduleid  EC4101)
 (day TUESDAY)
 (starttime 13:00)
 (endtime 16:00)
 (semester 2)
 )
-([EC41011] of MODULETIME 
+([timeEC41011] of MODULETIME 
 (moduleid  EC4101)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([EC41020] of MODULETIME 
+([timeEC41020] of MODULETIME 
 (moduleid  EC4102)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EC41021] of MODULETIME 
+([timeEC41021] of MODULETIME 
 (moduleid  EC4102)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC43240] of MODULETIME 
+([timeEC43240] of MODULETIME 
 (moduleid  EC4324)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC43320] of MODULETIME 
+([timeEC43320] of MODULETIME 
 (moduleid  EC4332)
 (day WEDNESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([EC43330] of MODULETIME 
+([timeEC43330] of MODULETIME 
 (moduleid  EC4333)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC43410] of MODULETIME 
+([timeEC43410] of MODULETIME 
 (moduleid  EC4341)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([EC43510] of MODULETIME 
+([timeEC43510] of MODULETIME 
 (moduleid  EC4351)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC43610] of MODULETIME 
+([timeEC43610] of MODULETIME 
 (moduleid  EC4361)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC43710] of MODULETIME 
+([timeEC43710] of MODULETIME 
 (moduleid  EC4371)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EC43940] of MODULETIME 
+([timeEC43940] of MODULETIME 
 (moduleid  EC4394)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EC48800] of MODULETIME 
+([timeEC48800] of MODULETIME 
 (moduleid  EC4880)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EC5326R0] of MODULETIME 
+([timeEC5326R0] of MODULETIME 
 (moduleid  EC5326R)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EC5332R0] of MODULETIME 
+([timeEC5332R0] of MODULETIME 
 (moduleid  EC5332R)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([EE10030] of MODULETIME 
+([timeEE10030] of MODULETIME 
 (moduleid  EE1003)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([EE20110] of MODULETIME 
+([timeEE20110] of MODULETIME 
 (moduleid  EE2011)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EE20111] of MODULETIME 
+([timeEE20111] of MODULETIME 
 (moduleid  EE2011)
 (day WEDNESDAY)
 (starttime 17:00)
 (endtime 18:00)
 (semester 2)
 )
-([EE2011E0] of MODULETIME 
+([timeEE2011E0] of MODULETIME 
 (moduleid  EE2011E)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([EE20120] of MODULETIME 
+([timeEE20120] of MODULETIME 
 (moduleid  EE2012)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EE20121] of MODULETIME 
+([timeEE20121] of MODULETIME 
 (moduleid  EE2012)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([EE20200] of MODULETIME 
+([timeEE20200] of MODULETIME 
 (moduleid  EE2020)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([EE20201] of MODULETIME 
+([timeEE20201] of MODULETIME 
 (moduleid  EE2020)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EE2020E0] of MODULETIME 
+([timeEE2020E0] of MODULETIME 
 (moduleid  EE2020E)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([EE20210] of MODULETIME 
+([timeEE20210] of MODULETIME 
 (moduleid  EE2021)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EE20211] of MODULETIME 
+([timeEE20211] of MODULETIME 
 (moduleid  EE2021)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EE20212] of MODULETIME 
+([timeEE20212] of MODULETIME 
 (moduleid  EE2021)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EE20213] of MODULETIME 
+([timeEE20213] of MODULETIME 
 (moduleid  EE2021)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EE20214] of MODULETIME 
+([timeEE20214] of MODULETIME 
 (moduleid  EE2021)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EE2021E0] of MODULETIME 
+([timeEE2021E0] of MODULETIME 
 (moduleid  EE2021E)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([EE20220] of MODULETIME 
+([timeEE20220] of MODULETIME 
 (moduleid  EE2022)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EE20221] of MODULETIME 
+([timeEE20221] of MODULETIME 
 (moduleid  EE2022)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 13:00)
 (semester 2)
 )
-([EE20230] of MODULETIME 
+([timeEE20230] of MODULETIME 
 (moduleid  EE2023)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([EE20231] of MODULETIME 
+([timeEE20231] of MODULETIME 
 (moduleid  EE2023)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([EE20232] of MODULETIME 
+([timeEE20232] of MODULETIME 
 (moduleid  EE2023)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([EE20233] of MODULETIME 
+([timeEE20233] of MODULETIME 
 (moduleid  EE2023)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([EE20240] of MODULETIME 
+([timeEE20240] of MODULETIME 
 (moduleid  EE2024)
 (day THURSDAY)
 (starttime 17:00)
 (endtime 18:00)
 (semester 2)
 )
-([EE20241] of MODULETIME 
+([timeEE20241] of MODULETIME 
 (moduleid  EE2024)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EE20310] of MODULETIME 
+([timeEE20310] of MODULETIME 
 (moduleid  EE2031)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EE20320] of MODULETIME 
+([timeEE20320] of MODULETIME 
 (moduleid  EE2032)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EE3013C0] of MODULETIME 
+([timeEE3013C0] of MODULETIME 
 (moduleid  EE3013C)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EE3013E0] of MODULETIME 
+([timeEE3013E0] of MODULETIME 
 (moduleid  EE3013E)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([EE30310] of MODULETIME 
+([timeEE30310] of MODULETIME 
 (moduleid  EE3031)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EE30311] of MODULETIME 
+([timeEE30311] of MODULETIME 
 (moduleid  EE3031)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EE30312] of MODULETIME 
+([timeEE30312] of MODULETIME 
 (moduleid  EE3031)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EE3031E0] of MODULETIME 
+([timeEE3031E0] of MODULETIME 
 (moduleid  EE3031E)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([EE3031E1] of MODULETIME 
+([timeEE3031E1] of MODULETIME 
 (moduleid  EE3031E)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([EE30320] of MODULETIME 
+([timeEE30320] of MODULETIME 
 (moduleid  EE3032)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EE30321] of MODULETIME 
+([timeEE30321] of MODULETIME 
 (moduleid  EE3032)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EE30322] of MODULETIME 
+([timeEE30322] of MODULETIME 
 (moduleid  EE3032)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EE3104C0] of MODULETIME 
+([timeEE3104C0] of MODULETIME 
 (moduleid  EE3104C)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EE3131C0] of MODULETIME 
+([timeEE3131C0] of MODULETIME 
 (moduleid  EE3131C)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EE33040] of MODULETIME 
+([timeEE33040] of MODULETIME 
 (moduleid  EE3304)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([EE3331C0] of MODULETIME 
+([timeEE3331C0] of MODULETIME 
 (moduleid  EE3331C)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EE34070] of MODULETIME 
+([timeEE34070] of MODULETIME 
 (moduleid  EE3407)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EE3407E0] of MODULETIME 
+([timeEE3407E0] of MODULETIME 
 (moduleid  EE3407E)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([EE3431C0] of MODULETIME 
+([timeEE3431C0] of MODULETIME 
 (moduleid  EE3431C)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EE3431C1] of MODULETIME 
+([timeEE3431C1] of MODULETIME 
 (moduleid  EE3431C)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EE3431E0] of MODULETIME 
+([timeEE3431E0] of MODULETIME 
 (moduleid  EE3431E)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([EE3501C0] of MODULETIME 
+([timeEE3501C0] of MODULETIME 
 (moduleid  EE3501C)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([EE3501E0] of MODULETIME 
+([timeEE3501E0] of MODULETIME 
 (moduleid  EE3501E)
 (day FRIDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([EE40010] of MODULETIME 
+([timeEE40010] of MODULETIME 
 (moduleid  EE4001)
 (day SATURDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([EE41040] of MODULETIME 
+([timeEE41040] of MODULETIME 
 (moduleid  EE4104)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([EE41100] of MODULETIME 
+([timeEE41100] of MODULETIME 
 (moduleid  EE4110)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([EE4112E0] of MODULETIME 
+([timeEE4112E0] of MODULETIME 
 (moduleid  EE4112E)
 (day THURSDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([EE41140] of MODULETIME 
+([timeEE41140] of MODULETIME 
 (moduleid  EE4114)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EE42100] of MODULETIME 
+([timeEE42100] of MODULETIME 
 (moduleid  EE4210)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([EE42101] of MODULETIME 
+([timeEE42101] of MODULETIME 
 (moduleid  EE4210)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([EE4210E0] of MODULETIME 
+([timeEE4210E0] of MODULETIME 
 (moduleid  EE4210E)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([EE42120] of MODULETIME 
+([timeEE42120] of MODULETIME 
 (moduleid  EE4212)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EE42130] of MODULETIME 
+([timeEE42130] of MODULETIME 
 (moduleid  EE4213)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EE42180] of MODULETIME 
+([timeEE42180] of MODULETIME 
 (moduleid  EE4218)
 (day MONDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([EE43020] of MODULETIME 
+([timeEE43020] of MODULETIME 
 (moduleid  EE4302)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([EE43060] of MODULETIME 
+([timeEE43060] of MODULETIME 
 (moduleid  EE4306)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EE43070] of MODULETIME 
+([timeEE43070] of MODULETIME 
 (moduleid  EE4307)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([EE44010] of MODULETIME 
+([timeEE44010] of MODULETIME 
 (moduleid  EE4401)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EE44080] of MODULETIME 
+([timeEE44080] of MODULETIME 
 (moduleid  EE4408)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EE4410A0] of MODULETIME 
+([timeEE4410A0] of MODULETIME 
 (moduleid  EE4410A)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EE4410A1] of MODULETIME 
+([timeEE4410A1] of MODULETIME 
 (moduleid  EE4410A)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EE4410A2] of MODULETIME 
+([timeEE4410A2] of MODULETIME 
 (moduleid  EE4410A)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EE44150] of MODULETIME 
+([timeEE44150] of MODULETIME 
 (moduleid  EE4415)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([EE4415E0] of MODULETIME 
+([timeEE4415E0] of MODULETIME 
 (moduleid  EE4415E)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([EE44310] of MODULETIME 
+([timeEE44310] of MODULETIME 
 (moduleid  EE4431)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([EE44320] of MODULETIME 
+([timeEE44320] of MODULETIME 
 (moduleid  EE4432)
 (day MONDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([EE44340] of MODULETIME 
+([timeEE44340] of MODULETIME 
 (moduleid  EE4434)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([EE45090] of MODULETIME 
+([timeEE45090] of MODULETIME 
 (moduleid  EE4509)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([EE45110] of MODULETIME 
+([timeEE45110] of MODULETIME 
 (moduleid  EE4511)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([EE46030] of MODULETIME 
+([timeEE46030] of MODULETIME 
 (moduleid  EE4603)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EE46050] of MODULETIME 
+([timeEE46050] of MODULETIME 
 (moduleid  EE4605)
 (day MONDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([EE59030] of MODULETIME 
+([timeEE59030] of MODULETIME 
 (moduleid  EE5903)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EE5904R0] of MODULETIME 
+([timeEE5904R0] of MODULETIME 
 (moduleid  EE5904R)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EE5907R0] of MODULETIME 
+([timeEE5907R0] of MODULETIME 
 (moduleid  EE5907R)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EG11080] of MODULETIME 
+([timeEG11080] of MODULETIME 
 (moduleid  EG1108)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([EG11090] of MODULETIME 
+([timeEG11090] of MODULETIME 
 (moduleid  EG1109)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([EG11091] of MODULETIME 
+([timeEG11091] of MODULETIME 
 (moduleid  EG1109)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EG13100] of MODULETIME 
+([timeEG13100] of MODULETIME 
 (moduleid  EG1310)
 (day WEDNESDAY)
 (starttime 19:00)
 (endtime 21:00)
 (semester 2)
 )
-([EG13101] of MODULETIME 
+([timeEG13101] of MODULETIME 
 (moduleid  EG1310)
 (day WEDNESDAY)
 (starttime 19:00)
 (endtime 21:00)
 (semester 2)
 )
-([EG2201A0] of MODULETIME 
+([timeEG2201A0] of MODULETIME 
 (moduleid  EG2201A)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 22:00)
 (semester 2)
 )
-([EG24010] of MODULETIME 
+([timeEG24010] of MODULETIME 
 (moduleid  EG2401)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EG24011] of MODULETIME 
+([timeEG24011] of MODULETIME 
 (moduleid  EG2401)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EG26040] of MODULETIME 
+([timeEG26040] of MODULETIME 
 (moduleid  EG2604)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EG2606A0] of MODULETIME 
+([timeEG2606A0] of MODULETIME 
 (moduleid  EG2606A)
 (day SATURDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([EG2606B0] of MODULETIME 
+([timeEG2606B0] of MODULETIME 
 (moduleid  EG2606B)
 (day SATURDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([EG33010] of MODULETIME 
+([timeEG33010] of MODULETIME 
 (moduleid  EG3301)
 (day SATURDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([EG43010] of MODULETIME 
+([timeEG43010] of MODULETIME 
 (moduleid  EG4301)
 (day SATURDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([EL1101E0] of MODULETIME 
+([timeEL1101E0] of MODULETIME 
 (moduleid  EL1101E)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EL22010] of MODULETIME 
+([timeEL22010] of MODULETIME 
 (moduleid  EL2201)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EL22110] of MODULETIME 
+([timeEL22110] of MODULETIME 
 (moduleid  EL2211)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EL32020] of MODULETIME 
+([timeEL32020] of MODULETIME 
 (moduleid  EL3202)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EL32080] of MODULETIME 
+([timeEL32080] of MODULETIME 
 (moduleid  EL3208)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([EL32090] of MODULETIME 
+([timeEL32090] of MODULETIME 
 (moduleid  EL3209)
 (day WEDNESDAY)
 (starttime 13:00)
 (endtime 16:00)
 (semester 2)
 )
-([EL32520] of MODULETIME 
+([timeEL32520] of MODULETIME 
 (moduleid  EL3252)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EL32580] of MODULETIME 
+([timeEL32580] of MODULETIME 
 (moduleid  EL3258)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EL3880F0] of MODULETIME 
+([timeEL3880F0] of MODULETIME 
 (moduleid  EL3880F)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EL42160] of MODULETIME 
+([timeEL42160] of MODULETIME 
 (moduleid  EL4216)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EL42540] of MODULETIME 
+([timeEL42540] of MODULETIME 
 (moduleid  EL4254)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EL42550] of MODULETIME 
+([timeEL42550] of MODULETIME 
 (moduleid  EL4255)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EL4880A0] of MODULETIME 
+([timeEL4880A0] of MODULETIME 
 (moduleid  EL4880A)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EL5250R0] of MODULETIME 
+([timeEL5250R0] of MODULETIME 
 (moduleid  EL5250R)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EL5252R0] of MODULETIME 
+([timeEL5252R0] of MODULETIME 
 (moduleid  EL5252R)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EL5253R0] of MODULETIME 
+([timeEL5253R0] of MODULETIME 
 (moduleid  EL5253R)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EL5270R0] of MODULETIME 
+([timeEL5270R0] of MODULETIME 
 (moduleid  EL5270R)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EL5880BR0] of MODULETIME 
+([timeEL5880BR0] of MODULETIME 
 (moduleid  EL5880BR)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EM12010] of MODULETIME 
+([timeEM12010] of MODULETIME 
 (moduleid  EM1201)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([EM12011] of MODULETIME 
+([timeEM12011] of MODULETIME 
 (moduleid  EM1201)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([EM12012] of MODULETIME 
+([timeEM12012] of MODULETIME 
 (moduleid  EM1201)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([EM12013] of MODULETIME 
+([timeEM12013] of MODULETIME 
 (moduleid  EM1201)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([EM12020] of MODULETIME 
+([timeEM12020] of MODULETIME 
 (moduleid  EM1202)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([EM12021] of MODULETIME 
+([timeEM12021] of MODULETIME 
 (moduleid  EM1202)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([EN1101E0] of MODULETIME 
+([timeEN1101E0] of MODULETIME 
 (moduleid  EN1101E)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EN22010] of MODULETIME 
+([timeEN22010] of MODULETIME 
 (moduleid  EN2201)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EN22011] of MODULETIME 
+([timeEN22011] of MODULETIME 
 (moduleid  EN2201)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([EN22020] of MODULETIME 
+([timeEN22020] of MODULETIME 
 (moduleid  EN2202)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EN22021] of MODULETIME 
+([timeEN22021] of MODULETIME 
 (moduleid  EN2202)
 (day TUESDAY)
 (starttime 13:00)
 (endtime 16:00)
 (semester 2)
 )
-([EN22022] of MODULETIME 
+([timeEN22022] of MODULETIME 
 (moduleid  EN2202)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EN22030] of MODULETIME 
+([timeEN22030] of MODULETIME 
 (moduleid  EN2203)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EN22031] of MODULETIME 
+([timeEN22031] of MODULETIME 
 (moduleid  EN2203)
 (day MONDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([EN22710] of MODULETIME 
+([timeEN22710] of MODULETIME 
 (moduleid  EN2271)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EN32220] of MODULETIME 
+([timeEN32220] of MODULETIME 
 (moduleid  EN3222)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EN32290] of MODULETIME 
+([timeEN32290] of MODULETIME 
 (moduleid  EN3229)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([EN32410] of MODULETIME 
+([timeEN32410] of MODULETIME 
 (moduleid  EN3241)
 (day WEDNESDAY)
 (starttime 13:00)
 (endtime 16:00)
 (semester 2)
 )
-([EN32490] of MODULETIME 
+([timeEN32490] of MODULETIME 
 (moduleid  EN3249)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EN32610] of MODULETIME 
+([timeEN32610] of MODULETIME 
 (moduleid  EN3261)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EN32650] of MODULETIME 
+([timeEN32650] of MODULETIME 
 (moduleid  EN3265)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([EN3880A0] of MODULETIME 
+([timeEN3880A0] of MODULETIME 
 (moduleid  EN3880A)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EN3880A1] of MODULETIME 
+([timeEN3880A1] of MODULETIME 
 (moduleid  EN3880A)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EN42230] of MODULETIME 
+([timeEN42230] of MODULETIME 
 (moduleid  EN4223)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EN42260] of MODULETIME 
+([timeEN42260] of MODULETIME 
 (moduleid  EN4226)
 (day MONDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([EN42320] of MODULETIME 
+([timeEN42320] of MODULETIME 
 (moduleid  EN4232)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EN42470] of MODULETIME 
+([timeEN42470] of MODULETIME 
 (moduleid  EN4247)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 16:00)
 (semester 2)
 )
-([EN42471] of MODULETIME 
+([timeEN42471] of MODULETIME 
 (moduleid  EN4247)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([EN42620] of MODULETIME 
+([timeEN42620] of MODULETIME 
 (moduleid  EN4262)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EN5242R0] of MODULETIME 
+([timeEN5242R0] of MODULETIME 
 (moduleid  EN5242R)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EN5247R0] of MODULETIME 
+([timeEN5247R0] of MODULETIME 
 (moduleid  EN5247R)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EN5253R0] of MODULETIME 
+([timeEN5253R0] of MODULETIME 
 (moduleid  EN5253R)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EN5880AR0] of MODULETIME 
+([timeEN5880AR0] of MODULETIME 
 (moduleid  EN5880AR)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([EN5883R0] of MODULETIME 
+([timeEN5883R0] of MODULETIME 
 (moduleid  EN5883R)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([ENV21020] of MODULETIME 
+([timeENV21020] of MODULETIME 
 (moduleid  ENV2102)
 (day THURSDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([ENV31010] of MODULETIME 
+([timeENV31010] of MODULETIME 
 (moduleid  ENV3101)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES10000] of MODULETIME 
+([timeES10000] of MODULETIME 
 (moduleid  ES1000)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES10001] of MODULETIME 
+([timeES10001] of MODULETIME 
 (moduleid  ES1000)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES10002] of MODULETIME 
+([timeES10002] of MODULETIME 
 (moduleid  ES1000)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES10003] of MODULETIME 
+([timeES10003] of MODULETIME 
 (moduleid  ES1000)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES10004] of MODULETIME 
+([timeES10004] of MODULETIME 
 (moduleid  ES1000)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES10005] of MODULETIME 
+([timeES10005] of MODULETIME 
 (moduleid  ES1000)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES10006] of MODULETIME 
+([timeES10006] of MODULETIME 
 (moduleid  ES1000)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES10007] of MODULETIME 
+([timeES10007] of MODULETIME 
 (moduleid  ES1000)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES10008] of MODULETIME 
+([timeES10008] of MODULETIME 
 (moduleid  ES1000)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES10009] of MODULETIME 
+([timeES10009] of MODULETIME 
 (moduleid  ES1000)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES100010] of MODULETIME 
+([timeES100010] of MODULETIME 
 (moduleid  ES1000)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES100011] of MODULETIME 
+([timeES100011] of MODULETIME 
 (moduleid  ES1000)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES11020] of MODULETIME 
+([timeES11020] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES11021] of MODULETIME 
+([timeES11021] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES11022] of MODULETIME 
+([timeES11022] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES11023] of MODULETIME 
+([timeES11023] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES11024] of MODULETIME 
+([timeES11024] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES11025] of MODULETIME 
+([timeES11025] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES11026] of MODULETIME 
+([timeES11026] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES11027] of MODULETIME 
+([timeES11027] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES11028] of MODULETIME 
+([timeES11028] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES11029] of MODULETIME 
+([timeES11029] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES110210] of MODULETIME 
+([timeES110210] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110211] of MODULETIME 
+([timeES110211] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110212] of MODULETIME 
+([timeES110212] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES110213] of MODULETIME 
+([timeES110213] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES110214] of MODULETIME 
+([timeES110214] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110215] of MODULETIME 
+([timeES110215] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110216] of MODULETIME 
+([timeES110216] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES110217] of MODULETIME 
+([timeES110217] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES110218] of MODULETIME 
+([timeES110218] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110219] of MODULETIME 
+([timeES110219] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110220] of MODULETIME 
+([timeES110220] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES110221] of MODULETIME 
+([timeES110221] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES110222] of MODULETIME 
+([timeES110222] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110223] of MODULETIME 
+([timeES110223] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110224] of MODULETIME 
+([timeES110224] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES110225] of MODULETIME 
+([timeES110225] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES110226] of MODULETIME 
+([timeES110226] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110227] of MODULETIME 
+([timeES110227] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110228] of MODULETIME 
+([timeES110228] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES110229] of MODULETIME 
+([timeES110229] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES110230] of MODULETIME 
+([timeES110230] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110231] of MODULETIME 
+([timeES110231] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110232] of MODULETIME 
+([timeES110232] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES110233] of MODULETIME 
+([timeES110233] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES110234] of MODULETIME 
+([timeES110234] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110235] of MODULETIME 
+([timeES110235] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110236] of MODULETIME 
+([timeES110236] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES110237] of MODULETIME 
+([timeES110237] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES110238] of MODULETIME 
+([timeES110238] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110239] of MODULETIME 
+([timeES110239] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110240] of MODULETIME 
+([timeES110240] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES110241] of MODULETIME 
+([timeES110241] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES110242] of MODULETIME 
+([timeES110242] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES110243] of MODULETIME 
+([timeES110243] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES110244] of MODULETIME 
+([timeES110244] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES110245] of MODULETIME 
+([timeES110245] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES110246] of MODULETIME 
+([timeES110246] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110247] of MODULETIME 
+([timeES110247] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110248] of MODULETIME 
+([timeES110248] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110249] of MODULETIME 
+([timeES110249] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110250] of MODULETIME 
+([timeES110250] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES110251] of MODULETIME 
+([timeES110251] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES110252] of MODULETIME 
+([timeES110252] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110253] of MODULETIME 
+([timeES110253] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110254] of MODULETIME 
+([timeES110254] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES110255] of MODULETIME 
+([timeES110255] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES110256] of MODULETIME 
+([timeES110256] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110257] of MODULETIME 
+([timeES110257] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110258] of MODULETIME 
+([timeES110258] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110259] of MODULETIME 
+([timeES110259] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110260] of MODULETIME 
+([timeES110260] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES110261] of MODULETIME 
+([timeES110261] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES110262] of MODULETIME 
+([timeES110262] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES110263] of MODULETIME 
+([timeES110263] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES110264] of MODULETIME 
+([timeES110264] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110265] of MODULETIME 
+([timeES110265] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110266] of MODULETIME 
+([timeES110266] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110267] of MODULETIME 
+([timeES110267] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110268] of MODULETIME 
+([timeES110268] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES110269] of MODULETIME 
+([timeES110269] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES110270] of MODULETIME 
+([timeES110270] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110271] of MODULETIME 
+([timeES110271] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110272] of MODULETIME 
+([timeES110272] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES110273] of MODULETIME 
+([timeES110273] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES110274] of MODULETIME 
+([timeES110274] of MODULETIME 
 (moduleid  ES1102)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110275] of MODULETIME 
+([timeES110275] of MODULETIME 
 (moduleid  ES1102)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES110276] of MODULETIME 
+([timeES110276] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110277] of MODULETIME 
+([timeES110277] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES110278] of MODULETIME 
+([timeES110278] of MODULETIME 
 (moduleid  ES1102)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES110279] of MODULETIME 
+([timeES110279] of MODULETIME 
 (moduleid  ES1102)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES1501A0] of MODULETIME 
+([timeES1501A0] of MODULETIME 
 (moduleid  ES1501A)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES1501A1] of MODULETIME 
+([timeES1501A1] of MODULETIME 
 (moduleid  ES1501A)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES1501A2] of MODULETIME 
+([timeES1501A2] of MODULETIME 
 (moduleid  ES1501A)
 (day FRIDAY)
 (starttime 17:00)
 (endtime 19:00)
 (semester 2)
 )
-([ES1501A3] of MODULETIME 
+([timeES1501A3] of MODULETIME 
 (moduleid  ES1501A)
 (day TUESDAY)
 (starttime 17:00)
 (endtime 19:00)
 (semester 2)
 )
-([ES15310] of MODULETIME 
+([timeES15310] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES15311] of MODULETIME 
+([timeES15311] of MODULETIME 
 (moduleid  ES1531)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES15312] of MODULETIME 
+([timeES15312] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES15313] of MODULETIME 
+([timeES15313] of MODULETIME 
 (moduleid  ES1531)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES15314] of MODULETIME 
+([timeES15314] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES15315] of MODULETIME 
+([timeES15315] of MODULETIME 
 (moduleid  ES1531)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES15316] of MODULETIME 
+([timeES15316] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES15317] of MODULETIME 
+([timeES15317] of MODULETIME 
 (moduleid  ES1531)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES15318] of MODULETIME 
+([timeES15318] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES15319] of MODULETIME 
+([timeES15319] of MODULETIME 
 (moduleid  ES1531)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES153110] of MODULETIME 
+([timeES153110] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES153111] of MODULETIME 
+([timeES153111] of MODULETIME 
 (moduleid  ES1531)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES153112] of MODULETIME 
+([timeES153112] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153113] of MODULETIME 
+([timeES153113] of MODULETIME 
 (moduleid  ES1531)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153114] of MODULETIME 
+([timeES153114] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153115] of MODULETIME 
+([timeES153115] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153116] of MODULETIME 
+([timeES153116] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153117] of MODULETIME 
+([timeES153117] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153118] of MODULETIME 
+([timeES153118] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153119] of MODULETIME 
+([timeES153119] of MODULETIME 
 (moduleid  ES1531)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153120] of MODULETIME 
+([timeES153120] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153121] of MODULETIME 
+([timeES153121] of MODULETIME 
 (moduleid  ES1531)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153122] of MODULETIME 
+([timeES153122] of MODULETIME 
 (moduleid  ES1531)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES153123] of MODULETIME 
+([timeES153123] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES153124] of MODULETIME 
+([timeES153124] of MODULETIME 
 (moduleid  ES1531)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES153125] of MODULETIME 
+([timeES153125] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES153126] of MODULETIME 
+([timeES153126] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES153127] of MODULETIME 
-(moduleid  ES1531)
-(day WEDNESDAY)
-(starttime 10:00)
-(endtime 12:00)
-(semester 2)
-)
-([ES153128] of MODULETIME 
-(moduleid  ES1531)
-(day MONDAY)
-(starttime 16:00)
-(endtime 18:00)
-(semester 2)
-)
-([ES153129] of MODULETIME 
+([timeES153127] of MODULETIME 
 (moduleid  ES1531)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES153130] of MODULETIME 
+([timeES153128] of MODULETIME 
+(moduleid  ES1531)
+(day MONDAY)
+(starttime 16:00)
+(endtime 18:00)
+(semester 2)
+)
+([timeES153129] of MODULETIME 
+(moduleid  ES1531)
+(day WEDNESDAY)
+(starttime 10:00)
+(endtime 12:00)
+(semester 2)
+)
+([timeES153130] of MODULETIME 
 (moduleid  ES1531)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153131] of MODULETIME 
+([timeES153131] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES153132] of MODULETIME 
+([timeES153132] of MODULETIME 
 (moduleid  ES1531)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153133] of MODULETIME 
+([timeES153133] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES153134] of MODULETIME 
+([timeES153134] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES153135] of MODULETIME 
+([timeES153135] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES153136] of MODULETIME 
+([timeES153136] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES153137] of MODULETIME 
+([timeES153137] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES153138] of MODULETIME 
+([timeES153138] of MODULETIME 
 (moduleid  ES1531)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153139] of MODULETIME 
+([timeES153139] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES153140] of MODULETIME 
+([timeES153140] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES153141] of MODULETIME 
+([timeES153141] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES153142] of MODULETIME 
+([timeES153142] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES153143] of MODULETIME 
+([timeES153143] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES153144] of MODULETIME 
+([timeES153144] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES153145] of MODULETIME 
+([timeES153145] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES153146] of MODULETIME 
+([timeES153146] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES153147] of MODULETIME 
+([timeES153147] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES153148] of MODULETIME 
+([timeES153148] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES153149] of MODULETIME 
+([timeES153149] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES153150] of MODULETIME 
+([timeES153150] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES153151] of MODULETIME 
+([timeES153151] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES153152] of MODULETIME 
+([timeES153152] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES153153] of MODULETIME 
+([timeES153153] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153154] of MODULETIME 
+([timeES153154] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES153155] of MODULETIME 
+([timeES153155] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153156] of MODULETIME 
+([timeES153156] of MODULETIME 
 (moduleid  ES1531)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES153157] of MODULETIME 
+([timeES153157] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES153158] of MODULETIME 
+([timeES153158] of MODULETIME 
 (moduleid  ES1531)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES153159] of MODULETIME 
+([timeES153159] of MODULETIME 
 (moduleid  ES1531)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153160] of MODULETIME 
+([timeES153160] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES153161] of MODULETIME 
+([timeES153161] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES153162] of MODULETIME 
+([timeES153162] of MODULETIME 
 (moduleid  ES1531)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES153163] of MODULETIME 
+([timeES153163] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES153164] of MODULETIME 
+([timeES153164] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES153165] of MODULETIME 
+([timeES153165] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES153166] of MODULETIME 
+([timeES153166] of MODULETIME 
 (moduleid  ES1531)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES153167] of MODULETIME 
+([timeES153167] of MODULETIME 
 (moduleid  ES1531)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES153168] of MODULETIME 
+([timeES153168] of MODULETIME 
 (moduleid  ES1531)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES153169] of MODULETIME 
+([timeES153169] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES153170] of MODULETIME 
+([timeES153170] of MODULETIME 
 (moduleid  ES1531)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES153171] of MODULETIME 
+([timeES153171] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES153172] of MODULETIME 
+([timeES153172] of MODULETIME 
 (moduleid  ES1531)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES153173] of MODULETIME 
+([timeES153173] of MODULETIME 
 (moduleid  ES1531)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES15410] of MODULETIME 
+([timeES15410] of MODULETIME 
 (moduleid  ES1541)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES15411] of MODULETIME 
+([timeES15411] of MODULETIME 
 (moduleid  ES1541)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES15412] of MODULETIME 
+([timeES15412] of MODULETIME 
 (moduleid  ES1541)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES15413] of MODULETIME 
+([timeES15413] of MODULETIME 
 (moduleid  ES1541)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES15414] of MODULETIME 
+([timeES15414] of MODULETIME 
 (moduleid  ES1541)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES15415] of MODULETIME 
+([timeES15415] of MODULETIME 
 (moduleid  ES1541)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES15416] of MODULETIME 
+([timeES15416] of MODULETIME 
 (moduleid  ES1541)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES15417] of MODULETIME 
+([timeES15417] of MODULETIME 
 (moduleid  ES1541)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES15418] of MODULETIME 
+([timeES15418] of MODULETIME 
 (moduleid  ES1541)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES15419] of MODULETIME 
+([timeES15419] of MODULETIME 
 (moduleid  ES1541)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES154110] of MODULETIME 
+([timeES154110] of MODULETIME 
 (moduleid  ES1541)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES154111] of MODULETIME 
+([timeES154111] of MODULETIME 
 (moduleid  ES1541)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES154112] of MODULETIME 
+([timeES154112] of MODULETIME 
 (moduleid  ES1541)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES154113] of MODULETIME 
+([timeES154113] of MODULETIME 
 (moduleid  ES1541)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES154114] of MODULETIME 
+([timeES154114] of MODULETIME 
 (moduleid  ES1541)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES154115] of MODULETIME 
+([timeES154115] of MODULETIME 
 (moduleid  ES1541)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES154116] of MODULETIME 
+([timeES154116] of MODULETIME 
 (moduleid  ES1541)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES154117] of MODULETIME 
+([timeES154117] of MODULETIME 
 (moduleid  ES1541)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES154118] of MODULETIME 
+([timeES154118] of MODULETIME 
 (moduleid  ES1541)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES154119] of MODULETIME 
+([timeES154119] of MODULETIME 
 (moduleid  ES1541)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES154120] of MODULETIME 
+([timeES154120] of MODULETIME 
 (moduleid  ES1541)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES154121] of MODULETIME 
+([timeES154121] of MODULETIME 
 (moduleid  ES1541)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES154122] of MODULETIME 
+([timeES154122] of MODULETIME 
 (moduleid  ES1541)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES154123] of MODULETIME 
+([timeES154123] of MODULETIME 
 (moduleid  ES1541)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES154124] of MODULETIME 
+([timeES154124] of MODULETIME 
 (moduleid  ES1541)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES154125] of MODULETIME 
+([timeES154125] of MODULETIME 
 (moduleid  ES1541)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES154126] of MODULETIME 
+([timeES154126] of MODULETIME 
 (moduleid  ES1541)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES154127] of MODULETIME 
+([timeES154127] of MODULETIME 
 (moduleid  ES1541)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES154128] of MODULETIME 
+([timeES154128] of MODULETIME 
 (moduleid  ES1541)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES154129] of MODULETIME 
+([timeES154129] of MODULETIME 
 (moduleid  ES1541)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES154130] of MODULETIME 
+([timeES154130] of MODULETIME 
 (moduleid  ES1541)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES154131] of MODULETIME 
+([timeES154131] of MODULETIME 
 (moduleid  ES1541)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES154132] of MODULETIME 
+([timeES154132] of MODULETIME 
 (moduleid  ES1541)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES154133] of MODULETIME 
+([timeES154133] of MODULETIME 
 (moduleid  ES1541)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES154134] of MODULETIME 
+([timeES154134] of MODULETIME 
 (moduleid  ES1541)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES154135] of MODULETIME 
+([timeES154135] of MODULETIME 
 (moduleid  ES1541)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES154136] of MODULETIME 
+([timeES154136] of MODULETIME 
 (moduleid  ES1541)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES154137] of MODULETIME 
+([timeES154137] of MODULETIME 
 (moduleid  ES1541)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES154138] of MODULETIME 
+([timeES154138] of MODULETIME 
 (moduleid  ES1541)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES154139] of MODULETIME 
+([timeES154139] of MODULETIME 
 (moduleid  ES1541)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES154140] of MODULETIME 
+([timeES154140] of MODULETIME 
 (moduleid  ES1541)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES154141] of MODULETIME 
+([timeES154141] of MODULETIME 
 (moduleid  ES1541)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES154142] of MODULETIME 
+([timeES154142] of MODULETIME 
 (moduleid  ES1541)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES154143] of MODULETIME 
+([timeES154143] of MODULETIME 
 (moduleid  ES1541)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES154144] of MODULETIME 
+([timeES154144] of MODULETIME 
 (moduleid  ES1541)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES154145] of MODULETIME 
+([timeES154145] of MODULETIME 
 (moduleid  ES1541)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES154146] of MODULETIME 
+([timeES154146] of MODULETIME 
 (moduleid  ES1541)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES154147] of MODULETIME 
+([timeES154147] of MODULETIME 
 (moduleid  ES1541)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES154148] of MODULETIME 
+([timeES154148] of MODULETIME 
 (moduleid  ES1541)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES154149] of MODULETIME 
+([timeES154149] of MODULETIME 
 (moduleid  ES1541)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES20020] of MODULETIME 
+([timeES20020] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES20021] of MODULETIME 
+([timeES20021] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES20022] of MODULETIME 
+([timeES20022] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES20023] of MODULETIME 
+([timeES20023] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES20024] of MODULETIME 
+([timeES20024] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES20025] of MODULETIME 
+([timeES20025] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES20026] of MODULETIME 
+([timeES20026] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES20027] of MODULETIME 
+([timeES20027] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES20028] of MODULETIME 
+([timeES20028] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES20029] of MODULETIME 
+([timeES20029] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES200210] of MODULETIME 
+([timeES200210] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES200211] of MODULETIME 
+([timeES200211] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES200212] of MODULETIME 
+([timeES200212] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES200213] of MODULETIME 
+([timeES200213] of MODULETIME 
 (moduleid  ES2002)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES200214] of MODULETIME 
+([timeES200214] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES200215] of MODULETIME 
+([timeES200215] of MODULETIME 
 (moduleid  ES2002)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES200216] of MODULETIME 
+([timeES200216] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES200217] of MODULETIME 
+([timeES200217] of MODULETIME 
 (moduleid  ES2002)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES200218] of MODULETIME 
+([timeES200218] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES200219] of MODULETIME 
+([timeES200219] of MODULETIME 
 (moduleid  ES2002)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES200220] of MODULETIME 
+([timeES200220] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES200221] of MODULETIME 
+([timeES200221] of MODULETIME 
 (moduleid  ES2002)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES200222] of MODULETIME 
+([timeES200222] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES200223] of MODULETIME 
+([timeES200223] of MODULETIME 
 (moduleid  ES2002)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES200224] of MODULETIME 
+([timeES200224] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES200225] of MODULETIME 
+([timeES200225] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES200226] of MODULETIME 
+([timeES200226] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES200227] of MODULETIME 
+([timeES200227] of MODULETIME 
 (moduleid  ES2002)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES200228] of MODULETIME 
+([timeES200228] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES200229] of MODULETIME 
+([timeES200229] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES200230] of MODULETIME 
+([timeES200230] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES200231] of MODULETIME 
+([timeES200231] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES200232] of MODULETIME 
+([timeES200232] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES200233] of MODULETIME 
+([timeES200233] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES200234] of MODULETIME 
+([timeES200234] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES200235] of MODULETIME 
+([timeES200235] of MODULETIME 
 (moduleid  ES2002)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES200236] of MODULETIME 
+([timeES200236] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES200237] of MODULETIME 
+([timeES200237] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES200238] of MODULETIME 
+([timeES200238] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES200239] of MODULETIME 
+([timeES200239] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES200240] of MODULETIME 
+([timeES200240] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES200241] of MODULETIME 
+([timeES200241] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES200242] of MODULETIME 
+([timeES200242] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 17:00)
 (endtime 19:00)
 (semester 2)
 )
-([ES200243] of MODULETIME 
+([timeES200243] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 17:00)
 (endtime 19:00)
 (semester 2)
 )
-([ES200244] of MODULETIME 
+([timeES200244] of MODULETIME 
 (moduleid  ES2002)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES200245] of MODULETIME 
+([timeES200245] of MODULETIME 
 (moduleid  ES2002)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES2007S0] of MODULETIME 
+([timeES2007S0] of MODULETIME 
 (moduleid  ES2007S)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES2007S1] of MODULETIME 
+([timeES2007S1] of MODULETIME 
 (moduleid  ES2007S)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES2007S2] of MODULETIME 
+([timeES2007S2] of MODULETIME 
 (moduleid  ES2007S)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES2007S3] of MODULETIME 
+([timeES2007S3] of MODULETIME 
 (moduleid  ES2007S)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES2007S4] of MODULETIME 
+([timeES2007S4] of MODULETIME 
 (moduleid  ES2007S)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES2007S5] of MODULETIME 
+([timeES2007S5] of MODULETIME 
 (moduleid  ES2007S)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES2007S6] of MODULETIME 
+([timeES2007S6] of MODULETIME 
 (moduleid  ES2007S)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES2007S7] of MODULETIME 
+([timeES2007S7] of MODULETIME 
 (moduleid  ES2007S)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES2007S8] of MODULETIME 
+([timeES2007S8] of MODULETIME 
 (moduleid  ES2007S)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES2007S9] of MODULETIME 
+([timeES2007S9] of MODULETIME 
 (moduleid  ES2007S)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES2007S10] of MODULETIME 
+([timeES2007S10] of MODULETIME 
 (moduleid  ES2007S)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES2007S11] of MODULETIME 
+([timeES2007S11] of MODULETIME 
 (moduleid  ES2007S)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES2007S12] of MODULETIME 
+([timeES2007S12] of MODULETIME 
 (moduleid  ES2007S)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES2007S13] of MODULETIME 
+([timeES2007S13] of MODULETIME 
 (moduleid  ES2007S)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES2007S14] of MODULETIME 
+([timeES2007S14] of MODULETIME 
 (moduleid  ES2007S)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES2007S15] of MODULETIME 
+([timeES2007S15] of MODULETIME 
 (moduleid  ES2007S)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES23310] of MODULETIME 
+([timeES23310] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES23311] of MODULETIME 
+([timeES23311] of MODULETIME 
 (moduleid  ES2331)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES23312] of MODULETIME 
+([timeES23312] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES23313] of MODULETIME 
+([timeES23313] of MODULETIME 
 (moduleid  ES2331)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES23314] of MODULETIME 
+([timeES23314] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES23315] of MODULETIME 
+([timeES23315] of MODULETIME 
 (moduleid  ES2331)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES23316] of MODULETIME 
-(moduleid  ES2331)
-(day MONDAY)
-(starttime 12:00)
-(endtime 14:00)
-(semester 2)
-)
-([ES23317] of MODULETIME 
-(moduleid  ES2331)
-(day WEDNESDAY)
-(starttime 12:00)
-(endtime 14:00)
-(semester 2)
-)
-([ES23318] of MODULETIME 
+([timeES23316] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES23319] of MODULETIME 
+([timeES23317] of MODULETIME 
 (moduleid  ES2331)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES233110] of MODULETIME 
+([timeES23318] of MODULETIME 
+(moduleid  ES2331)
+(day MONDAY)
+(starttime 12:00)
+(endtime 14:00)
+(semester 2)
+)
+([timeES23319] of MODULETIME 
+(moduleid  ES2331)
+(day WEDNESDAY)
+(starttime 12:00)
+(endtime 14:00)
+(semester 2)
+)
+([timeES233110] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233111] of MODULETIME 
+([timeES233111] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES233112] of MODULETIME 
+([timeES233112] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES233113] of MODULETIME 
+([timeES233113] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES233114] of MODULETIME 
+([timeES233114] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES233115] of MODULETIME 
+([timeES233115] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES233116] of MODULETIME 
+([timeES233116] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES233117] of MODULETIME 
+([timeES233117] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES233118] of MODULETIME 
-(moduleid  ES2331)
-(day THURSDAY)
-(starttime 13:00)
-(endtime 15:00)
-(semester 2)
-)
-([ES233119] of MODULETIME 
-(moduleid  ES2331)
-(day TUESDAY)
-(starttime 14:00)
-(endtime 16:00)
-(semester 2)
-)
-([ES233120] of MODULETIME 
+([timeES233118] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233121] of MODULETIME 
+([timeES233119] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES233122] of MODULETIME 
+([timeES233120] of MODULETIME 
+(moduleid  ES2331)
+(day THURSDAY)
+(starttime 13:00)
+(endtime 15:00)
+(semester 2)
+)
+([timeES233121] of MODULETIME 
+(moduleid  ES2331)
+(day TUESDAY)
+(starttime 14:00)
+(endtime 16:00)
+(semester 2)
+)
+([timeES233122] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES233123] of MODULETIME 
+([timeES233123] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233124] of MODULETIME 
+([timeES233124] of MODULETIME 
 (moduleid  ES2331)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES233125] of MODULETIME 
+([timeES233125] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES233126] of MODULETIME 
+([timeES233126] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES233127] of MODULETIME 
+([timeES233127] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES233128] of MODULETIME 
+([timeES233128] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES233129] of MODULETIME 
+([timeES233129] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES233130] of MODULETIME 
+([timeES233130] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES233131] of MODULETIME 
+([timeES233131] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES233132] of MODULETIME 
+([timeES233132] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES233133] of MODULETIME 
+([timeES233133] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES233134] of MODULETIME 
+([timeES233134] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES233135] of MODULETIME 
+([timeES233135] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ES233136] of MODULETIME 
+([timeES233136] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES233137] of MODULETIME 
+([timeES233137] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES233138] of MODULETIME 
+([timeES233138] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES233139] of MODULETIME 
+([timeES233139] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233140] of MODULETIME 
+([timeES233140] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES233141] of MODULETIME 
+([timeES233141] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233142] of MODULETIME 
+([timeES233142] of MODULETIME 
 (moduleid  ES2331)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233143] of MODULETIME 
+([timeES233143] of MODULETIME 
 (moduleid  ES2331)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233144] of MODULETIME 
+([timeES233144] of MODULETIME 
 (moduleid  ES2331)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233145] of MODULETIME 
+([timeES233145] of MODULETIME 
 (moduleid  ES2331)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233146] of MODULETIME 
+([timeES233146] of MODULETIME 
 (moduleid  ES2331)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ES233147] of MODULETIME 
+([timeES233147] of MODULETIME 
 (moduleid  ES2331)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES233148] of MODULETIME 
+([timeES233148] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233149] of MODULETIME 
+([timeES233149] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233150] of MODULETIME 
+([timeES233150] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233151] of MODULETIME 
+([timeES233151] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233152] of MODULETIME 
+([timeES233152] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES233153] of MODULETIME 
+([timeES233153] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES233154] of MODULETIME 
+([timeES233154] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES233155] of MODULETIME 
+([timeES233155] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES233156] of MODULETIME 
+([timeES233156] of MODULETIME 
 (moduleid  ES2331)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES233157] of MODULETIME 
+([timeES233157] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES233158] of MODULETIME 
+([timeES233158] of MODULETIME 
 (moduleid  ES2331)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES233159] of MODULETIME 
+([timeES233159] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES233160] of MODULETIME 
+([timeES233160] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233161] of MODULETIME 
+([timeES233161] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233162] of MODULETIME 
+([timeES233162] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233163] of MODULETIME 
+([timeES233163] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233164] of MODULETIME 
+([timeES233164] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES233165] of MODULETIME 
+([timeES233165] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES233166] of MODULETIME 
+([timeES233166] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233167] of MODULETIME 
+([timeES233167] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233168] of MODULETIME 
+([timeES233168] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233169] of MODULETIME 
+([timeES233169] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233170] of MODULETIME 
-(moduleid  ES2331)
-(day MONDAY)
-(starttime 13:00)
-(endtime 15:00)
-(semester 2)
-)
-([ES233171] of MODULETIME 
-(moduleid  ES2331)
-(day THURSDAY)
-(starttime 15:00)
-(endtime 17:00)
-(semester 2)
-)
-([ES233172] of MODULETIME 
+([timeES233170] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233173] of MODULETIME 
+([timeES233171] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES233174] of MODULETIME 
+([timeES233172] of MODULETIME 
+(moduleid  ES2331)
+(day MONDAY)
+(starttime 13:00)
+(endtime 15:00)
+(semester 2)
+)
+([timeES233173] of MODULETIME 
+(moduleid  ES2331)
+(day THURSDAY)
+(starttime 15:00)
+(endtime 17:00)
+(semester 2)
+)
+([timeES233174] of MODULETIME 
 (moduleid  ES2331)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233175] of MODULETIME 
+([timeES233175] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES233176] of MODULETIME 
+([timeES233176] of MODULETIME 
 (moduleid  ES2331)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233177] of MODULETIME 
+([timeES233177] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ES233178] of MODULETIME 
+([timeES233178] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES233179] of MODULETIME 
+([timeES233179] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES233180] of MODULETIME 
+([timeES233180] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES233181] of MODULETIME 
+([timeES233181] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES233182] of MODULETIME 
+([timeES233182] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233183] of MODULETIME 
+([timeES233183] of MODULETIME 
 (moduleid  ES2331)
 (day WEDNESDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233184] of MODULETIME 
+([timeES233184] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233185] of MODULETIME 
+([timeES233185] of MODULETIME 
 (moduleid  ES2331)
 (day WEDNESDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([ES233186] of MODULETIME 
+([timeES233186] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES233187] of MODULETIME 
+([timeES233187] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES233188] of MODULETIME 
+([timeES233188] of MODULETIME 
 (moduleid  ES2331)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ES233189] of MODULETIME 
+([timeES233189] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES233190] of MODULETIME 
+([timeES233190] of MODULETIME 
 (moduleid  ES2331)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233191] of MODULETIME 
+([timeES233191] of MODULETIME 
 (moduleid  ES2331)
 (day WEDNESDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ES233192] of MODULETIME 
+([timeES233192] of MODULETIME 
 (moduleid  ES2331)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233193] of MODULETIME 
+([timeES233193] of MODULETIME 
 (moduleid  ES2331)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES233194] of MODULETIME 
+([timeES233194] of MODULETIME 
 (moduleid  ES2331)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ES233195] of MODULETIME 
+([timeES233195] of MODULETIME 
 (moduleid  ES2331)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ES233196] of MODULETIME 
+([timeES233196] of MODULETIME 
 (moduleid  ES2331)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ES233197] of MODULETIME 
+([timeES233197] of MODULETIME 
 (moduleid  ES2331)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ESE24010] of MODULETIME 
+([timeESE24010] of MODULETIME 
 (moduleid  ESE2401)
 (day MONDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ESE24011] of MODULETIME 
+([timeESE24011] of MODULETIME 
 (moduleid  ESE2401)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([ESE30010] of MODULETIME 
+([timeESE30010] of MODULETIME 
 (moduleid  ESE3001)
 (day MONDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ESE30011] of MODULETIME 
+([timeESE30011] of MODULETIME 
 (moduleid  ESE3001)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 12:00)
 (semester 2)
 )
-([ESE44030] of MODULETIME 
+([timeESE44030] of MODULETIME 
 (moduleid  ESE4403)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([ESE44050] of MODULETIME 
+([timeESE44050] of MODULETIME 
 (moduleid  ESE4405)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ESE44051] of MODULETIME 
+([timeESE44051] of MODULETIME 
 (moduleid  ESE4405)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([ESE44070] of MODULETIME 
+([timeESE44070] of MODULETIME 
 (moduleid  ESE4407)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([ESE45020] of MODULETIME 
+([timeESE45020] of MODULETIME 
 (moduleid  ESE4502)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 9:00)
 (semester 2)
 )
-([ESE54010] of MODULETIME 
+([timeESE54010] of MODULETIME 
 (moduleid  ESE5401)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([ESE54050] of MODULETIME 
+([timeESE54050] of MODULETIME 
 (moduleid  ESE5405)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([ESE56020] of MODULETIME 
+([timeESE56020] of MODULETIME 
 (moduleid  ESE5602)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([ESP11040] of MODULETIME 
+([timeESP11040] of MODULETIME 
 (moduleid  ESP1104)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ESP11041] of MODULETIME 
+([timeESP11041] of MODULETIME 
 (moduleid  ESP1104)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([ESP21100] of MODULETIME 
+([timeESP21100] of MODULETIME 
 (moduleid  ESP2110)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([ESP21101] of MODULETIME 
+([timeESP21101] of MODULETIME 
 (moduleid  ESP2110)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ESP21102] of MODULETIME 
+([timeESP21102] of MODULETIME 
 (moduleid  ESP2110)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ESP21103] of MODULETIME 
+([timeESP21103] of MODULETIME 
 (moduleid  ESP2110)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([ESP39030] of MODULETIME 
+([timeESP39030] of MODULETIME 
 (moduleid  ESP3903)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 13:00)
 (semester 2)
 )
-([ESP44020] of MODULETIME 
+([timeESP44020] of MODULETIME 
 (moduleid  ESP4402)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([ESP49010] of MODULETIME 
+([timeESP49010] of MODULETIME 
 (moduleid  ESP4901)
 (day SATURDAY)
 (starttime 22:00)
 (endtime 23:00)
 (semester 2)
 )
-([EU1101E0] of MODULETIME 
+([timeEU1101E0] of MODULETIME 
 (moduleid  EU1101E)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EU22030] of MODULETIME 
+([timeEU22030] of MODULETIME 
 (moduleid  EU2203)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([EU22140] of MODULETIME 
+([timeEU22140] of MODULETIME 
 (moduleid  EU2214)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EU22230] of MODULETIME 
+([timeEU22230] of MODULETIME 
 (moduleid  EU2223)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EU32170] of MODULETIME 
+([timeEU32170] of MODULETIME 
 (moduleid  EU3217)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([EU32240] of MODULETIME 
+([timeEU32240] of MODULETIME 
 (moduleid  EU3224)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EU32280] of MODULETIME 
+([timeEU32280] of MODULETIME 
 (moduleid  EU3228)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([EU32300] of MODULETIME 
+([timeEU32300] of MODULETIME 
 (moduleid  EU3230)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([EU32310] of MODULETIME 
+([timeEU32310] of MODULETIME 
 (moduleid  EU3231)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([EU42240] of MODULETIME 
+([timeEU42240] of MODULETIME 
 (moduleid  EU4224)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([EU42280] of MODULETIME 
+([timeEU42280] of MODULETIME 
 (moduleid  EU4228)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([FDP20010] of MODULETIME 
+([timeFDP20010] of MODULETIME 
 (moduleid  FDP2001)
 (day SATURDAY)
 (starttime 13:00)
 (endtime 17:00)
 (semester 2)
 )
-([FDP20011] of MODULETIME 
+([timeFDP20011] of MODULETIME 
 (moduleid  FDP2001)
 (day SATURDAY)
 (starttime 13:00)
 (endtime 17:00)
 (semester 2)
 )
-([FDP20020] of MODULETIME 
+([timeFDP20020] of MODULETIME 
 (moduleid  FDP2002)
 (day SATURDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([FDP20021] of MODULETIME 
+([timeFDP20021] of MODULETIME 
 (moduleid  FDP2002)
 (day WEDNESDAY)
 (starttime 19:00)
 (endtime 21:00)
 (semester 2)
 )
-([FIN20040] of MODULETIME 
+([timeFIN20040] of MODULETIME 
 (moduleid  FIN2004)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([FIN20041] of MODULETIME 
+([timeFIN20041] of MODULETIME 
 (moduleid  FIN2004)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([FIN20042] of MODULETIME 
+([timeFIN20042] of MODULETIME 
 (moduleid  FIN2004)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([FIN20043] of MODULETIME 
+([timeFIN20043] of MODULETIME 
 (moduleid  FIN2004)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([FIN20044] of MODULETIME 
+([timeFIN20044] of MODULETIME 
 (moduleid  FIN2004)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([FIN20045] of MODULETIME 
+([timeFIN20045] of MODULETIME 
 (moduleid  FIN2004)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([FIN20046] of MODULETIME 
+([timeFIN20046] of MODULETIME 
 (moduleid  FIN2004)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([FIN2004X0] of MODULETIME 
+([timeFIN2004X0] of MODULETIME 
 (moduleid  FIN2004X)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([FIN3101A0] of MODULETIME 
+([timeFIN3101A0] of MODULETIME 
 (moduleid  FIN3101A)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([FIN3101A1] of MODULETIME 
+([timeFIN3101A1] of MODULETIME 
 (moduleid  FIN3101A)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([FIN3101A2] of MODULETIME 
+([timeFIN3101A2] of MODULETIME 
 (moduleid  FIN3101A)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([FIN3102A0] of MODULETIME 
+([timeFIN3102A0] of MODULETIME 
 (moduleid  FIN3102A)
 (day MONDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([FIN3102A1] of MODULETIME 
+([timeFIN3102A1] of MODULETIME 
 (moduleid  FIN3102A)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([FIN3102A2] of MODULETIME 
+([timeFIN3102A2] of MODULETIME 
 (moduleid  FIN3102A)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([FIN3102B0] of MODULETIME 
+([timeFIN3102B0] of MODULETIME 
 (moduleid  FIN3102B)
 (day THURSDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([FIN3103A0] of MODULETIME 
+([timeFIN3103A0] of MODULETIME 
 (moduleid  FIN3103A)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([FIN3103A1] of MODULETIME 
+([timeFIN3103A1] of MODULETIME 
 (moduleid  FIN3103A)
 (day TUESDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([FIN3103A2] of MODULETIME 
+([timeFIN3103A2] of MODULETIME 
 (moduleid  FIN3103A)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([FIN3103B0] of MODULETIME 
+([timeFIN3103B0] of MODULETIME 
 (moduleid  FIN3103B)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([FIN31130] of MODULETIME 
+([timeFIN31130] of MODULETIME 
 (moduleid  FIN3113)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([FIN31160] of MODULETIME 
+([timeFIN31160] of MODULETIME 
 (moduleid  FIN3116)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([FIN31170] of MODULETIME 
+([timeFIN31170] of MODULETIME 
 (moduleid  FIN3117)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([FIN31171] of MODULETIME 
+([timeFIN31171] of MODULETIME 
 (moduleid  FIN3117)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([FIN31180] of MODULETIME 
+([timeFIN31180] of MODULETIME 
 (moduleid  FIN3118)
 (day MONDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([FIN31300] of MODULETIME 
+([timeFIN31300] of MODULETIME 
 (moduleid  FIN3130)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([FIN31301] of MODULETIME 
+([timeFIN31301] of MODULETIME 
 (moduleid  FIN3130)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([FIN31310] of MODULETIME 
+([timeFIN31310] of MODULETIME 
 (moduleid  FIN3131)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([FIN31311] of MODULETIME 
+([timeFIN31311] of MODULETIME 
 (moduleid  FIN3131)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([FIN4112G0] of MODULETIME 
+([timeFIN4112G0] of MODULETIME 
 (moduleid  FIN4112G)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([FIN4112H0] of MODULETIME 
+([timeFIN4112H0] of MODULETIME 
 (moduleid  FIN4112H)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([FIN4112K0] of MODULETIME 
+([timeFIN4112K0] of MODULETIME 
 (moduleid  FIN4112K)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([FIN41130] of MODULETIME 
+([timeFIN41130] of MODULETIME 
 (moduleid  FIN4113)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([FIN41131] of MODULETIME 
+([timeFIN41131] of MODULETIME 
 (moduleid  FIN4113)
 (day TUESDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([FIN41160] of MODULETIME 
+([timeFIN41160] of MODULETIME 
 (moduleid  FIN4116)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([FMA1201J0] of MODULETIME 
+([timeFMA1201J0] of MODULETIME 
 (moduleid  FMA1201J)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMA1201P0] of MODULETIME 
+([timeFMA1201P0] of MODULETIME 
 (moduleid  FMA1201P)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMA1201Q0] of MODULETIME 
+([timeFMA1201Q0] of MODULETIME 
 (moduleid  FMA1201Q)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([FMA1201R0] of MODULETIME 
+([timeFMA1201R0] of MODULETIME 
 (moduleid  FMA1201R)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([FMA1203F0] of MODULETIME 
+([timeFMA1203F0] of MODULETIME 
 (moduleid  FMA1203F)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([FMA1203H0] of MODULETIME 
+([timeFMA1203H0] of MODULETIME 
 (moduleid  FMA1203H)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([FMA1206M0] of MODULETIME 
+([timeFMA1206M0] of MODULETIME 
 (moduleid  FMA1206M)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([FMC12010] of MODULETIME 
+([timeFMC12010] of MODULETIME 
 (moduleid  FMC1201)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([FMC12030] of MODULETIME 
+([timeFMC12030] of MODULETIME 
 (moduleid  FMC1203)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([FMD12010] of MODULETIME 
+([timeFMD12010] of MODULETIME 
 (moduleid  FMD1201)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([FMS1201D0] of MODULETIME 
+([timeFMS1201D0] of MODULETIME 
 (moduleid  FMS1201D)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1202C0] of MODULETIME 
+([timeFMS1202C0] of MODULETIME 
 (moduleid  FMS1202C)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1203S0] of MODULETIME 
+([timeFMS1203S0] of MODULETIME 
 (moduleid  FMS1203S)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1204P0] of MODULETIME 
+([timeFMS1204P0] of MODULETIME 
 (moduleid  FMS1204P)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1204S0] of MODULETIME 
+([timeFMS1204S0] of MODULETIME 
 (moduleid  FMS1204S)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1205M0] of MODULETIME 
+([timeFMS1205M0] of MODULETIME 
 (moduleid  FMS1205M)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1205P0] of MODULETIME 
+([timeFMS1205P0] of MODULETIME 
 (moduleid  FMS1205P)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1207C0] of MODULETIME 
+([timeFMS1207C0] of MODULETIME 
 (moduleid  FMS1207C)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1207P0] of MODULETIME 
+([timeFMS1207P0] of MODULETIME 
 (moduleid  FMS1207P)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1209C0] of MODULETIME 
+([timeFMS1209C0] of MODULETIME 
 (moduleid  FMS1209C)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1209M0] of MODULETIME 
+([timeFMS1209M0] of MODULETIME 
 (moduleid  FMS1209M)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1210C0] of MODULETIME 
+([timeFMS1210C0] of MODULETIME 
 (moduleid  FMS1210C)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1210M0] of MODULETIME 
+([timeFMS1210M0] of MODULETIME 
 (moduleid  FMS1210M)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1215B0] of MODULETIME 
+([timeFMS1215B0] of MODULETIME 
 (moduleid  FMS1215B)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1221B0] of MODULETIME 
+([timeFMS1221B0] of MODULETIME 
 (moduleid  FMS1221B)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FMS1224B0] of MODULETIME 
+([timeFMS1224B0] of MODULETIME 
 (moduleid  FMS1224B)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FST2102A0] of MODULETIME 
+([timeFST2102A0] of MODULETIME 
 (moduleid  FST2102A)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([FST2102A1] of MODULETIME 
+([timeFST2102A1] of MODULETIME 
 (moduleid  FST2102A)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([FST21060] of MODULETIME 
+([timeFST21060] of MODULETIME 
 (moduleid  FST2106)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([FST22010] of MODULETIME 
+([timeFST22010] of MODULETIME 
 (moduleid  FST2201)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([FST22011] of MODULETIME 
+([timeFST22011] of MODULETIME 
 (moduleid  FST2201)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([FST31810] of MODULETIME 
+([timeFST31810] of MODULETIME 
 (moduleid  FST3181)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([FST31811] of MODULETIME 
+([timeFST31811] of MODULETIME 
 (moduleid  FST3181)
 (day MONDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([FST31812] of MODULETIME 
+([timeFST31812] of MODULETIME 
 (moduleid  FST3181)
 (day SATURDAY)
 (starttime 6:00)
 (endtime 23:59)
 (semester 2)
 )
-([FST31813] of MODULETIME 
+([timeFST31813] of MODULETIME 
 (moduleid  FST3181)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([FST31814] of MODULETIME 
+([timeFST31814] of MODULETIME 
 (moduleid  FST3181)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([FST31815] of MODULETIME 
+([timeFST31815] of MODULETIME 
 (moduleid  FST3181)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([FST41020] of MODULETIME 
+([timeFST41020] of MODULETIME 
 (moduleid  FST4102)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([FST41030] of MODULETIME 
+([timeFST41030] of MODULETIME 
 (moduleid  FST4103)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([FST42020] of MODULETIME 
+([timeFST42020] of MODULETIME 
 (moduleid  FST4202)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([FST52030] of MODULETIME 
+([timeFST52030] of MODULETIME 
 (moduleid  FST5203)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GE1101E0] of MODULETIME 
+([timeGE1101E0] of MODULETIME 
 (moduleid  GE1101E)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GE21010] of MODULETIME 
+([timeGE21010] of MODULETIME 
 (moduleid  GE2101)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GE22020] of MODULETIME 
+([timeGE22020] of MODULETIME 
 (moduleid  GE2202)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GE22060] of MODULETIME 
+([timeGE22060] of MODULETIME 
 (moduleid  GE2206)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GE22180] of MODULETIME 
+([timeGE22180] of MODULETIME 
 (moduleid  GE2218)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GE22200] of MODULETIME 
+([timeGE22200] of MODULETIME 
 (moduleid  GE2220)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GE32040] of MODULETIME 
+([timeGE32040] of MODULETIME 
 (moduleid  GE3204)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GE32060] of MODULETIME 
+([timeGE32060] of MODULETIME 
 (moduleid  GE3206)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GE32160] of MODULETIME 
+([timeGE32160] of MODULETIME 
 (moduleid  GE3216)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GE32210] of MODULETIME 
+([timeGE32210] of MODULETIME 
 (moduleid  GE3221)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([GE32400] of MODULETIME 
+([timeGE32400] of MODULETIME 
 (moduleid  GE3240)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GE32420] of MODULETIME 
+([timeGE32420] of MODULETIME 
 (moduleid  GE3242)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GE32430] of MODULETIME 
+([timeGE32430] of MODULETIME 
 (moduleid  GE3243)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GE42020] of MODULETIME 
+([timeGE42020] of MODULETIME 
 (moduleid  GE4202)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([GE42070] of MODULETIME 
+([timeGE42070] of MODULETIME 
 (moduleid  GE4207)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([GE42110] of MODULETIME 
+([timeGE42110] of MODULETIME 
 (moduleid  GE4211)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([GE42180] of MODULETIME 
+([timeGE42180] of MODULETIME 
 (moduleid  GE4218)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([GE52110] of MODULETIME 
+([timeGE52110] of MODULETIME 
 (moduleid  GE5211)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([GE52120] of MODULETIME 
+([timeGE52120] of MODULETIME 
 (moduleid  GE5212)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([GE62160] of MODULETIME 
+([timeGE62160] of MODULETIME 
 (moduleid  GE6216)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([GEK10000] of MODULETIME 
+([timeGEK10000] of MODULETIME 
 (moduleid  GEK1000)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK10010] of MODULETIME 
+([timeGEK10010] of MODULETIME 
 (moduleid  GEK1001)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK10020] of MODULETIME 
+([timeGEK10020] of MODULETIME 
 (moduleid  GEK1002)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK10030] of MODULETIME 
+([timeGEK10030] of MODULETIME 
 (moduleid  GEK1003)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEK10080] of MODULETIME 
+([timeGEK10080] of MODULETIME 
 (moduleid  GEK1008)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK10110] of MODULETIME 
+([timeGEK10110] of MODULETIME 
 (moduleid  GEK1011)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEK10120] of MODULETIME 
+([timeGEK10120] of MODULETIME 
 (moduleid  GEK1012)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK10220] of MODULETIME 
+([timeGEK10220] of MODULETIME 
 (moduleid  GEK1022)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEK1029T0] of MODULETIME 
+([timeGEK1029T0] of MODULETIME 
 (moduleid  GEK1029T)
 (day FRIDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([GEK10480] of MODULETIME 
+([timeGEK10480] of MODULETIME 
 (moduleid  GEK1048)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK10540] of MODULETIME 
+([timeGEK10540] of MODULETIME 
 (moduleid  GEK1054)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([GEK10550] of MODULETIME 
+([timeGEK10550] of MODULETIME 
 (moduleid  GEK1055)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK10560] of MODULETIME 
+([timeGEK10560] of MODULETIME 
 (moduleid  GEK1056)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEK10580] of MODULETIME 
+([timeGEK10580] of MODULETIME 
 (moduleid  GEK1058)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEK10590] of MODULETIME 
+([timeGEK10590] of MODULETIME 
 (moduleid  GEK1059)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK10620] of MODULETIME 
+([timeGEK10620] of MODULETIME 
 (moduleid  GEK1062)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK10640] of MODULETIME 
+([timeGEK10640] of MODULETIME 
 (moduleid  GEK1064)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK10660] of MODULETIME 
+([timeGEK10660] of MODULETIME 
 (moduleid  GEK1066)
 (day TUESDAY)
 (starttime 19:00)
 (endtime 21:00)
 (semester 2)
 )
-([GEK15010] of MODULETIME 
+([timeGEK15010] of MODULETIME 
 (moduleid  GEK1501)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK15050] of MODULETIME 
+([timeGEK15050] of MODULETIME 
 (moduleid  GEK1505)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GEK15051] of MODULETIME 
+([timeGEK15051] of MODULETIME 
 (moduleid  GEK1505)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GEK15080] of MODULETIME 
+([timeGEK15080] of MODULETIME 
 (moduleid  GEK1508)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK15081] of MODULETIME 
+([timeGEK15081] of MODULETIME 
 (moduleid  GEK1508)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK15090] of MODULETIME 
+([timeGEK15090] of MODULETIME 
 (moduleid  GEK1509)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK15091] of MODULETIME 
+([timeGEK15091] of MODULETIME 
 (moduleid  GEK1509)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK15100] of MODULETIME 
+([timeGEK15100] of MODULETIME 
 (moduleid  GEK1510)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEK15101] of MODULETIME 
+([timeGEK15101] of MODULETIME 
 (moduleid  GEK1510)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEK15130] of MODULETIME 
+([timeGEK15130] of MODULETIME 
 (moduleid  GEK1513)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK15150] of MODULETIME 
+([timeGEK15150] of MODULETIME 
 (moduleid  GEK1515)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK15151] of MODULETIME 
+([timeGEK15151] of MODULETIME 
 (moduleid  GEK1515)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK15190] of MODULETIME 
+([timeGEK15190] of MODULETIME 
 (moduleid  GEK1519)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEK15191] of MODULETIME 
+([timeGEK15191] of MODULETIME 
 (moduleid  GEK1519)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEK15200] of MODULETIME 
+([timeGEK15200] of MODULETIME 
 (moduleid  GEK1520)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEK15201] of MODULETIME 
+([timeGEK15201] of MODULETIME 
 (moduleid  GEK1520)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEK15220] of MODULETIME 
+([timeGEK15220] of MODULETIME 
 (moduleid  GEK1522)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK1522T0] of MODULETIME 
+([timeGEK1522T0] of MODULETIME 
 (moduleid  GEK1522T)
 (day FRIDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([GEK15230] of MODULETIME 
+([timeGEK15230] of MODULETIME 
 (moduleid  GEK1523)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([GEK15231] of MODULETIME 
+([timeGEK15231] of MODULETIME 
 (moduleid  GEK1523)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK15240] of MODULETIME 
+([timeGEK15240] of MODULETIME 
 (moduleid  GEK1524)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK15241] of MODULETIME 
+([timeGEK15241] of MODULETIME 
 (moduleid  GEK1524)
 (day MONDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([GEK15270] of MODULETIME 
+([timeGEK15270] of MODULETIME 
 (moduleid  GEK1527)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK15271] of MODULETIME 
+([timeGEK15271] of MODULETIME 
 (moduleid  GEK1527)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK15272] of MODULETIME 
+([timeGEK15272] of MODULETIME 
 (moduleid  GEK1527)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK15273] of MODULETIME 
+([timeGEK15273] of MODULETIME 
 (moduleid  GEK1527)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK15310] of MODULETIME 
+([timeGEK15310] of MODULETIME 
 (moduleid  GEK1531)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([GEK15360] of MODULETIME 
+([timeGEK15360] of MODULETIME 
 (moduleid  GEK1536)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEK15361] of MODULETIME 
+([timeGEK15361] of MODULETIME 
 (moduleid  GEK1536)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEK15380] of MODULETIME 
+([timeGEK15380] of MODULETIME 
 (moduleid  GEK1538)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEK15400] of MODULETIME 
+([timeGEK15400] of MODULETIME 
 (moduleid  GEK1540)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK15401] of MODULETIME 
+([timeGEK15401] of MODULETIME 
 (moduleid  GEK1540)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK15440] of MODULETIME 
+([timeGEK15440] of MODULETIME 
 (moduleid  GEK1544)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GEK15441] of MODULETIME 
+([timeGEK15441] of MODULETIME 
 (moduleid  GEK1544)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GEK15470] of MODULETIME 
+([timeGEK15470] of MODULETIME 
 (moduleid  GEK1547)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([GEK15471] of MODULETIME 
+([timeGEK15471] of MODULETIME 
 (moduleid  GEK1547)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([GEK15480] of MODULETIME 
+([timeGEK15480] of MODULETIME 
 (moduleid  GEK1548)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK15481] of MODULETIME 
+([timeGEK15481] of MODULETIME 
 (moduleid  GEK1548)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK19000] of MODULETIME 
+([timeGEK19000] of MODULETIME 
 (moduleid  GEK1900)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([GEK19001] of MODULETIME 
+([timeGEK19001] of MODULETIME 
 (moduleid  GEK1900)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK20010] of MODULETIME 
+([timeGEK20010] of MODULETIME 
 (moduleid  GEK2001)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEK20030] of MODULETIME 
+([timeGEK20030] of MODULETIME 
 (moduleid  GEK2003)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEK20050] of MODULETIME 
+([timeGEK20050] of MODULETIME 
 (moduleid  GEK2005)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([GEK20100] of MODULETIME 
+([timeGEK20100] of MODULETIME 
 (moduleid  GEK2010)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK20130] of MODULETIME 
+([timeGEK20130] of MODULETIME 
 (moduleid  GEK2013)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK20240] of MODULETIME 
+([timeGEK20240] of MODULETIME 
 (moduleid  GEK2024)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEK20300] of MODULETIME 
+([timeGEK20300] of MODULETIME 
 (moduleid  GEK2030)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK20360] of MODULETIME 
+([timeGEK20360] of MODULETIME 
 (moduleid  GEK2036)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK20370] of MODULETIME 
+([timeGEK20370] of MODULETIME 
 (moduleid  GEK2037)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEK20390] of MODULETIME 
+([timeGEK20390] of MODULETIME 
 (moduleid  GEK2039)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEK20420] of MODULETIME 
+([timeGEK20420] of MODULETIME 
 (moduleid  GEK2042)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEK20440] of MODULETIME 
+([timeGEK20440] of MODULETIME 
 (moduleid  GEK2044)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK20470] of MODULETIME 
+([timeGEK20470] of MODULETIME 
 (moduleid  GEK2047)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEK25060] of MODULETIME 
+([timeGEK25060] of MODULETIME 
 (moduleid  GEK2506)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEK25061] of MODULETIME 
+([timeGEK25061] of MODULETIME 
 (moduleid  GEK2506)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEK25080] of MODULETIME 
+([timeGEK25080] of MODULETIME 
 (moduleid  GEK2508)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK25081] of MODULETIME 
+([timeGEK25081] of MODULETIME 
 (moduleid  GEK2508)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEK30070] of MODULETIME 
+([timeGEK30070] of MODULETIME 
 (moduleid  GEK3007)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEM10030] of MODULETIME 
+([timeGEM10030] of MODULETIME 
 (moduleid  GEM1003)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([GEM1004FC0] of MODULETIME 
+([timeGEM1004FC0] of MODULETIME 
 (moduleid  GEM1004FC)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEM10230] of MODULETIME 
+([timeGEM10230] of MODULETIME 
 (moduleid  GEM1023)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEM10330] of MODULETIME 
+([timeGEM10330] of MODULETIME 
 (moduleid  GEM1033)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEM10331] of MODULETIME 
+([timeGEM10331] of MODULETIME 
 (moduleid  GEM1033)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([GEM10350] of MODULETIME 
+([timeGEM10350] of MODULETIME 
 (moduleid  GEM1035)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([GEM10360] of MODULETIME 
+([timeGEM10360] of MODULETIME 
 (moduleid  GEM1036)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEM15010] of MODULETIME 
+([timeGEM15010] of MODULETIME 
 (moduleid  GEM1501)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEM15360] of MODULETIME 
+([timeGEM15360] of MODULETIME 
 (moduleid  GEM1536)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEM15361] of MODULETIME 
+([timeGEM15361] of MODULETIME 
 (moduleid  GEM1536)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEM15370] of MODULETIME 
+([timeGEM15370] of MODULETIME 
 (moduleid  GEM1537)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEM15371] of MODULETIME 
+([timeGEM15371] of MODULETIME 
 (moduleid  GEM1537)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEM1902A0] of MODULETIME 
+([timeGEM1902A0] of MODULETIME 
 (moduleid  GEM1902A)
 (day MONDAY)
 (starttime 18:00)
 (endtime 19:00)
 (semester 2)
 )
-([GEM1902A1] of MODULETIME 
+([timeGEM1902A1] of MODULETIME 
 (moduleid  GEM1902A)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GEM1902E0] of MODULETIME 
+([timeGEM1902E0] of MODULETIME 
 (moduleid  GEM1902E)
 (day MONDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([GEM1902E1] of MODULETIME 
+([timeGEM1902E1] of MODULETIME 
 (moduleid  GEM1902E)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEM1902E2] of MODULETIME 
+([timeGEM1902E2] of MODULETIME 
 (moduleid  GEM1902E)
 (day MONDAY)
 (starttime 18:00)
 (endtime 19:00)
 (semester 2)
 )
-([GEM1902E3] of MODULETIME 
+([timeGEM1902E3] of MODULETIME 
 (moduleid  GEM1902E)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GEM1902G0] of MODULETIME 
+([timeGEM1902G0] of MODULETIME 
 (moduleid  GEM1902G)
 (day MONDAY)
 (starttime 8:00)
 (endtime 9:00)
 (semester 2)
 )
-([GEM1902G1] of MODULETIME 
+([timeGEM1902G1] of MODULETIME 
 (moduleid  GEM1902G)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([GEM1902M0] of MODULETIME 
+([timeGEM1902M0] of MODULETIME 
 (moduleid  GEM1902M)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([GEM1902N0] of MODULETIME 
+([timeGEM1902N0] of MODULETIME 
 (moduleid  GEM1902N)
 (day MONDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([GEM1902N1] of MODULETIME 
+([timeGEM1902N1] of MODULETIME 
 (moduleid  GEM1902N)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEM1902S0] of MODULETIME 
+([timeGEM1902S0] of MODULETIME 
 (moduleid  GEM1902S)
 (day MONDAY)
 (starttime 12:00)
 (endtime 13:00)
 (semester 2)
 )
-([GEM1902S1] of MODULETIME 
+([timeGEM1902S1] of MODULETIME 
 (moduleid  GEM1902S)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEM19040] of MODULETIME 
+([timeGEM19040] of MODULETIME 
 (moduleid  GEM1904)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([GEM19041] of MODULETIME 
+([timeGEM19041] of MODULETIME 
 (moduleid  GEM1904)
 (day TUESDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([GEM19080] of MODULETIME 
+([timeGEM19080] of MODULETIME 
 (moduleid  GEM1908)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([GEM19090] of MODULETIME 
+([timeGEM19090] of MODULETIME 
 (moduleid  GEM1909)
 (day MONDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([GEM19091] of MODULETIME 
+([timeGEM19091] of MODULETIME 
 (moduleid  GEM1909)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([GEM1912B0] of MODULETIME 
+([timeGEM1912B0] of MODULETIME 
 (moduleid  GEM1912B)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([GEM1912B1] of MODULETIME 
+([timeGEM1912B1] of MODULETIME 
 (moduleid  GEM1912B)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 13:00)
 (semester 2)
 )
-([GEM1912D0] of MODULETIME 
+([timeGEM1912D0] of MODULETIME 
 (moduleid  GEM1912D)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEM1912D1] of MODULETIME 
+([timeGEM1912D1] of MODULETIME 
 (moduleid  GEM1912D)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([GEM1915FC0] of MODULETIME 
+([timeGEM1915FC0] of MODULETIME 
 (moduleid  GEM1915FC)
 (day SATURDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([GEM20060] of MODULETIME 
+([timeGEM20060] of MODULETIME 
 (moduleid  GEM2006)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEM20220] of MODULETIME 
+([timeGEM20220] of MODULETIME 
 (moduleid  GEM2022)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([GEM20221] of MODULETIME 
+([timeGEM20221] of MODULETIME 
 (moduleid  GEM2022)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([GEM20222] of MODULETIME 
+([timeGEM20222] of MODULETIME 
 (moduleid  GEM2022)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([GEM20223] of MODULETIME 
+([timeGEM20223] of MODULETIME 
 (moduleid  GEM2022)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([GEM20224] of MODULETIME 
+([timeGEM20224] of MODULETIME 
 (moduleid  GEM2022)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEM20225] of MODULETIME 
+([timeGEM20225] of MODULETIME 
 (moduleid  GEM2022)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEM20270] of MODULETIME 
+([timeGEM20270] of MODULETIME 
 (moduleid  GEM2027)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 17:00)
 (semester 2)
 )
-([GEM25090] of MODULETIME 
+([timeGEM25090] of MODULETIME 
 (moduleid  GEM2509)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEM29000] of MODULETIME 
+([timeGEM29000] of MODULETIME 
 (moduleid  GEM2900)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEM29001] of MODULETIME 
+([timeGEM29001] of MODULETIME 
 (moduleid  GEM2900)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEM29002] of MODULETIME 
+([timeGEM29002] of MODULETIME 
 (moduleid  GEM2900)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([GEM29003] of MODULETIME 
+([timeGEM29003] of MODULETIME 
 (moduleid  GEM2900)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([GEM29010] of MODULETIME 
+([timeGEM29010] of MODULETIME 
 (moduleid  GEM2901)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([GEM29011] of MODULETIME 
+([timeGEM29011] of MODULETIME 
 (moduleid  GEM2901)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([GEM29030] of MODULETIME 
+([timeGEM29030] of MODULETIME 
 (moduleid  GEM2903)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([GEM29031] of MODULETIME 
+([timeGEM29031] of MODULETIME 
 (moduleid  GEM2903)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GEM29032] of MODULETIME 
+([timeGEM29032] of MODULETIME 
 (moduleid  GEM2903)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([GEM29033] of MODULETIME 
+([timeGEM29033] of MODULETIME 
 (moduleid  GEM2903)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GEM29034] of MODULETIME 
+([timeGEM29034] of MODULETIME 
 (moduleid  GEM2903)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([GEM29035] of MODULETIME 
+([timeGEM29035] of MODULETIME 
 (moduleid  GEM2903)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEM29036] of MODULETIME 
+([timeGEM29036] of MODULETIME 
 (moduleid  GEM2903)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([GEM29037] of MODULETIME 
+([timeGEM29037] of MODULETIME 
 (moduleid  GEM2903)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GEM29040] of MODULETIME 
+([timeGEM29040] of MODULETIME 
 (moduleid  GEM2904)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GEM29041] of MODULETIME 
+([timeGEM29041] of MODULETIME 
 (moduleid  GEM2904)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GEM29042] of MODULETIME 
+([timeGEM29042] of MODULETIME 
 (moduleid  GEM2904)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEM29043] of MODULETIME 
+([timeGEM29043] of MODULETIME 
 (moduleid  GEM2904)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GEM29044] of MODULETIME 
+([timeGEM29044] of MODULETIME 
 (moduleid  GEM2904)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([GEM29045] of MODULETIME 
+([timeGEM29045] of MODULETIME 
 (moduleid  GEM2904)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GEM29046] of MODULETIME 
+([timeGEM29046] of MODULETIME 
 (moduleid  GEM2904)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GEM29047] of MODULETIME 
+([timeGEM29047] of MODULETIME 
 (moduleid  GEM2904)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([GEM29050] of MODULETIME 
+([timeGEM29050] of MODULETIME 
 (moduleid  GEM2905)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([GEM29051] of MODULETIME 
+([timeGEM29051] of MODULETIME 
 (moduleid  GEM2905)
 (day MONDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([GEM29052] of MODULETIME 
+([timeGEM29052] of MODULETIME 
 (moduleid  GEM2905)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([GEM29053] of MODULETIME 
+([timeGEM29053] of MODULETIME 
 (moduleid  GEM2905)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([GEM29054] of MODULETIME 
+([timeGEM29054] of MODULETIME 
 (moduleid  GEM2905)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([GEM39010] of MODULETIME 
+([timeGEM39010] of MODULETIME 
 (moduleid  GEM3901)
 (day SATURDAY)
 (starttime 21:00)
 (endtime 22:00)
 (semester 2)
 )
-([GL1101E0] of MODULETIME 
+([timeGL1101E0] of MODULETIME 
 (moduleid  GL1101E)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([GL21020] of MODULETIME 
+([timeGL21020] of MODULETIME 
 (moduleid  GL2102)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([GL21030] of MODULETIME 
+([timeGL21030] of MODULETIME 
 (moduleid  GL2103)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([HR20020] of MODULETIME 
+([timeHR20020] of MODULETIME 
 (moduleid  HR2002)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([HR20021] of MODULETIME 
+([timeHR20021] of MODULETIME 
 (moduleid  HR2002)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 19:00)
 (semester 2)
 )
-([HY1101E0] of MODULETIME 
+([timeHY1101E0] of MODULETIME 
 (moduleid  HY1101E)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([HY1101E1] of MODULETIME 
+([timeHY1101E1] of MODULETIME 
 (moduleid  HY1101E)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([HY22160] of MODULETIME 
+([timeHY22160] of MODULETIME 
 (moduleid  HY2216)
 (day MONDAY)
 (starttime 16:00)
 (endtime 20:00)
 (semester 2)
 )
-([HY22290] of MODULETIME 
+([timeHY22290] of MODULETIME 
 (moduleid  HY2229)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([HY22320] of MODULETIME 
+([timeHY22320] of MODULETIME 
 (moduleid  HY2232)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([HY22390] of MODULETIME 
+([timeHY22390] of MODULETIME 
 (moduleid  HY2239)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([HY22420] of MODULETIME 
+([timeHY22420] of MODULETIME 
 (moduleid  HY2242)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([HY22421] of MODULETIME 
+([timeHY22421] of MODULETIME 
 (moduleid  HY2242)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([HY22540] of MODULETIME 
+([timeHY22540] of MODULETIME 
 (moduleid  HY2254)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([HY22560] of MODULETIME 
+([timeHY22560] of MODULETIME 
 (moduleid  HY2256)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([HY22590] of MODULETIME 
+([timeHY22590] of MODULETIME 
 (moduleid  HY2259)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([HY32010] of MODULETIME 
+([timeHY32010] of MODULETIME 
 (moduleid  HY3201)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([HY32090] of MODULETIME 
+([timeHY32090] of MODULETIME 
 (moduleid  HY3209)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([HY32260] of MODULETIME 
+([timeHY32260] of MODULETIME 
 (moduleid  HY3226)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([HY32360] of MODULETIME 
+([timeHY32360] of MODULETIME 
 (moduleid  HY3236)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([HY32420] of MODULETIME 
+([timeHY32420] of MODULETIME 
 (moduleid  HY3242)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([HY32480] of MODULETIME 
+([timeHY32480] of MODULETIME 
 (moduleid  HY3248)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([HY32520] of MODULETIME 
+([timeHY32520] of MODULETIME 
 (moduleid  HY3252)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([HY42050] of MODULETIME 
+([timeHY42050] of MODULETIME 
 (moduleid  HY4205)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([HY42110] of MODULETIME 
+([timeHY42110] of MODULETIME 
 (moduleid  HY4211)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([HY42150] of MODULETIME 
+([timeHY42150] of MODULETIME 
 (moduleid  HY4215)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([HY42160] of MODULETIME 
+([timeHY42160] of MODULETIME 
 (moduleid  HY4216)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([HY42220] of MODULETIME 
+([timeHY42220] of MODULETIME 
 (moduleid  HY4222)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([ID11060] of MODULETIME 
+([timeID11060] of MODULETIME 
 (moduleid  ID1106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID11061] of MODULETIME 
+([timeID11061] of MODULETIME 
 (moduleid  ID1106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID11062] of MODULETIME 
+([timeID11062] of MODULETIME 
 (moduleid  ID1106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID11063] of MODULETIME 
+([timeID11063] of MODULETIME 
 (moduleid  ID1106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID11120] of MODULETIME 
+([timeID11120] of MODULETIME 
 (moduleid  ID1112)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 13:00)
 (semester 2)
 )
-([ID11210] of MODULETIME 
+([timeID11210] of MODULETIME 
 (moduleid  ID1121)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID21060] of MODULETIME 
+([timeID21060] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID21061] of MODULETIME 
+([timeID21061] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID21062] of MODULETIME 
+([timeID21062] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID21063] of MODULETIME 
+([timeID21063] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID21064] of MODULETIME 
+([timeID21064] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID21065] of MODULETIME 
+([timeID21065] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID21066] of MODULETIME 
+([timeID21066] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID21067] of MODULETIME 
+([timeID21067] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID21068] of MODULETIME 
+([timeID21068] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID21069] of MODULETIME 
+([timeID21069] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210610] of MODULETIME 
+([timeID210610] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210611] of MODULETIME 
+([timeID210611] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210612] of MODULETIME 
+([timeID210612] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210613] of MODULETIME 
+([timeID210613] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210614] of MODULETIME 
+([timeID210614] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210615] of MODULETIME 
+([timeID210615] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210616] of MODULETIME 
+([timeID210616] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210617] of MODULETIME 
+([timeID210617] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210618] of MODULETIME 
+([timeID210618] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210619] of MODULETIME 
+([timeID210619] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210620] of MODULETIME 
+([timeID210620] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210621] of MODULETIME 
+([timeID210621] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210622] of MODULETIME 
+([timeID210622] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210623] of MODULETIME 
+([timeID210623] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210624] of MODULETIME 
+([timeID210624] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210625] of MODULETIME 
+([timeID210625] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210626] of MODULETIME 
+([timeID210626] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210627] of MODULETIME 
+([timeID210627] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210628] of MODULETIME 
+([timeID210628] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210629] of MODULETIME 
+([timeID210629] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210630] of MODULETIME 
+([timeID210630] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210631] of MODULETIME 
+([timeID210631] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210632] of MODULETIME 
+([timeID210632] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210633] of MODULETIME 
+([timeID210633] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210634] of MODULETIME 
+([timeID210634] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210635] of MODULETIME 
+([timeID210635] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210636] of MODULETIME 
+([timeID210636] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210637] of MODULETIME 
+([timeID210637] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210638] of MODULETIME 
+([timeID210638] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210639] of MODULETIME 
+([timeID210639] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210640] of MODULETIME 
+([timeID210640] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210641] of MODULETIME 
+([timeID210641] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210642] of MODULETIME 
+([timeID210642] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210643] of MODULETIME 
+([timeID210643] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210644] of MODULETIME 
+([timeID210644] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210645] of MODULETIME 
+([timeID210645] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210646] of MODULETIME 
+([timeID210646] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210647] of MODULETIME 
+([timeID210647] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210648] of MODULETIME 
+([timeID210648] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210649] of MODULETIME 
+([timeID210649] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210650] of MODULETIME 
+([timeID210650] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210651] of MODULETIME 
+([timeID210651] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210652] of MODULETIME 
+([timeID210652] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210653] of MODULETIME 
+([timeID210653] of MODULETIME 
 (moduleid  ID2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID210654] of MODULETIME 
+([timeID210654] of MODULETIME 
 (moduleid  ID2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID21120] of MODULETIME 
+([timeID21120] of MODULETIME 
 (moduleid  ID2112)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 13:00)
 (semester 2)
 )
-([ID21220] of MODULETIME 
+([timeID21220] of MODULETIME 
 (moduleid  ID2122)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID23240] of MODULETIME 
+([timeID23240] of MODULETIME 
 (moduleid  ID2324)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID30410] of MODULETIME 
+([timeID30410] of MODULETIME 
 (moduleid  ID3041)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID31060] of MODULETIME 
+([timeID31060] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID31061] of MODULETIME 
+([timeID31061] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID31062] of MODULETIME 
+([timeID31062] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID31063] of MODULETIME 
+([timeID31063] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID31064] of MODULETIME 
+([timeID31064] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID31065] of MODULETIME 
+([timeID31065] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID31066] of MODULETIME 
+([timeID31066] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID31067] of MODULETIME 
+([timeID31067] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID31068] of MODULETIME 
+([timeID31068] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID31069] of MODULETIME 
+([timeID31069] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310610] of MODULETIME 
+([timeID310610] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310611] of MODULETIME 
+([timeID310611] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310612] of MODULETIME 
+([timeID310612] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310613] of MODULETIME 
+([timeID310613] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310614] of MODULETIME 
+([timeID310614] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310615] of MODULETIME 
+([timeID310615] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310616] of MODULETIME 
+([timeID310616] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310617] of MODULETIME 
+([timeID310617] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310618] of MODULETIME 
+([timeID310618] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310619] of MODULETIME 
+([timeID310619] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310620] of MODULETIME 
+([timeID310620] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310621] of MODULETIME 
+([timeID310621] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310622] of MODULETIME 
+([timeID310622] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310623] of MODULETIME 
+([timeID310623] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310624] of MODULETIME 
+([timeID310624] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310625] of MODULETIME 
+([timeID310625] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310626] of MODULETIME 
+([timeID310626] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310627] of MODULETIME 
+([timeID310627] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310628] of MODULETIME 
+([timeID310628] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310629] of MODULETIME 
+([timeID310629] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310630] of MODULETIME 
+([timeID310630] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310631] of MODULETIME 
+([timeID310631] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310632] of MODULETIME 
+([timeID310632] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310633] of MODULETIME 
+([timeID310633] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310634] of MODULETIME 
+([timeID310634] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310635] of MODULETIME 
+([timeID310635] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310636] of MODULETIME 
+([timeID310636] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310637] of MODULETIME 
+([timeID310637] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310638] of MODULETIME 
+([timeID310638] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310639] of MODULETIME 
+([timeID310639] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310640] of MODULETIME 
+([timeID310640] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310641] of MODULETIME 
+([timeID310641] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310642] of MODULETIME 
+([timeID310642] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310643] of MODULETIME 
+([timeID310643] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310644] of MODULETIME 
+([timeID310644] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310645] of MODULETIME 
+([timeID310645] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310646] of MODULETIME 
+([timeID310646] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310647] of MODULETIME 
+([timeID310647] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310648] of MODULETIME 
+([timeID310648] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310649] of MODULETIME 
+([timeID310649] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310650] of MODULETIME 
+([timeID310650] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310651] of MODULETIME 
+([timeID310651] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310652] of MODULETIME 
+([timeID310652] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310653] of MODULETIME 
+([timeID310653] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310654] of MODULETIME 
+([timeID310654] of MODULETIME 
 (moduleid  ID3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID310655] of MODULETIME 
+([timeID310655] of MODULETIME 
 (moduleid  ID3106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID31240] of MODULETIME 
+([timeID31240] of MODULETIME 
 (moduleid  ID3124)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 13:00)
 (semester 2)
 )
-([ID41060] of MODULETIME 
+([timeID41060] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID41061] of MODULETIME 
+([timeID41061] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID41062] of MODULETIME 
+([timeID41062] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID41063] of MODULETIME 
+([timeID41063] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID41064] of MODULETIME 
+([timeID41064] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID41065] of MODULETIME 
+([timeID41065] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID41066] of MODULETIME 
+([timeID41066] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID41067] of MODULETIME 
+([timeID41067] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID41068] of MODULETIME 
+([timeID41068] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID41069] of MODULETIME 
+([timeID41069] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410610] of MODULETIME 
+([timeID410610] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410611] of MODULETIME 
+([timeID410611] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410612] of MODULETIME 
+([timeID410612] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410613] of MODULETIME 
+([timeID410613] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410614] of MODULETIME 
+([timeID410614] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410615] of MODULETIME 
+([timeID410615] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410616] of MODULETIME 
+([timeID410616] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410617] of MODULETIME 
+([timeID410617] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410618] of MODULETIME 
+([timeID410618] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410619] of MODULETIME 
+([timeID410619] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410620] of MODULETIME 
+([timeID410620] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410621] of MODULETIME 
+([timeID410621] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410622] of MODULETIME 
+([timeID410622] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410623] of MODULETIME 
+([timeID410623] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410624] of MODULETIME 
+([timeID410624] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410625] of MODULETIME 
+([timeID410625] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410626] of MODULETIME 
+([timeID410626] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410627] of MODULETIME 
+([timeID410627] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410628] of MODULETIME 
+([timeID410628] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410629] of MODULETIME 
+([timeID410629] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410630] of MODULETIME 
+([timeID410630] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410631] of MODULETIME 
+([timeID410631] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410632] of MODULETIME 
+([timeID410632] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410633] of MODULETIME 
+([timeID410633] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410634] of MODULETIME 
+([timeID410634] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410635] of MODULETIME 
+([timeID410635] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410636] of MODULETIME 
+([timeID410636] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410637] of MODULETIME 
+([timeID410637] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410638] of MODULETIME 
+([timeID410638] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410639] of MODULETIME 
+([timeID410639] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410640] of MODULETIME 
+([timeID410640] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410641] of MODULETIME 
+([timeID410641] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410642] of MODULETIME 
+([timeID410642] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410643] of MODULETIME 
+([timeID410643] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410644] of MODULETIME 
+([timeID410644] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410645] of MODULETIME 
+([timeID410645] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410646] of MODULETIME 
+([timeID410646] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410647] of MODULETIME 
+([timeID410647] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410648] of MODULETIME 
+([timeID410648] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410649] of MODULETIME 
+([timeID410649] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410650] of MODULETIME 
+([timeID410650] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410651] of MODULETIME 
+([timeID410651] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410652] of MODULETIME 
+([timeID410652] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410653] of MODULETIME 
+([timeID410653] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410654] of MODULETIME 
+([timeID410654] of MODULETIME 
 (moduleid  ID4106)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID410655] of MODULETIME 
+([timeID410655] of MODULETIME 
 (moduleid  ID4106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([ID51510] of MODULETIME 
+([timeID51510] of MODULETIME 
 (moduleid  ID5151)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 13:00)
 (semester 2)
 )
-([ID51511] of MODULETIME 
+([timeID51511] of MODULETIME 
 (moduleid  ID5151)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 13:00)
 (semester 2)
 )
-([ID51512] of MODULETIME 
+([timeID51512] of MODULETIME 
 (moduleid  ID5151)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 13:00)
 (semester 2)
 )
-([IE21000] of MODULETIME 
+([timeIE21000] of MODULETIME 
 (moduleid  IE2100)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([IE21001] of MODULETIME 
+([timeIE21001] of MODULETIME 
 (moduleid  IE2100)
 (day WEDNESDAY)
 (starttime 13:00)
 (endtime 14:00)
 (semester 2)
 )
-([IE2100E0] of MODULETIME 
+([timeIE2100E0] of MODULETIME 
 (moduleid  IE2100E)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([IE21300] of MODULETIME 
+([timeIE21300] of MODULETIME 
 (moduleid  IE2130)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IE21301] of MODULETIME 
+([timeIE21301] of MODULETIME 
 (moduleid  IE2130)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 17:00)
 (semester 2)
 )
-([IE2130E0] of MODULETIME 
+([timeIE2130E0] of MODULETIME 
 (moduleid  IE2130E)
 (day MONDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([IE21400] of MODULETIME 
+([timeIE21400] of MODULETIME 
 (moduleid  IE2140)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IE21401] of MODULETIME 
+([timeIE21401] of MODULETIME 
 (moduleid  IE2140)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 14:00)
 (semester 2)
 )
-([IE2140E0] of MODULETIME 
+([timeIE2140E0] of MODULETIME 
 (moduleid  IE2140E)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([IE21500] of MODULETIME 
+([timeIE21500] of MODULETIME 
 (moduleid  IE2150)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IE21501] of MODULETIME 
+([timeIE21501] of MODULETIME 
 (moduleid  IE2150)
 (day TUESDAY)
 (starttime 13:00)
 (endtime 14:00)
 (semester 2)
 )
-([IE2150E0] of MODULETIME 
+([timeIE2150E0] of MODULETIME 
 (moduleid  IE2150E)
 (day TUESDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([IE3010E0] of MODULETIME 
+([timeIE3010E0] of MODULETIME 
 (moduleid  IE3010E)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([IE3100E0] of MODULETIME 
+([timeIE3100E0] of MODULETIME 
 (moduleid  IE3100E)
 (day SATURDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([IE3100R0] of MODULETIME 
+([timeIE3100R0] of MODULETIME 
 (moduleid  IE3100R)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([IE41000] of MODULETIME 
+([timeIE41000] of MODULETIME 
 (moduleid  IE4100)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IE4100E0] of MODULETIME 
+([timeIE4100E0] of MODULETIME 
 (moduleid  IE4100E)
 (day SATURDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([IE42200] of MODULETIME 
+([timeIE42200] of MODULETIME 
 (moduleid  IE4220)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([IE42201] of MODULETIME 
+([timeIE42201] of MODULETIME 
 (moduleid  IE4220)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IE4220E0] of MODULETIME 
+([timeIE4220E0] of MODULETIME 
 (moduleid  IE4220E)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([IE42300] of MODULETIME 
+([timeIE42300] of MODULETIME 
 (moduleid  IE4230)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([IE4230E0] of MODULETIME 
+([timeIE4230E0] of MODULETIME 
 (moduleid  IE4230E)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([IE51080] of MODULETIME 
+([timeIE51080] of MODULETIME 
 (moduleid  IE5108)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([IE52110] of MODULETIME 
+([timeIE52110] of MODULETIME 
 (moduleid  IE5211)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([IEM1201M0] of MODULETIME 
+([timeIEM1201M0] of MODULETIME 
 (moduleid  IEM1201M)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([IEM1201M1] of MODULETIME 
+([timeIEM1201M1] of MODULETIME 
 (moduleid  IEM1201M)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([IEM1201M2] of MODULETIME 
+([timeIEM1201M2] of MODULETIME 
 (moduleid  IEM1201M)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM1201M3] of MODULETIME 
+([timeIEM1201M3] of MODULETIME 
 (moduleid  IEM1201M)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM1201M4] of MODULETIME 
+([timeIEM1201M4] of MODULETIME 
 (moduleid  IEM1201M)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM1201M5] of MODULETIME 
+([timeIEM1201M5] of MODULETIME 
 (moduleid  IEM1201M)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM1201N0] of MODULETIME 
+([timeIEM1201N0] of MODULETIME 
 (moduleid  IEM1201N)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM1201N1] of MODULETIME 
+([timeIEM1201N1] of MODULETIME 
 (moduleid  IEM1201N)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM1201N2] of MODULETIME 
+([timeIEM1201N2] of MODULETIME 
 (moduleid  IEM1201N)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM1201N3] of MODULETIME 
+([timeIEM1201N3] of MODULETIME 
 (moduleid  IEM1201N)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM1201P0] of MODULETIME 
+([timeIEM1201P0] of MODULETIME 
 (moduleid  IEM1201P)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM1201P1] of MODULETIME 
+([timeIEM1201P1] of MODULETIME 
 (moduleid  IEM1201P)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM1201P2] of MODULETIME 
+([timeIEM1201P2] of MODULETIME 
 (moduleid  IEM1201P)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM1201P3] of MODULETIME 
+([timeIEM1201P3] of MODULETIME 
 (moduleid  IEM1201P)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM1201P4] of MODULETIME 
+([timeIEM1201P4] of MODULETIME 
 (moduleid  IEM1201P)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM1201P5] of MODULETIME 
+([timeIEM1201P5] of MODULETIME 
 (moduleid  IEM1201P)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM1201P6] of MODULETIME 
+([timeIEM1201P6] of MODULETIME 
 (moduleid  IEM1201P)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM1201P7] of MODULETIME 
+([timeIEM1201P7] of MODULETIME 
 (moduleid  IEM1201P)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM1201Q0] of MODULETIME 
+([timeIEM1201Q0] of MODULETIME 
 (moduleid  IEM1201Q)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM1201Q1] of MODULETIME 
+([timeIEM1201Q1] of MODULETIME 
 (moduleid  IEM1201Q)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM1201Q2] of MODULETIME 
+([timeIEM1201Q2] of MODULETIME 
 (moduleid  IEM1201Q)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM1201Q3] of MODULETIME 
+([timeIEM1201Q3] of MODULETIME 
 (moduleid  IEM1201Q)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM1201R0] of MODULETIME 
+([timeIEM1201R0] of MODULETIME 
 (moduleid  IEM1201R)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([IEM1201R1] of MODULETIME 
+([timeIEM1201R1] of MODULETIME 
 (moduleid  IEM1201R)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([IEM1201R2] of MODULETIME 
+([timeIEM1201R2] of MODULETIME 
 (moduleid  IEM1201R)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([IEM1201R3] of MODULETIME 
+([timeIEM1201R3] of MODULETIME 
 (moduleid  IEM1201R)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([IEM1201R4] of MODULETIME 
+([timeIEM1201R4] of MODULETIME 
 (moduleid  IEM1201R)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM1201R5] of MODULETIME 
+([timeIEM1201R5] of MODULETIME 
 (moduleid  IEM1201R)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM1201S0] of MODULETIME 
+([timeIEM1201S0] of MODULETIME 
 (moduleid  IEM1201S)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM1201S1] of MODULETIME 
+([timeIEM1201S1] of MODULETIME 
 (moduleid  IEM1201S)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM1201S2] of MODULETIME 
+([timeIEM1201S2] of MODULETIME 
 (moduleid  IEM1201S)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM1201S3] of MODULETIME 
+([timeIEM1201S3] of MODULETIME 
 (moduleid  IEM1201S)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM1201S4] of MODULETIME 
+([timeIEM1201S4] of MODULETIME 
 (moduleid  IEM1201S)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM1201S5] of MODULETIME 
+([timeIEM1201S5] of MODULETIME 
 (moduleid  IEM1201S)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM1201T0] of MODULETIME 
+([timeIEM1201T0] of MODULETIME 
 (moduleid  IEM1201T)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM1201T1] of MODULETIME 
+([timeIEM1201T1] of MODULETIME 
 (moduleid  IEM1201T)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM1201T2] of MODULETIME 
+([timeIEM1201T2] of MODULETIME 
 (moduleid  IEM1201T)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([IEM1201T3] of MODULETIME 
+([timeIEM1201T3] of MODULETIME 
 (moduleid  IEM1201T)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([IEM1201T4] of MODULETIME 
+([timeIEM1201T4] of MODULETIME 
 (moduleid  IEM1201T)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([IEM1201T5] of MODULETIME 
+([timeIEM1201T5] of MODULETIME 
 (moduleid  IEM1201T)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([IEM2201E0] of MODULETIME 
+([timeIEM2201E0] of MODULETIME 
 (moduleid  IEM2201E)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM2201E1] of MODULETIME 
+([timeIEM2201E1] of MODULETIME 
 (moduleid  IEM2201E)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM2201E2] of MODULETIME 
+([timeIEM2201E2] of MODULETIME 
 (moduleid  IEM2201E)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([IEM2201E3] of MODULETIME 
+([timeIEM2201E3] of MODULETIME 
 (moduleid  IEM2201E)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([IEM2201E4] of MODULETIME 
+([timeIEM2201E4] of MODULETIME 
 (moduleid  IEM2201E)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM2201E5] of MODULETIME 
+([timeIEM2201E5] of MODULETIME 
 (moduleid  IEM2201E)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM2201H0] of MODULETIME 
+([timeIEM2201H0] of MODULETIME 
 (moduleid  IEM2201H)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM2201H1] of MODULETIME 
+([timeIEM2201H1] of MODULETIME 
 (moduleid  IEM2201H)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM2201H2] of MODULETIME 
+([timeIEM2201H2] of MODULETIME 
 (moduleid  IEM2201H)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM2201H3] of MODULETIME 
+([timeIEM2201H3] of MODULETIME 
 (moduleid  IEM2201H)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM2201H4] of MODULETIME 
+([timeIEM2201H4] of MODULETIME 
 (moduleid  IEM2201H)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([IEM2201H5] of MODULETIME 
+([timeIEM2201H5] of MODULETIME 
 (moduleid  IEM2201H)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([IEM2201J0] of MODULETIME 
+([timeIEM2201J0] of MODULETIME 
 (moduleid  IEM2201J)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([IEM2201J1] of MODULETIME 
+([timeIEM2201J1] of MODULETIME 
 (moduleid  IEM2201J)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([IEM2201J2] of MODULETIME 
+([timeIEM2201J2] of MODULETIME 
 (moduleid  IEM2201J)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM2201J3] of MODULETIME 
+([timeIEM2201J3] of MODULETIME 
 (moduleid  IEM2201J)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([IEM2201J4] of MODULETIME 
+([timeIEM2201J4] of MODULETIME 
 (moduleid  IEM2201J)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM2201J5] of MODULETIME 
+([timeIEM2201J5] of MODULETIME 
 (moduleid  IEM2201J)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM2201K0] of MODULETIME 
+([timeIEM2201K0] of MODULETIME 
 (moduleid  IEM2201K)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM2201K1] of MODULETIME 
+([timeIEM2201K1] of MODULETIME 
 (moduleid  IEM2201K)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM2201K2] of MODULETIME 
+([timeIEM2201K2] of MODULETIME 
 (moduleid  IEM2201K)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM2201K3] of MODULETIME 
+([timeIEM2201K3] of MODULETIME 
 (moduleid  IEM2201K)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM2201K4] of MODULETIME 
+([timeIEM2201K4] of MODULETIME 
 (moduleid  IEM2201K)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([IEM2201K5] of MODULETIME 
+([timeIEM2201K5] of MODULETIME 
 (moduleid  IEM2201K)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([IEM2201L0] of MODULETIME 
+([timeIEM2201L0] of MODULETIME 
 (moduleid  IEM2201L)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM2201L1] of MODULETIME 
+([timeIEM2201L1] of MODULETIME 
 (moduleid  IEM2201L)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IEM2201L2] of MODULETIME 
+([timeIEM2201L2] of MODULETIME 
 (moduleid  IEM2201L)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM2201L3] of MODULETIME 
+([timeIEM2201L3] of MODULETIME 
 (moduleid  IEM2201L)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IEM2201L4] of MODULETIME 
+([timeIEM2201L4] of MODULETIME 
 (moduleid  IEM2201L)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([IEM2201L5] of MODULETIME 
+([timeIEM2201L5] of MODULETIME 
 (moduleid  IEM2201L)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([IS11030] of MODULETIME 
+([timeIS11030] of MODULETIME 
 (moduleid  IS1103)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([IS11031] of MODULETIME 
+([timeIS11031] of MODULETIME 
 (moduleid  IS1103)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([IS11032] of MODULETIME 
+([timeIS11032] of MODULETIME 
 (moduleid  IS1103)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([IS11033] of MODULETIME 
+([timeIS11033] of MODULETIME 
 (moduleid  IS1103)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([IS11034] of MODULETIME 
+([timeIS11034] of MODULETIME 
 (moduleid  IS1103)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([IS11035] of MODULETIME 
+([timeIS11035] of MODULETIME 
 (moduleid  IS1103)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([IS11050] of MODULETIME 
+([timeIS11050] of MODULETIME 
 (moduleid  IS1105)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([IS11120] of MODULETIME 
+([timeIS11120] of MODULETIME 
 (moduleid  IS1112)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IS21010] of MODULETIME 
+([timeIS21010] of MODULETIME 
 (moduleid  IS2101)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([IS21020] of MODULETIME 
+([timeIS21020] of MODULETIME 
 (moduleid  IS2102)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IS21030] of MODULETIME 
+([timeIS21030] of MODULETIME 
 (moduleid  IS2103)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([IS21040] of MODULETIME 
+([timeIS21040] of MODULETIME 
 (moduleid  IS2104)
 (day MONDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([IS21500] of MODULETIME 
+([timeIS21500] of MODULETIME 
 (moduleid  IS2150)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([IS31010] of MODULETIME 
+([timeIS31010] of MODULETIME 
 (moduleid  IS3101)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([IS31500] of MODULETIME 
+([timeIS31500] of MODULETIME 
 (moduleid  IS3150)
 (day MONDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([IS32200] of MODULETIME 
+([timeIS32200] of MODULETIME 
 (moduleid  IS3220)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IS32210] of MODULETIME 
+([timeIS32210] of MODULETIME 
 (moduleid  IS3221)
 (day WEDNESDAY)
 (starttime 18:30)
 (endtime 20:30)
 (semester 2)
 )
-([IS32220] of MODULETIME 
+([timeIS32220] of MODULETIME 
 (moduleid  IS3222)
 (day MONDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([IS32230] of MODULETIME 
+([timeIS32230] of MODULETIME 
 (moduleid  IS3223)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([IS32300] of MODULETIME 
+([timeIS32300] of MODULETIME 
 (moduleid  IS3230)
 (day WEDNESDAY)
 (starttime 13:00)
 (endtime 16:00)
 (semester 2)
 )
-([IS32400] of MODULETIME 
+([timeIS32400] of MODULETIME 
 (moduleid  IS3240)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([IS32410] of MODULETIME 
+([timeIS32410] of MODULETIME 
 (moduleid  IS3241)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([IS32420] of MODULETIME 
+([timeIS32420] of MODULETIME 
 (moduleid  IS3242)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([IS32430] of MODULETIME 
+([timeIS32430] of MODULETIME 
 (moduleid  IS3243)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([IS32500] of MODULETIME 
+([timeIS32500] of MODULETIME 
 (moduleid  IS3250)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([IS32600] of MODULETIME 
+([timeIS32600] of MODULETIME 
 (moduleid  IS3260)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([IS41000] of MODULETIME 
+([timeIS41000] of MODULETIME 
 (moduleid  IS4100)
 (day THURSDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([IS41500] of MODULETIME 
+([timeIS41500] of MODULETIME 
 (moduleid  IS4150)
 (day MONDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([IS42030] of MODULETIME 
+([timeIS42030] of MODULETIME 
 (moduleid  IS4203)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([IS42240] of MODULETIME 
+([timeIS42240] of MODULETIME 
 (moduleid  IS4224)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([IS42260] of MODULETIME 
+([timeIS42260] of MODULETIME 
 (moduleid  IS4226)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([IS42270] of MODULETIME 
+([timeIS42270] of MODULETIME 
 (moduleid  IS4227)
 (day TUESDAY)
 (starttime 19:30)
 (endtime 21:30)
 (semester 2)
 )
-([IS42400] of MODULETIME 
+([timeIS42400] of MODULETIME 
 (moduleid  IS4240)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([IS42430] of MODULETIME 
+([timeIS42430] of MODULETIME 
 (moduleid  IS4243)
 (day WEDNESDAY)
 (starttime 13:00)
 (endtime 16:00)
 (semester 2)
 )
-([IS42600] of MODULETIME 
+([timeIS42600] of MODULETIME 
 (moduleid  IS4260)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([IT10010] of MODULETIME 
+([timeIT10010] of MODULETIME 
 (moduleid  IT1001)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([IT10060] of MODULETIME 
+([timeIT10060] of MODULETIME 
 (moduleid  IT1006)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([IT20010] of MODULETIME 
+([timeIT20010] of MODULETIME 
 (moduleid  IT2001)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([IT20020] of MODULETIME 
+([timeIT20020] of MODULETIME 
 (moduleid  IT2002)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([JS1101E0] of MODULETIME 
+([timeJS1101E0] of MODULETIME 
 (moduleid  JS1101E)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([JS21010] of MODULETIME 
+([timeJS21010] of MODULETIME 
 (moduleid  JS2101)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([JS22130] of MODULETIME 
+([timeJS22130] of MODULETIME 
 (moduleid  JS2213)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([JS22240] of MODULETIME 
+([timeJS22240] of MODULETIME 
 (moduleid  JS2224)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([JS22260] of MODULETIME 
+([timeJS22260] of MODULETIME 
 (moduleid  JS2226)
 (day MONDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([JS22300] of MODULETIME 
+([timeJS22300] of MODULETIME 
 (moduleid  JS2230)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([JS31010] of MODULETIME 
+([timeJS31010] of MODULETIME 
 (moduleid  JS3101)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([JS32080] of MODULETIME 
+([timeJS32080] of MODULETIME 
 (moduleid  JS3208)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([JS32100] of MODULETIME 
+([timeJS32100] of MODULETIME 
 (moduleid  JS3210)
 (day MONDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([JS32110] of MODULETIME 
+([timeJS32110] of MODULETIME 
 (moduleid  JS3211)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([JS32300] of MODULETIME 
+([timeJS32300] of MODULETIME 
 (moduleid  JS3230)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([JS42090] of MODULETIME 
+([timeJS42090] of MODULETIME 
 (moduleid  JS4209)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([JS42140] of MODULETIME 
+([timeJS42140] of MODULETIME 
 (moduleid  JS4214)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([JS42160] of MODULETIME 
+([timeJS42160] of MODULETIME 
 (moduleid  JS4216)
 (day MONDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([JS42170] of MODULETIME 
+([timeJS42170] of MODULETIME 
 (moduleid  JS4217)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([JS42270] of MODULETIME 
+([timeJS42270] of MODULETIME 
 (moduleid  JS4227)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([JS5201R0] of MODULETIME 
+([timeJS5201R0] of MODULETIME 
 (moduleid  JS5201R)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([LA42020] of MODULETIME 
+([timeLA42020] of MODULETIME 
 (moduleid  LA4202)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([LA42120] of MODULETIME 
+([timeLA42120] of MODULETIME 
 (moduleid  LA4212)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 13:00)
 (semester 2)
 )
-([LA47020] of MODULETIME 
+([timeLA47020] of MODULETIME 
 (moduleid  LA4702)
 (day MONDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([LA47021] of MODULETIME 
+([timeLA47021] of MODULETIME 
 (moduleid  LA4702)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([LA52220] of MODULETIME 
+([timeLA52220] of MODULETIME 
 (moduleid  LA5222)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 13:00)
 (semester 2)
 )
-([LAB12010] of MODULETIME 
+([timeLAB12010] of MODULETIME 
 (moduleid  LAB1201)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAB12011] of MODULETIME 
+([timeLAB12011] of MODULETIME 
 (moduleid  LAB1201)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAB12012] of MODULETIME 
+([timeLAB12012] of MODULETIME 
 (moduleid  LAB1201)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAB12013] of MODULETIME 
+([timeLAB12013] of MODULETIME 
 (moduleid  LAB1201)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAB12014] of MODULETIME 
+([timeLAB12014] of MODULETIME 
 (moduleid  LAB1201)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAB12015] of MODULETIME 
+([timeLAB12015] of MODULETIME 
 (moduleid  LAB1201)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAB12016] of MODULETIME 
+([timeLAB12016] of MODULETIME 
 (moduleid  LAB1201)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAB32020] of MODULETIME 
+([timeLAB32020] of MODULETIME 
 (moduleid  LAB3202)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAC12010] of MODULETIME 
+([timeLAC12010] of MODULETIME 
 (moduleid  LAC1201)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAC12011] of MODULETIME 
+([timeLAC12011] of MODULETIME 
 (moduleid  LAC1201)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAC12012] of MODULETIME 
+([timeLAC12012] of MODULETIME 
 (moduleid  LAC1201)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAC12013] of MODULETIME 
+([timeLAC12013] of MODULETIME 
 (moduleid  LAC1201)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAC12014] of MODULETIME 
+([timeLAC12014] of MODULETIME 
 (moduleid  LAC1201)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAC12015] of MODULETIME 
+([timeLAC12015] of MODULETIME 
 (moduleid  LAC1201)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAC12016] of MODULETIME 
+([timeLAC12016] of MODULETIME 
 (moduleid  LAC1201)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAC12017] of MODULETIME 
+([timeLAC12017] of MODULETIME 
 (moduleid  LAC1201)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAC12018] of MODULETIME 
+([timeLAC12018] of MODULETIME 
 (moduleid  LAC1201)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAC12019] of MODULETIME 
+([timeLAC12019] of MODULETIME 
 (moduleid  LAC1201)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAC120110] of MODULETIME 
+([timeLAC120110] of MODULETIME 
 (moduleid  LAC1201)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAC120111] of MODULETIME 
+([timeLAC120111] of MODULETIME 
 (moduleid  LAC1201)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAC22010] of MODULETIME 
+([timeLAC22010] of MODULETIME 
 (moduleid  LAC2201)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAC22011] of MODULETIME 
+([timeLAC22011] of MODULETIME 
 (moduleid  LAC2201)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAC22012] of MODULETIME 
+([timeLAC22012] of MODULETIME 
 (moduleid  LAC2201)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAC22013] of MODULETIME 
+([timeLAC22013] of MODULETIME 
 (moduleid  LAC2201)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAC22014] of MODULETIME 
+([timeLAC22014] of MODULETIME 
 (moduleid  LAC2201)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAC22015] of MODULETIME 
+([timeLAC22015] of MODULETIME 
 (moduleid  LAC2201)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAC32010] of MODULETIME 
+([timeLAC32010] of MODULETIME 
 (moduleid  LAC3201)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAC32020] of MODULETIME 
+([timeLAC32020] of MODULETIME 
 (moduleid  LAC3202)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAC32040] of MODULETIME 
+([timeLAC32040] of MODULETIME 
 (moduleid  LAC3204)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAC42020] of MODULETIME 
+([timeLAC42020] of MODULETIME 
 (moduleid  LAC4202)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAF12010] of MODULETIME 
+([timeLAF12010] of MODULETIME 
 (moduleid  LAF1201)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAF12011] of MODULETIME 
+([timeLAF12011] of MODULETIME 
 (moduleid  LAF1201)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAF12012] of MODULETIME 
+([timeLAF12012] of MODULETIME 
 (moduleid  LAF1201)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAF12013] of MODULETIME 
+([timeLAF12013] of MODULETIME 
 (moduleid  LAF1201)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAF12014] of MODULETIME 
+([timeLAF12014] of MODULETIME 
 (moduleid  LAF1201)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAF12015] of MODULETIME 
+([timeLAF12015] of MODULETIME 
 (moduleid  LAF1201)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAF12016] of MODULETIME 
+([timeLAF12016] of MODULETIME 
 (moduleid  LAF1201)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAF12017] of MODULETIME 
+([timeLAF12017] of MODULETIME 
 (moduleid  LAF1201)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAF22010] of MODULETIME 
+([timeLAF22010] of MODULETIME 
 (moduleid  LAF2201)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAF22011] of MODULETIME 
+([timeLAF22011] of MODULETIME 
 (moduleid  LAF2201)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAF22012] of MODULETIME 
+([timeLAF22012] of MODULETIME 
 (moduleid  LAF2201)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAF22013] of MODULETIME 
+([timeLAF22013] of MODULETIME 
 (moduleid  LAF2201)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAF22014] of MODULETIME 
+([timeLAF22014] of MODULETIME 
 (moduleid  LAF2201)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAF22015] of MODULETIME 
+([timeLAF22015] of MODULETIME 
 (moduleid  LAF2201)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAF22016] of MODULETIME 
+([timeLAF22016] of MODULETIME 
 (moduleid  LAF2201)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAF22017] of MODULETIME 
+([timeLAF22017] of MODULETIME 
 (moduleid  LAF2201)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAF22018] of MODULETIME 
+([timeLAF22018] of MODULETIME 
 (moduleid  LAF2201)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAF22019] of MODULETIME 
+([timeLAF22019] of MODULETIME 
 (moduleid  LAF2201)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAF220110] of MODULETIME 
+([timeLAF220110] of MODULETIME 
 (moduleid  LAF2201)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAF220111] of MODULETIME 
+([timeLAF220111] of MODULETIME 
 (moduleid  LAF2201)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAF32020] of MODULETIME 
+([timeLAF32020] of MODULETIME 
 (moduleid  LAF3202)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAF32021] of MODULETIME 
+([timeLAF32021] of MODULETIME 
 (moduleid  LAF3202)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAF32030] of MODULETIME 
+([timeLAF32030] of MODULETIME 
 (moduleid  LAF3203)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAF32031] of MODULETIME 
+([timeLAF32031] of MODULETIME 
 (moduleid  LAF3203)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAF32032] of MODULETIME 
+([timeLAF32032] of MODULETIME 
 (moduleid  LAF3203)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAF32033] of MODULETIME 
+([timeLAF32033] of MODULETIME 
 (moduleid  LAF3203)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAF42020] of MODULETIME 
+([timeLAF42020] of MODULETIME 
 (moduleid  LAF4202)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAF42021] of MODULETIME 
+([timeLAF42021] of MODULETIME 
 (moduleid  LAF4202)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAG12010] of MODULETIME 
+([timeLAG12010] of MODULETIME 
 (moduleid  LAG1201)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAG12011] of MODULETIME 
+([timeLAG12011] of MODULETIME 
 (moduleid  LAG1201)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAG12012] of MODULETIME 
+([timeLAG12012] of MODULETIME 
 (moduleid  LAG1201)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAG12013] of MODULETIME 
+([timeLAG12013] of MODULETIME 
 (moduleid  LAG1201)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAG12014] of MODULETIME 
+([timeLAG12014] of MODULETIME 
 (moduleid  LAG1201)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAG12015] of MODULETIME 
+([timeLAG12015] of MODULETIME 
 (moduleid  LAG1201)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAG12016] of MODULETIME 
+([timeLAG12016] of MODULETIME 
 (moduleid  LAG1201)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAG12017] of MODULETIME 
+([timeLAG12017] of MODULETIME 
 (moduleid  LAG1201)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAG12018] of MODULETIME 
+([timeLAG12018] of MODULETIME 
 (moduleid  LAG1201)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAG12019] of MODULETIME 
+([timeLAG12019] of MODULETIME 
 (moduleid  LAG1201)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAG22010] of MODULETIME 
+([timeLAG22010] of MODULETIME 
 (moduleid  LAG2201)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAG22011] of MODULETIME 
+([timeLAG22011] of MODULETIME 
 (moduleid  LAG2201)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAG22012] of MODULETIME 
+([timeLAG22012] of MODULETIME 
 (moduleid  LAG2201)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAG22013] of MODULETIME 
+([timeLAG22013] of MODULETIME 
 (moduleid  LAG2201)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAG22014] of MODULETIME 
+([timeLAG22014] of MODULETIME 
 (moduleid  LAG2201)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAG22015] of MODULETIME 
+([timeLAG22015] of MODULETIME 
 (moduleid  LAG2201)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAG22016] of MODULETIME 
+([timeLAG22016] of MODULETIME 
 (moduleid  LAG2201)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAG22017] of MODULETIME 
+([timeLAG22017] of MODULETIME 
 (moduleid  LAG2201)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAG22018] of MODULETIME 
+([timeLAG22018] of MODULETIME 
 (moduleid  LAG2201)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAG22019] of MODULETIME 
+([timeLAG22019] of MODULETIME 
 (moduleid  LAG2201)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAG220110] of MODULETIME 
+([timeLAG220110] of MODULETIME 
 (moduleid  LAG2201)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAG220111] of MODULETIME 
+([timeLAG220111] of MODULETIME 
 (moduleid  LAG2201)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAG32020] of MODULETIME 
+([timeLAG32020] of MODULETIME 
 (moduleid  LAG3202)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAG32021] of MODULETIME 
+([timeLAG32021] of MODULETIME 
 (moduleid  LAG3202)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAG32030] of MODULETIME 
+([timeLAG32030] of MODULETIME 
 (moduleid  LAG3203)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAG32031] of MODULETIME 
+([timeLAG32031] of MODULETIME 
 (moduleid  LAG3203)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAG32032] of MODULETIME 
+([timeLAG32032] of MODULETIME 
 (moduleid  LAG3203)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAG32033] of MODULETIME 
+([timeLAG32033] of MODULETIME 
 (moduleid  LAG3203)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAG42020] of MODULETIME 
+([timeLAG42020] of MODULETIME 
 (moduleid  LAG4202)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAH12010] of MODULETIME 
+([timeLAH12010] of MODULETIME 
 (moduleid  LAH1201)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAH12011] of MODULETIME 
+([timeLAH12011] of MODULETIME 
 (moduleid  LAH1201)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAH12012] of MODULETIME 
+([timeLAH12012] of MODULETIME 
 (moduleid  LAH1201)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAH12013] of MODULETIME 
+([timeLAH12013] of MODULETIME 
 (moduleid  LAH1201)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAH22010] of MODULETIME 
+([timeLAH22010] of MODULETIME 
 (moduleid  LAH2201)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAH22011] of MODULETIME 
+([timeLAH22011] of MODULETIME 
 (moduleid  LAH2201)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAH32020] of MODULETIME 
+([timeLAH32020] of MODULETIME 
 (moduleid  LAH3202)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAH32021] of MODULETIME 
+([timeLAH32021] of MODULETIME 
 (moduleid  LAH3202)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAI17320] of MODULETIME 
+([timeLAI17320] of MODULETIME 
 (moduleid  LAI1732)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAI17321] of MODULETIME 
+([timeLAI17321] of MODULETIME 
 (moduleid  LAI1732)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAJ12010] of MODULETIME 
+([timeLAJ12010] of MODULETIME 
 (moduleid  LAJ1201)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAJ12011] of MODULETIME 
+([timeLAJ12011] of MODULETIME 
 (moduleid  LAJ1201)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAJ22010] of MODULETIME 
+([timeLAJ22010] of MODULETIME 
 (moduleid  LAJ2201)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAJ22011] of MODULETIME 
+([timeLAJ22011] of MODULETIME 
 (moduleid  LAJ2201)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAJ22020] of MODULETIME 
+([timeLAJ22020] of MODULETIME 
 (moduleid  LAJ2202)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAJ22030] of MODULETIME 
+([timeLAJ22030] of MODULETIME 
 (moduleid  LAJ2203)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAJ32010] of MODULETIME 
+([timeLAJ32010] of MODULETIME 
 (moduleid  LAJ3201)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAJ32020] of MODULETIME 
+([timeLAJ32020] of MODULETIME 
 (moduleid  LAJ3202)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAK12010] of MODULETIME 
+([timeLAK12010] of MODULETIME 
 (moduleid  LAK1201)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAK12011] of MODULETIME 
+([timeLAK12011] of MODULETIME 
 (moduleid  LAK1201)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAK12012] of MODULETIME 
+([timeLAK12012] of MODULETIME 
 (moduleid  LAK1201)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAK12013] of MODULETIME 
+([timeLAK12013] of MODULETIME 
 (moduleid  LAK1201)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAK12014] of MODULETIME 
+([timeLAK12014] of MODULETIME 
 (moduleid  LAK1201)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAK12015] of MODULETIME 
+([timeLAK12015] of MODULETIME 
 (moduleid  LAK1201)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAK12016] of MODULETIME 
+([timeLAK12016] of MODULETIME 
 (moduleid  LAK1201)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAK12017] of MODULETIME 
+([timeLAK12017] of MODULETIME 
 (moduleid  LAK1201)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAK12018] of MODULETIME 
+([timeLAK12018] of MODULETIME 
 (moduleid  LAK1201)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAK12019] of MODULETIME 
+([timeLAK12019] of MODULETIME 
 (moduleid  LAK1201)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAK22010] of MODULETIME 
+([timeLAK22010] of MODULETIME 
 (moduleid  LAK2201)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAK22011] of MODULETIME 
+([timeLAK22011] of MODULETIME 
 (moduleid  LAK2201)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAK22012] of MODULETIME 
+([timeLAK22012] of MODULETIME 
 (moduleid  LAK2201)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAK22013] of MODULETIME 
+([timeLAK22013] of MODULETIME 
 (moduleid  LAK2201)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAK22014] of MODULETIME 
+([timeLAK22014] of MODULETIME 
 (moduleid  LAK2201)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAK22015] of MODULETIME 
+([timeLAK22015] of MODULETIME 
 (moduleid  LAK2201)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAK22016] of MODULETIME 
+([timeLAK22016] of MODULETIME 
 (moduleid  LAK2201)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAK22017] of MODULETIME 
+([timeLAK22017] of MODULETIME 
 (moduleid  LAK2201)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAK32020] of MODULETIME 
+([timeLAK32020] of MODULETIME 
 (moduleid  LAK3202)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAK32021] of MODULETIME 
+([timeLAK32021] of MODULETIME 
 (moduleid  LAK3202)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAK32022] of MODULETIME 
+([timeLAK32022] of MODULETIME 
 (moduleid  LAK3202)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAK32023] of MODULETIME 
+([timeLAK32023] of MODULETIME 
 (moduleid  LAK3202)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAK32030] of MODULETIME 
+([timeLAK32030] of MODULETIME 
 (moduleid  LAK3203)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAK32031] of MODULETIME 
+([timeLAK32031] of MODULETIME 
 (moduleid  LAK3203)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAK42020] of MODULETIME 
+([timeLAK42020] of MODULETIME 
 (moduleid  LAK4202)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAK42021] of MODULETIME 
+([timeLAK42021] of MODULETIME 
 (moduleid  LAK4202)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAL12010] of MODULETIME 
+([timeLAL12010] of MODULETIME 
 (moduleid  LAL1201)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAL22010] of MODULETIME 
+([timeLAL22010] of MODULETIME 
 (moduleid  LAL2201)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAM12010] of MODULETIME 
+([timeLAM12010] of MODULETIME 
 (moduleid  LAM1201)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAM12011] of MODULETIME 
+([timeLAM12011] of MODULETIME 
 (moduleid  LAM1201)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAM22010] of MODULETIME 
+([timeLAM22010] of MODULETIME 
 (moduleid  LAM2201)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAM32010] of MODULETIME 
+([timeLAM32010] of MODULETIME 
 (moduleid  LAM3201)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAM32020] of MODULETIME 
+([timeLAM32020] of MODULETIME 
 (moduleid  LAM3202)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAR12010] of MODULETIME 
+([timeLAR12010] of MODULETIME 
 (moduleid  LAR1201)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAR12011] of MODULETIME 
+([timeLAR12011] of MODULETIME 
 (moduleid  LAR1201)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAR12012] of MODULETIME 
+([timeLAR12012] of MODULETIME 
 (moduleid  LAR1201)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAR12013] of MODULETIME 
+([timeLAR12013] of MODULETIME 
 (moduleid  LAR1201)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAR12014] of MODULETIME 
+([timeLAR12014] of MODULETIME 
 (moduleid  LAR1201)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAR12015] of MODULETIME 
+([timeLAR12015] of MODULETIME 
 (moduleid  LAR1201)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAR22010] of MODULETIME 
+([timeLAR22010] of MODULETIME 
 (moduleid  LAR2201)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAR22011] of MODULETIME 
+([timeLAR22011] of MODULETIME 
 (moduleid  LAR2201)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAR22012] of MODULETIME 
+([timeLAR22012] of MODULETIME 
 (moduleid  LAR2201)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAR22013] of MODULETIME 
+([timeLAR22013] of MODULETIME 
 (moduleid  LAR2201)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAR32020] of MODULETIME 
+([timeLAR32020] of MODULETIME 
 (moduleid  LAR3202)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAR32021] of MODULETIME 
+([timeLAR32021] of MODULETIME 
 (moduleid  LAR3202)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAR42020] of MODULETIME 
+([timeLAR42020] of MODULETIME 
 (moduleid  LAR4202)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAR42021] of MODULETIME 
+([timeLAR42021] of MODULETIME 
 (moduleid  LAR4202)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LAT12010] of MODULETIME 
+([timeLAT12010] of MODULETIME 
 (moduleid  LAT1201)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAT12011] of MODULETIME 
+([timeLAT12011] of MODULETIME 
 (moduleid  LAT1201)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAT12012] of MODULETIME 
+([timeLAT12012] of MODULETIME 
 (moduleid  LAT1201)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAT22010] of MODULETIME 
+([timeLAT22010] of MODULETIME 
 (moduleid  LAT2201)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAT22011] of MODULETIME 
+([timeLAT22011] of MODULETIME 
 (moduleid  LAT2201)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAT32010] of MODULETIME 
+([timeLAT32010] of MODULETIME 
 (moduleid  LAT3201)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAT32011] of MODULETIME 
+([timeLAT32011] of MODULETIME 
 (moduleid  LAT3201)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LAT32020] of MODULETIME 
+([timeLAT32020] of MODULETIME 
 (moduleid  LAT3202)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([LAT32021] of MODULETIME 
+([timeLAT32021] of MODULETIME 
 (moduleid  LAT3202)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAT42010] of MODULETIME 
+([timeLAT42010] of MODULETIME 
 (moduleid  LAT4201)
 (day WEDNESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([LAT42020] of MODULETIME 
+([timeLAT42020] of MODULETIME 
 (moduleid  LAT4202)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([LAV12010] of MODULETIME 
+([timeLAV12010] of MODULETIME 
 (moduleid  LAV1201)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAV12011] of MODULETIME 
+([timeLAV12011] of MODULETIME 
 (moduleid  LAV1201)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAV12012] of MODULETIME 
+([timeLAV12012] of MODULETIME 
 (moduleid  LAV1201)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAV12013] of MODULETIME 
+([timeLAV12013] of MODULETIME 
 (moduleid  LAV1201)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAV22010] of MODULETIME 
+([timeLAV22010] of MODULETIME 
 (moduleid  LAV2201)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAV22011] of MODULETIME 
+([timeLAV22011] of MODULETIME 
 (moduleid  LAV2201)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LAV32010] of MODULETIME 
+([timeLAV32010] of MODULETIME 
 (moduleid  LAV3201)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LAV32011] of MODULETIME 
+([timeLAV32011] of MODULETIME 
 (moduleid  LAV3201)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LL40610] of MODULETIME 
+([timeLL40610] of MODULETIME 
 (moduleid  LL4061)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([LL40820] of MODULETIME 
+([timeLL40820] of MODULETIME 
 (moduleid  LL4082)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([LL41330] of MODULETIME 
+([timeLL41330] of MODULETIME 
 (moduleid  LL4133)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([LL41340] of MODULETIME 
+([timeLL41340] of MODULETIME 
 (moduleid  LL4134)
 (day MONDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([LL42020] of MODULETIME 
+([timeLL42020] of MODULETIME 
 (moduleid  LL4202)
 (day FRIDAY)
 (starttime 14:30)
 (endtime 17:30)
 (semester 2)
 )
-([LL42021] of MODULETIME 
+([timeLL42021] of MODULETIME 
 (moduleid  LL4202)
 (day MONDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([LL42022] of MODULETIME 
+([timeLL42022] of MODULETIME 
 (moduleid  LL4202)
 (day WEDNESDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([LL42340] of MODULETIME 
+([timeLL42340] of MODULETIME 
 (moduleid  LL4234)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM11010] of MODULETIME 
+([timeLSM11010] of MODULETIME 
 (moduleid  LSM1101)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM11020] of MODULETIME 
+([timeLSM11020] of MODULETIME 
 (moduleid  LSM1102)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM11030] of MODULETIME 
+([timeLSM11030] of MODULETIME 
 (moduleid  LSM1103)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LSM11040] of MODULETIME 
+([timeLSM11040] of MODULETIME 
 (moduleid  LSM1104)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM12020] of MODULETIME 
+([timeLSM12020] of MODULETIME 
 (moduleid  LSM1202)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM13010] of MODULETIME 
+([timeLSM13010] of MODULETIME 
 (moduleid  LSM1301)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM13011] of MODULETIME 
+([timeLSM13011] of MODULETIME 
 (moduleid  LSM1301)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM13020] of MODULETIME 
+([timeLSM13020] of MODULETIME 
 (moduleid  LSM1302)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM13021] of MODULETIME 
+([timeLSM13021] of MODULETIME 
 (moduleid  LSM1302)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM13022] of MODULETIME 
+([timeLSM13022] of MODULETIME 
 (moduleid  LSM1302)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM13023] of MODULETIME 
+([timeLSM13023] of MODULETIME 
 (moduleid  LSM1302)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM13030] of MODULETIME 
+([timeLSM13030] of MODULETIME 
 (moduleid  LSM1303)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM14010] of MODULETIME 
+([timeLSM14010] of MODULETIME 
 (moduleid  LSM1401)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM14011] of MODULETIME 
+([timeLSM14011] of MODULETIME 
 (moduleid  LSM1401)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM21010] of MODULETIME 
+([timeLSM21010] of MODULETIME 
 (moduleid  LSM2101)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM21011] of MODULETIME 
+([timeLSM21011] of MODULETIME 
 (moduleid  LSM2101)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM21020] of MODULETIME 
+([timeLSM21020] of MODULETIME 
 (moduleid  LSM2102)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM21021] of MODULETIME 
+([timeLSM21021] of MODULETIME 
 (moduleid  LSM2102)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM21030] of MODULETIME 
+([timeLSM21030] of MODULETIME 
 (moduleid  LSM2103)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM21031] of MODULETIME 
+([timeLSM21031] of MODULETIME 
 (moduleid  LSM2103)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM2201A0] of MODULETIME 
+([timeLSM2201A0] of MODULETIME 
 (moduleid  LSM2201A)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM2202A0] of MODULETIME 
+([timeLSM2202A0] of MODULETIME 
 (moduleid  LSM2202A)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM22030] of MODULETIME 
+([timeLSM22030] of MODULETIME 
 (moduleid  LSM2203)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM22410] of MODULETIME 
+([timeLSM22410] of MODULETIME 
 (moduleid  LSM2241)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM22510] of MODULETIME 
+([timeLSM22510] of MODULETIME 
 (moduleid  LSM2251)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM32110] of MODULETIME 
+([timeLSM32110] of MODULETIME 
 (moduleid  LSM3211)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM32120] of MODULETIME 
+([timeLSM32120] of MODULETIME 
 (moduleid  LSM3212)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LSM32130] of MODULETIME 
+([timeLSM32130] of MODULETIME 
 (moduleid  LSM3213)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM32140] of MODULETIME 
+([timeLSM32140] of MODULETIME 
 (moduleid  LSM3214)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM32141] of MODULETIME 
+([timeLSM32141] of MODULETIME 
 (moduleid  LSM3214)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM32210] of MODULETIME 
+([timeLSM32210] of MODULETIME 
 (moduleid  LSM3221)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM32230] of MODULETIME 
+([timeLSM32230] of MODULETIME 
 (moduleid  LSM3223)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM32240] of MODULETIME 
+([timeLSM32240] of MODULETIME 
 (moduleid  LSM3224)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM32250] of MODULETIME 
+([timeLSM32250] of MODULETIME 
 (moduleid  LSM3225)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM32320] of MODULETIME 
+([timeLSM32320] of MODULETIME 
 (moduleid  LSM3232)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM32410] of MODULETIME 
+([timeLSM32410] of MODULETIME 
 (moduleid  LSM3241)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM32420] of MODULETIME 
+([timeLSM32420] of MODULETIME 
 (moduleid  LSM3242)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM32430] of MODULETIME 
+([timeLSM32430] of MODULETIME 
 (moduleid  LSM3243)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LSM32431] of MODULETIME 
+([timeLSM32431] of MODULETIME 
 (moduleid  LSM3243)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LSM32440] of MODULETIME 
+([timeLSM32440] of MODULETIME 
 (moduleid  LSM3244)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM32550] of MODULETIME 
+([timeLSM32550] of MODULETIME 
 (moduleid  LSM3255)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM32560] of MODULETIME 
+([timeLSM32560] of MODULETIME 
 (moduleid  LSM3256)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM32570] of MODULETIME 
+([timeLSM32570] of MODULETIME 
 (moduleid  LSM3257)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM32620] of MODULETIME 
+([timeLSM32620] of MODULETIME 
 (moduleid  LSM3262)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LSM32640] of MODULETIME 
+([timeLSM32640] of MODULETIME 
 (moduleid  LSM3264)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM32641] of MODULETIME 
+([timeLSM32641] of MODULETIME 
 (moduleid  LSM3264)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM32660] of MODULETIME 
+([timeLSM32660] of MODULETIME 
 (moduleid  LSM3266)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM32720] of MODULETIME 
+([timeLSM32720] of MODULETIME 
 (moduleid  LSM3272)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([LSM42140] of MODULETIME 
+([timeLSM42140] of MODULETIME 
 (moduleid  LSM4214)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM42141] of MODULETIME 
+([timeLSM42141] of MODULETIME 
 (moduleid  LSM4214)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM42150] of MODULETIME 
+([timeLSM42150] of MODULETIME 
 (moduleid  LSM4215)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM42210] of MODULETIME 
+([timeLSM42210] of MODULETIME 
 (moduleid  LSM4221)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM42211] of MODULETIME 
+([timeLSM42211] of MODULETIME 
 (moduleid  LSM4221)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM42220] of MODULETIME 
+([timeLSM42220] of MODULETIME 
 (moduleid  LSM4222)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LSM42221] of MODULETIME 
+([timeLSM42221] of MODULETIME 
 (moduleid  LSM4222)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LSM42230] of MODULETIME 
+([timeLSM42230] of MODULETIME 
 (moduleid  LSM4223)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM42250] of MODULETIME 
+([timeLSM42250] of MODULETIME 
 (moduleid  LSM4225)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM42251] of MODULETIME 
+([timeLSM42251] of MODULETIME 
 (moduleid  LSM4225)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM42310] of MODULETIME 
+([timeLSM42310] of MODULETIME 
 (moduleid  LSM4231)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM42311] of MODULETIME 
+([timeLSM42311] of MODULETIME 
 (moduleid  LSM4231)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM42340] of MODULETIME 
+([timeLSM42340] of MODULETIME 
 (moduleid  LSM4234)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM42341] of MODULETIME 
+([timeLSM42341] of MODULETIME 
 (moduleid  LSM4234)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM42410] of MODULETIME 
+([timeLSM42410] of MODULETIME 
 (moduleid  LSM4241)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LSM42411] of MODULETIME 
+([timeLSM42411] of MODULETIME 
 (moduleid  LSM4241)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LSM42430] of MODULETIME 
+([timeLSM42430] of MODULETIME 
 (moduleid  LSM4243)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM42431] of MODULETIME 
+([timeLSM42431] of MODULETIME 
 (moduleid  LSM4243)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([LSM42440] of MODULETIME 
+([timeLSM42440] of MODULETIME 
 (moduleid  LSM4244)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM42441] of MODULETIME 
+([timeLSM42441] of MODULETIME 
 (moduleid  LSM4244)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM42530] of MODULETIME 
+([timeLSM42530] of MODULETIME 
 (moduleid  LSM4253)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM42531] of MODULETIME 
+([timeLSM42531] of MODULETIME 
 (moduleid  LSM4253)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM42550] of MODULETIME 
+([timeLSM42550] of MODULETIME 
 (moduleid  LSM4255)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([LSM42620] of MODULETIME 
+([timeLSM42620] of MODULETIME 
 (moduleid  LSM4262)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM42621] of MODULETIME 
+([timeLSM42621] of MODULETIME 
 (moduleid  LSM4262)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([LSM42640] of MODULETIME 
+([timeLSM42640] of MODULETIME 
 (moduleid  LSM4264)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 14:00)
 (semester 2)
 )
-([LSM42650] of MODULETIME 
+([timeLSM42650] of MODULETIME 
 (moduleid  LSM4265)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA1101R0] of MODULETIME 
+([timeMA1101R0] of MODULETIME 
 (moduleid  MA1101R)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA1101R1] of MODULETIME 
+([timeMA1101R1] of MODULETIME 
 (moduleid  MA1101R)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA1102R0] of MODULETIME 
+([timeMA1102R0] of MODULETIME 
 (moduleid  MA1102R)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA1102R1] of MODULETIME 
+([timeMA1102R1] of MODULETIME 
 (moduleid  MA1102R)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA11040] of MODULETIME 
+([timeMA11040] of MODULETIME 
 (moduleid  MA1104)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA11041] of MODULETIME 
+([timeMA11041] of MODULETIME 
 (moduleid  MA1104)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA13010] of MODULETIME 
+([timeMA13010] of MODULETIME 
 (moduleid  MA1301)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA13011] of MODULETIME 
+([timeMA13011] of MODULETIME 
 (moduleid  MA1301)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA13120] of MODULETIME 
+([timeMA13120] of MODULETIME 
 (moduleid  MA1312)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA13121] of MODULETIME 
+([timeMA13121] of MODULETIME 
 (moduleid  MA1312)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA15050] of MODULETIME 
+([timeMA15050] of MODULETIME 
 (moduleid  MA1505)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA15051] of MODULETIME 
+([timeMA15051] of MODULETIME 
 (moduleid  MA1505)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA15060] of MODULETIME 
+([timeMA15060] of MODULETIME 
 (moduleid  MA1506)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA15061] of MODULETIME 
+([timeMA15061] of MODULETIME 
 (moduleid  MA1506)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 17:00)
 (semester 2)
 )
-([MA15062] of MODULETIME 
+([timeMA15062] of MODULETIME 
 (moduleid  MA1506)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 9:00)
 (semester 2)
 )
-([MA15063] of MODULETIME 
+([timeMA15063] of MODULETIME 
 (moduleid  MA1506)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA15064] of MODULETIME 
+([timeMA15064] of MODULETIME 
 (moduleid  MA1506)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA15065] of MODULETIME 
+([timeMA15065] of MODULETIME 
 (moduleid  MA1506)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA15066] of MODULETIME 
+([timeMA15066] of MODULETIME 
 (moduleid  MA1506)
 (day MONDAY)
 (starttime 8:00)
 (endtime 9:00)
 (semester 2)
 )
-([MA15067] of MODULETIME 
+([timeMA15067] of MODULETIME 
 (moduleid  MA1506)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA15080] of MODULETIME 
+([timeMA15080] of MODULETIME 
 (moduleid  MA1508)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA15081] of MODULETIME 
+([timeMA15081] of MODULETIME 
 (moduleid  MA1508)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 13:00)
 (semester 2)
 )
-([MA15210] of MODULETIME 
+([timeMA15210] of MODULETIME 
 (moduleid  MA1521)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA15211] of MODULETIME 
+([timeMA15211] of MODULETIME 
 (moduleid  MA1521)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA21010] of MODULETIME 
+([timeMA21010] of MODULETIME 
 (moduleid  MA2101)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA21011] of MODULETIME 
+([timeMA21011] of MODULETIME 
 (moduleid  MA2101)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA21080] of MODULETIME 
+([timeMA21080] of MODULETIME 
 (moduleid  MA2108)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA21081] of MODULETIME 
+([timeMA21081] of MODULETIME 
 (moduleid  MA2108)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA2108S0] of MODULETIME 
+([timeMA2108S0] of MODULETIME 
 (moduleid  MA2108S)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA2108S1] of MODULETIME 
+([timeMA2108S1] of MODULETIME 
 (moduleid  MA2108S)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA22130] of MODULETIME 
+([timeMA22130] of MODULETIME 
 (moduleid  MA2213)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA22131] of MODULETIME 
+([timeMA22131] of MODULETIME 
 (moduleid  MA2213)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA22160] of MODULETIME 
+([timeMA22160] of MODULETIME 
 (moduleid  MA2216)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([MA22161] of MODULETIME 
+([timeMA22161] of MODULETIME 
 (moduleid  MA2216)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([MA22162] of MODULETIME 
+([timeMA22162] of MODULETIME 
 (moduleid  MA2216)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA22163] of MODULETIME 
+([timeMA22163] of MODULETIME 
 (moduleid  MA2216)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA22164] of MODULETIME 
+([timeMA22164] of MODULETIME 
 (moduleid  MA2216)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA22165] of MODULETIME 
+([timeMA22165] of MODULETIME 
 (moduleid  MA2216)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA22190] of MODULETIME 
+([timeMA22190] of MODULETIME 
 (moduleid  MA2219)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA22191] of MODULETIME 
+([timeMA22191] of MODULETIME 
 (moduleid  MA2219)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA31100] of MODULETIME 
+([timeMA31100] of MODULETIME 
 (moduleid  MA3110)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA31101] of MODULETIME 
+([timeMA31101] of MODULETIME 
 (moduleid  MA3110)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA3110S0] of MODULETIME 
+([timeMA3110S0] of MODULETIME 
 (moduleid  MA3110S)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA3110S1] of MODULETIME 
+([timeMA3110S1] of MODULETIME 
 (moduleid  MA3110S)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA31110] of MODULETIME 
+([timeMA31110] of MODULETIME 
 (moduleid  MA3111)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA31111] of MODULETIME 
+([timeMA31111] of MODULETIME 
 (moduleid  MA3111)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA3111S0] of MODULETIME 
+([timeMA3111S0] of MODULETIME 
 (moduleid  MA3111S)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA3111S1] of MODULETIME 
+([timeMA3111S1] of MODULETIME 
 (moduleid  MA3111S)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA32010] of MODULETIME 
+([timeMA32010] of MODULETIME 
 (moduleid  MA3201)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA32011] of MODULETIME 
+([timeMA32011] of MODULETIME 
 (moduleid  MA3201)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA32150] of MODULETIME 
+([timeMA32150] of MODULETIME 
 (moduleid  MA3215)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA32151] of MODULETIME 
+([timeMA32151] of MODULETIME 
 (moduleid  MA3215)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA32180] of MODULETIME 
+([timeMA32180] of MODULETIME 
 (moduleid  MA3218)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA32181] of MODULETIME 
+([timeMA32181] of MODULETIME 
 (moduleid  MA3218)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA32270] of MODULETIME 
+([timeMA32270] of MODULETIME 
 (moduleid  MA3227)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA32271] of MODULETIME 
+([timeMA32271] of MODULETIME 
 (moduleid  MA3227)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA32330] of MODULETIME 
+([timeMA32330] of MODULETIME 
 (moduleid  MA3233)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA32331] of MODULETIME 
+([timeMA32331] of MODULETIME 
 (moduleid  MA3233)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA32380] of MODULETIME 
+([timeMA32380] of MODULETIME 
 (moduleid  MA3238)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA32381] of MODULETIME 
+([timeMA32381] of MODULETIME 
 (moduleid  MA3238)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA32520] of MODULETIME 
+([timeMA32520] of MODULETIME 
 (moduleid  MA3252)
 (day TUESDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([MA32590] of MODULETIME 
+([timeMA32590] of MODULETIME 
 (moduleid  MA3259)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA32591] of MODULETIME 
+([timeMA32591] of MODULETIME 
 (moduleid  MA3259)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA32660] of MODULETIME 
+([timeMA32660] of MODULETIME 
 (moduleid  MA3266)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA32661] of MODULETIME 
+([timeMA32661] of MODULETIME 
 (moduleid  MA3266)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA33120] of MODULETIME 
+([timeMA33120] of MODULETIME 
 (moduleid  MA3312)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA33121] of MODULETIME 
+([timeMA33121] of MODULETIME 
 (moduleid  MA3312)
 (day MONDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA33122] of MODULETIME 
+([timeMA33122] of MODULETIME 
 (moduleid  MA3312)
 (day SATURDAY)
 (starttime 6:00)
 (endtime 23:59)
 (semester 2)
 )
-([MA33123] of MODULETIME 
+([timeMA33123] of MODULETIME 
 (moduleid  MA3312)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA33124] of MODULETIME 
+([timeMA33124] of MODULETIME 
 (moduleid  MA3312)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA33125] of MODULETIME 
+([timeMA33125] of MODULETIME 
 (moduleid  MA3312)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA42070] of MODULETIME 
+([timeMA42070] of MODULETIME 
 (moduleid  MA4207)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA42071] of MODULETIME 
+([timeMA42071] of MODULETIME 
 (moduleid  MA4207)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA42110] of MODULETIME 
+([timeMA42110] of MODULETIME 
 (moduleid  MA4211)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA42111] of MODULETIME 
+([timeMA42111] of MODULETIME 
 (moduleid  MA4211)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA42290] of MODULETIME 
+([timeMA42290] of MODULETIME 
 (moduleid  MA4229)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA42291] of MODULETIME 
+([timeMA42291] of MODULETIME 
 (moduleid  MA4229)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA42510] of MODULETIME 
+([timeMA42510] of MODULETIME 
 (moduleid  MA4251)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA42511] of MODULETIME 
+([timeMA42511] of MODULETIME 
 (moduleid  MA4251)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 13:00)
 (semester 2)
 )
-([MA42520] of MODULETIME 
+([timeMA42520] of MODULETIME 
 (moduleid  MA4252)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA42521] of MODULETIME 
+([timeMA42521] of MODULETIME 
 (moduleid  MA4252)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA42540] of MODULETIME 
+([timeMA42540] of MODULETIME 
 (moduleid  MA4254)
 (day MONDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([MA42550] of MODULETIME 
+([timeMA42550] of MODULETIME 
 (moduleid  MA4255)
 (day TUESDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([MA42630] of MODULETIME 
+([timeMA42630] of MODULETIME 
 (moduleid  MA4263)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA42631] of MODULETIME 
+([timeMA42631] of MODULETIME 
 (moduleid  MA4263)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA42660] of MODULETIME 
+([timeMA42660] of MODULETIME 
 (moduleid  MA4266)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA42661] of MODULETIME 
+([timeMA42661] of MODULETIME 
 (moduleid  MA4266)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA42690] of MODULETIME 
+([timeMA42690] of MODULETIME 
 (moduleid  MA4269)
 (day FRIDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([MA42910] of MODULETIME 
+([timeMA42910] of MODULETIME 
 (moduleid  MA4291)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA42911] of MODULETIME 
+([timeMA42911] of MODULETIME 
 (moduleid  MA4291)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA42920] of MODULETIME 
+([timeMA42920] of MODULETIME 
 (moduleid  MA4292)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA42921] of MODULETIME 
+([timeMA42921] of MODULETIME 
 (moduleid  MA4292)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MA52040] of MODULETIME 
+([timeMA52040] of MODULETIME 
 (moduleid  MA5204)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA52041] of MODULETIME 
+([timeMA52041] of MODULETIME 
 (moduleid  MA5204)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA52060] of MODULETIME 
+([timeMA52060] of MODULETIME 
 (moduleid  MA5206)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA52061] of MODULETIME 
+([timeMA52061] of MODULETIME 
 (moduleid  MA5206)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA52100] of MODULETIME 
+([timeMA52100] of MODULETIME 
 (moduleid  MA5210)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA52101] of MODULETIME 
+([timeMA52101] of MODULETIME 
 (moduleid  MA5210)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA52160] of MODULETIME 
+([timeMA52160] of MODULETIME 
 (moduleid  MA5216)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA52161] of MODULETIME 
+([timeMA52161] of MODULETIME 
 (moduleid  MA5216)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MA52170] of MODULETIME 
+([timeMA52170] of MODULETIME 
 (moduleid  MA5217)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA52171] of MODULETIME 
+([timeMA52171] of MODULETIME 
 (moduleid  MA5217)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MA52200] of MODULETIME 
+([timeMA52200] of MODULETIME 
 (moduleid  MA5220)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA52201] of MODULETIME 
+([timeMA52201] of MODULETIME 
 (moduleid  MA5220)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA52320] of MODULETIME 
+([timeMA52320] of MODULETIME 
 (moduleid  MA5232)
 (day WEDNESDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([MA52410] of MODULETIME 
+([timeMA52410] of MODULETIME 
 (moduleid  MA5241)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA52411] of MODULETIME 
+([timeMA52411] of MODULETIME 
 (moduleid  MA5241)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA52480] of MODULETIME 
+([timeMA52480] of MODULETIME 
 (moduleid  MA5248)
 (day MONDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([MA52500] of MODULETIME 
+([timeMA52500] of MODULETIME 
 (moduleid  MA5250)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA52501] of MODULETIME 
+([timeMA52501] of MODULETIME 
 (moduleid  MA5250)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MA52600] of MODULETIME 
+([timeMA52600] of MODULETIME 
 (moduleid  MA5260)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA62350] of MODULETIME 
+([timeMA62350] of MODULETIME 
 (moduleid  MA6235)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA62520] of MODULETIME 
+([timeMA62520] of MODULETIME 
 (moduleid  MA6252)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([MA62920] of MODULETIME 
+([timeMA62920] of MODULETIME 
 (moduleid  MA6292)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([ME21010] of MODULETIME 
+([timeME21010] of MODULETIME 
 (moduleid  ME2101)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([ME21011] of MODULETIME 
+([timeME21011] of MODULETIME 
 (moduleid  ME2101)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ME2101E0] of MODULETIME 
+([timeME2101E0] of MODULETIME 
 (moduleid  ME2101E)
 (day TUESDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([ME21140] of MODULETIME 
+([timeME21140] of MODULETIME 
 (moduleid  ME2114)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ME2114E0] of MODULETIME 
+([timeME2114E0] of MODULETIME 
 (moduleid  ME2114E)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([ME21350] of MODULETIME 
+([timeME21350] of MODULETIME 
 (moduleid  ME2135)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ME21351] of MODULETIME 
+([timeME21351] of MODULETIME 
 (moduleid  ME2135)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 13:00)
 (semester 2)
 )
-([ME2135E0] of MODULETIME 
+([timeME2135E0] of MODULETIME 
 (moduleid  ME2135E)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([ME21430] of MODULETIME 
+([timeME21430] of MODULETIME 
 (moduleid  ME2143)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([ME21431] of MODULETIME 
+([timeME21431] of MODULETIME 
 (moduleid  ME2143)
 (day MONDAY)
 (starttime 12:00)
 (endtime 13:00)
 (semester 2)
 )
-([ME2143E0] of MODULETIME 
+([timeME2143E0] of MODULETIME 
 (moduleid  ME2143E)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([ME31020] of MODULETIME 
+([timeME31020] of MODULETIME 
 (moduleid  ME3102)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 17:00)
 (semester 2)
 )
-([ME32210] of MODULETIME 
+([timeME32210] of MODULETIME 
 (moduleid  ME3221)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ME32211] of MODULETIME 
+([timeME32211] of MODULETIME 
 (moduleid  ME3221)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ME32320] of MODULETIME 
+([timeME32320] of MODULETIME 
 (moduleid  ME3232)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ME32321] of MODULETIME 
+([timeME32321] of MODULETIME 
 (moduleid  ME3232)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ME32330] of MODULETIME 
+([timeME32330] of MODULETIME 
 (moduleid  ME3233)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ME32331] of MODULETIME 
+([timeME32331] of MODULETIME 
 (moduleid  ME3233)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ME32410] of MODULETIME 
+([timeME32410] of MODULETIME 
 (moduleid  ME3241)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ME32411] of MODULETIME 
+([timeME32411] of MODULETIME 
 (moduleid  ME3241)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ME3241E0] of MODULETIME 
+([timeME3241E0] of MODULETIME 
 (moduleid  ME3241E)
 (day FRIDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([ME32510] of MODULETIME 
+([timeME32510] of MODULETIME 
 (moduleid  ME3251)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ME32511] of MODULETIME 
+([timeME32511] of MODULETIME 
 (moduleid  ME3251)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ME3251E0] of MODULETIME 
+([timeME3251E0] of MODULETIME 
 (moduleid  ME3251E)
 (day TUESDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([ME32810] of MODULETIME 
+([timeME32810] of MODULETIME 
 (moduleid  ME3281)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ME32811] of MODULETIME 
+([timeME32811] of MODULETIME 
 (moduleid  ME3281)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ME32910] of MODULETIME 
+([timeME32910] of MODULETIME 
 (moduleid  ME3291)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ME32911] of MODULETIME 
+([timeME32911] of MODULETIME 
 (moduleid  ME3291)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ME42120] of MODULETIME 
+([timeME42120] of MODULETIME 
 (moduleid  ME4212)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ME42121] of MODULETIME 
+([timeME42121] of MODULETIME 
 (moduleid  ME4212)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ME42130] of MODULETIME 
+([timeME42130] of MODULETIME 
 (moduleid  ME4213)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ME42131] of MODULETIME 
+([timeME42131] of MODULETIME 
 (moduleid  ME4213)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ME42250] of MODULETIME 
+([timeME42250] of MODULETIME 
 (moduleid  ME4225)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ME42251] of MODULETIME 
+([timeME42251] of MODULETIME 
 (moduleid  ME4225)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ME4225E0] of MODULETIME 
+([timeME4225E0] of MODULETIME 
 (moduleid  ME4225E)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([ME42270] of MODULETIME 
+([timeME42270] of MODULETIME 
 (moduleid  ME4227)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ME42271] of MODULETIME 
+([timeME42271] of MODULETIME 
 (moduleid  ME4227)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ME42310] of MODULETIME 
+([timeME42310] of MODULETIME 
 (moduleid  ME4231)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ME42311] of MODULETIME 
+([timeME42311] of MODULETIME 
 (moduleid  ME4231)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ME42410] of MODULETIME 
+([timeME42410] of MODULETIME 
 (moduleid  ME4241)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ME42411] of MODULETIME 
+([timeME42411] of MODULETIME 
 (moduleid  ME4241)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ME42460] of MODULETIME 
+([timeME42460] of MODULETIME 
 (moduleid  ME4246)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([ME42461] of MODULETIME 
+([timeME42461] of MODULETIME 
 (moduleid  ME4246)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ME42530] of MODULETIME 
+([timeME42530] of MODULETIME 
 (moduleid  ME4253)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ME42531] of MODULETIME 
+([timeME42531] of MODULETIME 
 (moduleid  ME4253)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ME42550] of MODULETIME 
+([timeME42550] of MODULETIME 
 (moduleid  ME4255)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([ME42551] of MODULETIME 
+([timeME42551] of MODULETIME 
 (moduleid  ME4255)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ME42610] of MODULETIME 
+([timeME42610] of MODULETIME 
 (moduleid  ME4261)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ME42611] of MODULETIME 
+([timeME42611] of MODULETIME 
 (moduleid  ME4261)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ME4261E0] of MODULETIME 
+([timeME4261E0] of MODULETIME 
 (moduleid  ME4261E)
 (day TUESDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([ME42620] of MODULETIME 
+([timeME42620] of MODULETIME 
 (moduleid  ME4262)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ME42621] of MODULETIME 
+([timeME42621] of MODULETIME 
 (moduleid  ME4262)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ME4262E0] of MODULETIME 
+([timeME4262E0] of MODULETIME 
 (moduleid  ME4262E)
 (day THURSDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([ME42650] of MODULETIME 
+([timeME42650] of MODULETIME 
 (moduleid  ME4265)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ME42651] of MODULETIME 
+([timeME42651] of MODULETIME 
 (moduleid  ME4265)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ME42840] of MODULETIME 
+([timeME42840] of MODULETIME 
 (moduleid  ME4284)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ME42841] of MODULETIME 
+([timeME42841] of MODULETIME 
 (moduleid  ME4284)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ME55060] of MODULETIME 
+([timeME55060] of MODULETIME 
 (moduleid  ME5506)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([ME56090] of MODULETIME 
+([timeME56090] of MODULETIME 
 (moduleid  ME5609)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MIC10000] of MODULETIME 
+([timeMIC10000] of MODULETIME 
 (moduleid  MIC1000)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MIC10001] of MODULETIME 
+([timeMIC10001] of MODULETIME 
 (moduleid  MIC1000)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MKT10030] of MODULETIME 
+([timeMKT10030] of MODULETIME 
 (moduleid  MKT1003)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MKT10031] of MODULETIME 
+([timeMKT10031] of MODULETIME 
 (moduleid  MKT1003)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MKT10032] of MODULETIME 
+([timeMKT10032] of MODULETIME 
 (moduleid  MKT1003)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MKT10033] of MODULETIME 
+([timeMKT10033] of MODULETIME 
 (moduleid  MKT1003)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MKT10034] of MODULETIME 
+([timeMKT10034] of MODULETIME 
 (moduleid  MKT1003)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MKT10035] of MODULETIME 
+([timeMKT10035] of MODULETIME 
 (moduleid  MKT1003)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MKT10036] of MODULETIME 
+([timeMKT10036] of MODULETIME 
 (moduleid  MKT1003)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MKT10037] of MODULETIME 
+([timeMKT10037] of MODULETIME 
 (moduleid  MKT1003)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MKT1003X0] of MODULETIME 
+([timeMKT1003X0] of MODULETIME 
 (moduleid  MKT1003X)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MKT1003X1] of MODULETIME 
+([timeMKT1003X1] of MODULETIME 
 (moduleid  MKT1003X)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MKT2401A0] of MODULETIME 
+([timeMKT2401A0] of MODULETIME 
 (moduleid  MKT2401A)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MKT2401A1] of MODULETIME 
+([timeMKT2401A1] of MODULETIME 
 (moduleid  MKT2401A)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MKT2401B0] of MODULETIME 
+([timeMKT2401B0] of MODULETIME 
 (moduleid  MKT2401B)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MKT2401C0] of MODULETIME 
+([timeMKT2401C0] of MODULETIME 
 (moduleid  MKT2401C)
 (day MONDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MKT24120] of MODULETIME 
+([timeMKT24120] of MODULETIME 
 (moduleid  MKT2412)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MKT24121] of MODULETIME 
+([timeMKT24121] of MODULETIME 
 (moduleid  MKT2412)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MKT24130] of MODULETIME 
+([timeMKT24130] of MODULETIME 
 (moduleid  MKT2413)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MKT3402A0] of MODULETIME 
+([timeMKT3402A0] of MODULETIME 
 (moduleid  MKT3402A)
 (day MONDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([MKT3402A1] of MODULETIME 
+([timeMKT3402A1] of MODULETIME 
 (moduleid  MKT3402A)
 (day TUESDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([MKT3402A2] of MODULETIME 
+([timeMKT3402A2] of MODULETIME 
 (moduleid  MKT3402A)
 (day FRIDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([MKT3402B0] of MODULETIME 
+([timeMKT3402B0] of MODULETIME 
 (moduleid  MKT3402B)
 (day MONDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MKT34120] of MODULETIME 
+([timeMKT34120] of MODULETIME 
 (moduleid  MKT3412)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MKT34121] of MODULETIME 
+([timeMKT34121] of MODULETIME 
 (moduleid  MKT3412)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MKT34130] of MODULETIME 
+([timeMKT34130] of MODULETIME 
 (moduleid  MKT3413)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MKT34150] of MODULETIME 
+([timeMKT34150] of MODULETIME 
 (moduleid  MKT3415)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MKT3418A0] of MODULETIME 
+([timeMKT3418A0] of MODULETIME 
 (moduleid  MKT3418A)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MKT3418A1] of MODULETIME 
+([timeMKT3418A1] of MODULETIME 
 (moduleid  MKT3418A)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MKT3418A2] of MODULETIME 
+([timeMKT3418A2] of MODULETIME 
 (moduleid  MKT3418A)
 (day THURSDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([MKT3418B0] of MODULETIME 
+([timeMKT3418B0] of MODULETIME 
 (moduleid  MKT3418B)
 (day MONDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MKT34240] of MODULETIME 
+([timeMKT34240] of MODULETIME 
 (moduleid  MKT3424)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MKT35130] of MODULETIME 
+([timeMKT35130] of MODULETIME 
 (moduleid  MKT3513)
 (day MONDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MKT44110] of MODULETIME 
+([timeMKT44110] of MODULETIME 
 (moduleid  MKT4411)
 (day MONDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([MKT44111] of MODULETIME 
+([timeMKT44111] of MODULETIME 
 (moduleid  MKT4411)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MKT44130] of MODULETIME 
+([timeMKT44130] of MODULETIME 
 (moduleid  MKT4413)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MKT44131] of MODULETIME 
+([timeMKT44131] of MODULETIME 
 (moduleid  MKT4413)
 (day THURSDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([MLE11010] of MODULETIME 
+([timeMLE11010] of MODULETIME 
 (moduleid  MLE1101)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 9:00)
 (semester 2)
 )
-([MLE11011] of MODULETIME 
+([timeMLE11011] of MODULETIME 
 (moduleid  MLE1101)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([MLE11012] of MODULETIME 
+([timeMLE11012] of MODULETIME 
 (moduleid  MLE1101)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 13:00)
 (semester 2)
 )
-([MLE11013] of MODULETIME 
+([timeMLE11013] of MODULETIME 
 (moduleid  MLE1101)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MLE21030] of MODULETIME 
+([timeMLE21030] of MODULETIME 
 (moduleid  MLE2103)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MLE21040] of MODULETIME 
+([timeMLE21040] of MODULETIME 
 (moduleid  MLE2104)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([MLE21050] of MODULETIME 
+([timeMLE21050] of MODULETIME 
 (moduleid  MLE2105)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MLE31010] of MODULETIME 
+([timeMLE31010] of MODULETIME 
 (moduleid  MLE3101)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MLE42020] of MODULETIME 
+([timeMLE42020] of MODULETIME 
 (moduleid  MLE4202)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MLE42030] of MODULETIME 
+([timeMLE42030] of MODULETIME 
 (moduleid  MLE4203)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MLE42060] of MODULETIME 
+([timeMLE42060] of MODULETIME 
 (moduleid  MLE4206)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MLE42070] of MODULETIME 
+([timeMLE42070] of MODULETIME 
 (moduleid  MLE4207)
 (day MONDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([MLE42080] of MODULETIME 
+([timeMLE42080] of MODULETIME 
 (moduleid  MLE4208)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MNO10010] of MODULETIME 
+([timeMNO10010] of MODULETIME 
 (moduleid  MNO1001)
 (day MONDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MNO10011] of MODULETIME 
+([timeMNO10011] of MODULETIME 
 (moduleid  MNO1001)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MNO10012] of MODULETIME 
+([timeMNO10012] of MODULETIME 
 (moduleid  MNO1001)
 (day MONDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MNO10013] of MODULETIME 
+([timeMNO10013] of MODULETIME 
 (moduleid  MNO1001)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MNO10014] of MODULETIME 
+([timeMNO10014] of MODULETIME 
 (moduleid  MNO1001)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MNO10015] of MODULETIME 
+([timeMNO10015] of MODULETIME 
 (moduleid  MNO1001)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MNO10016] of MODULETIME 
+([timeMNO10016] of MODULETIME 
 (moduleid  MNO1001)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MNO10017] of MODULETIME 
+([timeMNO10017] of MODULETIME 
 (moduleid  MNO1001)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MNO1001X0] of MODULETIME 
+([timeMNO1001X0] of MODULETIME 
 (moduleid  MNO1001X)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MNO20070] of MODULETIME 
+([timeMNO20070] of MODULETIME 
 (moduleid  MNO2007)
 (day MONDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MNO20071] of MODULETIME 
+([timeMNO20071] of MODULETIME 
 (moduleid  MNO2007)
 (day MONDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([MNO20072] of MODULETIME 
+([timeMNO20072] of MODULETIME 
 (moduleid  MNO2007)
 (day MONDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MNO20073] of MODULETIME 
+([timeMNO20073] of MODULETIME 
 (moduleid  MNO2007)
 (day MONDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([MNO20074] of MODULETIME 
+([timeMNO20074] of MODULETIME 
 (moduleid  MNO2007)
 (day MONDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MNO20075] of MODULETIME 
+([timeMNO20075] of MODULETIME 
 (moduleid  MNO2007)
 (day MONDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([MNO20076] of MODULETIME 
+([timeMNO20076] of MODULETIME 
 (moduleid  MNO2007)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MNO20077] of MODULETIME 
+([timeMNO20077] of MODULETIME 
 (moduleid  MNO2007)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MNO20090] of MODULETIME 
+([timeMNO20090] of MODULETIME 
 (moduleid  MNO2009)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MNO23020] of MODULETIME 
+([timeMNO23020] of MODULETIME 
 (moduleid  MNO2302)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MNO23021] of MODULETIME 
+([timeMNO23021] of MODULETIME 
 (moduleid  MNO2302)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MNO33010] of MODULETIME 
+([timeMNO33010] of MODULETIME 
 (moduleid  MNO3301)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MNO33011] of MODULETIME 
+([timeMNO33011] of MODULETIME 
 (moduleid  MNO3301)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MNO33030] of MODULETIME 
+([timeMNO33030] of MODULETIME 
 (moduleid  MNO3303)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MNO33031] of MODULETIME 
+([timeMNO33031] of MODULETIME 
 (moduleid  MNO3303)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MNO3313J0] of MODULETIME 
+([timeMNO3313J0] of MODULETIME 
 (moduleid  MNO3313J)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MNO33220] of MODULETIME 
+([timeMNO33220] of MODULETIME 
 (moduleid  MNO3322)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MNO33230] of MODULETIME 
+([timeMNO33230] of MODULETIME 
 (moduleid  MNO3323)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MNO33300] of MODULETIME 
+([timeMNO33300] of MODULETIME 
 (moduleid  MNO3330)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MNO4313C0] of MODULETIME 
+([timeMNO4313C0] of MODULETIME 
 (moduleid  MNO4313C)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([MNO43150] of MODULETIME 
+([timeMNO43150] of MODULETIME 
 (moduleid  MNO4315)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([MNO43190] of MODULETIME 
+([timeMNO43190] of MODULETIME 
 (moduleid  MNO4319)
 (day SATURDAY)
 (starttime 6:00)
 (endtime 6:30)
 (semester 2)
 )
-([MNO43191] of MODULETIME 
+([timeMNO43191] of MODULETIME 
 (moduleid  MNO4319)
 (day SATURDAY)
 (starttime 7:30)
 (endtime 8:00)
 (semester 2)
 )
-([MNO43192] of MODULETIME 
+([timeMNO43192] of MODULETIME 
 (moduleid  MNO4319)
 (day SATURDAY)
 (starttime 6:30)
 (endtime 7:00)
 (semester 2)
 )
-([MNO43193] of MODULETIME 
+([timeMNO43193] of MODULETIME 
 (moduleid  MNO4319)
 (day SATURDAY)
 (starttime 7:00)
 (endtime 7:30)
 (semester 2)
 )
-([MNO43194] of MODULETIME 
+([timeMNO43194] of MODULETIME 
 (moduleid  MNO4319)
 (day SATURDAY)
 (starttime 8:00)
 (endtime 8:30)
 (semester 2)
 )
-([MS1102E0] of MODULETIME 
+([timeMS1102E0] of MODULETIME 
 (moduleid  MS1102E)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MS22110] of MODULETIME 
+([timeMS22110] of MODULETIME 
 (moduleid  MS2211)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([MS22130] of MODULETIME 
+([timeMS22130] of MODULETIME 
 (moduleid  MS2213)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MS32090] of MODULETIME 
+([timeMS32090] of MODULETIME 
 (moduleid  MS3209)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MS32120] of MODULETIME 
+([timeMS32120] of MODULETIME 
 (moduleid  MS3212)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([MS32150] of MODULETIME 
+([timeMS32150] of MODULETIME 
 (moduleid  MS3215)
 (day MONDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([MS32160] of MODULETIME 
+([timeMS32160] of MODULETIME 
 (moduleid  MS3216)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MS32180] of MODULETIME 
+([timeMS32180] of MODULETIME 
 (moduleid  MS3218)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([MS42010] of MODULETIME 
+([timeMS42010] of MODULETIME 
 (moduleid  MS4201)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MS4880A0] of MODULETIME 
+([timeMS4880A0] of MODULETIME 
 (moduleid  MS4880A)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MS52010] of MODULETIME 
+([timeMS52010] of MODULETIME 
 (moduleid  MS5201)
 (day TUESDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([MT40030] of MODULETIME 
+([timeMT40030] of MODULETIME 
 (moduleid  MT4003)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([MT50020] of MODULETIME 
+([timeMT50020] of MODULETIME 
 (moduleid  MT5002)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MT50040] of MODULETIME 
+([timeMT50040] of MODULETIME 
 (moduleid  MT5004)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MT50070] of MODULETIME 
+([timeMT50070] of MODULETIME 
 (moduleid  MT5007)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MT50090] of MODULETIME 
+([timeMT50090] of MODULETIME 
 (moduleid  MT5009)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MT50100] of MODULETIME 
+([timeMT50100] of MODULETIME 
 (moduleid  MT5010)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MT50101] of MODULETIME 
+([timeMT50101] of MODULETIME 
 (moduleid  MT5010)
 (day SATURDAY)
 (starttime 13:30)
 (endtime 16:30)
 (semester 2)
 )
-([MT50110] of MODULETIME 
+([timeMT50110] of MODULETIME 
 (moduleid  MT5011)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MT50120] of MODULETIME 
+([timeMT50120] of MODULETIME 
 (moduleid  MT5012)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MT50160] of MODULETIME 
+([timeMT50160] of MODULETIME 
 (moduleid  MT5016)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MT5880B0] of MODULETIME 
+([timeMT5880B0] of MODULETIME 
 (moduleid  MT5880B)
 (day SATURDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([MT59010] of MODULETIME 
+([timeMT59010] of MODULETIME 
 (moduleid  MT5901)
 (day MONDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([MT59011] of MODULETIME 
+([timeMT59011] of MODULETIME 
 (moduleid  MT5901)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([MT59110] of MODULETIME 
+([timeMT59110] of MODULETIME 
 (moduleid  MT5911)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([MT59120] of MODULETIME 
+([timeMT59120] of MODULETIME 
 (moduleid  MT5912)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([MT59130] of MODULETIME 
+([timeMT59130] of MODULETIME 
 (moduleid  MT5913)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([MUA11080] of MODULETIME 
+([timeMUA11080] of MODULETIME 
 (moduleid  MUA1108)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA11081] of MODULETIME 
+([timeMUA11081] of MODULETIME 
 (moduleid  MUA1108)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA11082] of MODULETIME 
+([timeMUA11082] of MODULETIME 
 (moduleid  MUA1108)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA11083] of MODULETIME 
+([timeMUA11083] of MODULETIME 
 (moduleid  MUA1108)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA11090] of MODULETIME 
+([timeMUA11090] of MODULETIME 
 (moduleid  MUA1109)
 (day FRIDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA11091] of MODULETIME 
+([timeMUA11091] of MODULETIME 
 (moduleid  MUA1109)
 (day WEDNESDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA11100] of MODULETIME 
+([timeMUA11100] of MODULETIME 
 (moduleid  MUA1110)
 (day FRIDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA11101] of MODULETIME 
+([timeMUA11101] of MODULETIME 
 (moduleid  MUA1110)
 (day WEDNESDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA11102] of MODULETIME 
+([timeMUA11102] of MODULETIME 
 (moduleid  MUA1110)
 (day SATURDAY)
 (starttime 6:00)
 (endtime 6:30)
 (semester 2)
 )
-([MUA11103] of MODULETIME 
+([timeMUA11103] of MODULETIME 
 (moduleid  MUA1110)
 (day SATURDAY)
 (starttime 6:30)
 (endtime 7:00)
 (semester 2)
 )
-([MUA11120] of MODULETIME 
+([timeMUA11120] of MODULETIME 
 (moduleid  MUA1112)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MUA11140] of MODULETIME 
+([timeMUA11140] of MODULETIME 
 (moduleid  MUA1114)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA11141] of MODULETIME 
+([timeMUA11141] of MODULETIME 
 (moduleid  MUA1114)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA11160] of MODULETIME 
+([timeMUA11160] of MODULETIME 
 (moduleid  MUA1116)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUA11540] of MODULETIME 
+([timeMUA11540] of MODULETIME 
 (moduleid  MUA1154)
 (day MONDAY)
 (starttime 12:00)
 (endtime 13:30)
 (semester 2)
 )
-([MUA11610] of MODULETIME 
+([timeMUA11610] of MODULETIME 
 (moduleid  MUA1161)
 (day SATURDAY)
 (starttime 7:00)
 (endtime 7:30)
 (semester 2)
 )
-([MUA11611] of MODULETIME 
+([timeMUA11611] of MODULETIME 
 (moduleid  MUA1161)
 (day MONDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA11620] of MODULETIME 
+([timeMUA11620] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 7:30)
 (endtime 8:00)
 (semester 2)
 )
-([MUA11621] of MODULETIME 
+([timeMUA11621] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 8:00)
 (endtime 8:30)
 (semester 2)
 )
-([MUA11622] of MODULETIME 
+([timeMUA11622] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 8:30)
 (endtime 9:00)
 (semester 2)
 )
-([MUA11623] of MODULETIME 
+([timeMUA11623] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 9:00)
 (endtime 9:30)
 (semester 2)
 )
-([MUA11624] of MODULETIME 
+([timeMUA11624] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 9:30)
 (endtime 10:00)
 (semester 2)
 )
-([MUA11625] of MODULETIME 
+([timeMUA11625] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 10:00)
 (endtime 10:30)
 (semester 2)
 )
-([MUA11626] of MODULETIME 
+([timeMUA11626] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 10:30)
 (endtime 11:00)
 (semester 2)
 )
-([MUA11627] of MODULETIME 
+([timeMUA11627] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 11:00)
 (endtime 11:30)
 (semester 2)
 )
-([MUA11628] of MODULETIME 
+([timeMUA11628] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 11:30)
 (endtime 12:00)
 (semester 2)
 )
-([MUA11629] of MODULETIME 
+([timeMUA11629] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 12:00)
 (endtime 12:30)
 (semester 2)
 )
-([MUA116210] of MODULETIME 
+([timeMUA116210] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 12:30)
 (endtime 13:00)
 (semester 2)
 )
-([MUA116211] of MODULETIME 
+([timeMUA116211] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 13:00)
 (endtime 13:30)
 (semester 2)
 )
-([MUA116212] of MODULETIME 
+([timeMUA116212] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 13:30)
 (endtime 14:00)
 (semester 2)
 )
-([MUA116213] of MODULETIME 
+([timeMUA116213] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 14:00)
 (endtime 14:30)
 (semester 2)
 )
-([MUA116214] of MODULETIME 
+([timeMUA116214] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 14:30)
 (endtime 15:00)
 (semester 2)
 )
-([MUA116215] of MODULETIME 
+([timeMUA116215] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 15:00)
 (endtime 15:30)
 (semester 2)
 )
-([MUA116216] of MODULETIME 
+([timeMUA116216] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 15:30)
 (endtime 16:00)
 (semester 2)
 )
-([MUA116217] of MODULETIME 
+([timeMUA116217] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 16:00)
 (endtime 16:30)
 (semester 2)
 )
-([MUA116218] of MODULETIME 
+([timeMUA116218] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 16:30)
 (endtime 17:00)
 (semester 2)
 )
-([MUA116219] of MODULETIME 
+([timeMUA116219] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 17:00)
 (endtime 17:30)
 (semester 2)
 )
-([MUA116220] of MODULETIME 
+([timeMUA116220] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 17:30)
 (endtime 18:00)
 (semester 2)
 )
-([MUA116221] of MODULETIME 
+([timeMUA116221] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 18:00)
 (endtime 18:30)
 (semester 2)
 )
-([MUA116222] of MODULETIME 
+([timeMUA116222] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 18:30)
 (endtime 19:00)
 (semester 2)
 )
-([MUA116223] of MODULETIME 
+([timeMUA116223] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 19:00)
 (endtime 19:30)
 (semester 2)
 )
-([MUA116224] of MODULETIME 
+([timeMUA116224] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 19:30)
 (endtime 20:00)
 (semester 2)
 )
-([MUA116225] of MODULETIME 
+([timeMUA116225] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([MUA116226] of MODULETIME 
+([timeMUA116226] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA116227] of MODULETIME 
+([timeMUA116227] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA116228] of MODULETIME 
+([timeMUA116228] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA116229] of MODULETIME 
+([timeMUA116229] of MODULETIME 
 (moduleid  MUA1162)
 (day SATURDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA11630] of MODULETIME 
+([timeMUA11630] of MODULETIME 
 (moduleid  MUA1163)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUA11631] of MODULETIME 
+([timeMUA11631] of MODULETIME 
 (moduleid  MUA1163)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MUA11632] of MODULETIME 
+([timeMUA11632] of MODULETIME 
 (moduleid  MUA1163)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUA11710] of MODULETIME 
+([timeMUA11710] of MODULETIME 
 (moduleid  MUA1171)
 (day TUESDAY)
 (starttime 13:30)
 (endtime 15:00)
 (semester 2)
 )
-([MUA11810] of MODULETIME 
+([timeMUA11810] of MODULETIME 
 (moduleid  MUA1181)
 (day TUESDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA11930] of MODULETIME 
+([timeMUA11930] of MODULETIME 
 (moduleid  MUA1193)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MUA11931] of MODULETIME 
+([timeMUA11931] of MODULETIME 
 (moduleid  MUA1193)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MUA21060] of MODULETIME 
+([timeMUA21060] of MODULETIME 
 (moduleid  MUA2106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUA21061] of MODULETIME 
+([timeMUA21061] of MODULETIME 
 (moduleid  MUA2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUA21070] of MODULETIME 
+([timeMUA21070] of MODULETIME 
 (moduleid  MUA2107)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA21071] of MODULETIME 
+([timeMUA21071] of MODULETIME 
 (moduleid  MUA2107)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA21072] of MODULETIME 
+([timeMUA21072] of MODULETIME 
 (moduleid  MUA2107)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA21073] of MODULETIME 
+([timeMUA21073] of MODULETIME 
 (moduleid  MUA2107)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA21080] of MODULETIME 
+([timeMUA21080] of MODULETIME 
 (moduleid  MUA2108)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA21081] of MODULETIME 
+([timeMUA21081] of MODULETIME 
 (moduleid  MUA2108)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA21082] of MODULETIME 
+([timeMUA21082] of MODULETIME 
 (moduleid  MUA2108)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA21083] of MODULETIME 
+([timeMUA21083] of MODULETIME 
 (moduleid  MUA2108)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA21090] of MODULETIME 
+([timeMUA21090] of MODULETIME 
 (moduleid  MUA2109)
 (day FRIDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA21091] of MODULETIME 
+([timeMUA21091] of MODULETIME 
 (moduleid  MUA2109)
 (day SATURDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA21092] of MODULETIME 
+([timeMUA21092] of MODULETIME 
 (moduleid  MUA2109)
 (day SATURDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA21093] of MODULETIME 
+([timeMUA21093] of MODULETIME 
 (moduleid  MUA2109)
 (day SATURDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA21094] of MODULETIME 
+([timeMUA21094] of MODULETIME 
 (moduleid  MUA2109)
 (day WEDNESDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA21100] of MODULETIME 
+([timeMUA21100] of MODULETIME 
 (moduleid  MUA2110)
 (day FRIDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA21101] of MODULETIME 
+([timeMUA21101] of MODULETIME 
 (moduleid  MUA2110)
 (day THURSDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA21120] of MODULETIME 
+([timeMUA21120] of MODULETIME 
 (moduleid  MUA2112)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MUA21530] of MODULETIME 
+([timeMUA21530] of MODULETIME 
 (moduleid  MUA2153)
 (day MONDAY)
 (starttime 12:00)
 (endtime 13:30)
 (semester 2)
 )
-([MUA21540] of MODULETIME 
+([timeMUA21540] of MODULETIME 
 (moduleid  MUA2154)
 (day MONDAY)
 (starttime 12:00)
 (endtime 13:30)
 (semester 2)
 )
-([MUA21550] of MODULETIME 
+([timeMUA21550] of MODULETIME 
 (moduleid  MUA2155)
 (day WEDNESDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([MUA21551] of MODULETIME 
+([timeMUA21551] of MODULETIME 
 (moduleid  MUA2155)
 (day SATURDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA21552] of MODULETIME 
+([timeMUA21552] of MODULETIME 
 (moduleid  MUA2155)
 (day TUESDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA21553] of MODULETIME 
+([timeMUA21553] of MODULETIME 
 (moduleid  MUA2155)
 (day SATURDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA21560] of MODULETIME 
+([timeMUA21560] of MODULETIME 
 (moduleid  MUA2156)
 (day WEDNESDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA21561] of MODULETIME 
+([timeMUA21561] of MODULETIME 
 (moduleid  MUA2156)
 (day TUESDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA21562] of MODULETIME 
+([timeMUA21562] of MODULETIME 
 (moduleid  MUA2156)
 (day WEDNESDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA21610] of MODULETIME 
+([timeMUA21610] of MODULETIME 
 (moduleid  MUA2161)
 (day MONDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA21710] of MODULETIME 
+([timeMUA21710] of MODULETIME 
 (moduleid  MUA2171)
 (day FRIDAY)
 (starttime 13:30)
 (endtime 17:00)
 (semester 2)
 )
-([MUA21740] of MODULETIME 
+([timeMUA21740] of MODULETIME 
 (moduleid  MUA2174)
 (day THURSDAY)
 (starttime 13:30)
 (endtime 15:00)
 (semester 2)
 )
-([MUA21750] of MODULETIME 
+([timeMUA21750] of MODULETIME 
 (moduleid  MUA2175)
 (day SATURDAY)
 (starttime 8:30)
 (endtime 9:00)
 (semester 2)
 )
-([MUA21760] of MODULETIME 
+([timeMUA21760] of MODULETIME 
 (moduleid  MUA2176)
 (day SATURDAY)
 (starttime 7:00)
 (endtime 7:30)
 (semester 2)
 )
-([MUA21810] of MODULETIME 
+([timeMUA21810] of MODULETIME 
 (moduleid  MUA2181)
 (day TUESDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA21930] of MODULETIME 
+([timeMUA21930] of MODULETIME 
 (moduleid  MUA2193)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MUA21931] of MODULETIME 
+([timeMUA21931] of MODULETIME 
 (moduleid  MUA2193)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MUA21960] of MODULETIME 
+([timeMUA21960] of MODULETIME 
 (moduleid  MUA2196)
 (day MONDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([MUA21961] of MODULETIME 
+([timeMUA21961] of MODULETIME 
 (moduleid  MUA2196)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([MUA22550] of MODULETIME 
+([timeMUA22550] of MODULETIME 
 (moduleid  MUA2255)
 (day SATURDAY)
 (starttime 6:00)
 (endtime 6:30)
 (semester 2)
 )
-([MUA22551] of MODULETIME 
+([timeMUA22551] of MODULETIME 
 (moduleid  MUA2255)
 (day SATURDAY)
 (starttime 6:30)
 (endtime 7:00)
 (semester 2)
 )
-([MUA22552] of MODULETIME 
+([timeMUA22552] of MODULETIME 
 (moduleid  MUA2255)
 (day SATURDAY)
 (starttime 7:00)
 (endtime 7:30)
 (semester 2)
 )
-([MUA22560] of MODULETIME 
+([timeMUA22560] of MODULETIME 
 (moduleid  MUA2256)
 (day SATURDAY)
 (starttime 7:30)
 (endtime 8:00)
 (semester 2)
 )
-([MUA22561] of MODULETIME 
+([timeMUA22561] of MODULETIME 
 (moduleid  MUA2256)
 (day SATURDAY)
 (starttime 8:00)
 (endtime 8:30)
 (semester 2)
 )
-([MUA22562] of MODULETIME 
+([timeMUA22562] of MODULETIME 
 (moduleid  MUA2256)
 (day SATURDAY)
 (starttime 8:30)
 (endtime 9:00)
 (semester 2)
 )
-([MUA31050] of MODULETIME 
+([timeMUA31050] of MODULETIME 
 (moduleid  MUA3105)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([MUA31051] of MODULETIME 
+([timeMUA31051] of MODULETIME 
 (moduleid  MUA3105)
 (day WEDNESDAY)
 (starttime 15:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUA31052] of MODULETIME 
+([timeMUA31052] of MODULETIME 
 (moduleid  MUA3105)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA31070] of MODULETIME 
+([timeMUA31070] of MODULETIME 
 (moduleid  MUA3107)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA31071] of MODULETIME 
+([timeMUA31071] of MODULETIME 
 (moduleid  MUA3107)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA31072] of MODULETIME 
+([timeMUA31072] of MODULETIME 
 (moduleid  MUA3107)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA31073] of MODULETIME 
+([timeMUA31073] of MODULETIME 
 (moduleid  MUA3107)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA31080] of MODULETIME 
+([timeMUA31080] of MODULETIME 
 (moduleid  MUA3108)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA31081] of MODULETIME 
+([timeMUA31081] of MODULETIME 
 (moduleid  MUA3108)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA31082] of MODULETIME 
+([timeMUA31082] of MODULETIME 
 (moduleid  MUA3108)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA31083] of MODULETIME 
+([timeMUA31083] of MODULETIME 
 (moduleid  MUA3108)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA31090] of MODULETIME 
+([timeMUA31090] of MODULETIME 
 (moduleid  MUA3109)
 (day FRIDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA31091] of MODULETIME 
+([timeMUA31091] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 10:00)
 (endtime 10:30)
 (semester 2)
 )
-([MUA31092] of MODULETIME 
+([timeMUA31092] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 10:30)
 (endtime 11:00)
 (semester 2)
 )
-([MUA31093] of MODULETIME 
+([timeMUA31093] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 11:00)
 (endtime 11:30)
 (semester 2)
 )
-([MUA31094] of MODULETIME 
+([timeMUA31094] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 11:30)
 (endtime 12:00)
 (semester 2)
 )
-([MUA31095] of MODULETIME 
+([timeMUA31095] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 12:00)
 (endtime 12:30)
 (semester 2)
 )
-([MUA31096] of MODULETIME 
+([timeMUA31096] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 12:30)
 (endtime 13:00)
 (semester 2)
 )
-([MUA31097] of MODULETIME 
+([timeMUA31097] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 13:00)
 (endtime 13:30)
 (semester 2)
 )
-([MUA31098] of MODULETIME 
+([timeMUA31098] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 13:30)
 (endtime 14:00)
 (semester 2)
 )
-([MUA31099] of MODULETIME 
+([timeMUA31099] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 14:00)
 (endtime 14:30)
 (semester 2)
 )
-([MUA310910] of MODULETIME 
+([timeMUA310910] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 14:30)
 (endtime 15:00)
 (semester 2)
 )
-([MUA310911] of MODULETIME 
+([timeMUA310911] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 15:00)
 (endtime 15:30)
 (semester 2)
 )
-([MUA310912] of MODULETIME 
+([timeMUA310912] of MODULETIME 
 (moduleid  MUA3109)
 (day THURSDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA310913] of MODULETIME 
+([timeMUA310913] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 15:30)
 (endtime 16:00)
 (semester 2)
 )
-([MUA310914] of MODULETIME 
+([timeMUA310914] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 16:00)
 (endtime 16:30)
 (semester 2)
 )
-([MUA310915] of MODULETIME 
+([timeMUA310915] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 16:30)
 (endtime 17:00)
 (semester 2)
 )
-([MUA310916] of MODULETIME 
+([timeMUA310916] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 17:00)
 (endtime 17:30)
 (semester 2)
 )
-([MUA310917] of MODULETIME 
+([timeMUA310917] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 17:30)
 (endtime 18:00)
 (semester 2)
 )
-([MUA310918] of MODULETIME 
+([timeMUA310918] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 18:00)
 (endtime 18:30)
 (semester 2)
 )
-([MUA310919] of MODULETIME 
+([timeMUA310919] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 18:30)
 (endtime 19:00)
 (semester 2)
 )
-([MUA310920] of MODULETIME 
+([timeMUA310920] of MODULETIME 
 (moduleid  MUA3109)
 (day SATURDAY)
 (starttime 19:00)
 (endtime 19:30)
 (semester 2)
 )
-([MUA31100] of MODULETIME 
+([timeMUA31100] of MODULETIME 
 (moduleid  MUA3110)
 (day FRIDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA31101] of MODULETIME 
+([timeMUA31101] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 19:30)
 (endtime 20:00)
 (semester 2)
 )
-([MUA31102] of MODULETIME 
+([timeMUA31102] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([MUA31103] of MODULETIME 
+([timeMUA31103] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA31104] of MODULETIME 
+([timeMUA31104] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA31105] of MODULETIME 
+([timeMUA31105] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA31106] of MODULETIME 
+([timeMUA31106] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA31107] of MODULETIME 
+([timeMUA31107] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA31108] of MODULETIME 
+([timeMUA31108] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA31109] of MODULETIME 
+([timeMUA31109] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA311010] of MODULETIME 
+([timeMUA311010] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 9:30)
 (endtime 10:00)
 (semester 2)
 )
-([MUA311011] of MODULETIME 
+([timeMUA311011] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 9:00)
 (endtime 9:30)
 (semester 2)
 )
-([MUA311012] of MODULETIME 
+([timeMUA311012] of MODULETIME 
 (moduleid  MUA3110)
 (day THURSDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA311013] of MODULETIME 
+([timeMUA311013] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 8:30)
 (endtime 9:00)
 (semester 2)
 )
-([MUA311014] of MODULETIME 
+([timeMUA311014] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 8:00)
 (endtime 8:30)
 (semester 2)
 )
-([MUA311015] of MODULETIME 
+([timeMUA311015] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 7:30)
 (endtime 8:00)
 (semester 2)
 )
-([MUA311016] of MODULETIME 
+([timeMUA311016] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 7:00)
 (endtime 7:30)
 (semester 2)
 )
-([MUA311017] of MODULETIME 
+([timeMUA311017] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 6:30)
 (endtime 7:00)
 (semester 2)
 )
-([MUA311018] of MODULETIME 
+([timeMUA311018] of MODULETIME 
 (moduleid  MUA3110)
 (day SATURDAY)
 (starttime 6:00)
 (endtime 6:30)
 (semester 2)
 )
-([MUA311019] of MODULETIME 
+([timeMUA311019] of MODULETIME 
 (moduleid  MUA3110)
 (day TUESDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA311020] of MODULETIME 
+([timeMUA311020] of MODULETIME 
 (moduleid  MUA3110)
 (day TUESDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA31120] of MODULETIME 
+([timeMUA31120] of MODULETIME 
 (moduleid  MUA3112)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([MUA31140] of MODULETIME 
+([timeMUA31140] of MODULETIME 
 (moduleid  MUA3114)
 (day FRIDAY)
 (starttime 13:00)
 (endtime 14:00)
 (semester 2)
 )
-([MUA31141] of MODULETIME 
+([timeMUA31141] of MODULETIME 
 (moduleid  MUA3114)
 (day WEDNESDAY)
 (starttime 13:00)
 (endtime 14:00)
 (semester 2)
 )
-([MUA31530] of MODULETIME 
+([timeMUA31530] of MODULETIME 
 (moduleid  MUA3153)
 (day MONDAY)
 (starttime 12:00)
 (endtime 13:30)
 (semester 2)
 )
-([MUA31540] of MODULETIME 
+([timeMUA31540] of MODULETIME 
 (moduleid  MUA3154)
 (day MONDAY)
 (starttime 12:00)
 (endtime 13:30)
 (semester 2)
 )
-([MUA31560] of MODULETIME 
+([timeMUA31560] of MODULETIME 
 (moduleid  MUA3156)
 (day WEDNESDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA31561] of MODULETIME 
+([timeMUA31561] of MODULETIME 
 (moduleid  MUA3156)
 (day TUESDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA31620] of MODULETIME 
+([timeMUA31620] of MODULETIME 
 (moduleid  MUA3162)
 (day MONDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([MUA31621] of MODULETIME 
+([timeMUA31621] of MODULETIME 
 (moduleid  MUA3162)
 (day MONDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA31622] of MODULETIME 
+([timeMUA31622] of MODULETIME 
 (moduleid  MUA3162)
 (day MONDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA31623] of MODULETIME 
+([timeMUA31623] of MODULETIME 
 (moduleid  MUA3162)
 (day MONDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA31624] of MODULETIME 
+([timeMUA31624] of MODULETIME 
 (moduleid  MUA3162)
 (day MONDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA31625] of MODULETIME 
+([timeMUA31625] of MODULETIME 
 (moduleid  MUA3162)
 (day MONDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA31626] of MODULETIME 
+([timeMUA31626] of MODULETIME 
 (moduleid  MUA3162)
 (day MONDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA31627] of MODULETIME 
+([timeMUA31627] of MODULETIME 
 (moduleid  MUA3162)
 (day TUESDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([MUA31628] of MODULETIME 
+([timeMUA31628] of MODULETIME 
 (moduleid  MUA3162)
 (day TUESDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA31629] of MODULETIME 
+([timeMUA31629] of MODULETIME 
 (moduleid  MUA3162)
 (day TUESDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA316210] of MODULETIME 
+([timeMUA316210] of MODULETIME 
 (moduleid  MUA3162)
 (day TUESDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA316211] of MODULETIME 
+([timeMUA316211] of MODULETIME 
 (moduleid  MUA3162)
 (day TUESDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA316212] of MODULETIME 
+([timeMUA316212] of MODULETIME 
 (moduleid  MUA3162)
 (day TUESDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA316213] of MODULETIME 
+([timeMUA316213] of MODULETIME 
 (moduleid  MUA3162)
 (day TUESDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA316214] of MODULETIME 
+([timeMUA316214] of MODULETIME 
 (moduleid  MUA3162)
 (day TUESDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA316215] of MODULETIME 
+([timeMUA316215] of MODULETIME 
 (moduleid  MUA3162)
 (day WEDNESDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([MUA316216] of MODULETIME 
+([timeMUA316216] of MODULETIME 
 (moduleid  MUA3162)
 (day WEDNESDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA316217] of MODULETIME 
+([timeMUA316217] of MODULETIME 
 (moduleid  MUA3162)
 (day WEDNESDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA316218] of MODULETIME 
+([timeMUA316218] of MODULETIME 
 (moduleid  MUA3162)
 (day WEDNESDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA316219] of MODULETIME 
+([timeMUA316219] of MODULETIME 
 (moduleid  MUA3162)
 (day WEDNESDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA316220] of MODULETIME 
+([timeMUA316220] of MODULETIME 
 (moduleid  MUA3162)
 (day WEDNESDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA316221] of MODULETIME 
+([timeMUA316221] of MODULETIME 
 (moduleid  MUA3162)
 (day WEDNESDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA316222] of MODULETIME 
+([timeMUA316222] of MODULETIME 
 (moduleid  MUA3162)
 (day WEDNESDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA316223] of MODULETIME 
+([timeMUA316223] of MODULETIME 
 (moduleid  MUA3162)
 (day THURSDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA316224] of MODULETIME 
+([timeMUA316224] of MODULETIME 
 (moduleid  MUA3162)
 (day THURSDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA316225] of MODULETIME 
+([timeMUA316225] of MODULETIME 
 (moduleid  MUA3162)
 (day THURSDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA316226] of MODULETIME 
+([timeMUA316226] of MODULETIME 
 (moduleid  MUA3162)
 (day THURSDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA316227] of MODULETIME 
+([timeMUA316227] of MODULETIME 
 (moduleid  MUA3162)
 (day THURSDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA316228] of MODULETIME 
+([timeMUA316228] of MODULETIME 
 (moduleid  MUA3162)
 (day THURSDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA316229] of MODULETIME 
+([timeMUA316229] of MODULETIME 
 (moduleid  MUA3162)
 (day FRIDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([MUA31730] of MODULETIME 
+([timeMUA31730] of MODULETIME 
 (moduleid  MUA3173)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUA31750] of MODULETIME 
+([timeMUA31750] of MODULETIME 
 (moduleid  MUA3175)
 (day SATURDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([MUA31760] of MODULETIME 
+([timeMUA31760] of MODULETIME 
 (moduleid  MUA3176)
 (day SATURDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA31870] of MODULETIME 
+([timeMUA31870] of MODULETIME 
 (moduleid  MUA3187)
 (day FRIDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA31910] of MODULETIME 
+([timeMUA31910] of MODULETIME 
 (moduleid  MUA3191)
 (day MONDAY)
 (starttime 8:00)
 (endtime 8:30)
 (semester 2)
 )
-([MUA31950] of MODULETIME 
+([timeMUA31950] of MODULETIME 
 (moduleid  MUA3195)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 13:30)
 (semester 2)
 )
-([MUA31951] of MODULETIME 
+([timeMUA31951] of MODULETIME 
 (moduleid  MUA3195)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 13:30)
 (semester 2)
 )
-([MUA32060] of MODULETIME 
+([timeMUA32060] of MODULETIME 
 (moduleid  MUA3206)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUA32061] of MODULETIME 
+([timeMUA32061] of MODULETIME 
 (moduleid  MUA3206)
 (day WEDNESDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA32090] of MODULETIME 
+([timeMUA32090] of MODULETIME 
 (moduleid  MUA3209)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA32100] of MODULETIME 
+([timeMUA32100] of MODULETIME 
 (moduleid  MUA3210)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MUA32101] of MODULETIME 
+([timeMUA32101] of MODULETIME 
 (moduleid  MUA3210)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MUA32110] of MODULETIME 
+([timeMUA32110] of MODULETIME 
 (moduleid  MUA3211)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MUA32111] of MODULETIME 
+([timeMUA32111] of MODULETIME 
 (moduleid  MUA3211)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([MUA32120] of MODULETIME 
+([timeMUA32120] of MODULETIME 
 (moduleid  MUA3212)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([MUA32140] of MODULETIME 
+([timeMUA32140] of MODULETIME 
 (moduleid  MUA3214)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUA32141] of MODULETIME 
+([timeMUA32141] of MODULETIME 
 (moduleid  MUA3214)
 (day WEDNESDAY)
 (starttime 15:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUA32142] of MODULETIME 
+([timeMUA32142] of MODULETIME 
 (moduleid  MUA3214)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA32143] of MODULETIME 
+([timeMUA32143] of MODULETIME 
 (moduleid  MUA3214)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA32190] of MODULETIME 
+([timeMUA32190] of MODULETIME 
 (moduleid  MUA3219)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 11:30)
 (semester 2)
 )
-([MUA32191] of MODULETIME 
+([timeMUA32191] of MODULETIME 
 (moduleid  MUA3219)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 11:30)
 (semester 2)
 )
-([MUA32200] of MODULETIME 
+([timeMUA32200] of MODULETIME 
 (moduleid  MUA3220)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 11:30)
 (semester 2)
 )
-([MUA32201] of MODULETIME 
+([timeMUA32201] of MODULETIME 
 (moduleid  MUA3220)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 11:30)
 (semester 2)
 )
-([MUA32550] of MODULETIME 
+([timeMUA32550] of MODULETIME 
 (moduleid  MUA3255)
 (day FRIDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA32551] of MODULETIME 
+([timeMUA32551] of MODULETIME 
 (moduleid  MUA3255)
 (day FRIDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA32552] of MODULETIME 
+([timeMUA32552] of MODULETIME 
 (moduleid  MUA3255)
 (day FRIDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA32560] of MODULETIME 
+([timeMUA32560] of MODULETIME 
 (moduleid  MUA3256)
 (day FRIDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA32561] of MODULETIME 
+([timeMUA32561] of MODULETIME 
 (moduleid  MUA3256)
 (day FRIDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA32562] of MODULETIME 
+([timeMUA32562] of MODULETIME 
 (moduleid  MUA3256)
 (day FRIDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA32750] of MODULETIME 
+([timeMUA32750] of MODULETIME 
 (moduleid  MUA3275)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUA32751] of MODULETIME 
+([timeMUA32751] of MODULETIME 
 (moduleid  MUA3275)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUA41070] of MODULETIME 
+([timeMUA41070] of MODULETIME 
 (moduleid  MUA4107)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA41071] of MODULETIME 
+([timeMUA41071] of MODULETIME 
 (moduleid  MUA4107)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA41072] of MODULETIME 
+([timeMUA41072] of MODULETIME 
 (moduleid  MUA4107)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA41073] of MODULETIME 
+([timeMUA41073] of MODULETIME 
 (moduleid  MUA4107)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA41080] of MODULETIME 
+([timeMUA41080] of MODULETIME 
 (moduleid  MUA4108)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA41081] of MODULETIME 
+([timeMUA41081] of MODULETIME 
 (moduleid  MUA4108)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA41082] of MODULETIME 
+([timeMUA41082] of MODULETIME 
 (moduleid  MUA4108)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA41083] of MODULETIME 
+([timeMUA41083] of MODULETIME 
 (moduleid  MUA4108)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA41530] of MODULETIME 
+([timeMUA41530] of MODULETIME 
 (moduleid  MUA4153)
 (day MONDAY)
 (starttime 12:00)
 (endtime 13:30)
 (semester 2)
 )
-([MUA41540] of MODULETIME 
+([timeMUA41540] of MODULETIME 
 (moduleid  MUA4154)
 (day MONDAY)
 (starttime 12:00)
 (endtime 13:30)
 (semester 2)
 )
-([MUA41610] of MODULETIME 
+([timeMUA41610] of MODULETIME 
 (moduleid  MUA4161)
 (day MONDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA41740] of MODULETIME 
+([timeMUA41740] of MODULETIME 
 (moduleid  MUA4174)
 (day THURSDAY)
 (starttime 15:30)
 (endtime 17:00)
 (semester 2)
 )
-([MUA41750] of MODULETIME 
+([timeMUA41750] of MODULETIME 
 (moduleid  MUA4175)
 (day SATURDAY)
 (starttime 9:30)
 (endtime 10:00)
 (semester 2)
 )
-([MUA41760] of MODULETIME 
+([timeMUA41760] of MODULETIME 
 (moduleid  MUA4176)
 (day TUESDAY)
 (starttime 15:30)
 (endtime 17:00)
 (semester 2)
 )
-([MUA41910] of MODULETIME 
+([timeMUA41910] of MODULETIME 
 (moduleid  MUA4191)
 (day SATURDAY)
 (starttime 19:00)
 (endtime 19:30)
 (semester 2)
 )
-([MUA42050] of MODULETIME 
+([timeMUA42050] of MODULETIME 
 (moduleid  MUA4205)
 (day SATURDAY)
 (starttime 13:30)
 (endtime 14:30)
 (semester 2)
 )
-([MUA42190] of MODULETIME 
+([timeMUA42190] of MODULETIME 
 (moduleid  MUA4219)
 (day SATURDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA42191] of MODULETIME 
+([timeMUA42191] of MODULETIME 
 (moduleid  MUA4219)
 (day MONDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([MUA42192] of MODULETIME 
+([timeMUA42192] of MODULETIME 
 (moduleid  MUA4219)
 (day MONDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA42193] of MODULETIME 
+([timeMUA42193] of MODULETIME 
 (moduleid  MUA4219)
 (day MONDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA42194] of MODULETIME 
+([timeMUA42194] of MODULETIME 
 (moduleid  MUA4219)
 (day MONDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA42195] of MODULETIME 
+([timeMUA42195] of MODULETIME 
 (moduleid  MUA4219)
 (day MONDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA42196] of MODULETIME 
+([timeMUA42196] of MODULETIME 
 (moduleid  MUA4219)
 (day MONDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA42197] of MODULETIME 
+([timeMUA42197] of MODULETIME 
 (moduleid  MUA4219)
 (day MONDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA42198] of MODULETIME 
+([timeMUA42198] of MODULETIME 
 (moduleid  MUA4219)
 (day MONDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA42199] of MODULETIME 
+([timeMUA42199] of MODULETIME 
 (moduleid  MUA4219)
 (day TUESDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([MUA421910] of MODULETIME 
+([timeMUA421910] of MODULETIME 
 (moduleid  MUA4219)
 (day TUESDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA421911] of MODULETIME 
+([timeMUA421911] of MODULETIME 
 (moduleid  MUA4219)
 (day TUESDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA421912] of MODULETIME 
+([timeMUA421912] of MODULETIME 
 (moduleid  MUA4219)
 (day THURSDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA421913] of MODULETIME 
+([timeMUA421913] of MODULETIME 
 (moduleid  MUA4219)
 (day TUESDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA421914] of MODULETIME 
+([timeMUA421914] of MODULETIME 
 (moduleid  MUA4219)
 (day TUESDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA421915] of MODULETIME 
+([timeMUA421915] of MODULETIME 
 (moduleid  MUA4219)
 (day TUESDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA421916] of MODULETIME 
+([timeMUA421916] of MODULETIME 
 (moduleid  MUA4219)
 (day SATURDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA421917] of MODULETIME 
+([timeMUA421917] of MODULETIME 
 (moduleid  MUA4219)
 (day TUESDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA421918] of MODULETIME 
+([timeMUA421918] of MODULETIME 
 (moduleid  MUA4219)
 (day TUESDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA421919] of MODULETIME 
+([timeMUA421919] of MODULETIME 
 (moduleid  MUA4219)
 (day WEDNESDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([MUA421920] of MODULETIME 
+([timeMUA421920] of MODULETIME 
 (moduleid  MUA4219)
 (day WEDNESDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA421921] of MODULETIME 
+([timeMUA421921] of MODULETIME 
 (moduleid  MUA4219)
 (day WEDNESDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA42200] of MODULETIME 
+([timeMUA42200] of MODULETIME 
 (moduleid  MUA4220)
 (day SATURDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA42201] of MODULETIME 
+([timeMUA42201] of MODULETIME 
 (moduleid  MUA4220)
 (day WEDNESDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA42202] of MODULETIME 
+([timeMUA42202] of MODULETIME 
 (moduleid  MUA4220)
 (day WEDNESDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA42203] of MODULETIME 
+([timeMUA42203] of MODULETIME 
 (moduleid  MUA4220)
 (day WEDNESDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA42204] of MODULETIME 
+([timeMUA42204] of MODULETIME 
 (moduleid  MUA4220)
 (day WEDNESDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA42205] of MODULETIME 
+([timeMUA42205] of MODULETIME 
 (moduleid  MUA4220)
 (day THURSDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA42206] of MODULETIME 
+([timeMUA42206] of MODULETIME 
 (moduleid  MUA4220)
 (day THURSDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA42207] of MODULETIME 
+([timeMUA42207] of MODULETIME 
 (moduleid  MUA4220)
 (day THURSDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA42208] of MODULETIME 
+([timeMUA42208] of MODULETIME 
 (moduleid  MUA4220)
 (day THURSDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA42209] of MODULETIME 
+([timeMUA42209] of MODULETIME 
 (moduleid  MUA4220)
 (day THURSDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA422010] of MODULETIME 
+([timeMUA422010] of MODULETIME 
 (moduleid  MUA4220)
 (day THURSDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA422011] of MODULETIME 
+([timeMUA422011] of MODULETIME 
 (moduleid  MUA4220)
 (day FRIDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([MUA422012] of MODULETIME 
+([timeMUA422012] of MODULETIME 
 (moduleid  MUA4220)
 (day THURSDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA422013] of MODULETIME 
+([timeMUA422013] of MODULETIME 
 (moduleid  MUA4220)
 (day FRIDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA422014] of MODULETIME 
+([timeMUA422014] of MODULETIME 
 (moduleid  MUA4220)
 (day FRIDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA422015] of MODULETIME 
+([timeMUA422015] of MODULETIME 
 (moduleid  MUA4220)
 (day FRIDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA422016] of MODULETIME 
+([timeMUA422016] of MODULETIME 
 (moduleid  MUA4220)
 (day FRIDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA422017] of MODULETIME 
+([timeMUA422017] of MODULETIME 
 (moduleid  MUA4220)
 (day FRIDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA422018] of MODULETIME 
+([timeMUA422018] of MODULETIME 
 (moduleid  MUA4220)
 (day FRIDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA422019] of MODULETIME 
+([timeMUA422019] of MODULETIME 
 (moduleid  MUA4220)
 (day FRIDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA422020] of MODULETIME 
+([timeMUA422020] of MODULETIME 
 (moduleid  MUA4220)
 (day FRIDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA422021] of MODULETIME 
+([timeMUA422021] of MODULETIME 
 (moduleid  MUA4220)
 (day SATURDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA422022] of MODULETIME 
+([timeMUA422022] of MODULETIME 
 (moduleid  MUA4220)
 (day SATURDAY)
 (starttime 7:00)
 (endtime 7:30)
 (semester 2)
 )
-([MUA42280] of MODULETIME 
+([timeMUA42280] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA42281] of MODULETIME 
+([timeMUA42281] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 7:30)
 (endtime 8:00)
 (semester 2)
 )
-([MUA42282] of MODULETIME 
+([timeMUA42282] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 8:00)
 (endtime 8:30)
 (semester 2)
 )
-([MUA42283] of MODULETIME 
+([timeMUA42283] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 8:30)
 (endtime 9:00)
 (semester 2)
 )
-([MUA42284] of MODULETIME 
+([timeMUA42284] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 9:00)
 (endtime 9:30)
 (semester 2)
 )
-([MUA42285] of MODULETIME 
+([timeMUA42285] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 9:30)
 (endtime 10:00)
 (semester 2)
 )
-([MUA42286] of MODULETIME 
+([timeMUA42286] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 10:00)
 (endtime 10:30)
 (semester 2)
 )
-([MUA42287] of MODULETIME 
+([timeMUA42287] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 10:30)
 (endtime 11:00)
 (semester 2)
 )
-([MUA42288] of MODULETIME 
+([timeMUA42288] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 11:00)
 (endtime 11:30)
 (semester 2)
 )
-([MUA42289] of MODULETIME 
+([timeMUA42289] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 11:30)
 (endtime 12:00)
 (semester 2)
 )
-([MUA422810] of MODULETIME 
+([timeMUA422810] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 12:00)
 (endtime 12:30)
 (semester 2)
 )
-([MUA422811] of MODULETIME 
+([timeMUA422811] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 12:30)
 (endtime 13:00)
 (semester 2)
 )
-([MUA422812] of MODULETIME 
+([timeMUA422812] of MODULETIME 
 (moduleid  MUA4228)
 (day THURSDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA422813] of MODULETIME 
+([timeMUA422813] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 13:00)
 (endtime 13:30)
 (semester 2)
 )
-([MUA422814] of MODULETIME 
+([timeMUA422814] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 13:30)
 (endtime 14:00)
 (semester 2)
 )
-([MUA422815] of MODULETIME 
+([timeMUA422815] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 14:00)
 (endtime 14:30)
 (semester 2)
 )
-([MUA422816] of MODULETIME 
+([timeMUA422816] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 14:30)
 (endtime 15:00)
 (semester 2)
 )
-([MUA422817] of MODULETIME 
+([timeMUA422817] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 15:00)
 (endtime 15:30)
 (semester 2)
 )
-([MUA422818] of MODULETIME 
+([timeMUA422818] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 15:30)
 (endtime 16:00)
 (semester 2)
 )
-([MUA422819] of MODULETIME 
+([timeMUA422819] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 16:00)
 (endtime 16:30)
 (semester 2)
 )
-([MUA422820] of MODULETIME 
+([timeMUA422820] of MODULETIME 
 (moduleid  MUA4228)
 (day SATURDAY)
 (starttime 16:30)
 (endtime 17:00)
 (semester 2)
 )
-([MUA42290] of MODULETIME 
+([timeMUA42290] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA42291] of MODULETIME 
+([timeMUA42291] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 17:00)
 (endtime 17:30)
 (semester 2)
 )
-([MUA42292] of MODULETIME 
+([timeMUA42292] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 17:30)
 (endtime 18:00)
 (semester 2)
 )
-([MUA42293] of MODULETIME 
+([timeMUA42293] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 18:00)
 (endtime 18:30)
 (semester 2)
 )
-([MUA42294] of MODULETIME 
+([timeMUA42294] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 18:30)
 (endtime 19:00)
 (semester 2)
 )
-([MUA42295] of MODULETIME 
+([timeMUA42295] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 19:00)
 (endtime 19:30)
 (semester 2)
 )
-([MUA42296] of MODULETIME 
+([timeMUA42296] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 19:30)
 (endtime 20:00)
 (semester 2)
 )
-([MUA42297] of MODULETIME 
+([timeMUA42297] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([MUA42298] of MODULETIME 
+([timeMUA42298] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([MUA42299] of MODULETIME 
+([timeMUA42299] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 21:00)
 (endtime 21:30)
 (semester 2)
 )
-([MUA422910] of MODULETIME 
+([timeMUA422910] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 21:30)
 (endtime 22:00)
 (semester 2)
 )
-([MUA422911] of MODULETIME 
+([timeMUA422911] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 22:00)
 (endtime 22:30)
 (semester 2)
 )
-([MUA422912] of MODULETIME 
+([timeMUA422912] of MODULETIME 
 (moduleid  MUA4229)
 (day FRIDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([MUA422913] of MODULETIME 
+([timeMUA422913] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 22:30)
 (endtime 23:00)
 (semester 2)
 )
-([MUA422914] of MODULETIME 
+([timeMUA422914] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([MUA422915] of MODULETIME 
+([timeMUA422915] of MODULETIME 
 (moduleid  MUA4229)
 (day SATURDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA42310] of MODULETIME 
+([timeMUA42310] of MODULETIME 
 (moduleid  MUA4231)
 (day SATURDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([MUA42320] of MODULETIME 
+([timeMUA42320] of MODULETIME 
 (moduleid  MUA4232)
 (day SATURDAY)
 (starttime 9:30)
 (endtime 10:00)
 (semester 2)
 )
-([MUA51080] of MODULETIME 
+([timeMUA51080] of MODULETIME 
 (moduleid  MUA5108)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA51081] of MODULETIME 
+([timeMUA51081] of MODULETIME 
 (moduleid  MUA5108)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUA51120] of MODULETIME 
+([timeMUA51120] of MODULETIME 
 (moduleid  MUA5112)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([MUA51121] of MODULETIME 
+([timeMUA51121] of MODULETIME 
 (moduleid  MUA5112)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([MUH11160] of MODULETIME 
+([timeMUH11160] of MODULETIME 
 (moduleid  MUH1116)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([MUH11161] of MODULETIME 
+([timeMUH11161] of MODULETIME 
 (moduleid  MUH1116)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUH11162] of MODULETIME 
+([timeMUH11162] of MODULETIME 
 (moduleid  MUH1116)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([MUH11163] of MODULETIME 
+([timeMUH11163] of MODULETIME 
 (moduleid  MUH1116)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUH11164] of MODULETIME 
+([timeMUH11164] of MODULETIME 
 (moduleid  MUH1116)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([MUH11165] of MODULETIME 
+([timeMUH11165] of MODULETIME 
 (moduleid  MUH1116)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([MUH11166] of MODULETIME 
+([timeMUH11166] of MODULETIME 
 (moduleid  MUH1116)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 12:00)
 (semester 2)
 )
-([MUH11167] of MODULETIME 
+([timeMUH11167] of MODULETIME 
 (moduleid  MUH1116)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 13:00)
 (semester 2)
 )
-([MUH21160] of MODULETIME 
+([timeMUH21160] of MODULETIME 
 (moduleid  MUH2116)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MUH32030] of MODULETIME 
+([timeMUH32030] of MODULETIME 
 (moduleid  MUH3203)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([MUH32031] of MODULETIME 
+([timeMUH32031] of MODULETIME 
 (moduleid  MUH3203)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([MUH42020] of MODULETIME 
+([timeMUH42020] of MODULETIME 
 (moduleid  MUH4202)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUL32030] of MODULETIME 
+([timeMUL32030] of MODULETIME 
 (moduleid  MUL3203)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([MUL32031] of MODULETIME 
+([timeMUL32031] of MODULETIME 
 (moduleid  MUL3203)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([MUL32032] of MODULETIME 
+([timeMUL32032] of MODULETIME 
 (moduleid  MUL3203)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([MUL32033] of MODULETIME 
+([timeMUL32033] of MODULETIME 
 (moduleid  MUL3203)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([MUL32034] of MODULETIME 
+([timeMUL32034] of MODULETIME 
 (moduleid  MUL3203)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 12:00)
 (semester 2)
 )
-([MUL32035] of MODULETIME 
+([timeMUL32035] of MODULETIME 
 (moduleid  MUL3203)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 12:00)
 (semester 2)
 )
-([MUT11220] of MODULETIME 
+([timeMUT11220] of MODULETIME 
 (moduleid  MUT1122)
 (day MONDAY)
 (starttime 11:00)
 (endtime 12:00)
 (semester 2)
 )
-([MUT21180] of MODULETIME 
+([timeMUT21180] of MODULETIME 
 (moduleid  MUT2118)
 (day MONDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([MUT31140] of MODULETIME 
+([timeMUT31140] of MODULETIME 
 (moduleid  MUT3114)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([MUT32040] of MODULETIME 
+([timeMUT32040] of MODULETIME 
 (moduleid  MUT3204)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUT32050] of MODULETIME 
+([timeMUT32050] of MODULETIME 
 (moduleid  MUT3205)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([MUT32051] of MODULETIME 
+([timeMUT32051] of MODULETIME 
 (moduleid  MUT3205)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([MUT32060] of MODULETIME 
+([timeMUT32060] of MODULETIME 
 (moduleid  MUT3206)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([MUT32061] of MODULETIME 
+([timeMUT32061] of MODULETIME 
 (moduleid  MUT3206)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([MUT32070] of MODULETIME 
+([timeMUT32070] of MODULETIME 
 (moduleid  MUT3207)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([NM1101E0] of MODULETIME 
+([timeNM1101E0] of MODULETIME 
 (moduleid  NM1101E)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([NM21010] of MODULETIME 
+([timeNM21010] of MODULETIME 
 (moduleid  NM2101)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([NM21030] of MODULETIME 
+([timeNM21030] of MODULETIME 
 (moduleid  NM2103)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([NM21040] of MODULETIME 
+([timeNM21040] of MODULETIME 
 (moduleid  NM2104)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([NM22010] of MODULETIME 
+([timeNM22010] of MODULETIME 
 (moduleid  NM2201)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([NM22030] of MODULETIME 
+([timeNM22030] of MODULETIME 
 (moduleid  NM2203)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([NM22120] of MODULETIME 
+([timeNM22120] of MODULETIME 
 (moduleid  NM2212)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([NM22130] of MODULETIME 
+([timeNM22130] of MODULETIME 
 (moduleid  NM2213)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([NM22190] of MODULETIME 
+([timeNM22190] of MODULETIME 
 (moduleid  NM2219)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([NM22200] of MODULETIME 
+([timeNM22200] of MODULETIME 
 (moduleid  NM2220)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([NM32020] of MODULETIME 
+([timeNM32020] of MODULETIME 
 (moduleid  NM3202)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([NM32030] of MODULETIME 
+([timeNM32030] of MODULETIME 
 (moduleid  NM3203)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([NM32040] of MODULETIME 
+([timeNM32040] of MODULETIME 
 (moduleid  NM3204)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([NM32050] of MODULETIME 
+([timeNM32050] of MODULETIME 
 (moduleid  NM3205)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([NM32110] of MODULETIME 
+([timeNM32110] of MODULETIME 
 (moduleid  NM3211)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([NM32140] of MODULETIME 
+([timeNM32140] of MODULETIME 
 (moduleid  NM3214)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([NM32150] of MODULETIME 
+([timeNM32150] of MODULETIME 
 (moduleid  NM3215)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([NM32170] of MODULETIME 
+([timeNM32170] of MODULETIME 
 (moduleid  NM3217)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([NM32190] of MODULETIME 
+([timeNM32190] of MODULETIME 
 (moduleid  NM3219)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([NM32210] of MODULETIME 
+([timeNM32210] of MODULETIME 
 (moduleid  NM3221)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([NM32230] of MODULETIME 
+([timeNM32230] of MODULETIME 
 (moduleid  NM3223)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([NM32240] of MODULETIME 
+([timeNM32240] of MODULETIME 
 (moduleid  NM3224)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([NM32270] of MODULETIME 
+([timeNM32270] of MODULETIME 
 (moduleid  NM3227)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([NM32290] of MODULETIME 
+([timeNM32290] of MODULETIME 
 (moduleid  NM3229)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([NM32330] of MODULETIME 
+([timeNM32330] of MODULETIME 
 (moduleid  NM3233)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([NM32350] of MODULETIME 
+([timeNM32350] of MODULETIME 
 (moduleid  NM3235)
 (day THURSDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([NM32360] of MODULETIME 
+([timeNM32360] of MODULETIME 
 (moduleid  NM3236)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([NM32370] of MODULETIME 
+([timeNM32370] of MODULETIME 
 (moduleid  NM3237)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([NM41020] of MODULETIME 
+([timeNM41020] of MODULETIME 
 (moduleid  NM4102)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([NM42020] of MODULETIME 
+([timeNM42020] of MODULETIME 
 (moduleid  NM4202)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([NM42070] of MODULETIME 
+([timeNM42070] of MODULETIME 
 (moduleid  NM4207)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([NM42080] of MODULETIME 
+([timeNM42080] of MODULETIME 
 (moduleid  NM4208)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([NM42090] of MODULETIME 
+([timeNM42090] of MODULETIME 
 (moduleid  NM4209)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([NM42100] of MODULETIME 
+([timeNM42100] of MODULETIME 
 (moduleid  NM4210)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([NM42120] of MODULETIME 
+([timeNM42120] of MODULETIME 
 (moduleid  NM4212)
 (day MONDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([NM42180] of MODULETIME 
+([timeNM42180] of MODULETIME 
 (moduleid  NM4218)
 (day MONDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([NM42210] of MODULETIME 
+([timeNM42210] of MODULETIME 
 (moduleid  NM4221)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([NM42260] of MODULETIME 
+([timeNM42260] of MODULETIME 
 (moduleid  NM4226)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([NM42290] of MODULETIME 
+([timeNM42290] of MODULETIME 
 (moduleid  NM4229)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([NM4883B0] of MODULETIME 
+([timeNM4883B0] of MODULETIME 
 (moduleid  NM4883B)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([NM5205R0] of MODULETIME 
+([timeNM5205R0] of MODULETIME 
 (moduleid  NM5205R)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([NM5212R0] of MODULETIME 
+([timeNM5212R0] of MODULETIME 
 (moduleid  NM5212R)
 (day MONDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([NM5214R0] of MODULETIME 
+([timeNM5214R0] of MODULETIME 
 (moduleid  NM5214R)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([NM61020] of MODULETIME 
+([timeNM61020] of MODULETIME 
 (moduleid  NM6102)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([NM62030] of MODULETIME 
+([timeNM62030] of MODULETIME 
 (moduleid  NM6203)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([NM62110] of MODULETIME 
+([timeNM62110] of MODULETIME 
 (moduleid  NM6211)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([NUR11080] of MODULETIME 
+([timeNUR11080] of MODULETIME 
 (moduleid  NUR1108)
 (day SATURDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([NUR11090] of MODULETIME 
+([timeNUR11090] of MODULETIME 
 (moduleid  NUR1109)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([NUR11150] of MODULETIME 
+([timeNUR11150] of MODULETIME 
 (moduleid  NUR1115)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([NUR11160] of MODULETIME 
+([timeNUR11160] of MODULETIME 
 (moduleid  NUR1116)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([NUR11180] of MODULETIME 
+([timeNUR11180] of MODULETIME 
 (moduleid  NUR1118)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([NUR11181] of MODULETIME 
+([timeNUR11181] of MODULETIME 
 (moduleid  NUR1118)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 9:00)
 (semester 2)
 )
-([NUR21070] of MODULETIME 
+([timeNUR21070] of MODULETIME 
 (moduleid  NUR2107)
 (day SATURDAY)
 (starttime 8:00)
 (endtime 9:00)
 (semester 2)
 )
-([NUR21160] of MODULETIME 
+([timeNUR21160] of MODULETIME 
 (moduleid  NUR2116)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([NUR21180] of MODULETIME 
+([timeNUR21180] of MODULETIME 
 (moduleid  NUR2118)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([NUR21181] of MODULETIME 
+([timeNUR21181] of MODULETIME 
 (moduleid  NUR2118)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([NUR31140] of MODULETIME 
+([timeNUR31140] of MODULETIME 
 (moduleid  NUR3114)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([NUR31141] of MODULETIME 
+([timeNUR31141] of MODULETIME 
 (moduleid  NUR3114)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([NUR31150] of MODULETIME 
+([timeNUR31150] of MODULETIME 
 (moduleid  NUR3115)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([NUR31151] of MODULETIME 
+([timeNUR31151] of MODULETIME 
 (moduleid  NUR3115)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([NUR31160] of MODULETIME 
+([timeNUR31160] of MODULETIME 
 (moduleid  NUR3116)
 (day SATURDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([NUR41010] of MODULETIME 
+([timeNUR41010] of MODULETIME 
 (moduleid  NUR4101)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([NUR41040] of MODULETIME 
+([timeNUR41040] of MODULETIME 
 (moduleid  NUR4104)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([OT52030] of MODULETIME 
+([timeOT52030] of MODULETIME 
 (moduleid  OT5203)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([OT52040] of MODULETIME 
+([timeOT52040] of MODULETIME 
 (moduleid  OT5204)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([OT52050] of MODULETIME 
+([timeOT52050] of MODULETIME 
 (moduleid  OT5205)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([OT52060] of MODULETIME 
+([timeOT52060] of MODULETIME 
 (moduleid  OT5206)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([OT53010] of MODULETIME 
+([timeOT53010] of MODULETIME 
 (moduleid  OT5301)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([PA21060] of MODULETIME 
+([timePA21060] of MODULETIME 
 (moduleid  PA2106)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PA21061] of MODULETIME 
+([timePA21061] of MODULETIME 
 (moduleid  PA2106)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PA21062] of MODULETIME 
+([timePA21062] of MODULETIME 
 (moduleid  PA2106)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([PA2106A0] of MODULETIME 
+([timePA2106A0] of MODULETIME 
 (moduleid  PA2106A)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PA2106A1] of MODULETIME 
+([timePA2106A1] of MODULETIME 
 (moduleid  PA2106A)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PA2106A2] of MODULETIME 
+([timePA2106A2] of MODULETIME 
 (moduleid  PA2106A)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC11430] of MODULETIME 
+([timePC11430] of MODULETIME 
 (moduleid  PC1143)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC11431] of MODULETIME 
+([timePC11431] of MODULETIME 
 (moduleid  PC1143)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC11440] of MODULETIME 
+([timePC11440] of MODULETIME 
 (moduleid  PC1144)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC11441] of MODULETIME 
+([timePC11441] of MODULETIME 
 (moduleid  PC1144)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC12210] of MODULETIME 
+([timePC12210] of MODULETIME 
 (moduleid  PC1221)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC12211] of MODULETIME 
+([timePC12211] of MODULETIME 
 (moduleid  PC1221)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC12220] of MODULETIME 
+([timePC12220] of MODULETIME 
 (moduleid  PC1222)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PC12221] of MODULETIME 
+([timePC12221] of MODULETIME 
 (moduleid  PC1222)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PC13220] of MODULETIME 
+([timePC13220] of MODULETIME 
 (moduleid  PC1322)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC13221] of MODULETIME 
+([timePC13221] of MODULETIME 
 (moduleid  PC1322)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC13230] of MODULETIME 
+([timePC13230] of MODULETIME 
 (moduleid  PC1323)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC13231] of MODULETIME 
+([timePC13231] of MODULETIME 
 (moduleid  PC1323)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC13250] of MODULETIME 
+([timePC13250] of MODULETIME 
 (moduleid  PC1325)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC13251] of MODULETIME 
+([timePC13251] of MODULETIME 
 (moduleid  PC1325)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC13270] of MODULETIME 
+([timePC13270] of MODULETIME 
 (moduleid  PC1327)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC13271] of MODULETIME 
+([timePC13271] of MODULETIME 
 (moduleid  PC1327)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC14310] of MODULETIME 
+([timePC14310] of MODULETIME 
 (moduleid  PC1431)
 (day FRIDAY)
 (starttime 17:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC14311] of MODULETIME 
+([timePC14311] of MODULETIME 
 (moduleid  PC1431)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC14320] of MODULETIME 
+([timePC14320] of MODULETIME 
 (moduleid  PC1432)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([PC14321] of MODULETIME 
+([timePC14321] of MODULETIME 
 (moduleid  PC1432)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC14322] of MODULETIME 
+([timePC14322] of MODULETIME 
 (moduleid  PC1432)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC14323] of MODULETIME 
+([timePC14323] of MODULETIME 
 (moduleid  PC1432)
 (day TUESDAY)
 (starttime 13:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC21300] of MODULETIME 
+([timePC21300] of MODULETIME 
 (moduleid  PC2130)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC21301] of MODULETIME 
+([timePC21301] of MODULETIME 
 (moduleid  PC2130)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC2130B0] of MODULETIME 
+([timePC2130B0] of MODULETIME 
 (moduleid  PC2130B)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC2130B1] of MODULETIME 
+([timePC2130B1] of MODULETIME 
 (moduleid  PC2130B)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([PC21310] of MODULETIME 
+([timePC21310] of MODULETIME 
 (moduleid  PC2131)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC21311] of MODULETIME 
+([timePC21311] of MODULETIME 
 (moduleid  PC2131)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC21330] of MODULETIME 
+([timePC21330] of MODULETIME 
 (moduleid  PC2133)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([PC21331] of MODULETIME 
+([timePC21331] of MODULETIME 
 (moduleid  PC2133)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC22300] of MODULETIME 
+([timePC22300] of MODULETIME 
 (moduleid  PC2230)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC22301] of MODULETIME 
+([timePC22301] of MODULETIME 
 (moduleid  PC2230)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC22320] of MODULETIME 
+([timePC22320] of MODULETIME 
 (moduleid  PC2232)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC22321] of MODULETIME 
+([timePC22321] of MODULETIME 
 (moduleid  PC2232)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PC31300] of MODULETIME 
+([timePC31300] of MODULETIME 
 (moduleid  PC3130)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC31301] of MODULETIME 
+([timePC31301] of MODULETIME 
 (moduleid  PC3130)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC32330] of MODULETIME 
+([timePC32330] of MODULETIME 
 (moduleid  PC3233)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC32331] of MODULETIME 
+([timePC32331] of MODULETIME 
 (moduleid  PC3233)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC32360] of MODULETIME 
+([timePC32360] of MODULETIME 
 (moduleid  PC3236)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC32361] of MODULETIME 
+([timePC32361] of MODULETIME 
 (moduleid  PC3236)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC32410] of MODULETIME 
+([timePC32410] of MODULETIME 
 (moduleid  PC3241)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([PC32430] of MODULETIME 
+([timePC32430] of MODULETIME 
 (moduleid  PC3243)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PC32431] of MODULETIME 
+([timePC32431] of MODULETIME 
 (moduleid  PC3243)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PC32460] of MODULETIME 
+([timePC32460] of MODULETIME 
 (moduleid  PC3246)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC32461] of MODULETIME 
+([timePC32461] of MODULETIME 
 (moduleid  PC3246)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC32510] of MODULETIME 
+([timePC32510] of MODULETIME 
 (moduleid  PC3251)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC32511] of MODULETIME 
+([timePC32511] of MODULETIME 
 (moduleid  PC3251)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC32670] of MODULETIME 
+([timePC32670] of MODULETIME 
 (moduleid  PC3267)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PC32671] of MODULETIME 
+([timePC32671] of MODULETIME 
 (moduleid  PC3267)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PC33120] of MODULETIME 
+([timePC33120] of MODULETIME 
 (moduleid  PC3312)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC33121] of MODULETIME 
+([timePC33121] of MODULETIME 
 (moduleid  PC3312)
 (day MONDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC33122] of MODULETIME 
+([timePC33122] of MODULETIME 
 (moduleid  PC3312)
 (day SATURDAY)
 (starttime 6:00)
 (endtime 23:59)
 (semester 2)
 )
-([PC33123] of MODULETIME 
+([timePC33123] of MODULETIME 
 (moduleid  PC3312)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC33124] of MODULETIME 
+([timePC33124] of MODULETIME 
 (moduleid  PC3312)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC33125] of MODULETIME 
+([timePC33125] of MODULETIME 
 (moduleid  PC3312)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC42320] of MODULETIME 
+([timePC42320] of MODULETIME 
 (moduleid  PC4232)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC42321] of MODULETIME 
+([timePC42321] of MODULETIME 
 (moduleid  PC4232)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC42400] of MODULETIME 
+([timePC42400] of MODULETIME 
 (moduleid  PC4240)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC42401] of MODULETIME 
+([timePC42401] of MODULETIME 
 (moduleid  PC4240)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC42420] of MODULETIME 
+([timePC42420] of MODULETIME 
 (moduleid  PC4242)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC42421] of MODULETIME 
+([timePC42421] of MODULETIME 
 (moduleid  PC4242)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC42430] of MODULETIME 
+([timePC42430] of MODULETIME 
 (moduleid  PC4243)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PC42431] of MODULETIME 
+([timePC42431] of MODULETIME 
 (moduleid  PC4243)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PC42450] of MODULETIME 
+([timePC42450] of MODULETIME 
 (moduleid  PC4245)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC42451] of MODULETIME 
+([timePC42451] of MODULETIME 
 (moduleid  PC4245)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC42530] of MODULETIME 
+([timePC42530] of MODULETIME 
 (moduleid  PC4253)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC42531] of MODULETIME 
+([timePC42531] of MODULETIME 
 (moduleid  PC4253)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC42620] of MODULETIME 
+([timePC42620] of MODULETIME 
 (moduleid  PC4262)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC42621] of MODULETIME 
+([timePC42621] of MODULETIME 
 (moduleid  PC4262)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC42640] of MODULETIME 
+([timePC42640] of MODULETIME 
 (moduleid  PC4264)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PC42641] of MODULETIME 
+([timePC42641] of MODULETIME 
 (moduleid  PC4264)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PC42740] of MODULETIME 
+([timePC42740] of MODULETIME 
 (moduleid  PC4274)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC42741] of MODULETIME 
+([timePC42741] of MODULETIME 
 (moduleid  PC4274)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC51980] of MODULETIME 
+([timePC51980] of MODULETIME 
 (moduleid  PC5198)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC51981] of MODULETIME 
+([timePC51981] of MODULETIME 
 (moduleid  PC5198)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC52020] of MODULETIME 
+([timePC52020] of MODULETIME 
 (moduleid  PC5202)
 (day MONDAY)
 (starttime 20:00)
 (endtime 22:00)
 (semester 2)
 )
-([PC52021] of MODULETIME 
+([timePC52021] of MODULETIME 
 (moduleid  PC5202)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PC52030] of MODULETIME 
+([timePC52030] of MODULETIME 
 (moduleid  PC5203)
 (day FRIDAY)
 (starttime 20:00)
 (endtime 22:00)
 (semester 2)
 )
-([PC52031] of MODULETIME 
+([timePC52031] of MODULETIME 
 (moduleid  PC5203)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([PC52060] of MODULETIME 
+([timePC52060] of MODULETIME 
 (moduleid  PC5206)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC52061] of MODULETIME 
+([timePC52061] of MODULETIME 
 (moduleid  PC5206)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC52070] of MODULETIME 
+([timePC52070] of MODULETIME 
 (moduleid  PC5207)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC52071] of MODULETIME 
+([timePC52071] of MODULETIME 
 (moduleid  PC5207)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PC52100] of MODULETIME 
+([timePC52100] of MODULETIME 
 (moduleid  PC5210)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC52101] of MODULETIME 
+([timePC52101] of MODULETIME 
 (moduleid  PC5210)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PC52120] of MODULETIME 
+([timePC52120] of MODULETIME 
 (moduleid  PC5212)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([PC52121] of MODULETIME 
+([timePC52121] of MODULETIME 
 (moduleid  PC5212)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([PC52130] of MODULETIME 
+([timePC52130] of MODULETIME 
 (moduleid  PC5213)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([PC52131] of MODULETIME 
+([timePC52131] of MODULETIME 
 (moduleid  PC5213)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC52280] of MODULETIME 
+([timePC52280] of MODULETIME 
 (moduleid  PC5228)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([PC52281] of MODULETIME 
+([timePC52281] of MODULETIME 
 (moduleid  PC5228)
 (day WEDNESDAY)
 (starttime 20:00)
 (endtime 22:00)
 (semester 2)
 )
-([PC52390] of MODULETIME 
+([timePC52390] of MODULETIME 
 (moduleid  PC5239)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PC52391] of MODULETIME 
+([timePC52391] of MODULETIME 
 (moduleid  PC5239)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PF11030] of MODULETIME 
+([timePF11030] of MODULETIME 
 (moduleid  PF1103)
 (day WEDNESDAY)
 (starttime 13:00)
 (endtime 15:00)
 (semester 2)
 )
-([PF11040] of MODULETIME 
+([timePF11040] of MODULETIME 
 (moduleid  PF1104)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PF11050] of MODULETIME 
+([timePF11050] of MODULETIME 
 (moduleid  PF1105)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([PF21030] of MODULETIME 
+([timePF21030] of MODULETIME 
 (moduleid  PF2103)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PF21040] of MODULETIME 
+([timePF21040] of MODULETIME 
 (moduleid  PF2104)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([PF21050] of MODULETIME 
+([timePF21050] of MODULETIME 
 (moduleid  PF2105)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([PF21080] of MODULETIME 
+([timePF21080] of MODULETIME 
 (moduleid  PF2108)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PF22030] of MODULETIME 
+([timePF22030] of MODULETIME 
 (moduleid  PF2203)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PF23030] of MODULETIME 
+([timePF23030] of MODULETIME 
 (moduleid  PF2303)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([PF31020] of MODULETIME 
+([timePF31020] of MODULETIME 
 (moduleid  PF3102)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PF31030] of MODULETIME 
+([timePF31030] of MODULETIME 
 (moduleid  PF3103)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PF32010] of MODULETIME 
+([timePF32010] of MODULETIME 
 (moduleid  PF3201)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([PF32040] of MODULETIME 
+([timePF32040] of MODULETIME 
 (moduleid  PF3204)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PF33030] of MODULETIME 
+([timePF33030] of MODULETIME 
 (moduleid  PF3303)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([PF41030] of MODULETIME 
+([timePF41030] of MODULETIME 
 (moduleid  PF4103)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([PF42030] of MODULETIME 
+([timePF42030] of MODULETIME 
 (moduleid  PF4203)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PF43040] of MODULETIME 
+([timePF43040] of MODULETIME 
 (moduleid  PF4304)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([PF43050] of MODULETIME 
+([timePF43050] of MODULETIME 
 (moduleid  PF4305)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PF43070] of MODULETIME 
+([timePF43070] of MODULETIME 
 (moduleid  PF4307)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([PH1102E0] of MODULETIME 
+([timePH1102E0] of MODULETIME 
 (moduleid  PH1102E)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PH21100] of MODULETIME 
+([timePH21100] of MODULETIME 
 (moduleid  PH2110)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PH22020] of MODULETIME 
+([timePH22020] of MODULETIME 
 (moduleid  PH2202)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PH22120] of MODULETIME 
+([timePH22120] of MODULETIME 
 (moduleid  PH2212)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PH22220] of MODULETIME 
+([timePH22220] of MODULETIME 
 (moduleid  PH2222)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PH22230] of MODULETIME 
+([timePH22230] of MODULETIME 
 (moduleid  PH2223)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PH22410] of MODULETIME 
+([timePH22410] of MODULETIME 
 (moduleid  PH2241)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PH23020] of MODULETIME 
+([timePH23020] of MODULETIME 
 (moduleid  PH2302)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PH32020] of MODULETIME 
+([timePH32020] of MODULETIME 
 (moduleid  PH3202)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PH32030] of MODULETIME 
+([timePH32030] of MODULETIME 
 (moduleid  PH3203)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PH32040] of MODULETIME 
+([timePH32040] of MODULETIME 
 (moduleid  PH3204)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PH32060] of MODULETIME 
+([timePH32060] of MODULETIME 
 (moduleid  PH3206)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PH42010] of MODULETIME 
+([timePH42010] of MODULETIME 
 (moduleid  PH4201)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([PH42050] of MODULETIME 
+([timePH42050] of MODULETIME 
 (moduleid  PH4205)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([PH42060] of MODULETIME 
+([timePH42060] of MODULETIME 
 (moduleid  PH4206)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PH42160] of MODULETIME 
+([timePH42160] of MODULETIME 
 (moduleid  PH4216)
 (day WEDNESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([PH42410] of MODULETIME 
+([timePH42410] of MODULETIME 
 (moduleid  PH4241)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([PH54300] of MODULETIME 
+([timePH54300] of MODULETIME 
 (moduleid  PH5430)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([PH5430R0] of MODULETIME 
+([timePH5430R0] of MODULETIME 
 (moduleid  PH5430R)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([PH63200] of MODULETIME 
+([timePH63200] of MODULETIME 
 (moduleid  PH6320)
 (day MONDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([PH67600] of MODULETIME 
+([timePH67600] of MODULETIME 
 (moduleid  PH6760)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([PH67700] of MODULETIME 
+([timePH67700] of MODULETIME 
 (moduleid  PH6770)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PL1101E0] of MODULETIME 
+([timePL1101E0] of MODULETIME 
 (moduleid  PL1101E)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PL1101E1] of MODULETIME 
+([timePL1101E1] of MODULETIME 
 (moduleid  PL1101E)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PL21310] of MODULETIME 
+([timePL21310] of MODULETIME 
 (moduleid  PL2131)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PL21320] of MODULETIME 
+([timePL21320] of MODULETIME 
 (moduleid  PL2132)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PL32320] of MODULETIME 
+([timePL32320] of MODULETIME 
 (moduleid  PL3232)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PL32330] of MODULETIME 
+([timePL32330] of MODULETIME 
 (moduleid  PL3233)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PL32340] of MODULETIME 
+([timePL32340] of MODULETIME 
 (moduleid  PL3234)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PL32350] of MODULETIME 
+([timePL32350] of MODULETIME 
 (moduleid  PL3235)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PL32360] of MODULETIME 
+([timePL32360] of MODULETIME 
 (moduleid  PL3236)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PL32370] of MODULETIME 
+([timePL32370] of MODULETIME 
 (moduleid  PL3237)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PL32380] of MODULETIME 
+([timePL32380] of MODULETIME 
 (moduleid  PL3238)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([PL32410] of MODULETIME 
+([timePL32410] of MODULETIME 
 (moduleid  PL3241)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([PL32430] of MODULETIME 
+([timePL32430] of MODULETIME 
 (moduleid  PL3243)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PL32490] of MODULETIME 
+([timePL32490] of MODULETIME 
 (moduleid  PL3249)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PL32500] of MODULETIME 
+([timePL32500] of MODULETIME 
 (moduleid  PL3250)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PL32510] of MODULETIME 
+([timePL32510] of MODULETIME 
 (moduleid  PL3251)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PL32560] of MODULETIME 
+([timePL32560] of MODULETIME 
 (moduleid  PL3256)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PL3281D0] of MODULETIME 
+([timePL3281D0] of MODULETIME 
 (moduleid  PL3281D)
 (day THURSDAY)
 (starttime 13:00)
 (endtime 16:00)
 (semester 2)
 )
-([PL32820] of MODULETIME 
+([timePL32820] of MODULETIME 
 (moduleid  PL3282)
 (day TUESDAY)
 (starttime 13:00)
 (endtime 16:00)
 (semester 2)
 )
-([PL3282C0] of MODULETIME 
+([timePL3282C0] of MODULETIME 
 (moduleid  PL3282C)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([PL32840] of MODULETIME 
+([timePL32840] of MODULETIME 
 (moduleid  PL3284)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([PL32850] of MODULETIME 
+([timePL32850] of MODULETIME 
 (moduleid  PL3285)
 (day WEDNESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([PL32860] of MODULETIME 
+([timePL32860] of MODULETIME 
 (moduleid  PL3286)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([PL32880] of MODULETIME 
+([timePL32880] of MODULETIME 
 (moduleid  PL3288)
 (day MONDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([PL42020] of MODULETIME 
+([timePL42020] of MODULETIME 
 (moduleid  PL4202)
 (day FRIDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([PL42050] of MODULETIME 
+([timePL42050] of MODULETIME 
 (moduleid  PL4205)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PL42070] of MODULETIME 
+([timePL42070] of MODULETIME 
 (moduleid  PL4207)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([PL42080] of MODULETIME 
+([timePL42080] of MODULETIME 
 (moduleid  PL4208)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([PL42180] of MODULETIME 
+([timePL42180] of MODULETIME 
 (moduleid  PL4218)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([PL42190] of MODULETIME 
+([timePL42190] of MODULETIME 
 (moduleid  PL4219)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([PL42210] of MODULETIME 
+([timePL42210] of MODULETIME 
 (moduleid  PL4221)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([PL42220] of MODULETIME 
+([timePL42220] of MODULETIME 
 (moduleid  PL4222)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([PL42240] of MODULETIME 
+([timePL42240] of MODULETIME 
 (moduleid  PL4224)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([PL42260] of MODULETIME 
+([timePL42260] of MODULETIME 
 (moduleid  PL4226)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([PL42280] of MODULETIME 
+([timePL42280] of MODULETIME 
 (moduleid  PL4228)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PL42290] of MODULETIME 
+([timePL42290] of MODULETIME 
 (moduleid  PL4229)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([PL42310] of MODULETIME 
+([timePL42310] of MODULETIME 
 (moduleid  PL4231)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([PL42340] of MODULETIME 
+([timePL42340] of MODULETIME 
 (moduleid  PL4234)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([PL42350] of MODULETIME 
+([timePL42350] of MODULETIME 
 (moduleid  PL4235)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([PL4880I0] of MODULETIME 
+([timePL4880I0] of MODULETIME 
 (moduleid  PL4880I)
 (day WEDNESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([PL4880J0] of MODULETIME 
+([timePL4880J0] of MODULETIME 
 (moduleid  PL4880J)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([PL5222R0] of MODULETIME 
+([timePL5222R0] of MODULETIME 
 (moduleid  PL5222R)
 (day THURSDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([PL5225R0] of MODULETIME 
+([timePL5225R0] of MODULETIME 
 (moduleid  PL5225R)
 (day MONDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([PP51380] of MODULETIME 
+([timePP51380] of MODULETIME 
 (moduleid  PP5138)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PP51410] of MODULETIME 
+([timePP51410] of MODULETIME 
 (moduleid  PP5141)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PP51420] of MODULETIME 
+([timePP51420] of MODULETIME 
 (moduleid  PP5142)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PP52090] of MODULETIME 
+([timePP52090] of MODULETIME 
 (moduleid  PP5209)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PP52230] of MODULETIME 
+([timePP52230] of MODULETIME 
 (moduleid  PP5223)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PP5241J0] of MODULETIME 
+([timePP5241J0] of MODULETIME 
 (moduleid  PP5241J)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PP5241K0] of MODULETIME 
+([timePP5241K0] of MODULETIME 
 (moduleid  PP5241K)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PP5242K0] of MODULETIME 
+([timePP5242K0] of MODULETIME 
 (moduleid  PP5242K)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PP52460] of MODULETIME 
+([timePP52460] of MODULETIME 
 (moduleid  PP5246)
 (day WEDNESDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([PP52550] of MODULETIME 
+([timePP52550] of MODULETIME 
 (moduleid  PP5255)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PP52940] of MODULETIME 
+([timePP52940] of MODULETIME 
 (moduleid  PP5294)
 (day TUESDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([PP54110] of MODULETIME 
+([timePP54110] of MODULETIME 
 (moduleid  PP5411)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([PP54120] of MODULETIME 
+([timePP54120] of MODULETIME 
 (moduleid  PP5412)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PP54130] of MODULETIME 
+([timePP54130] of MODULETIME 
 (moduleid  PP5413)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PP54140] of MODULETIME 
+([timePP54140] of MODULETIME 
 (moduleid  PP5414)
 (day MONDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([PR11020] of MODULETIME 
+([timePR11020] of MODULETIME 
 (moduleid  PR1102)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR11021] of MODULETIME 
+([timePR11021] of MODULETIME 
 (moduleid  PR1102)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR21020] of MODULETIME 
+([timePR21020] of MODULETIME 
 (moduleid  PR2102)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PR21021] of MODULETIME 
+([timePR21021] of MODULETIME 
 (moduleid  PR2102)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PR21050] of MODULETIME 
+([timePR21050] of MODULETIME 
 (moduleid  PR2105)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR21051] of MODULETIME 
+([timePR21051] of MODULETIME 
 (moduleid  PR2105)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR22020] of MODULETIME 
+([timePR22020] of MODULETIME 
 (moduleid  PR2202)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR22021] of MODULETIME 
+([timePR22021] of MODULETIME 
 (moduleid  PR2202)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR31030] of MODULETIME 
+([timePR31030] of MODULETIME 
 (moduleid  PR3103)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PR31031] of MODULETIME 
+([timePR31031] of MODULETIME 
 (moduleid  PR3103)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PR31040] of MODULETIME 
+([timePR31040] of MODULETIME 
 (moduleid  PR3104)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PR31041] of MODULETIME 
+([timePR31041] of MODULETIME 
 (moduleid  PR3104)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PR31050] of MODULETIME 
+([timePR31050] of MODULETIME 
 (moduleid  PR3105)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR31051] of MODULETIME 
+([timePR31051] of MODULETIME 
 (moduleid  PR3105)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR31060] of MODULETIME 
+([timePR31060] of MODULETIME 
 (moduleid  PR3106)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PR31061] of MODULETIME 
+([timePR31061] of MODULETIME 
 (moduleid  PR3106)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PR31070] of MODULETIME 
+([timePR31070] of MODULETIME 
 (moduleid  PR3107)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PR31071] of MODULETIME 
+([timePR31071] of MODULETIME 
 (moduleid  PR3107)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PR33010] of MODULETIME 
+([timePR33010] of MODULETIME 
 (moduleid  PR3301)
 (day SATURDAY)
 (starttime 9:00)
 (endtime 12:30)
 (semester 2)
 )
-([PR41020] of MODULETIME 
+([timePR41020] of MODULETIME 
 (moduleid  PR4102)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PR41021] of MODULETIME 
+([timePR41021] of MODULETIME 
 (moduleid  PR4102)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PR41040] of MODULETIME 
+([timePR41040] of MODULETIME 
 (moduleid  PR4104)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([PR41050] of MODULETIME 
+([timePR41050] of MODULETIME 
 (moduleid  PR4105)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PR41051] of MODULETIME 
+([timePR41051] of MODULETIME 
 (moduleid  PR4105)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PR41060] of MODULETIME 
+([timePR41060] of MODULETIME 
 (moduleid  PR4106)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PR41061] of MODULETIME 
+([timePR41061] of MODULETIME 
 (moduleid  PR4106)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PR42010] of MODULETIME 
+([timePR42010] of MODULETIME 
 (moduleid  PR4201)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR42011] of MODULETIME 
+([timePR42011] of MODULETIME 
 (moduleid  PR4201)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR42060] of MODULETIME 
+([timePR42060] of MODULETIME 
 (moduleid  PR4206)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR42061] of MODULETIME 
+([timePR42061] of MODULETIME 
 (moduleid  PR4206)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR51130] of MODULETIME 
+([timePR51130] of MODULETIME 
 (moduleid  PR5113)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PR51131] of MODULETIME 
+([timePR51131] of MODULETIME 
 (moduleid  PR5113)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PR51300] of MODULETIME 
+([timePR51300] of MODULETIME 
 (moduleid  PR5130)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PR51301] of MODULETIME 
+([timePR51301] of MODULETIME 
 (moduleid  PR5130)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PR51330] of MODULETIME 
+([timePR51330] of MODULETIME 
 (moduleid  PR5133)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR51360] of MODULETIME 
+([timePR51360] of MODULETIME 
 (moduleid  PR5136)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR52120] of MODULETIME 
+([timePR52120] of MODULETIME 
 (moduleid  PR5212)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([PR52160] of MODULETIME 
+([timePR52160] of MODULETIME 
 (moduleid  PR5216)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([PR52170] of MODULETIME 
+([timePR52170] of MODULETIME 
 (moduleid  PR5217)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([PR52200] of MODULETIME 
+([timePR52200] of MODULETIME 
 (moduleid  PR5220)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([PR52300] of MODULETIME 
+([timePR52300] of MODULETIME 
 (moduleid  PR5230)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PR52301] of MODULETIME 
+([timePR52301] of MODULETIME 
 (moduleid  PR5230)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PR53020] of MODULETIME 
+([timePR53020] of MODULETIME 
 (moduleid  PR5302)
 (day SATURDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PS1101E0] of MODULETIME 
+([timePS1101E0] of MODULETIME 
 (moduleid  PS1101E)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PS22030] of MODULETIME 
+([timePS22030] of MODULETIME 
 (moduleid  PS2203)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PS22330] of MODULETIME 
+([timePS22330] of MODULETIME 
 (moduleid  PS2233)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PS22340] of MODULETIME 
+([timePS22340] of MODULETIME 
 (moduleid  PS2234)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PS22370] of MODULETIME 
+([timePS22370] of MODULETIME 
 (moduleid  PS2237)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PS22390] of MODULETIME 
+([timePS22390] of MODULETIME 
 (moduleid  PS2239)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PS22400] of MODULETIME 
+([timePS22400] of MODULETIME 
 (moduleid  PS2240)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PS22440] of MODULETIME 
+([timePS22440] of MODULETIME 
 (moduleid  PS2244)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PS22450] of MODULETIME 
+([timePS22450] of MODULETIME 
 (moduleid  PS2245)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PS22480] of MODULETIME 
+([timePS22480] of MODULETIME 
 (moduleid  PS2248)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PS22490] of MODULETIME 
+([timePS22490] of MODULETIME 
 (moduleid  PS2249)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PS32320] of MODULETIME 
+([timePS32320] of MODULETIME 
 (moduleid  PS3232)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PS32490] of MODULETIME 
+([timePS32490] of MODULETIME 
 (moduleid  PS3249)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([PS32570] of MODULETIME 
+([timePS32570] of MODULETIME 
 (moduleid  PS3257)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PS32580] of MODULETIME 
+([timePS32580] of MODULETIME 
 (moduleid  PS3258)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PS32620] of MODULETIME 
+([timePS32620] of MODULETIME 
 (moduleid  PS3262)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PS32630] of MODULETIME 
+([timePS32630] of MODULETIME 
 (moduleid  PS3263)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([PS32650] of MODULETIME 
+([timePS32650] of MODULETIME 
 (moduleid  PS3265)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([PS32660] of MODULETIME 
+([timePS32660] of MODULETIME 
 (moduleid  PS3266)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([PS3880B0] of MODULETIME 
+([timePS3880B0] of MODULETIME 
 (moduleid  PS3880B)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([PS3880H0] of MODULETIME 
+([timePS3880H0] of MODULETIME 
 (moduleid  PS3880H)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([PS42020] of MODULETIME 
+([timePS42020] of MODULETIME 
 (moduleid  PS4202)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([PS42030] of MODULETIME 
+([timePS42030] of MODULETIME 
 (moduleid  PS4203)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([PS42090] of MODULETIME 
+([timePS42090] of MODULETIME 
 (moduleid  PS4209)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([PS42180] of MODULETIME 
+([timePS42180] of MODULETIME 
 (moduleid  PS4218)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([PS42200] of MODULETIME 
+([timePS42200] of MODULETIME 
 (moduleid  PS4220)
 (day WEDNESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([PS42250] of MODULETIME 
+([timePS42250] of MODULETIME 
 (moduleid  PS4225)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([PS42270] of MODULETIME 
+([timePS42270] of MODULETIME 
 (moduleid  PS4227)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([PS4882D0] of MODULETIME 
+([timePS4882D0] of MODULETIME 
 (moduleid  PS4882D)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([PS4882H0] of MODULETIME 
+([timePS4882H0] of MODULETIME 
 (moduleid  PS4882H)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([PS4883A0] of MODULETIME 
+([timePS4883A0] of MODULETIME 
 (moduleid  PS4883A)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([PS4883B0] of MODULETIME 
+([timePS4883B0] of MODULETIME 
 (moduleid  PS4883B)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([PS5312R0] of MODULETIME 
+([timePS5312R0] of MODULETIME 
 (moduleid  PS5312R)
 (day MONDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([PS5314R0] of MODULETIME 
+([timePS5314R0] of MODULETIME 
 (moduleid  PS5314R)
 (day THURSDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([PS5316R0] of MODULETIME 
+([timePS5316R0] of MODULETIME 
 (moduleid  PS5316R)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([PS5603R0] of MODULETIME 
+([timePS5603R0] of MODULETIME 
 (moduleid  PS5603R)
 (day TUESDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([PY11060] of MODULETIME 
+([timePY11060] of MODULETIME 
 (moduleid  PY1106)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([PY11061] of MODULETIME 
+([timePY11061] of MODULETIME 
 (moduleid  PY1106)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([QF31010] of MODULETIME 
+([timeQF31010] of MODULETIME 
 (moduleid  QF3101)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([QF31011] of MODULETIME 
+([timeQF31011] of MODULETIME 
 (moduleid  QF3101)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([QF33120] of MODULETIME 
+([timeQF33120] of MODULETIME 
 (moduleid  QF3312)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([QF33121] of MODULETIME 
+([timeQF33121] of MODULETIME 
 (moduleid  QF3312)
 (day MONDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([QF33122] of MODULETIME 
+([timeQF33122] of MODULETIME 
 (moduleid  QF3312)
 (day SATURDAY)
 (starttime 6:00)
 (endtime 23:59)
 (semester 2)
 )
-([QF33123] of MODULETIME 
+([timeQF33123] of MODULETIME 
 (moduleid  QF3312)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([QF33124] of MODULETIME 
+([timeQF33124] of MODULETIME 
 (moduleid  QF3312)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([QF33125] of MODULETIME 
+([timeQF33125] of MODULETIME 
 (moduleid  QF3312)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([QF52020] of MODULETIME 
+([timeQF52020] of MODULETIME 
 (moduleid  QF5202)
 (day SATURDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([QF52060] of MODULETIME 
+([timeQF52060] of MODULETIME 
 (moduleid  QF5206)
 (day WEDNESDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([QF52100] of MODULETIME 
+([timeQF52100] of MODULETIME 
 (moduleid  QF5210)
 (day THURSDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([RE11030] of MODULETIME 
+([timeRE11030] of MODULETIME 
 (moduleid  RE1103)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([RE11040] of MODULETIME 
+([timeRE11040] of MODULETIME 
 (moduleid  RE1104)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([RE21040] of MODULETIME 
+([timeRE21040] of MODULETIME 
 (moduleid  RE2104)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([RE21050] of MODULETIME 
+([timeRE21050] of MODULETIME 
 (moduleid  RE2105)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([RE21060] of MODULETIME 
+([timeRE21060] of MODULETIME 
 (moduleid  RE2106)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([RE21070] of MODULETIME 
+([timeRE21070] of MODULETIME 
 (moduleid  RE2107)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([RE22010] of MODULETIME 
+([timeRE22010] of MODULETIME 
 (moduleid  RE2201)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([RE23010] of MODULETIME 
+([timeRE23010] of MODULETIME 
 (moduleid  RE2301)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([RE31050] of MODULETIME 
+([timeRE31050] of MODULETIME 
 (moduleid  RE3105)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([RE31060] of MODULETIME 
+([timeRE31060] of MODULETIME 
 (moduleid  RE3106)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([RE32010] of MODULETIME 
+([timeRE32010] of MODULETIME 
 (moduleid  RE3201)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([RE32110] of MODULETIME 
+([timeRE32110] of MODULETIME 
 (moduleid  RE3211)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([RE32120] of MODULETIME 
+([timeRE32120] of MODULETIME 
 (moduleid  RE3212)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([RE32210] of MODULETIME 
+([timeRE32210] of MODULETIME 
 (moduleid  RE3221)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([RE32220] of MODULETIME 
+([timeRE32220] of MODULETIME 
 (moduleid  RE3222)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([RE33010] of MODULETIME 
+([timeRE33010] of MODULETIME 
 (moduleid  RE3301)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([RE42100] of MODULETIME 
+([timeRE42100] of MODULETIME 
 (moduleid  RE4210)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([RE42130] of MODULETIME 
+([timeRE42130] of MODULETIME 
 (moduleid  RE4213)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([RE42200] of MODULETIME 
+([timeRE42200] of MODULETIME 
 (moduleid  RE4220)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([RE42230] of MODULETIME 
+([timeRE42230] of MODULETIME 
 (moduleid  RE4223)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([RE43020] of MODULETIME 
+([timeRE43020] of MODULETIME 
 (moduleid  RE4302)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SC1101E0] of MODULETIME 
+([timeSC1101E0] of MODULETIME 
 (moduleid  SC1101E)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SC21010] of MODULETIME 
+([timeSC21010] of MODULETIME 
 (moduleid  SC2101)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SC22020] of MODULETIME 
+([timeSC22020] of MODULETIME 
 (moduleid  SC2202)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SC22040] of MODULETIME 
+([timeSC22040] of MODULETIME 
 (moduleid  SC2204)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SC22090] of MODULETIME 
+([timeSC22090] of MODULETIME 
 (moduleid  SC2209)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SC22110] of MODULETIME 
+([timeSC22110] of MODULETIME 
 (moduleid  SC2211)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SC22120] of MODULETIME 
+([timeSC22120] of MODULETIME 
 (moduleid  SC2212)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SC22140] of MODULETIME 
+([timeSC22140] of MODULETIME 
 (moduleid  SC2214)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SC22150] of MODULETIME 
+([timeSC22150] of MODULETIME 
 (moduleid  SC2215)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SC22200] of MODULETIME 
+([timeSC22200] of MODULETIME 
 (moduleid  SC2220)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SC22210] of MODULETIME 
+([timeSC22210] of MODULETIME 
 (moduleid  SC2221)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SC31010] of MODULETIME 
+([timeSC31010] of MODULETIME 
 (moduleid  SC3101)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SC32030] of MODULETIME 
+([timeSC32030] of MODULETIME 
 (moduleid  SC3203)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SC32060] of MODULETIME 
+([timeSC32060] of MODULETIME 
 (moduleid  SC3206)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SC32080] of MODULETIME 
+([timeSC32080] of MODULETIME 
 (moduleid  SC3208)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SC32110] of MODULETIME 
+([timeSC32110] of MODULETIME 
 (moduleid  SC3211)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SC32130] of MODULETIME 
+([timeSC32130] of MODULETIME 
 (moduleid  SC3213)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SC32140] of MODULETIME 
+([timeSC32140] of MODULETIME 
 (moduleid  SC3214)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SC32160] of MODULETIME 
+([timeSC32160] of MODULETIME 
 (moduleid  SC3216)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SC32190] of MODULETIME 
+([timeSC32190] of MODULETIME 
 (moduleid  SC3219)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SC32220] of MODULETIME 
+([timeSC32220] of MODULETIME 
 (moduleid  SC3222)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SC32270] of MODULETIME 
+([timeSC32270] of MODULETIME 
 (moduleid  SC3227)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SC41010] of MODULETIME 
+([timeSC41010] of MODULETIME 
 (moduleid  SC4101)
 (day MONDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([SC42100] of MODULETIME 
+([timeSC42100] of MODULETIME 
 (moduleid  SC4210)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([SC42180] of MODULETIME 
+([timeSC42180] of MODULETIME 
 (moduleid  SC4218)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([SC42200] of MODULETIME 
+([timeSC42200] of MODULETIME 
 (moduleid  SC4220)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([SC42210] of MODULETIME 
+([timeSC42210] of MODULETIME 
 (moduleid  SC4221)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([SC42220] of MODULETIME 
+([timeSC42220] of MODULETIME 
 (moduleid  SC4222)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([SC42230] of MODULETIME 
+([timeSC42230] of MODULETIME 
 (moduleid  SC4223)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([SC42250] of MODULETIME 
+([timeSC42250] of MODULETIME 
 (moduleid  SC4225)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([SC4882B0] of MODULETIME 
+([timeSC4882B0] of MODULETIME 
 (moduleid  SC4882B)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([SC5102R0] of MODULETIME 
+([timeSC5102R0] of MODULETIME 
 (moduleid  SC5102R)
 (day THURSDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([SC5215R0] of MODULETIME 
+([timeSC5215R0] of MODULETIME 
 (moduleid  SC5215R)
 (day FRIDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([SDM50020] of MODULETIME 
+([timeSDM50020] of MODULETIME 
 (moduleid  SDM5002)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([SDM50030] of MODULETIME 
+([timeSDM50030] of MODULETIME 
 (moduleid  SDM5003)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([SDM50040] of MODULETIME 
+([timeSDM50040] of MODULETIME 
 (moduleid  SDM5004)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([SE1101E0] of MODULETIME 
+([timeSE1101E0] of MODULETIME 
 (moduleid  SE1101E)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SE22100] of MODULETIME 
+([timeSE22100] of MODULETIME 
 (moduleid  SE2210)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SE22170] of MODULETIME 
+([timeSE22170] of MODULETIME 
 (moduleid  SE2217)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SE2218T0] of MODULETIME 
+([timeSE2218T0] of MODULETIME 
 (moduleid  SE2218T)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([SE22230] of MODULETIME 
+([timeSE22230] of MODULETIME 
 (moduleid  SE2223)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SE22260] of MODULETIME 
+([timeSE22260] of MODULETIME 
 (moduleid  SE2226)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([SE32110] of MODULETIME 
+([timeSE32110] of MODULETIME 
 (moduleid  SE3211)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SE32160] of MODULETIME 
+([timeSE32160] of MODULETIME 
 (moduleid  SE3216)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SE32180] of MODULETIME 
+([timeSE32180] of MODULETIME 
 (moduleid  SE3218)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SE32200] of MODULETIME 
+([timeSE32200] of MODULETIME 
 (moduleid  SE3220)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SE32240] of MODULETIME 
+([timeSE32240] of MODULETIME 
 (moduleid  SE3224)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SE32260] of MODULETIME 
+([timeSE32260] of MODULETIME 
 (moduleid  SE3226)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SE5221R0] of MODULETIME 
+([timeSE5221R0] of MODULETIME 
 (moduleid  SE5221R)
 (day MONDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([SE5223R0] of MODULETIME 
+([timeSE5223R0] of MODULETIME 
 (moduleid  SE5223R)
 (day WEDNESDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([SE5229R0] of MODULETIME 
+([timeSE5229R0] of MODULETIME 
 (moduleid  SE5229R)
 (day FRIDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([SE5233R0] of MODULETIME 
+([timeSE5233R0] of MODULETIME 
 (moduleid  SE5233R)
 (day MONDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([SE5241R0] of MODULETIME 
+([timeSE5241R0] of MODULETIME 
 (moduleid  SE5241R)
 (day THURSDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([SN1101E0] of MODULETIME 
+([timeSN1101E0] of MODULETIME 
 (moduleid  SN1101E)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SN22320] of MODULETIME 
+([timeSN22320] of MODULETIME 
 (moduleid  SN2232)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SN22330] of MODULETIME 
+([timeSN22330] of MODULETIME 
 (moduleid  SN2233)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SN22710] of MODULETIME 
+([timeSN22710] of MODULETIME 
 (moduleid  SN2271)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SN22770] of MODULETIME 
+([timeSN22770] of MODULETIME 
 (moduleid  SN2277)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SN32620] of MODULETIME 
+([timeSN32620] of MODULETIME 
 (moduleid  SN3262)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([SN32720] of MODULETIME 
+([timeSN32720] of MODULETIME 
 (moduleid  SN3272)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SN32740] of MODULETIME 
+([timeSN32740] of MODULETIME 
 (moduleid  SN3274)
 (day MONDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([SN32750] of MODULETIME 
+([timeSN32750] of MODULETIME 
 (moduleid  SN3275)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SP21710] of MODULETIME 
+([timeSP21710] of MODULETIME 
 (moduleid  SP2171)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SP21740] of MODULETIME 
+([timeSP21740] of MODULETIME 
 (moduleid  SP2174)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([SP22510] of MODULETIME 
+([timeSP22510] of MODULETIME 
 (moduleid  SP2251)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SP22511] of MODULETIME 
+([timeSP22511] of MODULETIME 
 (moduleid  SP2251)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SP31760] of MODULETIME 
+([timeSP31760] of MODULETIME 
 (moduleid  SP3176)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([SP32020] of MODULETIME 
+([timeSP32020] of MODULETIME 
 (moduleid  SP3202)
 (day FRIDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([SPH21040] of MODULETIME 
+([timeSPH21040] of MODULETIME 
 (moduleid  SPH2104)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SPH31020] of MODULETIME 
+([timeSPH31020] of MODULETIME 
 (moduleid  SPH3102)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([SPH31030] of MODULETIME 
+([timeSPH31030] of MODULETIME 
 (moduleid  SPH3103)
 (day TUESDAY)
 (starttime 13:00)
 (endtime 16:00)
 (semester 2)
 )
-([SSA12010] of MODULETIME 
+([timeSSA12010] of MODULETIME 
 (moduleid  SSA1201)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SSA12020] of MODULETIME 
+([timeSSA12020] of MODULETIME 
 (moduleid  SSA1202)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SSA12070] of MODULETIME 
+([timeSSA12070] of MODULETIME 
 (moduleid  SSA1207)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SSA12080] of MODULETIME 
+([timeSSA12080] of MODULETIME 
 (moduleid  SSA1208)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SSA22020] of MODULETIME 
+([timeSSA22020] of MODULETIME 
 (moduleid  SSA2202)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SSA22030] of MODULETIME 
+([timeSSA22030] of MODULETIME 
 (moduleid  SSA2203)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SSA22040] of MODULETIME 
+([timeSSA22040] of MODULETIME 
 (moduleid  SSA2204)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SSA22050] of MODULETIME 
+([timeSSA22050] of MODULETIME 
 (moduleid  SSA2205)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SSA22080] of MODULETIME 
+([timeSSA22080] of MODULETIME 
 (moduleid  SSA2208)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SSA22081] of MODULETIME 
+([timeSSA22081] of MODULETIME 
 (moduleid  SSA2208)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SSA22090] of MODULETIME 
+([timeSSA22090] of MODULETIME 
 (moduleid  SSA2209)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SSA22140] of MODULETIME 
+([timeSSA22140] of MODULETIME 
 (moduleid  SSA2214)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SSA22150] of MODULETIME 
+([timeSSA22150] of MODULETIME 
 (moduleid  SSA2215)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SSA22200] of MODULETIME 
+([timeSSA22200] of MODULETIME 
 (moduleid  SSA2220)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SSA22210] of MODULETIME 
+([timeSSA22210] of MODULETIME 
 (moduleid  SSA2221)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SSA22220] of MODULETIME 
+([timeSSA22220] of MODULETIME 
 (moduleid  SSA2222)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([SSA32010] of MODULETIME 
+([timeSSA32010] of MODULETIME 
 (moduleid  SSA3201)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SSA32030] of MODULETIME 
+([timeSSA32030] of MODULETIME 
 (moduleid  SSA3203)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SSA32050] of MODULETIME 
+([timeSSA32050] of MODULETIME 
 (moduleid  SSA3205)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SSB12040] of MODULETIME 
+([timeSSB12040] of MODULETIME 
 (moduleid  SSB1204)
 (day TUESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([SSB12041] of MODULETIME 
+([timeSSB12041] of MODULETIME 
 (moduleid  SSB1204)
 (day WEDNESDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([SSB1204T0] of MODULETIME 
+([timeSSB1204T0] of MODULETIME 
 (moduleid  SSB1204T)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([SSB22170] of MODULETIME 
+([timeSSB22170] of MODULETIME 
 (moduleid  SSB2217)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([SSD22130] of MODULETIME 
+([timeSSD22130] of MODULETIME 
 (moduleid  SSD2213)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SSS12070] of MODULETIME 
+([timeSSS12070] of MODULETIME 
 (moduleid  SSS1207)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SSS12071] of MODULETIME 
+([timeSSS12071] of MODULETIME 
 (moduleid  SSS1207)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SSU20000] of MODULETIME 
+([timeSSU20000] of MODULETIME 
 (moduleid  SSU2000)
 (day MONDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([SSU20001] of MODULETIME 
+([timeSSU20001] of MODULETIME 
 (moduleid  SSU2000)
 (day MONDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([SSU20002] of MODULETIME 
+([timeSSU20002] of MODULETIME 
 (moduleid  SSU2000)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([SSU20003] of MODULETIME 
+([timeSSU20003] of MODULETIME 
 (moduleid  SSU2000)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([SSU20004] of MODULETIME 
+([timeSSU20004] of MODULETIME 
 (moduleid  SSU2000)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([SSU20005] of MODULETIME 
+([timeSSU20005] of MODULETIME 
 (moduleid  SSU2000)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([SSU20006] of MODULETIME 
+([timeSSU20006] of MODULETIME 
 (moduleid  SSU2000)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([SSU20007] of MODULETIME 
+([timeSSU20007] of MODULETIME 
 (moduleid  SSU2000)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([SSU20008] of MODULETIME 
+([timeSSU20008] of MODULETIME 
 (moduleid  SSU2000)
 (day MONDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([SSU20030] of MODULETIME 
+([timeSSU20030] of MODULETIME 
 (moduleid  SSU2003)
 (day MONDAY)
 (starttime 19:00)
 (endtime 21:00)
 (semester 2)
 )
-([SSU20031] of MODULETIME 
+([timeSSU20031] of MODULETIME 
 (moduleid  SSU2003)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SSU20032] of MODULETIME 
+([timeSSU20032] of MODULETIME 
 (moduleid  SSU2003)
 (day MONDAY)
 (starttime 19:00)
 (endtime 21:00)
 (semester 2)
 )
-([SSU20033] of MODULETIME 
+([timeSSU20033] of MODULETIME 
 (moduleid  SSU2003)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([SSU20034] of MODULETIME 
+([timeSSU20034] of MODULETIME 
 (moduleid  SSU2003)
 (day MONDAY)
 (starttime 19:00)
 (endtime 21:00)
 (semester 2)
 )
-([SSU20035] of MODULETIME 
+([timeSSU20035] of MODULETIME 
 (moduleid  SSU2003)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([SSU20036] of MODULETIME 
+([timeSSU20036] of MODULETIME 
 (moduleid  SSU2003)
 (day MONDAY)
 (starttime 19:00)
 (endtime 21:00)
 (semester 2)
 )
-([SSU20037] of MODULETIME 
+([timeSSU20037] of MODULETIME 
 (moduleid  SSU2003)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([SSU20038] of MODULETIME 
+([timeSSU20038] of MODULETIME 
 (moduleid  SSU2003)
 (day MONDAY)
 (starttime 19:00)
 (endtime 21:00)
 (semester 2)
 )
-([SSU20039] of MODULETIME 
+([timeSSU20039] of MODULETIME 
 (moduleid  SSU2003)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SSU200310] of MODULETIME 
+([timeSSU200310] of MODULETIME 
 (moduleid  SSU2003)
 (day MONDAY)
 (starttime 19:00)
 (endtime 21:00)
 (semester 2)
 )
-([SSU200311] of MODULETIME 
+([timeSSU200311] of MODULETIME 
 (moduleid  SSU2003)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SSU20040] of MODULETIME 
+([timeSSU20040] of MODULETIME 
 (moduleid  SSU2004)
 (day MONDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([SSU20041] of MODULETIME 
+([timeSSU20041] of MODULETIME 
 (moduleid  SSU2004)
 (day MONDAY)
 (starttime 16:00)
 (endtime 19:00)
 (semester 2)
 )
-([SSU20042] of MODULETIME 
+([timeSSU20042] of MODULETIME 
 (moduleid  SSU2004)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([SSU20043] of MODULETIME 
+([timeSSU20043] of MODULETIME 
 (moduleid  SSU2004)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([SSU20044] of MODULETIME 
+([timeSSU20044] of MODULETIME 
 (moduleid  SSU2004)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([ST11310] of MODULETIME 
+([timeST11310] of MODULETIME 
 (moduleid  ST1131)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ST11311] of MODULETIME 
+([timeST11311] of MODULETIME 
 (moduleid  ST1131)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ST12320] of MODULETIME 
+([timeST12320] of MODULETIME 
 (moduleid  ST1232)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ST12321] of MODULETIME 
+([timeST12321] of MODULETIME 
 (moduleid  ST1232)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ST21310] of MODULETIME 
+([timeST21310] of MODULETIME 
 (moduleid  ST2131)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([ST21311] of MODULETIME 
+([timeST21311] of MODULETIME 
 (moduleid  ST2131)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([ST21312] of MODULETIME 
+([timeST21312] of MODULETIME 
 (moduleid  ST2131)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ST21313] of MODULETIME 
+([timeST21313] of MODULETIME 
 (moduleid  ST2131)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ST21314] of MODULETIME 
+([timeST21314] of MODULETIME 
 (moduleid  ST2131)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ST21315] of MODULETIME 
+([timeST21315] of MODULETIME 
 (moduleid  ST2131)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ST21320] of MODULETIME 
+([timeST21320] of MODULETIME 
 (moduleid  ST2132)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ST21321] of MODULETIME 
+([timeST21321] of MODULETIME 
 (moduleid  ST2132)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ST23340] of MODULETIME 
+([timeST23340] of MODULETIME 
 (moduleid  ST2334)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ST23341] of MODULETIME 
+([timeST23341] of MODULETIME 
 (moduleid  ST2334)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ST23342] of MODULETIME 
+([timeST23342] of MODULETIME 
 (moduleid  ST2334)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ST23343] of MODULETIME 
+([timeST23343] of MODULETIME 
 (moduleid  ST2334)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ST31310] of MODULETIME 
+([timeST31310] of MODULETIME 
 (moduleid  ST3131)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([ST31311] of MODULETIME 
+([timeST31311] of MODULETIME 
 (moduleid  ST3131)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 9:00)
 (semester 2)
 )
-([ST32320] of MODULETIME 
+([timeST32320] of MODULETIME 
 (moduleid  ST3232)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ST32321] of MODULETIME 
+([timeST32321] of MODULETIME 
 (moduleid  ST3232)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ST32360] of MODULETIME 
+([timeST32360] of MODULETIME 
 (moduleid  ST3236)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ST32361] of MODULETIME 
+([timeST32361] of MODULETIME 
 (moduleid  ST3236)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ST32400] of MODULETIME 
+([timeST32400] of MODULETIME 
 (moduleid  ST3240)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ST32401] of MODULETIME 
+([timeST32401] of MODULETIME 
 (moduleid  ST3240)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ST32410] of MODULETIME 
+([timeST32410] of MODULETIME 
 (moduleid  ST3241)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ST32411] of MODULETIME 
+([timeST32411] of MODULETIME 
 (moduleid  ST3241)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ST32470] of MODULETIME 
+([timeST32470] of MODULETIME 
 (moduleid  ST3247)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ST32471] of MODULETIME 
+([timeST32471] of MODULETIME 
 (moduleid  ST3247)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ST33120] of MODULETIME 
+([timeST33120] of MODULETIME 
 (moduleid  ST3312)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([ST33121] of MODULETIME 
+([timeST33121] of MODULETIME 
 (moduleid  ST3312)
 (day MONDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([ST33122] of MODULETIME 
+([timeST33122] of MODULETIME 
 (moduleid  ST3312)
 (day SATURDAY)
 (starttime 6:00)
 (endtime 23:59)
 (semester 2)
 )
-([ST33123] of MODULETIME 
+([timeST33123] of MODULETIME 
 (moduleid  ST3312)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([ST33124] of MODULETIME 
+([timeST33124] of MODULETIME 
 (moduleid  ST3312)
 (day TUESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([ST33125] of MODULETIME 
+([timeST33125] of MODULETIME 
 (moduleid  ST3312)
 (day WEDNESDAY)
 (starttime 8:00)
 (endtime 18:00)
 (semester 2)
 )
-([ST42380] of MODULETIME 
+([timeST42380] of MODULETIME 
 (moduleid  ST4238)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([ST42381] of MODULETIME 
+([timeST42381] of MODULETIME 
 (moduleid  ST4238)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 13:00)
 (semester 2)
 )
-([ST42400] of MODULETIME 
+([timeST42400] of MODULETIME 
 (moduleid  ST4240)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ST42401] of MODULETIME 
+([timeST42401] of MODULETIME 
 (moduleid  ST4240)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([ST42420] of MODULETIME 
+([timeST42420] of MODULETIME 
 (moduleid  ST4242)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 15:00)
 (semester 2)
 )
-([ST42421] of MODULETIME 
+([timeST42421] of MODULETIME 
 (moduleid  ST4242)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([ST42450] of MODULETIME 
+([timeST42450] of MODULETIME 
 (moduleid  ST4245)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 11:00)
 (semester 2)
 )
-([ST42451] of MODULETIME 
+([timeST42451] of MODULETIME 
 (moduleid  ST4245)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ST52170] of MODULETIME 
+([timeST52170] of MODULETIME 
 (moduleid  ST5217)
 (day TUESDAY)
 (starttime 19:00)
 (endtime 22:00)
 (semester 2)
 )
-([SW1101E0] of MODULETIME 
+([timeSW1101E0] of MODULETIME 
 (moduleid  SW1101E)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SW21010] of MODULETIME 
+([timeSW21010] of MODULETIME 
 (moduleid  SW2101)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([SW21040] of MODULETIME 
+([timeSW21040] of MODULETIME 
 (moduleid  SW2104)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SW21050] of MODULETIME 
+([timeSW21050] of MODULETIME 
 (moduleid  SW2105)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SW21060] of MODULETIME 
+([timeSW21060] of MODULETIME 
 (moduleid  SW2106)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SW31010] of MODULETIME 
+([timeSW31010] of MODULETIME 
 (moduleid  SW3101)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SW32130] of MODULETIME 
+([timeSW32130] of MODULETIME 
 (moduleid  SW3213)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SW32160] of MODULETIME 
+([timeSW32160] of MODULETIME 
 (moduleid  SW3216)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([SW32170] of MODULETIME 
+([timeSW32170] of MODULETIME 
 (moduleid  SW3217)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([SW32190] of MODULETIME 
+([timeSW32190] of MODULETIME 
 (moduleid  SW3219)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([SW42130] of MODULETIME 
+([timeSW42130] of MODULETIME 
 (moduleid  SW4213)
 (day TUESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([SW42140] of MODULETIME 
+([timeSW42140] of MODULETIME 
 (moduleid  SW4214)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([SW42160] of MODULETIME 
+([timeSW42160] of MODULETIME 
 (moduleid  SW4216)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([SW5213R0] of MODULETIME 
+([timeSW5213R0] of MODULETIME 
 (moduleid  SW5213R)
 (day WEDNESDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([SW5253R0] of MODULETIME 
+([timeSW5253R0] of MODULETIME 
 (moduleid  SW5253R)
 (day TUESDAY)
 (starttime 18:30)
 (endtime 21:30)
 (semester 2)
 )
-([TC14010] of MODULETIME 
+([timeTC14010] of MODULETIME 
 (moduleid  TC1401)
 (day MONDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([TC14220] of MODULETIME 
+([timeTC14220] of MODULETIME 
 (moduleid  TC1422)
 (day WEDNESDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([TC24010] of MODULETIME 
+([timeTC24010] of MODULETIME 
 (moduleid  TC2401)
 (day TUESDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([TE20020] of MODULETIME 
+([timeTE20020] of MODULETIME 
 (moduleid  TE2002)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([TE20030] of MODULETIME 
+([timeTE20030] of MODULETIME 
 (moduleid  TE2003)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:30)
 (semester 2)
 )
-([TE21010] of MODULETIME 
+([timeTE21010] of MODULETIME 
 (moduleid  TE2101)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([TE32010] of MODULETIME 
+([timeTE32010] of MODULETIME 
 (moduleid  TE3201)
 (day TUESDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([TE38010] of MODULETIME 
+([timeTE38010] of MODULETIME 
 (moduleid  TE3801)
 (day FRIDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([TE40010] of MODULETIME 
+([timeTE40010] of MODULETIME 
 (moduleid  TE4001)
 (day SATURDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([TG14010] of MODULETIME 
+([timeTG14010] of MODULETIME 
 (moduleid  TG1401)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([TG24150] of MODULETIME 
+([timeTG24150] of MODULETIME 
 (moduleid  TG2415)
 (day FRIDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([TG30010] of MODULETIME 
+([timeTG30010] of MODULETIME 
 (moduleid  TG3001)
 (day SATURDAY)
 (starttime 23:30)
 (endtime 23:59)
 (semester 2)
 )
-([TG3101A0] of MODULETIME 
+([timeTG3101A0] of MODULETIME 
 (moduleid  TG3101A)
 (day SATURDAY)
 (starttime 6:00)
 (endtime 6:30)
 (semester 2)
 )
-([TG3101B0] of MODULETIME 
+([timeTG3101B0] of MODULETIME 
 (moduleid  TG3101B)
 (day SATURDAY)
 (starttime 6:30)
 (endtime 7:00)
 (semester 2)
 )
-([TM24010] of MODULETIME 
+([timeTM24010] of MODULETIME 
 (moduleid  TM2401)
 (day THURSDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([TM31010] of MODULETIME 
+([timeTM31010] of MODULETIME 
 (moduleid  TM3101)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([TM41010] of MODULETIME 
+([timeTM41010] of MODULETIME 
 (moduleid  TM4101)
 (day SATURDAY)
 (starttime 23:00)
 (endtime 23:30)
 (semester 2)
 )
-([TM42090] of MODULETIME 
+([timeTM42090] of MODULETIME 
 (moduleid  TM4209)
 (day WEDNESDAY)
 (starttime 19:00)
 (endtime 21:30)
 (semester 2)
 )
-([TM42640] of MODULETIME 
+([timeTM42640] of MODULETIME 
 (moduleid  TM4264)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 21:30)
 (semester 2)
 )
-([TP50260] of MODULETIME 
+([timeTP50260] of MODULETIME 
 (moduleid  TP5026)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([TP50280] of MODULETIME 
+([timeTP50280] of MODULETIME 
 (moduleid  TP5028)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([TR22010] of MODULETIME 
+([timeTR22010] of MODULETIME 
 (moduleid  TR2201)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([TR22011] of MODULETIME 
+([timeTR22011] of MODULETIME 
 (moduleid  TR2201)
 (day THURSDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([TR22012] of MODULETIME 
+([timeTR22012] of MODULETIME 
 (moduleid  TR2201)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 11:00)
 (semester 2)
 )
-([TR22020] of MODULETIME 
+([timeTR22020] of MODULETIME 
 (moduleid  TR2202)
 (day FRIDAY)
 (starttime 11:00)
 (endtime 14:00)
 (semester 2)
 )
-([TR22021] of MODULETIME 
+([timeTR22021] of MODULETIME 
 (moduleid  TR2202)
 (day FRIDAY)
 (starttime 17:00)
 (endtime 20:00)
 (semester 2)
 )
-([TR30010] of MODULETIME 
+([timeTR30010] of MODULETIME 
 (moduleid  TR3001)
 (day SATURDAY)
 (starttime 9:00)
 (endtime 17:00)
 (semester 2)
 )
-([TR30011] of MODULETIME 
+([timeTR30011] of MODULETIME 
 (moduleid  TR3001)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([TR30012] of MODULETIME 
+([timeTR30012] of MODULETIME 
 (moduleid  TR3001)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([TR30020] of MODULETIME 
+([timeTR30020] of MODULETIME 
 (moduleid  TR3002)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([TS1101E0] of MODULETIME 
+([timeTS1101E0] of MODULETIME 
 (moduleid  TS1101E)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 10:00)
 (semester 2)
 )
-([TS22170] of MODULETIME 
+([timeTS22170] of MODULETIME 
 (moduleid  TS2217)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 15:00)
 (semester 2)
 )
-([TS22360] of MODULETIME 
+([timeTS22360] of MODULETIME 
 (moduleid  TS2236)
 (day FRIDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([TS22400] of MODULETIME 
+([timeTS22400] of MODULETIME 
 (moduleid  TS2240)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 13:00)
 (semester 2)
 )
-([TS31030] of MODULETIME 
+([timeTS31030] of MODULETIME 
 (moduleid  TS3103)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([TS31031] of MODULETIME 
+([timeTS31031] of MODULETIME 
 (moduleid  TS3103)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([TS32330] of MODULETIME 
+([timeTS32330] of MODULETIME 
 (moduleid  TS3233)
 (day MONDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([TS32340] of MODULETIME 
+([timeTS32340] of MODULETIME 
 (moduleid  TS3234)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([TS32350] of MODULETIME 
+([timeTS32350] of MODULETIME 
 (moduleid  TS3235)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([TS32400] of MODULETIME 
+([timeTS32400] of MODULETIME 
 (moduleid  TS3240)
 (day TUESDAY)
 (starttime 15:00)
 (endtime 18:00)
 (semester 2)
 )
-([TS32430] of MODULETIME 
+([timeTS32430] of MODULETIME 
 (moduleid  TS3243)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([TS32460] of MODULETIME 
+([timeTS32460] of MODULETIME 
 (moduleid  TS3246)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([TS32470] of MODULETIME 
+([timeTS32470] of MODULETIME 
 (moduleid  TS3247)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([TS42130] of MODULETIME 
+([timeTS42130] of MODULETIME 
 (moduleid  TS4213)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 17:00)
 (semester 2)
 )
-([TS42170] of MODULETIME 
+([timeTS42170] of MODULETIME 
 (moduleid  TS4217)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 13:00)
 (semester 2)
 )
-([TS4880B0] of MODULETIME 
+([timeTS4880B0] of MODULETIME 
 (moduleid  TS4880B)
 (day THURSDAY)
 (starttime 9:00)
 (endtime 12:00)
 (semester 2)
 )
-([TS5212R0] of MODULETIME 
+([timeTS5212R0] of MODULETIME 
 (moduleid  TS5212R)
 (day MONDAY)
 (starttime 18:00)
 (endtime 21:00)
 (semester 2)
 )
-([UAR22010] of MODULETIME 
+([timeUAR22010] of MODULETIME 
 (moduleid  UAR2201)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 20:00)
 (semester 2)
 )
-([UD56280] of MODULETIME 
+([timeUD56280] of MODULETIME 
 (moduleid  UD5628)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([UIS49320] of MODULETIME 
+([timeUIS49320] of MODULETIME 
 (moduleid  UIS4932)
 (day SATURDAY)
 (starttime 20:30)
 (endtime 21:00)
 (semester 2)
 )
-([UIS49330] of MODULETIME 
+([timeUIS49330] of MODULETIME 
 (moduleid  UIS4933)
 (day SATURDAY)
 (starttime 20:00)
 (endtime 20:30)
 (semester 2)
 )
-([UIT22060] of MODULETIME 
+([timeUIT22060] of MODULETIME 
 (moduleid  UIT2206)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([UIT22061] of MODULETIME 
+([timeUIT22061] of MODULETIME 
 (moduleid  UIT2206)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([UIT22062] of MODULETIME 
+([timeUIT22062] of MODULETIME 
 (moduleid  UIT2206)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([UIT22063] of MODULETIME 
+([timeUIT22063] of MODULETIME 
 (moduleid  UIT2206)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ULS22020] of MODULETIME 
+([timeULS22020] of MODULETIME 
 (moduleid  ULS2202)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ULS22021] of MODULETIME 
+([timeULS22021] of MODULETIME 
 (moduleid  ULS2202)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([ULT2299E0] of MODULETIME 
+([timeULT2299E0] of MODULETIME 
 (moduleid  ULT2299E)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([ULT2299E1] of MODULETIME 
+([timeULT2299E1] of MODULETIME 
 (moduleid  ULT2299E)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([UNL22010] of MODULETIME 
+([timeUNL22010] of MODULETIME 
 (moduleid  UNL2201)
 (day MONDAY)
 (starttime 19:00)
 (endtime 21:00)
 (semester 2)
 )
-([UNL22011] of MODULETIME 
+([timeUNL22011] of MODULETIME 
 (moduleid  UNL2201)
 (day THURSDAY)
 (starttime 19:00)
 (endtime 21:00)
 (semester 2)
 )
-([UNL22060] of MODULETIME 
+([timeUNL22060] of MODULETIME 
 (moduleid  UNL2206)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UNL22061] of MODULETIME 
+([timeUNL22061] of MODULETIME 
 (moduleid  UNL2206)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UNL22062] of MODULETIME 
+([timeUNL22062] of MODULETIME 
 (moduleid  UNL2206)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UNL22063] of MODULETIME 
+([timeUNL22063] of MODULETIME 
 (moduleid  UNL2206)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UPC22060] of MODULETIME 
+([timeUPC22060] of MODULETIME 
 (moduleid  UPC2206)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UPC22061] of MODULETIME 
+([timeUPC22061] of MODULETIME 
 (moduleid  UPC2206)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([UPC22070] of MODULETIME 
+([timeUPC22070] of MODULETIME 
 (moduleid  UPC2207)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([UPC22071] of MODULETIME 
+([timeUPC22071] of MODULETIME 
 (moduleid  UPC2207)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([UPI22060] of MODULETIME 
+([timeUPI22060] of MODULETIME 
 (moduleid  UPI2206)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 20:00)
 (semester 2)
 )
-([UQF2101B0] of MODULETIME 
+([timeUQF2101B0] of MODULETIME 
 (moduleid  UQF2101B)
 (day MONDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([UQF2101B1] of MODULETIME 
+([timeUQF2101B1] of MODULETIME 
 (moduleid  UQF2101B)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UQF2101F0] of MODULETIME 
+([timeUQF2101F0] of MODULETIME 
 (moduleid  UQF2101F)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([UQF2101F1] of MODULETIME 
+([timeUQF2101F1] of MODULETIME 
 (moduleid  UQF2101F)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UQF2101G0] of MODULETIME 
+([timeUQF2101G0] of MODULETIME 
 (moduleid  UQF2101G)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([UQF2101G1] of MODULETIME 
+([timeUQF2101G1] of MODULETIME 
 (moduleid  UQF2101G)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([UQF2101G2] of MODULETIME 
+([timeUQF2101G2] of MODULETIME 
 (moduleid  UQF2101G)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([UQF2101G3] of MODULETIME 
+([timeUQF2101G3] of MODULETIME 
 (moduleid  UQF2101G)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([UQF2101G4] of MODULETIME 
+([timeUQF2101G4] of MODULETIME 
 (moduleid  UQF2101G)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([UQF2101G5] of MODULETIME 
+([timeUQF2101G5] of MODULETIME 
 (moduleid  UQF2101G)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([UQF2101H0] of MODULETIME 
+([timeUQF2101H0] of MODULETIME 
 (moduleid  UQF2101H)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UQF2101H1] of MODULETIME 
+([timeUQF2101H1] of MODULETIME 
 (moduleid  UQF2101H)
 (day WEDNESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UQR22110] of MODULETIME 
+([timeUQR22110] of MODULETIME 
 (moduleid  UQR2211)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([UQR22111] of MODULETIME 
+([timeUQR22111] of MODULETIME 
 (moduleid  UQR2211)
 (day WEDNESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([USE22090] of MODULETIME 
+([timeUSE22090] of MODULETIME 
 (moduleid  USE2209)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([USE22091] of MODULETIME 
+([timeUSE22091] of MODULETIME 
 (moduleid  USE2209)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([USE23040] of MODULETIME 
+([timeUSE23040] of MODULETIME 
 (moduleid  USE2304)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([USE23041] of MODULETIME 
+([timeUSE23041] of MODULETIME 
 (moduleid  USE2304)
 (day THURSDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([USE23042] of MODULETIME 
+([timeUSE23042] of MODULETIME 
 (moduleid  USE2304)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([USE23043] of MODULETIME 
+([timeUSE23043] of MODULETIME 
 (moduleid  USE2304)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([USE23070] of MODULETIME 
+([timeUSE23070] of MODULETIME 
 (moduleid  USE2307)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([USE23071] of MODULETIME 
+([timeUSE23071] of MODULETIME 
 (moduleid  USE2307)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([USE23130] of MODULETIME 
+([timeUSE23130] of MODULETIME 
 (moduleid  USE2313)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([USE23160] of MODULETIME 
+([timeUSE23160] of MODULETIME 
 (moduleid  USE2316)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([USE23161] of MODULETIME 
+([timeUSE23161] of MODULETIME 
 (moduleid  USE2316)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([USE23170] of MODULETIME 
+([timeUSE23170] of MODULETIME 
 (moduleid  USE2317)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([USE23171] of MODULETIME 
+([timeUSE23171] of MODULETIME 
 (moduleid  USE2317)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([USE23180] of MODULETIME 
+([timeUSE23180] of MODULETIME 
 (moduleid  USE2318)
 (day THURSDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([USE23181] of MODULETIME 
+([timeUSE23181] of MODULETIME 
 (moduleid  USE2318)
 (day TUESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([USP35010] of MODULETIME 
+([timeUSP35010] of MODULETIME 
 (moduleid  USP3501)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([USP35011] of MODULETIME 
+([timeUSP35011] of MODULETIME 
 (moduleid  USP3501)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([USP35060] of MODULETIME 
+([timeUSP35060] of MODULETIME 
 (moduleid  USP3506)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([USP35061] of MODULETIME 
+([timeUSP35061] of MODULETIME 
 (moduleid  USP3506)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UWC2101A0] of MODULETIME 
+([timeUWC2101A0] of MODULETIME 
 (moduleid  UWC2101A)
 (day FRIDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UWC2101A1] of MODULETIME 
+([timeUWC2101A1] of MODULETIME 
 (moduleid  UWC2101A)
 (day TUESDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UWC2101B0] of MODULETIME 
+([timeUWC2101B0] of MODULETIME 
 (moduleid  UWC2101B)
 (day MONDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UWC2101B1] of MODULETIME 
+([timeUWC2101B1] of MODULETIME 
 (moduleid  UWC2101B)
 (day THURSDAY)
 (starttime 12:00)
 (endtime 14:00)
 (semester 2)
 )
-([UWC2101C0] of MODULETIME 
+([timeUWC2101C0] of MODULETIME 
 (moduleid  UWC2101C)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([UWC2101C1] of MODULETIME 
+([timeUWC2101C1] of MODULETIME 
 (moduleid  UWC2101C)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([UWC2101H0] of MODULETIME 
+([timeUWC2101H0] of MODULETIME 
 (moduleid  UWC2101H)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([UWC2101H1] of MODULETIME 
+([timeUWC2101H1] of MODULETIME 
 (moduleid  UWC2101H)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([UWC2101S0] of MODULETIME 
+([timeUWC2101S0] of MODULETIME 
 (moduleid  UWC2101S)
 (day MONDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([UWC2101S1] of MODULETIME 
+([timeUWC2101S1] of MODULETIME 
 (moduleid  UWC2101S)
 (day WEDNESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([UWC2101S2] of MODULETIME 
+([timeUWC2101S2] of MODULETIME 
 (moduleid  UWC2101S)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([UWC2101S3] of MODULETIME 
+([timeUWC2101S3] of MODULETIME 
 (moduleid  UWC2101S)
 (day WEDNESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([UWC2101Y0] of MODULETIME 
+([timeUWC2101Y0] of MODULETIME 
 (moduleid  UWC2101Y)
 (day FRIDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([UWC2101Y1] of MODULETIME 
+([timeUWC2101Y1] of MODULETIME 
 (moduleid  UWC2101Y)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([UWC2102E0] of MODULETIME 
+([timeUWC2102E0] of MODULETIME 
 (moduleid  UWC2102E)
 (day FRIDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([UWC2102E1] of MODULETIME 
+([timeUWC2102E1] of MODULETIME 
 (moduleid  UWC2102E)
 (day TUESDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([YCC11120] of MODULETIME 
+([timeYCC11120] of MODULETIME 
 (moduleid  YCC1112)
 (day FRIDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([YCC11121] of MODULETIME 
+([timeYCC11121] of MODULETIME 
 (moduleid  YCC1112)
 (day WEDNESDAY)
 (starttime 18:00)
 (endtime 20:00)
 (semester 2)
 )
-([YCC11140] of MODULETIME 
+([timeYCC11140] of MODULETIME 
 (moduleid  YCC1114)
 (day THURSDAY)
 (starttime 8:00)
 (endtime 10:00)
 (semester 2)
 )
-([YCC11220] of MODULETIME 
+([timeYCC11220] of MODULETIME 
 (moduleid  YCC1122)
 (day MONDAY)
 (starttime 11:00)
 (endtime 13:00)
 (semester 2)
 )
-([YCC11221] of MODULETIME 
+([timeYCC11221] of MODULETIME 
 (moduleid  YCC1122)
 (day THURSDAY)
 (starttime 10:00)
 (endtime 12:00)
 (semester 2)
 )
-([YCC11222] of MODULETIME 
+([timeYCC11222] of MODULETIME 
 (moduleid  YCC1122)
 (day MONDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([YCC11223] of MODULETIME 
+([timeYCC11223] of MODULETIME 
 (moduleid  YCC1122)
 (day THURSDAY)
 (starttime 14:30)
 (endtime 16:00)
 (semester 2)
 )
-([YCC11224] of MODULETIME 
+([timeYCC11224] of MODULETIME 
 (moduleid  YCC1122)
 (day MONDAY)
 (starttime 9:00)
 (endtime 11:00)
 (semester 2)
 )
-([YCC11225] of MODULETIME 
+([timeYCC11225] of MODULETIME 
 (moduleid  YCC1122)
 (day THURSDAY)
 (starttime 12:30)
 (endtime 14:30)
 (semester 2)
 )
-([YCC11226] of MODULETIME 
+([timeYCC11226] of MODULETIME 
 (moduleid  YCC1122)
 (day MONDAY)
 (starttime 14:00)
 (endtime 16:00)
 (semester 2)
 )
-([YCC11227] of MODULETIME 
+([timeYCC11227] of MODULETIME 
 (moduleid  YCC1122)
 (day THURSDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([YCC11320] of MODULETIME 
+([timeYCC11320] of MODULETIME 
 (moduleid  YCC1132)
 (day FRIDAY)
 (starttime 14:30)
 (endtime 16:00)
 (semester 2)
 )
-([YCC11321] of MODULETIME 
+([timeYCC11321] of MODULETIME 
 (moduleid  YCC1132)
 (day TUESDAY)
 (starttime 14:00)
 (endtime 18:00)
 (semester 2)
 )
-([YCC11322] of MODULETIME 
+([timeYCC11322] of MODULETIME 
 (moduleid  YCC1132)
 (day WEDNESDAY)
 (starttime 9:00)
 (endtime 10:30)
 (semester 2)
 )
-([YHU12010] of MODULETIME 
+([timeYHU12010] of MODULETIME 
 (moduleid  YHU1201)
 (day TUESDAY)
 (starttime 14:30)
 (endtime 18:00)
 (semester 2)
 )
-([YHU12020] of MODULETIME 
+([timeYHU12020] of MODULETIME 
 (moduleid  YHU1202)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([YHU12021] of MODULETIME 
+([timeYHU12021] of MODULETIME 
 (moduleid  YHU1202)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([YHU12030] of MODULETIME 
+([timeYHU12030] of MODULETIME 
 (moduleid  YHU1203)
 (day FRIDAY)
 (starttime 14:30)
 (endtime 16:00)
 (semester 2)
 )
-([YHU12031] of MODULETIME 
+([timeYHU12031] of MODULETIME 
 (moduleid  YHU1203)
 (day TUESDAY)
 (starttime 14:30)
 (endtime 16:00)
 (semester 2)
 )
-([YHU12040] of MODULETIME 
+([timeYHU12040] of MODULETIME 
 (moduleid  YHU1204)
 (day TUESDAY)
 (starttime 14:30)
 (endtime 18:00)
 (semester 2)
 )
-([YHU12050] of MODULETIME 
+([timeYHU12050] of MODULETIME 
 (moduleid  YHU1205)
 (day FRIDAY)
 (starttime 14:30)
 (endtime 18:00)
 (semester 2)
 )
-([YHU12060] of MODULETIME 
+([timeYHU12060] of MODULETIME 
 (moduleid  YHU1206)
 (day FRIDAY)
 (starttime 14:30)
 (endtime 18:00)
 (semester 2)
 )
-([YID12010] of MODULETIME 
+([timeYID12010] of MODULETIME 
 (moduleid  YID1201)
 (day FRIDAY)
 (starttime 14:30)
 (endtime 16:00)
 (semester 2)
 )
-([YID12011] of MODULETIME 
+([timeYID12011] of MODULETIME 
 (moduleid  YID1201)
 (day TUESDAY)
 (starttime 14:30)
 (endtime 16:00)
 (semester 2)
 )
-([YIR13210] of MODULETIME 
+([timeYIR13210] of MODULETIME 
 (moduleid  YIR1321)
 (day SATURDAY)
 (starttime 22:00)
 (endtime 23:00)
 (semester 2)
 )
-([YIR13220] of MODULETIME 
+([timeYIR13220] of MODULETIME 
 (moduleid  YIR1322)
 (day SATURDAY)
 (starttime 21:00)
 (endtime 22:00)
 (semester 2)
 )
-([YLF12110] of MODULETIME 
+([timeYLF12110] of MODULETIME 
 (moduleid  YLF1211)
 (day WEDNESDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([YLF12111] of MODULETIME 
+([timeYLF12111] of MODULETIME 
 (moduleid  YLF1211)
 (day WEDNESDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([YLF12112] of MODULETIME 
+([timeYLF12112] of MODULETIME 
 (moduleid  YLF1211)
 (day WEDNESDAY)
 (starttime 15:00)
 (endtime 17:00)
 (semester 2)
 )
-([YLS12010] of MODULETIME 
+([timeYLS12010] of MODULETIME 
 (moduleid  YLS1201)
 (day TUESDAY)
 (starttime 12:30)
 (endtime 14:30)
 (semester 2)
 )
-([YLS12011] of MODULETIME 
+([timeYLS12011] of MODULETIME 
 (moduleid  YLS1201)
 (day WEDNESDAY)
 (starttime 12:30)
 (endtime 14:30)
 (semester 2)
 )
-([YLS12012] of MODULETIME 
+([timeYLS12012] of MODULETIME 
 (moduleid  YLS1201)
 (day TUESDAY)
 (starttime 12:30)
 (endtime 14:30)
 (semester 2)
 )
-([YLS12013] of MODULETIME 
+([timeYLS12013] of MODULETIME 
 (moduleid  YLS1201)
 (day WEDNESDAY)
 (starttime 12:30)
 (endtime 14:30)
 (semester 2)
 )
-([YSS12010] of MODULETIME 
+([timeYSS12010] of MODULETIME 
 (moduleid  YSS1201)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([YSS12011] of MODULETIME 
+([timeYSS12011] of MODULETIME 
 (moduleid  YSS1201)
 (day TUESDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([YSS12020] of MODULETIME 
+([timeYSS12020] of MODULETIME 
 (moduleid  YSS1202)
 (day FRIDAY)
 (starttime 14:30)
 (endtime 16:00)
 (semester 2)
 )
-([YSS12021] of MODULETIME 
+([timeYSS12021] of MODULETIME 
 (moduleid  YSS1202)
 (day TUESDAY)
 (starttime 14:30)
 (endtime 16:00)
 (semester 2)
 )
-([YSS12030] of MODULETIME 
+([timeYSS12030] of MODULETIME 
 (moduleid  YSS1203)
 (day FRIDAY)
 (starttime 16:00)
 (endtime 18:00)
 (semester 2)
 )
-([YSS12031] of MODULETIME 
+([timeYSS12031] of MODULETIME 
 (moduleid  YSS1203)
 (day TUESDAY)
 (starttime 13:00)

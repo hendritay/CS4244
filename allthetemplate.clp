@@ -3,6 +3,36 @@
    (slot  tag(create-accessor read-write))
 )
 
+(defclass INTERESTEDMODULE
+   (is-a USER)
+   (slot  moduleid )
+)
+
+(defclass NOTINTERESTEDMODULE
+   (is-a USER)
+   (slot  moduleid )
+)
+
+; Combination of ModuleTaken and CandidateModule
+(defclass ALLMODULE
+	(is-a USER)
+   (slot moduleid)
+ )
+ 
+ ; intermediate staging area before selection to candidate module
+(defclass ELIGIBLEMODULE
+    (is-a USER)
+	(slot moduleid )	
+	(slot moduletagtotalscore)
+	(slot sacrificable)
+ )
+ 
+ ; pre-requisite that cannot be done using normal rule matching
+ (defclass SPECIALPREREQMODULE
+   (is-a USER)
+   (slot moduleid)
+   )
+ 
 (defclass MODULETAKEN 
    (is-a USER)
    (slot moduleid (create-accessor read-write))
@@ -21,7 +51,7 @@
 	(slot moduledescription)
 	(slot MC)
 	(slot modulepriority)
-	(slot moduletagscore (create-accessor read-write))
+	(slot moduletagscore (default 0) (create-accessor read-write))
  )
 
 (defclass MODULEPREQ
@@ -40,7 +70,7 @@
   (is-a USER)
   (slot moduleid)
   (slot moduletag)
-  (slot moduletagscore)
+  (slot moduletagscore )
  )
  
  (defclass MODULETIME

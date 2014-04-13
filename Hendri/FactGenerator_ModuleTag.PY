@@ -20,7 +20,7 @@ for row in table:
 	
 	ModuleCode = row["ModuleCode"] + str(i)
 	
-	print "([" + ModuleCode +"] of MODULETAG "	
+	print "([tag" + ModuleCode +"] of MODULETAG "	
 	print "(moduleid  " + row["ModuleCode"] +")"
 	
 	print "(moduletag " + row["ModuleTag"] + ")"

@@ -14,7 +14,7 @@ OldModuleCode = ""
 for row in table:
 
 	ModuleCode = row["ModuleCode"] 	
-	print "([" + ModuleCode +"] of MODULE "	
+	print "([mod" + ModuleCode +"] of MODULE "	
 	print "(moduleid  " + row["ModuleCode"] +")"
 	print "(MC " + str(row["ModuleCredit"]) +")"
 	print ")"

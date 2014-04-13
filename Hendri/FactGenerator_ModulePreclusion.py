@@ -21,7 +21,7 @@ for row in table:
 	
 	ModuleCode = row["ModuleCode"] + str(i)
 	
-	print "([" + ModuleCode +"] of MODULEPRECLUDE "	
+	print "([prec" + ModuleCode +"] of MODULEPRECLUDE "	
 	print "(moduleid  " + row["ModuleCode"] +")"
 	print "(moduleidpreclusion " + row["Preclude"] +")"
 	print ")"

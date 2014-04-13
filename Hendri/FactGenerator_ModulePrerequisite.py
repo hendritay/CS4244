@@ -21,7 +21,7 @@ for row in table:
 	
 	ModuleCode = row["ModuleCode"] + str(i)
 	
-	print "([" + ModuleCode +"] of MODULEPREQ "	
+	print "([preq" + ModuleCode +"] of MODULEPREQ "	
 	print "(moduleid  " + row["ModuleCode"] +")"
 	print "(modulepreq " + row["PrereqCode"].replace(",", " ") +")"
 	print ")"

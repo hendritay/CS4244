@@ -20,7 +20,7 @@ for row in table:
 	
 	ModuleCode = row["ModuleCode"] + str(i)
 	
-	print "([" + ModuleCode +"] of MODULETIME "	
+	print "([time" + ModuleCode +"] of MODULETIME "	
 	print "(moduleid  " + row["ModuleCode"] +")"
 	print "(day " + row["Day"] +")"
 	StartTime = str(row["StartTime"]);
