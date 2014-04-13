@@ -22,6 +22,8 @@
  (make-instance [InterestedTagCompScience] of INTERESTEDTAG
     (tag COMPUTER_SCIENCE)
  )
+
+
  
  (defrule rule_interestedmodule
    (object (is-a INTERESTEDMODULE) (moduleid ?moduleid))
