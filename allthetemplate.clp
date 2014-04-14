@@ -104,8 +104,11 @@
 	(slot modulepersem)
 	(slot graduatefrom) 
 	(slot cohort)
+	(slot science (default 12))
 	(slot takeFYP)	
   )
+  
+  (defmessagehandler REQUIREMENT (
   
   (defclass FOCUSAREA
       (is-a USER)
@@ -121,3 +124,7 @@
    (slot focussecondary)
    (slot interestedmodule)
   )
+  
+  
+  
+  

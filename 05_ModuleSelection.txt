@@ -1,0 +1,21 @@
+SS, GEM, SCIENCE
+
+(defrule SelectSS
+    ?requirement <- (object (is-a REQUIREMENT) (ss ?sscredit:&(> ?sscredit 0)))
+	?eligiblemodule <- (object (is-a ELIGIBLEMODULE) (moduleid ?moduleid) (mc ?mc))
+	(object (is-a MODULE) (moduleid ?moduleid) (type $? SS $?) (moduletagscore ?score))
+	(not (exists (object (is-a MODULE) (type $? SS $?) (moduletagscore ?anyscore:(> ?anyscore ?score)))))
+ =>
+    (bind ?instancename (symbol-to-instance-name (sym-cat allmodule ?moduleid)))	   
+	(make-instance ?instancename of ALLMODULE (moduleid ?moduleid))
+	
+	(bind ?candidatemodule (symbol-to-instance-name (sym-cat candidatemodule ?moduleid)))	   
+	(make-instance ?candidatemodule of CANDIDATEMODULE (moduleid ?moduleid))		
+   
+    (unmake-instance ?eligiblemodule)
+	
+	(bind ?newcredit (- ?sscredit ?mc))
+	(send ?requirement put-ss ?newcredit)
+ )
+
+ 
