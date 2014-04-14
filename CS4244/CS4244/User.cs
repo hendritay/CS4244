@@ -30,6 +30,8 @@ namespace CS4244
         private List<string> _moduleDislikeInstance = new List<string>();
         private List<string> _moduleTagInstance = new List<string>();
         private List<string> _focusAreaInstance = new List<string>();
+        private List<string> _modulesTakenInstance = new List<string>();
+        private List<string> _requirementInstance = new List<string>();
 
         public void setName(string name)
         {
@@ -271,6 +273,185 @@ namespace CS4244
         public List<string> getFocusAreaInstance()
         {
             return _focusAreaInstance;
+        }
+
+        public void createModulesTakenInstance()
+        {
+            List<string> createInstance = new List<string>();
+            List<string> modulesTaken = new List<string>();
+
+            // Add Core
+            if (_core.Count != 0)
+            {
+                for (int i = 0; i < _core.Count(); i++)
+                {
+                    modulesTaken.Add(_core[i]);
+                }
+            }
+
+            // Add GEM
+            if (_gem.Count != 0)
+            {
+                for (int i = 0; i < _gem.Count(); i++)
+                {
+                    modulesTaken.Add(_gem[i]);
+                }
+            }
+            // Add Breadth
+            if (_breadth.Count != 0)
+            {
+                for (int i = 0; i < _breadth.Count(); i++)
+                {
+                    modulesTaken.Add(_breadth[i]);
+                }
+            }
+            // Add UE
+            if (_ue.Count != 0)
+            {
+                for (int i = 0; i < _ue.Count(); i++)
+                {
+                    modulesTaken.Add(_ue[i]);
+                }
+            }
+            // Add Science Mods
+            if (_scienceMods.Count != 0)
+            {
+                for (int i = 0; i < _scienceMods.Count(); i++)
+                {
+                    modulesTaken.Add(_scienceMods[i]);
+                }
+            }
+
+            for (int i = 0; i < modulesTaken.Count; i++)
+            {
+                string[] temp = modulesTaken[i].Split(' ');
+                createInstance.Add("(make-instance [allmodule " + temp[0].Trim() + "] of MODULETAKEN (moduleid " + temp[0].Trim() + "))");
+            }
+
+             _modulesTakenInstance = createInstance;
+        }
+
+        public List<string> getModulesTakenInstance()
+        {
+            return _modulesTakenInstance;
+        }
+
+        public void createRequirementInstance()
+        {
+            List<string> createInstance = new List<string>();
+
+            string ueMC = "20";
+            string gemMC = "8";
+            string ssMC = "4";
+            string breadthMC = "8";
+
+            // Handle JC exemptions
+            if (_jcPoly.Equals("JC"))
+            {
+                if (_ue.Count != 0)
+                {
+                    if (!_ue[0].Equals(""))
+                    {
+                        ueMC = (20 - _ue.Count() * 4).ToString();
+                    }
+                }
+
+                if (_gem.Count != 0)
+                {
+                    if (!_gem[0].Equals(""))
+                    {
+                        int ss = 0;
+                        int gem = 0;
+
+                        for (int i = 0; i < _gem.Count(); i++)
+                        {
+                            if (_gem[i].Contains("SS"))
+                            {
+                                ss++;
+                            }
+
+                            if (_gem[i].Contains("GE"))
+                            {
+                                gem++;
+                            }
+                        }
+
+                        gemMC = (8 - gem * 4).ToString();
+                        ssMC = (4 - ss * 4).ToString();
+                    }
+                }
+
+                if (_breadth.Count != 0)
+                {
+                    if (!_breadth[0].Equals(""))
+                    {
+                        breadthMC = (8 - _breadth.Count() * 4).ToString();
+                    }
+                }
+
+                createInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")");
+            }
+            else if (_jcPoly.Equals("Poly")) // Handle Poly exemptions
+            {
+                ueMC = "8";
+                gemMC = "4";
+                ssMC = "4";
+                breadthMC = "4";
+
+                if (_ue.Count != 0)
+                {
+                    if (!_ue[0].Equals(""))
+                    {
+                        ueMC = (8 - _ue.Count() * 4).ToString();
+                    }
+                }
+
+                if (_gem.Count != 0)
+                {
+                    if (!_gem[0].Equals(""))
+                    {
+                        int ss = 0;
+                        int gem = 0;
+
+                        for (int i = 0; i < _gem.Count(); i++)
+                        {
+                            if (_gem[i].Contains("SS"))
+                            {
+                                ss++;
+                            }
+
+                            if (_gem[i].Contains("GE"))
+                            {
+                                gem++;
+                            }
+                        }
+
+                        gemMC = (4 - gem * 4).ToString();
+                        ssMC = (4 - ss * 4).ToString();
+                    }
+                }
+
+                if (_breadth.Count != 0)
+                {
+                    if (!_breadth[0].Equals(""))
+                    {
+                        breadthMC = (4 - _breadth.Count() * 4).ToString();
+                    }
+                }
+
+                createInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")");
+            }
+            else // Neither JC nor Poly
+            {
+                createInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")");
+            }
+
+            _requirementInstance = createInstance;
+        }
+
+        public List<string> getRequirementInstance()
+        {
+            return _requirementInstance;
         }
     }
 }

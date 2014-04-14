@@ -421,10 +421,10 @@ namespace CS4244
                     u.setCore(modulesTakenLBox.Items[i].ToString());
                 }
             }
-            else
-            {
-                u.setCore("");
-            }
+            //else
+            //{
+            //    u.setCore("");
+            //}
             // Focus Areas
             if (listBox1.Items.Count != 0)
             {
@@ -433,10 +433,10 @@ namespace CS4244
                     u.setFocusAreas(listBox1.Items[i].ToString());
                 }
             }
-            else
-            {
-                u.setFocusAreas("");
-            }
+            //else
+            //{
+            //    u.setFocusAreas("");
+            //}
             // GEM
             if (listBox2.Items.Count != 0)
             {
@@ -445,10 +445,10 @@ namespace CS4244
                     u.setGem(listBox2.Items[i].ToString());
                 }
             }
-            else
-            {
-                u.setGem("");
-            }
+            //else
+            //{
+            //    u.setGem("");
+            //}
             // Breadth
             if (listBox4.Items.Count != 0)
             {
@@ -457,10 +457,10 @@ namespace CS4244
                     u.setBreadth(listBox4.Items[i].ToString());
                 }
             }
-            else
-            {
-                u.setBreadth("");
-            }
+            //else
+            //{
+            //    u.setBreadth("");
+            //}
             // UE
             if (listBox3.Items.Count != 0)
             {
@@ -469,10 +469,10 @@ namespace CS4244
                     u.setUe(listBox3.Items[i].ToString());
                 }
             }
-            else
-            {
-                u.setUe("");
-            }
+            //else
+            //{
+            //    u.setUe("");
+            //}
             // Science Modules
             if (listBox5.Items.Count != 0)
             {
@@ -481,10 +481,10 @@ namespace CS4244
                     u.setScienceMods(listBox5.Items[i].ToString());
                 }
             }
-            else
-            {
-                u.setScienceMods("");
-            }
+            //else
+            //{
+            //    u.setScienceMods("");
+            //}
             // Tab3 info
             if (preferenceLBox.Items.Count == 0)
                 fields.Add("Personal Preference");
@@ -530,9 +530,13 @@ namespace CS4244
                 u.createDisInterestModuleInstance();
                 u.createInterestTagInstance();
                 u.createFocusAreaInstance();
+                u.createModulesTakenInstance();
+                u.createRequirementInstance();
 
                 Form2 form2 = new Form2();
                 form2.ShowDialog();
+
+                MessageBox.Show(u.getRequirementInstance()[0]);
             }
             else
             {
