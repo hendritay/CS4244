@@ -28,7 +28,7 @@
 (defclass ELIGIBLEMODULE
     (is-a USER)
 	(slot moduleid )	
-	(slot moduletagtotalscore)
+	(slot moduletagtotalscore (type NUMBER))
 	(slot sacrificable)
  )
  
@@ -46,7 +46,7 @@
  (defclass CANDIDATEMODULE
     (is-a USER)
 	(slot moduleid )
-	(slot moduletagtotalscore)
+	(slot moduletagtotalscore (type NUMBER))
 	(slot sacrificable)
  )
  
@@ -54,9 +54,9 @@
     (is-a USER)
 	(slot moduleid)
 	(slot moduledescription)
-	(slot MC)
+	(slot MC (type NUMBER))
 	(slot modulepriority)
-	(slot moduletagscore (default 0) (create-accessor read-write))
+	(slot moduletagscore  (type NUMBER)(default 0) (create-accessor read-write))
  )
 
 (defclass MODULEPREQ
@@ -81,16 +81,16 @@
   (is-a USER)
   (slot moduleid)
   (slot moduletag)
-  (slot moduletagscore )
+  (slot moduletagscore  (type NUMBER))
  )
  
  (defclass MODULETIME
   (is-a USER)
   (slot moduleid)
   (slot day)
-  (slot starttime)
-  (slot endtime)
-  (slot semester)
+  (slot starttime (type NUMBER))
+  (slot endtime (type NUMBER))
+  (slot semester (type NUMBER))
  )
  
  (defclass REQUIREMENT
