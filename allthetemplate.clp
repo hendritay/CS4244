@@ -16,7 +16,7 @@
 ; Combination of ModuleTaken and CandidateModule
 (defclass ALLMODULE
 	(is-a USER)
-   (slot moduleid)
+   (slot moduleid (create-accessor read-write))
  )
  
  ; intermediate staging area before selection to candidate module
@@ -65,6 +65,12 @@
   (slot moduleid)
   (slot moduleidpreclusion)
 )
+
+; to store preclude list so that it won't be taken during eligible module
+(defclass ALREADYPRECLUDE
+  (is-a USER)
+  (slot moduleid)
+ )
 
 (defclass MODULETAG
   (is-a USER)

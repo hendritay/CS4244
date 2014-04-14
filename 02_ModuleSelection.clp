@@ -12,7 +12,7 @@
   (make-instance ?instancename of ALLMODULE (moduleid ?moduleid))
  ) 
  
-;  
+; Get those module who has no pre req, and it suddenly becomes eligible module 
 (defrule getNoPreqModule
   (object (is-a MODULE) (moduleid ?moduleid))
   (not (exists (object (is-a SPECIALPREREQMODULE) (moduleid ?moduleid))))
