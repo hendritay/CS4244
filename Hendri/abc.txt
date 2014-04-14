@@ -1,1 +1,1596 @@
-{u'ModuleCredit': u'4', u'Preclusion': u'Students who have passed FNA1002 are not allowed to take ACC1002.', u'CorrectAsAt': u'08 Oct 2013 10:24', u'ModuleTitle': u'Financial Accounting', u'Workload': u'2-2-0-3-4', u'ModuleCode': u'ACC1002', u'Timetable': [{u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'UT-AUD2,', u'DayText': u'WEDNESDAY', u'StartTime': u'1000', u'ClassNo': u'V1', u'EndTime': u'1200', u'LessonType': u'LECTURE'}, {u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'BIZ2-0302,', u'DayText': u'TUESDAY', u'StartTime': u'1400', u'ClassNo': u'V01', u'EndTime': u'1600', u'LessonType': u'TUTORIAL'}, {u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'BIZ2-0302,', u'DayText': u'FRIDAY', u'StartTime': u'800', u'ClassNo': u'V02', u'EndTime': u'1000', u'LessonType': u'TUTORIAL'}, {u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'BIZ2-0302,', u'DayText': u'TUESDAY', u'StartTime': u'1600', u'ClassNo': u'V03', u'EndTime': u'1800', u'LessonType': u'TUTORIAL'}, {u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'BIZ2-0302,', u'DayText': u'FRIDAY', u'StartTime': u'1200', u'ClassNo': u'V04', u'EndTime': u'1400', u'LessonType': u'TUTORIAL'}, {u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'BIZ2-0302,', u'DayText': u'FRIDAY', u'StartTime': u'1400', u'ClassNo': u'V05', u'EndTime': u'1600', u'LessonType': u'TUTORIAL'}, {u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'BIZ2-B104,', u'DayText': u'MONDAY', u'StartTime': u'1400', u'ClassNo': u'V06', u'EndTime': u'1600', u'LessonType': u'TUTORIAL'}, {u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'BIZ2-0302,', u'DayText': u'FRIDAY', u'StartTime': u'1600', u'ClassNo': u'V07', u'EndTime': u'1800', u'LessonType': u'TUTORIAL'}, {u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'BIZ2-0229,', u'DayText': u'MONDAY', u'StartTime': u'900', u'ClassNo': u'V08', u'EndTime': u'1100', u'LessonType': u'TUTORIAL'}, {u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'BIZ2-0229,', u'DayText': u'MONDAY', u'StartTime': u'1100', u'ClassNo': u'V09', u'EndTime': u'1300', u'LessonType': u'TUTORIAL'}, {u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'BIZ2-0302,', u'DayText': u'FRIDAY', u'StartTime': u'1000', u'ClassNo': u'V10', u'EndTime': u'1200', u'LessonType': u'TUTORIAL'}, {u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'BIZ2-0229,', u'DayText': u'THURSDAY', u'StartTime': u'800', u'ClassNo': u'V11', u'EndTime': u'1000', u'LessonType': u'TUTORIAL'}, {u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'BIZ2-0229,', u'DayText': u'THURSDAY', u'StartTime': u'1000', u'ClassNo': u'V12', u'EndTime': u'1200', u'LessonType': u'TUTORIAL'}, {u'WeekText': u'EVERY&nbsp;WEEK', u'Venue': u'BIZ2-0229,', u'DayText': u'THURSDAY', u'StartTime': u'1200', u'ClassNo': u'V13', u'EndTime': u'1400', u'LessonType': u'TUTORIAL'}], u'ModuleDescription': u"The course provides an introduction to financial accounting. It examines accounting from an external user's perspective: an external user being an investor or a creditor. Such users would need to understand financial accounting in order to make investing or lending decisions. However, to attain a good understanding, it is also necessary to be familiar with how the information is derived. Therefore, students would learn how to prepare the reports or statements resulting from financial accounting and how to use them for decision-making.", u'Department': u'ACCOUNTING', u'Type': u'Module', u'Prerequisite': u'Nil', u'ExamDate': u'30-11-2013 PM'}
+Advanced Conducting II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA4205', 'Advanced Conducting II', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 2); 
+Independent Project
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CP3106', 'Independent Project', 'DEAN''S OFFICE (SCHOOL OF COMPUTING)', 4); 
+Marketing Strategy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMU5006', 'Marketing Strategy', 'DEAN''S OFFICE (BIZ)', 4); 
+An Introduction to Negotiating & Drafting Commercial Contracts
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5193', 'An Introduction to Negotiating & Drafting Commercial Contracts', 'LAW', 4); 
+PRIVATE INTERNATIONAL LAW OF IP
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5192', 'PRIVATE INTERNATIONAL LAW OF IP', 'LAW', 4); 
+ECONOMIC ANALYSIS FOR MANAGERS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMU5003', 'ECONOMIC ANALYSIS FOR MANAGERS', 'DEAN''S OFFICE (BIZ)', 4); 
+CORPORATE GOVERNANCE, BUSINESS LAW & ETHICS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMU5008', 'CORPORATE GOVERNANCE, BUSINESS LAW & ETHICS', 'DEAN''S OFFICE (BIZ)', 4); 
+Topics in Building Performance and Sustainability
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BPS5300', 'Topics in Building Performance and Sustainability', 'BUILDING', 4); 
+Special Topics in PS: Critical IR Theory
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS3880B', 'Special Topics in PS: Critical IR Theory', 'POLITICAL SCIENCE', 4); 
+FAMILY CENTRED PRACTICE
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SWD5263', 'FAMILY CENTRED PRACTICE', 'SOCIAL WORK', 4); 
+Population Ageing, Public Policy, and Family
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PP5223', 'Population Ageing, Public Policy, and Family', 'LEE KUAN YEW SCHOOL OF PUBLIC POLICY', 4); 
+SPECIAL TOPICS IN TECHNOLOGY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR5121', 'SPECIAL TOPICS IN TECHNOLOGY', 'ARCHITECTURE', 4); 
+Web Security
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS5331', 'Web Security', 'COMPUTER SCIENCE', 4); 
+Methods of Social Research
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SC2101', 'Methods of Social Research', 'SOCIOLOGY', 4); 
+Freedom of Speech: Critical & Comparative Perspectives
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5190', 'Freedom of Speech: Critical & Comparative Perspectives', 'LAW', 4); 
+Computer Vision and Pattern Recognition
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS4243R', 'Computer Vision and Pattern Recognition', 'COMPUTER SCIENCE', 1); 
+Mobility and New Media
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM2302', 'Mobility and New Media', 'COMMUNICATIONS AND NEW MEDIA', 4); 
+Management of Industrial R&D
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MT5002', 'Management of Industrial R&D', 'DIVISION OF ENGINEERING AND TECH MGT', 4); 
+MANAGEMENT OF TECHNOLOGICAL INNOVATION
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MT5007', 'MANAGEMENT OF TECHNOLOGICAL INNOVATION', 'DIVISION OF ENGINEERING AND TECH MGT', 4); 
+USER-CENTRED ENGINEERING & PRODUCT DEVELOPMENT
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MT5004', 'USER-CENTRED ENGINEERING & PRODUCT DEVELOPMENT', 'DIVISION OF ENGINEERING AND TECH MGT', 4); 
+Maritime Conflict of Laws
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6205', 'Maritime Conflict of Laws', 'LAW', 4); 
+ANALYZING HI-TECHNOLOGY OPPORTUNITIES
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MT5009', 'ANALYZING HI-TECHNOLOGY OPPORTUNITIES', 'DIVISION OF ENGINEERING AND TECH MGT', 4); 
+E-Business Design and Implementation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IS2150', 'E-Business Design and Implementation', 'INFORMATION SYSTEMS', 4); 
+Metabolism and Regulation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM2101', 'Metabolism and Regulation', 'BIOCHEMISTRY', 4); 
+Molecular Biology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM2102', 'Molecular Biology', 'BIOLOGICAL SCIENCES', 4); 
+Cell Biology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM2103', 'Cell Biology', 'BIOCHEMISTRY', 4); 
+Web Programming and Applications
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CP3101B', 'Web Programming and Applications', 'COMPUTER SCIENCE', 4); 
+Global Open Source Project
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CP3101A', 'Global Open Source Project', 'DEAN''S OFFICE (SCHOOL OF COMPUTING)', 4); 
+Social Work Field Practice (II)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SW3104', 'Social Work Field Practice (II)', 'SOCIAL WORK', 8); 
+Social Work Research Methods
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SW3101', 'Social Work Research Methods', 'SOCIAL WORK', 4); 
+FS: Generations
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FMA1201J', 'FS: Generations', 'JAPANESE STUDIES', 4); 
+FS: Meanings and Leanings: Is There a Reason Why?
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FMA1201P', 'FS: Meanings and Leanings: Is There a Reason Why?', 'SOCIAL WORK', 4); 
+FS: Love Actually? The Social Construction of Romantic Love
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FMA1201Q', 'FS: Love Actually? The Social Construction of Romantic Love', 'SOCIOLOGY', 4); 
+FS: Singapore's Little India: A 'Community Space'?
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FMA1201R', 'FS: Singapore''s Little India: A ''Community Space''?', 'SOUTH ASIAN STUDIES PROGRAMME', 4); 
+Transition and the Rule of Law in Myanmar
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4231', 'Transition and the Rule of Law in Myanmar', 'LAW', 4); 
+Hard at work: the changing face of labour in SEA
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE3226', 'Hard at work: the changing face of labour in SEA', 'SOUTHEAST ASIAN STUDIES', 4); 
+Advanced Bioinformatics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CZ5226', 'Advanced Bioinformatics', 'PHARMACY', 4); 
+MEDIATION
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5044', 'MEDIATION', 'LAW', 4); 
+Dynamic Environments
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GE5211', 'Dynamic Environments', 'GEOGRAPHY', 4); 
+GLOBAL CITIES
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GE5212', 'GLOBAL CITIES', 'GEOGRAPHY', 4); 
+Pattern Recognition
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE5907R', 'Pattern Recognition', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Culture and Society in Chinese History
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CH6245', 'Culture and Society in Chinese History', 'CHINESE STUDIES', 4); 
+Advanced UROPS in Statistics & Applied Probability II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ST3289', 'Advanced UROPS in Statistics & Applied Probability II', 'STATISTICS & APPLIED PROBABILITY', 4); 
+Topics in Legal Issues in Business
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMA5102A', 'Topics in Legal Issues in Business', 'STRATEGY AND POLICY', 2); 
+Research Methodology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR5011', 'Research Methodology', 'ARCHITECTURE', 4); 
+International Real Estate
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('RE4302', 'International Real Estate', 'REAL ESTATE', 4); 
+DISSERTATION
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('DE5109', 'DISSERTATION', 'DEAN''S OFFICE (SCHOOL OF DESIGN & ENV)', 10); 
+STUDY REPORT
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('DE5108', 'STUDY REPORT', 'DEAN''S OFFICE (SCHOOL OF DESIGN & ENV)', 6); 
+Chinese Fiction
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CH2223', 'Chinese Fiction', 'CHINESE STUDIES', 4); 
+History and Culture of the United State
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('YHU1203', 'History and Culture of the United State', 'YALE-NUS COLLEGE', 5); 
+Industrial Heat Transfer
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ME4225', 'Industrial Heat Transfer', 'MECHANICAL ENGINEERING', 4); 
+Internal Combustion Engines
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ME4227', 'Internal Combustion Engines', 'MECHANICAL ENGINEERING', 4); 
+CONTROL OF NON-COMMUNICABLE DISEASES
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CO5209', 'CONTROL OF NON-COMMUNICABLE DISEASES', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+MEASURING AND MANAGING QUALITY OF CARE
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CO5208', 'MEASURING AND MANAGING QUALITY OF CARE', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+Foundations of Public Management (Gateway)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PP5415', 'Foundations of Public Management (Gateway)', 'LEE KUAN YEW SCHOOL OF PUBLIC POLICY', 4); 
+CONTROL OF COMMUNICABLE DISEASES
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CO5201', 'CONTROL OF COMMUNICABLE DISEASES', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+INDEPENDENT STUDY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE6660', 'INDEPENDENT STUDY', 'SOUTHEAST ASIAN STUDIES', 4); 
+Working With Older Adults
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SW3213', 'Working With Older Adults', 'SOCIAL WORK', 4); 
+MANAGEMENT OF HEALTHCARE ORGANIZATIONS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CO5205', 'MANAGEMENT OF HEALTHCARE ORGANIZATIONS', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+HEALTH ECONOMICS AND FINANCING
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CO5204', 'HEALTH ECONOMICS AND FINANCING', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+Urban Youth Work
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SW3216', 'Urban Youth Work', 'SOCIAL WORK', 4); 
+Making Sense of Society
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SC1101E', 'Making Sense of Society', 'SOCIOLOGY', 4); 
+Practicum in Online Learning in Music
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUT4203', 'Practicum in Online Learning in Music', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 3); 
+Noon Recital Series 2B
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA2154', 'Noon Recital Series 2B', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 0); 
+Collaborative Piano Studies
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA2155', 'Collaborative Piano Studies', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 2); 
+Integrated Digital Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE4415E', 'Integrated Digital Design', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+Independent Study
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE3660', 'Independent Study', 'SOUTHEAST ASIAN STUDIES', 4); 
+Environmental Systems and Construction
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR3721', 'Environmental Systems and Construction', 'ARCHITECTURE', 4); 
+Korean 2
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAK2201', 'Korean 2', 'CENTRE FOR LANGUAGE STUDIES', 4); 
+Noon Recital Series 2A
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA2153', 'Noon Recital Series 2A', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 0); 
+Approximation Theory
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA4229', 'Approximation Theory', 'MATHEMATICS', 4); 
+Problem Solving for Computing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEM1501', 'Problem Solving for Computing', 'COMPUTER SCIENCE', 4); 
+Independent Study
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE4660', 'Independent Study', 'SOUTHEAST ASIAN STUDIES', 5); 
+The Politics of European Integration
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS3880H', 'The Politics of European Integration', 'POLITICAL SCIENCE', 4); 
+GRADUATE SEMINAR MODULE IN MATHEMATICS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA5198', 'GRADUATE SEMINAR MODULE IN MATHEMATICS', 'MATHEMATICS', 4); 
+Equity & Trusts (B)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LC2006B', 'Equity & Trusts (B)', 'LAW', 8); 
+Equity & Trusts (C)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LC2006C', 'Equity & Trusts (C)', 'LAW', 8); 
+Play Production
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('TS3103', 'Play Production', 'ENGLISH LANGUAGE & LITERATURE', 8); 
+Equity & Trusts (A)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LC2006A', 'Equity & Trusts (A)', 'LAW', 8); 
+Strategic Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BSP3001A', 'Strategic Management', 'STRATEGY AND POLICY', 4); 
+International Law & Asia
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4109', 'International Law & Asia', 'LAW', 4); 
+TEXT AND PERFORMANCE
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('TS5101R', 'TEXT AND PERFORMANCE', 'ENGLISH LANGUAGE & LITERATURE', 5); 
+Money, Business and Social Networks
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SC2209', 'Money, Business and Social Networks', 'SOCIOLOGY', 4); 
+RAS Project 3
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA3175', 'RAS Project 3', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 4); 
+Audio Mastering
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA3174', 'Audio Mastering', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 4); 
+RAS Project 4
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA3176', 'RAS Project 4', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 4); 
+Strategic Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BSP3001C', 'Strategic Management', 'STRATEGY AND POLICY', 4); 
+Electroacoustics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA3173', 'Electroacoustics', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 3); 
+Jurisprudence
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4104', 'Jurisprudence', 'LAW', 4); 
+Special Topics in SCM
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LI5202', 'Special Topics in SCM', 'THE LOGISTICS INSTITUTE - ASIA PACIFIC', 4); 
+Real Estate Marketing & Negotiation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('RE2106', 'Real Estate Marketing & Negotiation', 'REAL ESTATE', 4); 
+Special Topics in Logistics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LI5201', 'Special Topics in Logistics', 'THE LOGISTICS INSTITUTE - ASIA PACIFIC', 4); 
+Calculus for Computing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA1521', 'Calculus for Computing', 'MATHEMATICS', 4); 
+PROPERTY TAX AND STATUTORY VALUATION
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('RE2107', 'PROPERTY TAX AND STATUTORY VALUATION', 'REAL ESTATE', 4); 
+Criticism in Modern Malay Literature
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MS2211', 'Criticism in Modern Malay Literature', 'MALAY STUDIES', 4); 
+Professional Communication
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ES2007S', 'Professional Communication', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+Fundamentals of Facilities Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PF1105', 'Fundamentals of Facilities Management', 'BUILDING', 4); 
+Enterprise .NET II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SG5226', 'Enterprise .NET II', 'INSTITUTE OF SYSTEMS SCIENCE', 3); 
+Engineering Mathematics II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('TM2401', 'Engineering Mathematics II', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+Land Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('RE2105', 'Land Law', 'REAL ESTATE', 4); 
+Electrical Engineering
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EG1108', 'Electrical Engineering', 'DEAN''S OFFICE (ENGINEERING)', 3); 
+Statics And Mechanics Of Materials
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EG1109', 'Statics And Mechanics Of Materials', 'DEAN''S OFFICE (ENGINEERING)', 4); 
+Chinese 2
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAC2201', 'Chinese 2', 'CENTRE FOR LANGUAGE STUDIES', 4); 
+Vietnamese 1
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAV1201', 'Vietnamese 1', 'CENTRE FOR LANGUAGE STUDIES', 4); 
+IT Project Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IS4100', 'IT Project Management', 'INFORMATION SYSTEMS', 4); 
+Independent Study Module
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('UIS3911NM', 'Independent Study Module', 'DEAN''S OFFICE (ARTS & SOCIAL SC.)', 4); 
+Singapore's Foreign Policy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS3249', 'Singapore''s Foreign Policy', 'POLITICAL SCIENCE', 4); 
+Advanced UROPS in Chemistry II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CM3289', 'Advanced UROPS in Chemistry II', 'CHEMISTRY', 4); 
+Advanced UROPS in Chemistry I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CM3288', 'Advanced UROPS in Chemistry I', 'CHEMISTRY', 4); 
+Advanced Biostatistics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SPH6004', 'Advanced Biostatistics', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+Multimodal Processing in Mobile Platforms
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS3218', 'Multimodal Processing in Mobile Platforms', 'COMPUTER SCIENCE', 4); 
+SOFTWARE PROJECT MANAGEMENT
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SG5002', 'SOFTWARE PROJECT MANAGEMENT', 'INSTITUTE OF SYSTEMS SCIENCE', 4); 
+Software Engineering on Modern Application Platforms
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS3217', 'Software Engineering on Modern Application Platforms', 'COMPUTER SCIENCE', 5); 
+Parallel Computing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS3210', 'Parallel Computing', 'COMPUTER SCIENCE', 4); 
+Parallel and Concurrent Programming
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS3211', 'Parallel and Concurrent Programming', 'COMPUTER SCIENCE', 4); 
+Programming Language Concepts
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS2104R', 'Programming Language Concepts', 'COMPUTER SCIENCE', 1); 
+SERVICE INNOVATION AND MANAGEMENT
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IE5213', 'SERVICE INNOVATION AND MANAGEMENT', 'INDUSTRIAL & SYSTEMS ENGINEERING', 4); 
+IP and Competition Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4075', 'IP and Competition Law', 'LAW', 4); 
+New Product Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IE5211', 'New Product Management', 'INDUSTRIAL & SYSTEMS ENGINEERING', 4); 
+International Criminal Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4073', 'International Criminal Law', 'LAW', 4); 
+Global Exploitation Of IP
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4071', 'Global Exploitation Of IP', 'LAW', 4); 
+Foundations Of Intellectual Property Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4070', 'Foundations Of Intellectual Property Law', 'LAW', 4); 
+Patient and Health Care
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PL4234', 'Patient and Health Care', 'PSYCHOLOGY', 5); 
+RESEARCH ON ADVANCED IT TOPICS 1
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SG5020', 'RESEARCH ON ADVANCED IT TOPICS 1', 'INSTITUTE OF SYSTEMS SCIENCE', 4); 
+BIOPHYSICAL METHODS IN LIFE SCIENCES
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BL5202A', 'BIOPHYSICAL METHODS IN LIFE SCIENCES', 'BIOLOGICAL SCIENCES', 4); 
+Open Source for the Enterprise
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SG5027', 'Open Source for the Enterprise', 'INSTITUTE OF SYSTEMS SCIENCE', 4); 
+Natural Heritage of Singapore
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SSS1207', 'Natural Heritage of Singapore', 'BIOLOGICAL SCIENCES', 4); 
+Ecology and Environment
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM2251', 'Ecology and Environment', 'BIOLOGICAL SCIENCES', 4); 
+Advanced UROPS in Food Science & Technology II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FST3289', 'Advanced UROPS in Food Science & Technology II', 'CHEMISTRY', 4); 
+Advanced UROPS in Food Science & Technology I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FST3288', 'Advanced UROPS in Food Science & Technology I', 'CHEMISTRY', 4); 
+Offshore Foundations
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('OT5206', 'Offshore Foundations', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Microelectronics Materials and Devices
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE3431C', 'Microelectronics Materials and Devices', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Moorings & Risers
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('OT5204', 'Moorings & Risers', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+HUMAN ECOLOGY AND BUILT ENVIRONMENT - SPACE AND HEALTH
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR5952J', 'HUMAN ECOLOGY AND BUILT ENVIRONMENT - SPACE AND HEALTH', 'ARCHITECTURE', 4); 
+STATISTICAL CONSULTING
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ST5220', 'STATISTICAL CONSULTING', 'STATISTICS & APPLIED PROBABILITY', 4); 
+Chemical Engineering Project
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN5555', 'Chemical Engineering Project', 'CHEMICAL & BIOMOLECULAR ENGINEERING', 8); 
+Microelectronics Materials and Devices
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE3431E', 'Microelectronics Materials and Devices', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+Leadership and Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NUR3114', 'Leadership and Management', 'NURSING/ALICE LEE CTR FOR NURSING STUD', 3); 
+Towards an Understanding of the Complex World
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEM1915FC', 'Towards an Understanding of the Complex World', 'CHEMICAL & BIOMOLECULAR ENGINEERING', 4); 
+Global Strategic Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BSP4512', 'Global Strategic Management', 'STRATEGY AND POLICY', 4); 
+Making Sense of Data - Health and the Internet
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEM1916A', 'Making Sense of Data - Health and the Internet', 'COLLEGE OF ALICE & PETER TAN', 4); 
+Southeast Asian Studies Internship
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE3550', 'Southeast Asian Studies Internship', 'SOUTHEAST ASIAN STUDIES', 4); 
+Water Resources Engineering
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE3132', 'Water Resources Engineering', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Graduate Algebra II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA5204', 'Graduate Algebra II', 'MATHEMATICS', 4); 
+Graduate Analysis II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA5206', 'Graduate Analysis II', 'MATHEMATICS', 4); 
+Religion and Society in South Asia
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SN2271', 'Religion and Society in South Asia', 'SOUTH ASIAN STUDIES PROGRAMME', 4); 
+Evolution
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ULS2202', 'Evolution', 'UNIVERSITY SCHOLARS PROGRAMME', 4); 
+Chinese Corporate & Securities Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LC5089', 'Chinese Corporate & Securities Law', 'LAW', 4); 
+Graduate Research Seminar and Workshop
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MDG5771', 'Graduate Research Seminar and Workshop', 'DEAN''S OFFICE (MEDICINE)', 4); 
+Community Mental Health
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NUR5403', 'Community Mental Health', 'NURSING/ALICE LEE CTR FOR NURSING STUD', 4); 
+Musical Concepts and Materials IV
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUT2118', 'Musical Concepts and Materials IV', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 4); 
+Indian Communities in Southeast Asia
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SN2277', 'Indian Communities in Southeast Asia', 'SOUTH ASIAN STUDIES PROGRAMME', 4); 
+Principles of Economics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('YSS1203', 'Principles of Economics', 'YALE-NUS COLLEGE', 5); 
+Advanced UROPS in Physics I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC3288', 'Advanced UROPS in Physics I', 'PHYSICS', 4); 
+Advanced UROPS in Physics II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC3289', 'Advanced UROPS in Physics II', 'PHYSICS', 4); 
+Independent Study Module
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('UIS4932', 'Independent Study Module', 'DEAN''S OFFICE (ENGINEERING)', 4); 
+Independent Study Module
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('UIS4933', 'Independent Study Module', 'DEAN''S OFFICE (ENGINEERING)', 4); 
+Voice Literature 2
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA3195', 'Voice Literature 2', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 2); 
+Independent Study Module
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('UIS4931', 'Independent Study Module', 'DEAN''S OFFICE (ENGINEERING)', 4); 
+Junior Recital in Voice
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA3191', 'Junior Recital in Voice', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 6); 
+Applied Voice Major Study 3A
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA3190', 'Applied Voice Major Study 3A', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 4); 
+Pharmacoeconomics and Outcomes Research
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PR5230', 'Pharmacoeconomics and Outcomes Research', 'PHARMACY', 4); 
+Automation in Manufacturing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ME4262E', 'Automation in Manufacturing', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+Heat & Mass Transfer
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN2125', 'Heat & Mass Transfer', 'CHEMICAL & BIOMOLECULAR ENGINEERING', 4); 
+Optical Networks (Advanced)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE6134', 'Optical Networks (Advanced)', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Digital Communications
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE6135', 'Digital Communications', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Chemical Engineering Thermodynamics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN2121', 'Chemical Engineering Thermodynamics', 'CHEMICAL & BIOMOLECULAR ENGINEERING', 4); 
+Fluid Mechanics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN2122', 'Fluid Mechanics', 'CHEMICAL & BIOMOLECULAR ENGINEERING', 4); 
+Personality Biology, Economics and Wellbeing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PL4231', 'Personality Biology, Economics and Wellbeing', 'PSYCHOLOGY', 5); 
+Clinical Practicum II (Adult Health)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NUR5312', 'Clinical Practicum II (Adult Health)', 'NURSING/ALICE LEE CTR FOR NURSING STUD', 4); 
+Clinical Practicum I (Adult Health)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NUR5311', 'Clinical Practicum I (Adult Health)', 'NURSING/ALICE LEE CTR FOR NURSING STUD', 4); 
+GEOTECHNICAL ANALYSIS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE6102', 'GEOTECHNICAL ANALYSIS', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Language, Ideology and Power
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EL4254', 'Language, Ideology and Power', 'ENGLISH LANGUAGE & LITERATURE', 5); 
+English as a World Language
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EL4255', 'English as a World Language', 'ENGLISH LANGUAGE & LITERATURE', 5); 
+Research Project
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MCI5008', 'Research Project', 'DEAN''S OFFICE (MEDICINE)', 8); 
+SCIENTIFIC WRITING
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MCI5007', 'SCIENTIFIC WRITING', 'DEAN''S OFFICE (MEDICINE)', 2); 
+LEADERSHIP IN ORGANIZATIONS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMA5016A', 'LEADERSHIP IN ORGANIZATIONS', 'DEAN''S OFFICE (BIZ)', 2); 
+World Music Ensemble
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA3220', 'World Music Ensemble', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 2); 
+Mechanical Systems Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('TM3101', 'Mechanical Systems Design', 'BACHELOR OF TECHNOLOGY PROGRAMME', 6); 
+Property Theory
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6234', 'Property Theory', 'LAW', 4); 
+European Company Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6233', 'European Company Law', 'LAW', 4); 
+Transition and the Rule of Law in Myanmar
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6231', 'Transition and the Rule of Law in Myanmar', 'LAW', 4); 
+HUMAN RIGHTS IN ASIA
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5133', 'HUMAN RIGHTS IN ASIA', 'LAW', 4); 
+International Corporate Finance
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6238', 'International Corporate Finance', 'LAW', 4); 
+Human Anatomy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM1202', 'Human Anatomy', 'ANATOMY', 4); 
+Topics on Chinese Linguistics II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CL3205', 'Topics on Chinese Linguistics II', 'CHINESE STUDIES', 4); 
+Chinese Phonology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CL3208', 'Chinese Phonology', 'CHINESE STUDIES', 4); 
+Undergraduate Topics in Mathematics I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA4291', 'Undergraduate Topics in Mathematics I', 'MATHEMATICS', 4); 
+Numerical Methods In Engineering
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ME3291', 'Numerical Methods In Engineering', 'MECHANICAL ENGINEERING', 4); 
+Changing Economic Landscape of Southeast Asia
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE2218T', 'Changing Economic Landscape of Southeast Asia', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+Political Ideologies
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEK2024', 'Political Ideologies', 'POLITICAL SCIENCE', 4); 
+INDEPENDENT STUDY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('JS5660', 'INDEPENDENT STUDY', 'JAPANESE STUDIES', 4); 
+ADVANCED TRANSPORT PHENOMENA
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN5040', 'ADVANCED TRANSPORT PHENOMENA', 'CHEMICAL & BIOMOLECULAR ENGINEERING', 4); 
+Sociology of Work
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SC2202', 'Sociology of Work', 'SOCIOLOGY', 4); 
+Cold War in Europe, 1945-1991
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EU3230', 'Cold War in Europe, 1945-1991', 'HISTORY', 4); 
+Modern Imperialism
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EU3231', 'Modern Imperialism', 'HISTORY', 4); 
+Country Studies: Mainland Southeast Asia
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE5241', 'Country Studies: Mainland Southeast Asia', 'SOUTHEAST ASIAN STUDIES', 4); 
+Honours Thesis
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PH4401', 'Honours Thesis', 'PHILOSOPHY', 15); 
+Creative Thinking
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('UPI2206', 'Creative Thinking', 'UNIVERSITY SCHOLARS PROGRAMME', 4); 
+INDEPENDENT STUDY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM5660', 'INDEPENDENT STUDY', 'COMMUNICATIONS AND NEW MEDIA', 4); 
+Analytical & Numerical Methods In Foundation Engineering
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE5105', 'Analytical & Numerical Methods In Foundation Engineering', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Ground Improvement
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE5106', 'Ground Improvement', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Pile Foundations
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE5107', 'Pile Foundations', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Writing for Health Communication and New Media
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM4221', 'Writing for Health Communication and New Media', 'COMMUNICATIONS AND NEW MEDIA', 5); 
+Lab in Applied Psychology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PL3284', 'Lab in Applied Psychology', 'PSYCHOLOGY', 4); 
+Lab in Health Psychology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PL3286', 'Lab in Health Psychology', 'PSYCHOLOGY', 4); 
+Computational Complexity
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS5230', 'Computational Complexity', 'COMPUTER SCIENCE', 4); 
+Systems Security
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS5231', 'Systems Security', 'COMPUTER SCIENCE', 4); 
+Formal Specification and Design Techniques
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS5232', 'Formal Specification and Design Techniques', 'COMPUTER SCIENCE', 4); 
+Simulation and Modelling Techniques
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS5233', 'Simulation and Modelling Techniques', 'COMPUTER SCIENCE', 4); 
+Cultural Communication and Creative Expression
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM4229', 'Cultural Communication and Creative Expression', 'COMMUNICATIONS AND NEW MEDIA', 5); 
+Embedded Computer Systems Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE3208E', 'Embedded Computer Systems Design', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+Independent Reading and Research II (Sem2)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('YIR1322', 'Independent Reading and Research II (Sem2)', 'YALE-NUS COLLEGE', 2); 
+Architecture and Urban Heritage
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR4223', 'Architecture and Urban Heritage', 'ARCHITECTURE', 4); 
+Practice with Persons with Disability
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SW5213', 'Practice with Persons with Disability', 'SOCIAL WORK', 4); 
+Genetic Medicine in the Post-Genomic Era
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM4225', 'Genetic Medicine in the Post-Genomic Era', 'BIOCHEMISTRY', 4); 
+Advances in Antimicrobial Strategies
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM4223', 'Advances in Antimicrobial Strategies', 'MICROBIOLOGY', 4); 
+Advanced Immunology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM4222', 'Advanced Immunology', 'MICROBIOLOGY', 4); 
+Drug Discovery and Clinical Trials
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM4221', 'Drug Discovery and Clinical Trials', 'PHARMACOLOGY', 4); 
+Independent Study Module (Ride On)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('UIS3943R', 'Independent Study Module (Ride On)', 'DEAN''S OFFICE (BIZ)', 4); 
+Architectural Construction
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR1326', 'Architectural Construction', 'ARCHITECTURE', 4); 
+Investment Instruments: Theory and Computation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('QF3101', 'Investment Instruments: Theory and Computation', 'MATHEMATICS', 4); 
+Southeast Asian Cultural Landscapes
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GE5214', 'Southeast Asian Cultural Landscapes', 'GEOGRAPHY', 4); 
+Topics in Science Communication
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MW5201', 'Topics in Science Communication', 'DEAN''S OFFICE (SCIENCE)', 4); 
+MSc Science Communication Project
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MW5200', 'MSc Science Communication Project', 'DEAN''S OFFICE (SCIENCE)', 12); 
+Private International Law of IP
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6192', 'Private International Law of IP', 'LAW', 4); 
+Quality Engineering I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IE2130', 'Quality Engineering I', 'INDUSTRIAL & SYSTEMS ENGINEERING', 4); 
+Negotiating & Drafting Int'l Commercial Transactions
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6193', 'Negotiating & Drafting Int''l Commercial Transactions', 'LAW', 4); 
+Facilities Planning and Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PF3102', 'Facilities Planning and Design', 'BUILDING', 4); 
+Project Management Law II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PF3103', 'Project Management Law II', 'BUILDING', 4); 
+LAW OF MARINE INSURANCE
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5043', 'LAW OF MARINE INSURANCE', 'LAW', 4); 
+Advanced Characterization of Materials and Devices
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE6436', 'Advanced Characterization of Materials and Devices', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+FINANCE FOR ENGINEERING & TECHNOLOGY MANAGEMENT
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MT5011', 'FINANCE FOR ENGINEERING & TECHNOLOGY MANAGEMENT', 'DIVISION OF ENGINEERING AND TECH MGT', 4); 
+TECHNOLOGY INTELLIGENCE & IP STRATEGY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MT5010', 'TECHNOLOGY INTELLIGENCE & IP STRATEGY', 'DIVISION OF ENGINEERING AND TECH MGT', 4); 
+MARKETING OF HIGH-TECHNOLOGY PRODUCTS AND INNOVATIONS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MT5012', 'MARKETING OF HIGH-TECHNOLOGY PRODUCTS AND INNOVATIONS', 'DIVISION OF ENGINEERING AND TECH MGT', 4); 
+Arabic 6
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAR4202', 'Arabic 6', 'CENTRE FOR LANGUAGE STUDIES', 5); 
+Business Models for Hi-Tech Products
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MT5016', 'Business Models for Hi-Tech Products', 'DIVISION OF ENGINEERING AND TECH MGT', 4); 
+Introduction to Legal Theory (E)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LC1002E', 'Introduction to Legal Theory (E)', 'LAW', 4); 
+Introduction to Legal Theory (D)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LC1002D', 'Introduction to Legal Theory (D)', 'LAW', 4); 
+Introduction To Legal Theory (A)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LC1002A', 'Introduction To Legal Theory (A)', 'LAW', 4); 
+Voice Studies and Production
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('TS2240', 'Voice Studies and Production', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+Introduction to Legal Theory (C)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LC1002C', 'Introduction to Legal Theory (C)', 'LAW', 4); 
+Introduction To Legal Theory (B)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LC1002B', 'Introduction To Legal Theory (B)', 'LAW', 4); 
+Fire Technology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BPS5207', 'Fire Technology', 'BUILDING', 4); 
+Protective Building Technologies
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BPS5206', 'Protective Building Technologies', 'BUILDING', 4); 
+Sustainable Construction and Maintainability
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BPS5205', 'Sustainable Construction and Maintainability', 'BUILDING', 4); 
+Energy Efficiency and Renewable Energy in Buildings
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BPS5204', 'Energy Efficiency and Renewable Energy in Buildings', 'BUILDING', 4); 
+Basic UROPS in Statistics and Applied Probability II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ST2289', 'Basic UROPS in Statistics and Applied Probability II', 'STATISTICS & APPLIED PROBABILITY', 4); 
+ISE RESEARCH METHODOLOGY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IE6099', 'ISE RESEARCH METHODOLOGY', 'INDUSTRIAL & SYSTEMS ENGINEERING', 4); 
+Logic
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PH2110', 'Logic', 'PHILOSOPHY', 4); 
+Basic UROPS in Statistics and Applied Probability I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ST2288', 'Basic UROPS in Statistics and Applied Probability I', 'STATISTICS & APPLIED PROBABILITY', 4); 
+Contemporary India: Contexts & Narratives
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SN5103', 'Contemporary India: Contexts & Narratives', 'SOUTH ASIAN STUDIES PROGRAMME', 4); 
+Membrane Science And Engineering
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN4210E', 'Membrane Science And Engineering', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+GLOBAL EXPLOITATION OF IP
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5071', 'GLOBAL EXPLOITATION OF IP', 'LAW', 4); 
+International Criminal Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5073', 'International Criminal Law', 'LAW', 4); 
+Mergers & Acquisitions (M&A)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5074', 'Mergers & Acquisitions (M&A)', 'LAW', 4); 
+IP AND COMPETITION LAW
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5075', 'IP AND COMPETITION LAW', 'LAW', 4); 
+Environmental Planning
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('DE5107', 'Environmental Planning', 'DEAN''S OFFICE (SCHOOL OF DESIGN & ENV)', 4); 
+DEVELOPMENT FINANCE
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PM5105', 'DEVELOPMENT FINANCE', 'BUILDING', 4); 
+GRADUATE SEMINARS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BN5999', 'GRADUATE SEMINARS', 'BIOMEDICAL ENGINEERING', 4); 
+Introduction to Chinese Studies
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CH1101E', 'Introduction to Chinese Studies', 'CHINESE STUDIES', 4); 
+Pharmaceutical Marketing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PR4201', 'Pharmaceutical Marketing', 'PHARMACY', 4); 
+Literature and the Environment
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EN5880AR', 'Literature and the Environment', 'ENGLISH LANGUAGE & LITERATURE', 5); 
+Field Practice
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CO5231', 'Field Practice', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+Data Structures and Algorithms I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS1020', 'Data Structures and Algorithms I', 'COMPUTER SCIENCE', 4); 
+Aerodynamics And Propulsion
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ME4231', 'Aerodynamics And Propulsion', 'MECHANICAL ENGINEERING', 4); 
+Evidence-based Health Care Practice
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NUR4101', 'Evidence-based Health Care Practice', 'NURSING/ALICE LEE CTR FOR NURSING STUD', 8); 
+REAL ESTATE FINANCE & SECURITISATION
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('RE6001', 'REAL ESTATE FINANCE & SECURITISATION', 'REAL ESTATE', 4); 
+Consolidated Clinical Practice
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NUR4102', 'Consolidated Clinical Practice', 'NURSING/ALICE LEE CTR FOR NURSING STUD', 8); 
+Integrated Honours Dissertation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('XFB4002', 'Integrated Honours Dissertation', 'DEAN''S OFFICE (BIZ)', 15); 
+Integrated Honors Thesis
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('XFB4001', 'Integrated Honors Thesis', 'DEAN''S OFFICE (BIZ)', 12); 
+Nanotechnology-Smart Phone and Beyond
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEM1537', 'Nanotechnology-Smart Phone and Beyond', 'PHYSICS', 4); 
+Darwin and Evolution
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEM1536', 'Darwin and Evolution', 'BIOLOGICAL SCIENCES', 4); 
+Body and Society
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SC4222', 'Body and Society', 'SOCIOLOGY', 5); 
+INDEPENDENT STUDY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('HY5660', 'INDEPENDENT STUDY', 'HISTORY', 4); 
+Microbiology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM3232', 'Microbiology', 'MICROBIOLOGY', 4); 
+Understanding China: Past and Present (in English)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CH3295', 'Understanding China: Past and Present (in English)', 'CHINESE STUDIES', 4); 
+MLA Studio: City
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LA4702', 'MLA Studio: City', 'ARCHITECTURE', 8); 
+Tropical Conservation Biology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM4262', 'Tropical Conservation Biology', 'BIOLOGICAL SCIENCES', 4); 
+Asia and the Modern World
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('HY1101E', 'Asia and the Modern World', 'HISTORY', 4); 
+Polymer Engineering
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN4203R', 'Polymer Engineering', 'CHEMICAL & BIOMOLECULAR ENGINEERING', 4); 
+Research Project
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ESP4901', 'Research Project', 'ENGINEERING SCIENCE PROGRAMME', 12); 
+Ideology and Popular Culture in Singapore
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IEM1201T', 'Ideology and Popular Culture in Singapore', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+English, Singlish and intercultural communication
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IEM1201Q', 'English, Singlish and intercultural communication', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+Heroes
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IEM1201P', 'Heroes', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+Women in Film
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IEM1201S', 'Women in Film', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+Oratory and the Public Mind
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IEM1201R', 'Oratory and the Public Mind', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+Programming Methodology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS1010S', 'Programming Methodology', 'COMPUTER SCIENCE', 4); 
+Introduction to Artificial Intelligence
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS3243R', 'Introduction to Artificial Intelligence', 'COMPUTER SCIENCE', 1); 
+Industrial Hygiene
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CO5305', 'Industrial Hygiene', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+PUBLIC HEALTH TOXICOLOGY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CO5306', 'PUBLIC HEALTH TOXICOLOGY', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+Architecture, Structure and Construction
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR2327', 'Architecture, Structure and Construction', 'ARCHITECTURE', 4); 
+Sport and competition
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IEM1201M', 'Sport and competition', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+Public Persona and Self-presentations
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IEM1201N', 'Public Persona and Self-presentations', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+GRADUATE RESEARCH SEMINAR
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE6770', 'GRADUATE RESEARCH SEMINAR', 'SOUTHEAST ASIAN STUDIES', 4); 
+Rhetoric and Politics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS4220', 'Rhetoric and Politics', 'POLITICAL SCIENCE', 5); 
+Contemporary Issues in Chinese Politics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS4225', 'Contemporary Issues in Chinese Politics', 'POLITICAL SCIENCE', 5); 
+Integrated Honours Project
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('XFA4401', 'Integrated Honours Project', 'ECONOMICS', 16); 
+Environmental Politics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS4227', 'Environmental Politics', 'POLITICAL SCIENCE', 5); 
+Integrated Honours Thesis
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('XFA4403', 'Integrated Honours Thesis', 'COMMUNICATIONS AND NEW MEDIA', 15); 
+Independent Study
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EN5660', 'Independent Study', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+Valuation and Mergers & Acquisitions
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMA5313A', 'Valuation and Mergers & Acquisitions', 'DEAN''S OFFICE (BIZ)', 4); 
+Topics in Valuation and Mergers & Acquisitions
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMA5313C', 'Topics in Valuation and Mergers & Acquisitions', 'DEAN''S OFFICE (BIZ)', 2); 
+Political Inquiry
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS3257', 'Political Inquiry', 'POLITICAL SCIENCE', 4); 
+Honours Dissertation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BHD4001', 'Honours Dissertation', 'DEAN''S OFFICE (BIZ)', 12); 
+Software Prototyping
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SG5230', 'Software Prototyping', 'INSTITUTE OF SYSTEMS SCIENCE', 3); 
+Research Methods in Political Science
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS3258', 'Research Methods in Political Science', 'POLITICAL SCIENCE', 4); 
+Social Thought & Social Theory
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EU3224', 'Social Thought & Social Theory', 'SOCIOLOGY', 4); 
+Honours Thesis
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GE4401', 'Honours Thesis', 'GEOGRAPHY', 15); 
+Embedded Hardware System Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE4218', 'Embedded Hardware System Design', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+FORMAL METHODS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SG5012', 'FORMAL METHODS', 'INSTITUTE OF SYSTEMS SCIENCE', 4); 
+SOFTWARE ENTREPRENEURSHIP
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SG5013', 'SOFTWARE ENTREPRENEURSHIP', 'INSTITUTE OF SYSTEMS SCIENCE', 4); 
+Software Engineering Project II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS3202', 'Software Engineering Project II', 'COMPUTER SCIENCE', 4); 
+Software Engineering Project I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS3201', 'Software Engineering Project I', 'COMPUTER SCIENCE', 4); 
+Computer Vision
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE4212', 'Computer Vision', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Admiralty Law & Practice
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4002', 'Admiralty Law & Practice', 'LAW', 4); 
+TOPICS IN LANGUAGE AND SOCIETY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EL6882', 'TOPICS IN LANGUAGE AND SOCIETY', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+Biotechnology Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4007', 'Biotechnology Law', 'LAW', 4); 
+TOPICS IN APPLIED LINGUISTICS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EL6884', 'TOPICS IN APPLIED LINGUISTICS', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+PUBLIC HEALTH COMMUNICATION
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SPH3102', 'PUBLIC HEALTH COMMUNICATION', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+Public Health Economics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SPH3103', 'Public Health Economics', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+APPLIED BIOETHICS AND BIOLAW
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MDG5215', 'APPLIED BIOETHICS AND BIOLAW', 'DEAN''S OFFICE (MEDICINE)', 4); 
+Modeling and Numerical Simulations
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA5232', 'Modeling and Numerical Simulations', 'MATHEMATICS', 4); 
+Child-centric Social Work
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SW3219', 'Child-centric Social Work', 'SOCIAL WORK', 4); 
+PHD SEMINAR
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR6770', 'PHD SEMINAR', 'ARCHITECTURE', 4); 
+Chinese 6
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAC4202', 'Chinese 6', 'CENTRE FOR LANGUAGE STUDIES', 5); 
+Topics in the Law and Economics of Competition Policy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5225', 'Topics in the Law and Economics of Competition Policy', 'LAW', 4); 
+Honours Thesis
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EN4401', 'Honours Thesis', 'ENGLISH LANGUAGE & LITERATURE', 15); 
+Customer Relationship Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EB5203', 'Customer Relationship Management', 'INSTITUTE OF SYSTEMS SCIENCE', 3); 
+Advertising Strategies
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM3215', 'Advertising Strategies', 'COMMUNICATIONS AND NEW MEDIA', 4); 
+Campaign Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EB5201', 'Campaign Management', 'INSTITUTE OF SYSTEMS SCIENCE', 3); 
+Modern Japan: Conflict in History
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('HY2232', 'Modern Japan: Conflict in History', 'HISTORY', 4); 
+Silicon Micro Systems
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE4509', 'Silicon Micro Systems', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Dissertation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('RE5000', 'Dissertation', 'REAL ESTATE', 8); 
+CHINESE INTELLECTUAL PROPERTY LAW
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LC5093', 'CHINESE INTELLECTUAL PROPERTY LAW', 'LAW', 4); 
+Chinese Businesses in Singapore & Beyond
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('HY2239', 'Chinese Businesses in Singapore & Beyond', 'HISTORY', 4); 
+Law & Social Movements
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5082', 'Law & Social Movements', 'LAW', 4); 
+The Use of Force in International Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5228', 'The Use of Force in International Law', 'LAW', 4); 
+INTERNATIONAL TRUSTS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5085', 'INTERNATIONAL TRUSTS', 'LAW', 4); 
+Clinical Practicum II (Mental Health).
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NUR5412', 'Clinical Practicum II (Mental Health).', 'NURSING/ALICE LEE CTR FOR NURSING STUD', 4); 
+Analog Electronics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE3407E', 'Analog Electronics', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+Prescribed Text: Zhuangzi
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CH4261', 'Prescribed Text: Zhuangzi', 'CHINESE STUDIES', 5); 
+Charterparties
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5008B', 'Charterparties', 'LAW', 4); 
+Independent Study
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EL6660', 'Independent Study', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+Political Communication
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM6211', 'Political Communication', 'COMMUNICATIONS AND NEW MEDIA', 4); 
+Supply Chain Modelling
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IE4220E', 'Supply Chain Modelling', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+Design Project
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN4121', 'Design Project', 'CHEMICAL & BIOMOLECULAR ENGINEERING', 10); 
+Internship
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('JS3550', 'Internship', 'JAPANESE STUDIES', 4); 
+Ecological Systems
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GE3221', 'Ecological Systems', 'GEOGRAPHY', 4); 
+Independent Study in Ops & Supply Chain Mgt
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('DSC3229', 'Independent Study in Ops & Supply Chain Mgt', 'DECISION SCIENCES', 4); 
+Managerial Economics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BSP1005', 'Managerial Economics', 'STRATEGY AND POLICY', 4); 
+Legal Environment Of Business
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BSP1004', 'Legal Environment Of Business', 'STRATEGY AND POLICY', 4); 
+Dynamic Pricing & Revenue Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('DSC3224', 'Dynamic Pricing & Revenue Management', 'DECISION SCIENCES', 4); 
+Advanced Solid State Devices
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC4264', 'Advanced Solid State Devices', 'PHYSICS', 4); 
+Sustainable Operations Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('DSC3226', 'Sustainable Operations Management', 'DECISION SCIENCES', 4); 
+Family Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6403', 'Family Law', 'LAW', 8); 
+Malays - Tradition, Conflict and Change
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MS1102E', 'Malays - Tradition, Conflict and Change', 'MALAY STUDIES', 4); 
+Law Of Insurance
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6407', 'Law Of Insurance', 'LAW', 8); 
+INDEPENDENT STUDY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('HY6660', 'INDEPENDENT STUDY', 'HISTORY', 4); 
+Accompanying/Sight-Reading II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA1116', 'Accompanying/Sight-Reading II', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 2); 
+Chamber Ensemble 1B
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA1110', 'Chamber Ensemble 1B', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 2); 
+University Scholars Seminar
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('USS2105', 'University Scholars Seminar', 'UNIVERSITY SCHOLARS PROGRAMME', 4); 
+Business Analytics Capstone Project
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('DSC5102', 'Business Analytics Capstone Project', 'DECISION SCIENCES', 12); 
+Advanced UROPS in Pharmacy II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PR3289', 'Advanced UROPS in Pharmacy II', 'PHARMACY', 4); 
+Topics in Management of Technology - Institutional Innovation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MT5880B', 'Topics in Management of Technology - Institutional Innovation', 'DIVISION OF ENGINEERING AND TECH MGT', 4); 
+HAZARD IDENTIFICATION & EVALUATION TECHNIQUES
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SH5201', 'HAZARD IDENTIFICATION & EVALUATION TECHNIQUES', 'CHEMICAL & BIOMOLECULAR ENGINEERING', 4); 
+Honours Thesis
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SC4401', 'Honours Thesis', 'SOCIOLOGY', 15); 
+Advanced Biomedical Circuits and Systems
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE6230', 'Advanced Biomedical Circuits and Systems', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Materials for Chemical Engineers
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('TC1422', 'Materials for Chemical Engineers', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+Honours Thesis
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE4401', 'Honours Thesis', 'SOUTHEAST ASIAN STUDIES', 15); 
+FS: Should Fiction Be Censored?
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FMA1203F', 'FS: Should Fiction Be Censored?', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+SEMINAR IN COMPARATIVE POLITICS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS5312', 'SEMINAR IN COMPARATIVE POLITICS', 'POLITICAL SCIENCE', 4); 
+Money & Banking
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EC5332R', 'Money & Banking', 'ECONOMICS', 5); 
+SEMINAR IN PUBLIC ADMINISTRATION
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS5316', 'SEMINAR IN PUBLIC ADMINISTRATION', 'POLITICAL SCIENCE', 4); 
+GRADUATE RESEARCH SEMINAR
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EC6770', 'GRADUATE RESEARCH SEMINAR', 'ECONOMICS', 4); 
+SEMINAR IN INTERNATIONAL RELATIONS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS5314', 'SEMINAR IN INTERNATIONAL RELATIONS', 'POLITICAL SCIENCE', 4); 
+Critical Thinking And Writing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ES1531', 'Critical Thinking And Writing', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+FORMULATION SCIENCE
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PR5217', 'FORMULATION SCIENCE', 'PHARMACY', 4); 
+Advanced Communications & New Media Research
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM4102', 'Advanced Communications & New Media Research', 'COMMUNICATIONS AND NEW MEDIA', 5); 
+Independent Study
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EN6660', 'Independent Study', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+ANALYSIS OF CIVIL ENGINEERING EXPERIMENTS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE6002', 'ANALYSIS OF CIVIL ENGINEERING EXPERIMENTS', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Venture Capital
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMP5001', 'Venture Capital', 'DEAN''S OFFICE (BIZ)', 4); 
+Comparative Advocacy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6081', 'Comparative Advocacy', 'LAW', 4); 
+ADVANCED FINITE ELEMENT ANALYSIS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE6006', 'ADVANCED FINITE ELEMENT ANALYSIS', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Asian Business Environment
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMP5002', 'Asian Business Environment', 'DEAN''S OFFICE (BIZ)', 4); 
+Digital and New Media Marketing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IS3150', 'Digital and New Media Marketing', 'INFORMATION SYSTEMS', 4); 
+The Standardization of the Chinese Language
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CL3211', 'The Standardization of the Chinese Language', 'CHINESE STUDIES', 4); 
+Introduction to Fourier Analysis
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA3266', 'Introduction to Fourier Analysis', 'MATHEMATICS', 4); 
+Malay 2
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAM2201', 'Malay 2', 'CENTRE FOR LANGUAGE STUDIES', 4); 
+Anthropological Approaches to SE Asia
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE5229R', 'Anthropological Approaches to SE Asia', 'SOUTHEAST ASIAN STUDIES', 5); 
+HISTORY OF SEXUALITY IN ASIA
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE5223R', 'HISTORY OF SEXUALITY IN ASIA', 'SOUTHEAST ASIAN STUDIES', 5); 
+Multivariate Statistics in Psychology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PL5222R', 'Multivariate Statistics in Psychology', 'PSYCHOLOGY', 5); 
+Environmental Chemistry
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SX3971', 'Environmental Chemistry', 'DEAN''S OFFICE (SCIENCE)', 4); 
+Microsystems Design And Applications
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ME3281', 'Microsystems Design And Applications', 'MECHANICAL ENGINEERING', 4); 
+PUBLIC FINANCE
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ECA5351', 'PUBLIC FINANCE', 'ECONOMICS', 4); 
+ENGINEERING PRINCIPLES IN MEDICINE II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BN5102', 'ENGINEERING PRINCIPLES IN MEDICINE II', 'BIOMEDICAL ENGINEERING', 4); 
+Foreign Policy and Diplomacy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEK2010', 'Foreign Policy and Diplomacy', 'POLITICAL SCIENCE', 4); 
+Real Estate Finance
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEK2013', 'Real Estate Finance', 'REAL ESTATE', 4); 
+Ancient Western Political Thought
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS2203', 'Ancient Western Political Thought', 'POLITICAL SCIENCE', 4); 
+Cloud Computing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS5224', 'Cloud Computing', 'COMPUTER SCIENCE', 4); 
+Advanced Computer Architecture
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS5222', 'Advanced Computer Architecture', 'COMPUTER SCIENCE', 4); 
+The EU and Asean in the World
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EU3228', 'The EU and Asean in the World', 'DEAN''S OFFICE (ARTS & SOCIAL SC.)', 4); 
+Engineering Product Development
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MT4003', 'Engineering Product Development', 'DIVISION OF ENGINEERING AND TECH MGT', 4); 
+User Experience Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM4210', 'User Experience Design', 'COMMUNICATIONS AND NEW MEDIA', 5); 
+Structural Support Systems for Excavation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE5112', 'Structural Support Systems for Excavation', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+UNDERGROUND CONSTRUCTION DESIGN PROJECT
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE5111', 'UNDERGROUND CONSTRUCTION DESIGN PROJECT', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Extended Undergraduate Professional Internship
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA3312', 'Extended Undergraduate Professional Internship', 'MATHEMATICS', 8); 
+Knowledge Mgmt: Approaches & Critique
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM4218', 'Knowledge Mgmt: Approaches & Critique', 'COMMUNICATIONS AND NEW MEDIA', 5); 
+Integrated B.ENG./B.SC. (Hons) Dissertation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MLE4101R', 'Integrated B.ENG./B.SC. (Hons) Dissertation', 'MATERIALS SCIENCE AND ENGINEERING', 16); 
+Mechanobiology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM4234', 'Mechanobiology', 'BIOLOGICAL SCIENCES', 4); 
+Structural Biology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM4231', 'Structural Biology', 'BIOLOGICAL SCIENCES', 4); 
+UNIVERSITY RESEARCH OPPORTUNITIES PROGRAMME
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6396', 'UNIVERSITY RESEARCH OPPORTUNITIES PROGRAMME', 'LAW', 4); 
+UNIVERSITY RESEARCH OPPORTUNITIES PROGRA
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6397', 'UNIVERSITY RESEARCH OPPORTUNITIES PROGRA', 'LAW', 4); 
+University Research Opportunities Programme
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6398', 'University Research Opportunities Programme', 'LAW', 4); 
+University Research Opportunities Programme
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6399', 'University Research Opportunities Programme', 'LAW', 4); 
+Animal Behaviour
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM1303', 'Animal Behaviour', 'BIOLOGICAL SCIENCES', 4); 
+Genes and Society
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM1302', 'Genes and Society', 'BIOLOGICAL SCIENCES', 4); 
+German 4
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAG3202', 'German 4', 'CENTRE FOR LANGUAGE STUDIES', 4); 
+German for Academic Purposes
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAG3203', 'German for Academic Purposes', 'CENTRE FOR LANGUAGE STUDIES', 4); 
+Research Report
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR4142', 'Research Report', 'ARCHITECTURE', 8); 
+Biosignals Processing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BN2401', 'Biosignals Processing', 'BIOMEDICAL ENGINEERING', 4); 
+Exchange Enrichment 2000 Module
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SX2991', 'Exchange Enrichment 2000 Module', 'DEAN''S OFFICE (SCIENCE)', 2); 
+Exchange Enrichment Module (4MCs)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SX2997', 'Exchange Enrichment Module (4MCs)', 'DEAN''S OFFICE (SCIENCE)', 4); 
+Exchange Enrichment Module (4 MCs)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SX2996', 'Exchange Enrichment Module (4 MCs)', 'DEAN''S OFFICE (SCIENCE)', 4); 
+Exchange Enrichment 2000 Module
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SX2995', 'Exchange Enrichment 2000 Module', 'DEAN''S OFFICE (SCIENCE)', 3); 
+Environmental Forensics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ESE4407', 'Environmental Forensics', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Urban Water Engineering & Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ESE4405', 'Urban Water Engineering & Management', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+TOPICS IN SE ASIAN CHINESE LITERATURE
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CH5225R', 'TOPICS IN SE ASIAN CHINESE LITERATURE', 'CHINESE STUDIES', 5); 
+Membrane Tech In Env Applns
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ESE4403', 'Membrane Tech In Env Applns', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Independent Study
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('JS6660', 'Independent Study', 'JAPANESE STUDIES', 4); 
+Evidence in Forensic Science
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SP3202', 'Evidence in Forensic Science', 'BIOLOGICAL SCIENCES', 4); 
+DISSERTATION
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR5141', 'DISSERTATION', 'ARCHITECTURE', 8); 
+Film Theory
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EN4247', 'Film Theory', 'ENGLISH LANGUAGE & LITERATURE', 5); 
+TECHNICAL DISSERTATION
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR5142', 'TECHNICAL DISSERTATION', 'ARCHITECTURE', 8); 
+European Company Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4233', 'European Company Law', 'LAW', 4); 
+Pavement Network Management Systems
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE5207', 'Pavement Network Management Systems', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+3D VISION
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE6901', '3D VISION', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+South Asia:Poverty, Inequality, Power
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SN2232', 'South Asia:Poverty, Inequality, Power', 'SOUTH ASIAN STUDIES PROGRAMME', 4); 
+M.SC COURSEWORK THESIS FOR PHYSICS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC5288', 'M.SC COURSEWORK THESIS FOR PHYSICS', 'PHYSICS', 12); 
+M.SC.(COURSEWORK) THESIS FOR APPLIED PHYSICS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC5289', 'M.SC.(COURSEWORK) THESIS FOR APPLIED PHYSICS', 'PHYSICS', 16); 
+Urban Economics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EC3381', 'Urban Economics', 'ECONOMICS', 4); 
+Resource and Energy Economics I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EC3384', 'Resource and Energy Economics I', 'ECONOMICS', 4); 
+University Research Opportunities Program
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4396', 'University Research Opportunities Program', 'LAW', 4); 
+University Research Opportunities Program
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4397', 'University Research Opportunities Program', 'LAW', 4); 
+Extended Internship
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('INM3550', 'Extended Internship', 'COMMUNICATIONS AND NEW MEDIA', 4); 
+Fundamentals of Nanoelectronics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE5431R', 'Fundamentals of Nanoelectronics', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+University Research Opportunities Program
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4399', 'University Research Opportunities Program', 'LAW', 4); 
+GRADUATE SEMINAR
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BS5770', 'GRADUATE SEMINAR', 'BUILDING', 4); 
+Organic Chemistry 1
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CM1121', 'Organic Chemistry 1', 'CHEMISTRY', 4); 
+Freshmen Seminar: Policies for Bdg Sustainable Cities
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FMD1201', 'Freshmen Seminar: Policies for Bdg Sustainable Cities', 'BUILDING', 4); 
+Geography Internship
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GE3550B', 'Geography Internship', 'GEOGRAPHY', 4); 
+INDEPENDENT STUDY MODULE II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE5002', 'INDEPENDENT STUDY MODULE II', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Independent Study Module I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE5001', 'Independent Study Module I', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+GIS Internship Module
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GE3550A', 'GIS Internship Module', 'GEOGRAPHY', 4); 
+Ethics In Engineering
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('TG2415', 'Ethics In Engineering', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+EUROPEAN UNION LAW
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5069', 'EUROPEAN UNION LAW', 'LAW', 4); 
+Treatment Plant Hydraulics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE4247', 'Treatment Plant Hydraulics', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+COMPARATIVE CRIMINAL LAW
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5067', 'COMPARATIVE CRIMINAL LAW', 'LAW', 4); 
+Competition Law and Policy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5064', 'Competition Law and Policy', 'LAW', 4); 
+BUSINESS & FINANCE FOR LAWYERS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5063', 'BUSINESS & FINANCE FOR LAWYERS', 'LAW', 4); 
+Discrete Structures
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS1231', 'Discrete Structures', 'COMPUTER SCIENCE', 4); 
+Inquiry
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5061', 'Inquiry', 'LAW', 4); 
+Infant Development
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PL3256', 'Infant Development', 'PSYCHOLOGY', 4); 
+PHARMD SEMINAR
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PR5136', 'PHARMD SEMINAR', 'PHARMACY', 2); 
+Advanced Pharmacotherapy in Special Populations
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PR5133', 'Advanced Pharmacotherapy in Special Populations', 'PHARMACY', 2); 
+Human Performance
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PL3250', 'Human Performance', 'PSYCHOLOGY', 4); 
+Atypical Development and Language
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PL3251', 'Atypical Development and Language', 'PSYCHOLOGY', 4); 
+Games, Decisions and Social Choice
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PP5143', 'Games, Decisions and Social Choice', 'LEE KUAN YEW SCHOOL OF PUBLIC POLICY', 4); 
+Competitive Programming
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS3233R', 'Competitive Programming', 'COMPUTER SCIENCE', 1); 
+Marketing Research
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MKT2413', 'Marketing Research', 'MARKETING', 4); 
+DESIGN, CONDUCT AND ANALYSIS OF CLINICAL TRIALS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CO5220', 'DESIGN, CONDUCT AND ANALYSIS OF CLINICAL TRIALS', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+Public Health Communication
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CO5226', 'Public Health Communication', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+The Art of Rituals and Recreation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUL3203', 'The Art of Rituals and Recreation', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 4); 
+Nutrition and Health
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CO5229', 'Nutrition and Health', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+Computational Methods in Physics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC3236', 'Computational Methods in Physics', 'PHYSICS', 4); 
+RAS Project 2
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA2176', 'RAS Project 2', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 4); 
+Molecular Basis of Human Diseases
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM3224', 'Molecular Basis of Human Diseases', 'BIOCHEMISTRY', 4); 
+Molecular Microbiology in Human Diseases
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM3225', 'Molecular Microbiology in Human Diseases', 'MICROBIOLOGY', 4); 
+Topics in Hydraulic & Water Resources - Environmental Hydraulics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE5883A', 'Topics in Hydraulic & Water Resources - Environmental Hydraulics', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Human Pharmacology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM3221', 'Human Pharmacology', 'PHARMACOLOGY', 4); 
+Environmental Challenges: Asian Case Studies I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ENV3101', 'Environmental Challenges: Asian Case Studies I', 'DEAN''S OFFICE (SCIENCE)', 4); 
+Topics in Strategic Information Technology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMA5232A', 'Topics in Strategic Information Technology', 'DECISION SCIENCES', 2); 
+Advances in Environmental Biology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BL5227B', 'Advances in Environmental Biology', 'BIOLOGICAL SCIENCES', 2); 
+Introduction to Instrumental Analysis
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SX3972', 'Introduction to Instrumental Analysis', 'DEAN''S OFFICE (SCIENCE)', 4); 
+Atmospheric Chemistry
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SX3973', 'Atmospheric Chemistry', 'DEAN''S OFFICE (SCIENCE)', 4); 
+FS: Randomness in Scientific Thinking
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FMS1203S', 'FS: Randomness in Scientific Thinking', 'STATISTICS & APPLIED PROBABILITY', 4); 
+Physics and Environment
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SX3974', 'Physics and Environment', 'DEAN''S OFFICE (SCIENCE)', 4); 
+Topics in Muslim Revivalism
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MS4880A', 'Topics in Muslim Revivalism', 'MALAY STUDIES', 5); 
+Advanced Independent Study in Ops & Supply Chain Mgt
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('DSC4219', 'Advanced Independent Study in Ops & Supply Chain Mgt', 'DECISION SCIENCES', 4); 
+Introduction to Chinese Language
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CL1101E', 'Introduction to Chinese Language', 'CHINESE STUDIES', 4); 
+Electrodynamics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC4242', 'Electrodynamics', 'PHYSICS', 4); 
+SOUTH ASIA GRADUATE RESEARCH SEMINAR
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SN6770', 'SOUTH ASIA GRADUATE RESEARCH SEMINAR', 'SOUTH ASIAN STUDIES PROGRAMME', 4); 
+Contemporary China: 1949 to Present
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CH3248', 'Contemporary China: 1949 to Present', 'CHINESE STUDIES', 4); 
+Social Policy and Welfare Services
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SW5106', 'Social Policy and Welfare Services', 'SOCIAL WORK', 4); 
+MATERIALS CHARACTERISATION
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MST5002', 'MATERIALS CHARACTERISATION', 'MATERIALS SCIENCE AND ENGINEERING', 4); 
+Probability Theory II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA5260', 'Probability Theory II', 'MATHEMATICS', 4); 
+Vietnamese 6
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAV4202', 'Vietnamese 6', 'CENTRE FOR LANGUAGE STUDIES', 5); 
+Ages of the Mediterranean
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EU2223', 'Ages of the Mediterranean', 'HISTORY', 4); 
+Research Methodology & Ethics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EG5911', 'Research Methodology & Ethics', 'DEAN''S OFFICE (ENGINEERING)', 2); 
+Honours Thesis
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM4401', 'Honours Thesis', 'COMMUNICATIONS AND NEW MEDIA', 15); 
+Social Work Field Practice (I)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SW3103A', 'Social Work Field Practice (I)', 'SOCIAL WORK', 8); 
+SIOSCM: Service Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('DSC4211G', 'SIOSCM: Service Design', 'DECISION SCIENCES', 4); 
+Country Studies: Mainland Southeast Asia
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE3220', 'Country Studies: Mainland Southeast Asia', 'SOUTHEAST ASIAN STUDIES', 4); 
+European Foreign Policy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS4218', 'European Foreign Policy', 'POLITICAL SCIENCE', 5); 
+SIOSCM: OPERATIONS STRATEGY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('DSC4211C', 'SIOSCM: OPERATIONS STRATEGY', 'DECISION SCIENCES', 4); 
+Independent Study in Mgt & Human Capital
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MNO3329', 'Independent Study in Mgt & Human Capital', 'MANAGEMENT AND ORGANISATION', 4); 
+Thai Drawing and Painting
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE3224', 'Thai Drawing and Painting', 'SOUTHEAST ASIAN STUDIES', 4); 
+Management of Employee Relations
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MNO3323', 'Management of Employee Relations', 'MANAGEMENT AND ORGANISATION', 4); 
+Negotiations and Bargaining
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MNO3322', 'Negotiations and Bargaining', 'MANAGEMENT AND ORGANISATION', 4); 
+Independent Study Module
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('UIS3911HY', 'Independent Study Module', 'DEAN''S OFFICE (ARTS & SOCIAL SC.)', 4); 
+Advanced Solid State Physics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC5203', 'Advanced Solid State Physics', 'PHYSICS', 4); 
+Comparative Study of Development
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS3263', 'Comparative Study of Development', 'POLITICAL SCIENCE', 4); 
+Programming Methodology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS1010', 'Programming Methodology', 'COMPUTER SCIENCE', 4); 
+Civil-Military Relations
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS3265', 'Civil-Military Relations', 'POLITICAL SCIENCE', 4); 
+Politics, Music and Society
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS3266', 'Politics, Music and Society', 'POLITICAL SCIENCE', 4); 
+DEVELOPMENT & PROJECT FINANCING
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('RE5005', 'DEVELOPMENT & PROJECT FINANCING', 'REAL ESTATE', 4); 
+IT Service Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SG5222', 'IT Service Management', 'INSTITUTE OF SYSTEMS SCIENCE', 3); 
+Topics in Industrial Design: Design Education
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ID5951D', 'Topics in Industrial Design: Design Education', 'DIVISION OF INDUSTRIAL DESIGN', 4); 
+Topics in Industrial Design: Sustainability
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ID5951E', 'Topics in Industrial Design: Sustainability', 'DIVISION OF INDUSTRIAL DESIGN', 4); 
+Topics in Industrial Design: Interaction Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ID5951B', 'Topics in Industrial Design: Interaction Design', 'DIVISION OF INDUSTRIAL DESIGN', 4); 
+Topics in Industrial Design: Healthcare Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ID5951C', 'Topics in Industrial Design: Healthcare Design', 'DIVISION OF INDUSTRIAL DESIGN', 4); 
+Malay Families and Households
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MS2213', 'Malay Families and Households', 'MALAY STUDIES', 4); 
+Topics in Industrial Design: Product Development
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ID5951A', 'Topics in Industrial Design: Product Development', 'DIVISION OF INDUSTRIAL DESIGN', 4); 
+Hands-On with Business Analytics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IS5126', 'Hands-On with Business Analytics', 'INFORMATION SYSTEMS', 4); 
+Managing and Using New Media
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IS5127', 'Managing and Using New Media', 'INFORMATION SYSTEMS', 4); 
+Ethics in Outer Space
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IEM2201E', 'Ethics in Outer Space', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+Blood, Death and Desire, Interpreting the Vampire
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IEM2201J', 'Blood, Death and Desire, Interpreting the Vampire', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+Public Memory, Identity and Rhetoric
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IEM2201K', 'Public Memory, Identity and Rhetoric', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+RISK and Popular Culture
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IEM2201H', 'RISK and Popular Culture', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+Visualizing Southeast Asian Cities
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IEM2201L', 'Visualizing Southeast Asian Cities', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+Construction Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4014', 'Construction Law', 'LAW', 4); 
+Contract and Commercial Law in Civil-Law Asia
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4017', 'Contract and Commercial Law in Civil-Law Asia', 'LAW', 4); 
+German 1
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAG1201', 'German 1', 'CENTRE FOR LANGUAGE STUDIES', 4); 
+Corporate Tax: Profits & Distributions
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4018', 'Corporate Tax: Profits & Distributions', 'LAW', 4); 
+Independent Study
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EC4660', 'Independent Study', 'ECONOMICS', 5); 
+Introduction to Japanese Studies
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('JS1101E', 'Introduction to Japanese Studies', 'JAPANESE STUDIES', 4); 
+Logic and Foundation of Mathematics II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA5220', 'Logic and Foundation of Mathematics II', 'MATHEMATICS', 4); 
+Vietnamese 3
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAV3201', 'Vietnamese 3', 'CENTRE FOR LANGUAGE STUDIES', 4); 
+Policies for Urban Intervention
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PP5242K', 'Policies for Urban Intervention', 'LEE KUAN YEW SCHOOL OF PUBLIC POLICY', 4); 
+Vietnamese 4
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAV3202', 'Vietnamese 4', 'CENTRE FOR LANGUAGE STUDIES', 4); 
+Marketing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MKT1003X', 'Marketing', 'MARKETING', 4); 
+Independent Study
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('TS5660', 'Independent Study', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+Introduction to Operating Systems
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS2106R', 'Introduction to Operating Systems', 'COMPUTER SCIENCE', 1); 
+Independent Study Module
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('UIS3943', 'Independent Study Module', 'DEAN''S OFFICE (BIZ)', 4); 
+SOFTWARE METRICS & PROCESS IMPROVEMENT
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SG5205', 'SOFTWARE METRICS & PROCESS IMPROVEMENT', 'INSTITUTE OF SYSTEMS SCIENCE', 3); 
+Real-Time Operating Systems
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CG2271', 'Real-Time Operating Systems', 'COMPUTING & ENGINEERING', 4); 
+HIV/AIDS: From Microbes to Nations
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('USE2307', 'HIV/AIDS: From Microbes to Nations', 'UNIVERSITY SCHOLARS PROGRAMME', 4); 
+Advanced Topics in Data Mining
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS6220', 'Advanced Topics in Data Mining', 'COMPUTER SCIENCE', 4); 
+Extended Undergraduate Professional Internship
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PR3312', 'Extended Undergraduate Professional Internship', 'PHARMACY', 8); 
+Physics IE
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC1431FC', 'Physics IE', 'PHYSICS', 4); 
+The Law Clinic
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4094', 'The Law Clinic', 'LAW', 4); 
+Nation-Building in Singapore
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('HY2229', 'Nation-Building in Singapore', 'HISTORY', 4); 
+Entrepreneurial Marketing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('TR2201', 'Entrepreneurial Marketing', 'MARKETING', 4); 
+Technological Innovation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('TR2202', 'Technological Innovation', 'STRATEGY AND POLICY', 4); 
+Carriage of Goods by Sea
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LC5225', 'Carriage of Goods by Sea', 'LAW', 4); 
+Social Work: A Heart-Head-Hand Connection
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SW1101E', 'Social Work: A Heart-Head-Hand Connection', 'SOCIAL WORK', 4); 
+Arabic 2
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAR2201', 'Arabic 2', 'CENTRE FOR LANGUAGE STUDIES', 4); 
+Data Quality and Fuzzy Logic
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEM2509', 'Data Quality and Fuzzy Logic', 'INFORMATION SYSTEMS', 4); 
+GRADUATE RESEARCH SEMINAR
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PH6770', 'GRADUATE RESEARCH SEMINAR', 'PHILOSOPHY', 4); 
+Systemic Functional Grammar
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EL4880A', 'Systemic Functional Grammar', 'ENGLISH LANGUAGE & LITERATURE', 5); 
+Design Platforms 3
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ID3106', 'Design Platforms 3', 'DIVISION OF INDUSTRIAL DESIGN', 10); 
+Course-based Module (Ride-on)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('UIS4913R', 'Course-based Module (Ride-on)', 'DEAN''S OFFICE (ARTS & SOCIAL SC.)', 5); 
+Food Colloids and Components Science
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FST4103', 'Food Colloids and Components Science', 'CHEMISTRY', 4); 
+Advanced Food Processing Technology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FST4102', 'Advanced Food Processing Technology', 'CHEMISTRY', 4); 
+Visual Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM2212', 'Visual Design', 'COMMUNICATIONS AND NEW MEDIA', 4); 
+Human-Computer Interaction Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM2213', 'Human-Computer Interaction Design', 'COMMUNICATIONS AND NEW MEDIA', 4); 
+Advanced Independent Study in Marketing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MKT4419', 'Advanced Independent Study in Marketing', 'MARKETING', 4); 
+Men and Women in Modern Japanese Literature
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('JS3230', 'Men and Women in Modern Japanese Literature', 'JAPANESE STUDIES', 4); 
+Nuclear Astrophysics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC3246', 'Nuclear Astrophysics', 'PHYSICS', 4); 
+Major Study 4B
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA4162', 'Major Study 4B', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 12); 
+Major Study 4A
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA4161', 'Major Study 4A', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 5); 
+Solid State Devices
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC3241', 'Solid State Devices', 'PHYSICS', 4); 
+Strategic Information Systems
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('DSC3213', 'Strategic Information Systems', 'DECISION SCIENCES', 4); 
+Thin Film Technology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC4253', 'Thin Film Technology', 'PHYSICS', 4); 
+Soil Mechanics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE2112', 'Soil Mechanics', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Categorical Data Analysis I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ST3241', 'Categorical Data Analysis I', 'STATISTICS & APPLIED PROBABILITY', 4); 
+Forecasting For Managerial Decisions
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('DSC3216', 'Forecasting For Managerial Decisions', 'DECISION SCIENCES', 4); 
+Atomistic Simulations of Materials
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ME6508', 'Atomistic Simulations of Materials', 'MECHANICAL ENGINEERING', 4); 
+Large Ensembles 1A
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA1107', 'Large Ensembles 1A', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 2); 
+Large Ensembles 1B
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA1108', 'Large Ensembles 1B', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 2); 
+Chamber Ensemble 1A
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA1109', 'Chamber Ensemble 1A', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 2); 
+MOBILE WIRELESS APPLICATION DEVELOPMENT
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SG4202', 'MOBILE WIRELESS APPLICATION DEVELOPMENT', 'INSTITUTE OF SYSTEMS SCIENCE', 3); 
+Singapore: The Making Of A Nation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('USE2304', 'Singapore: The Making Of A Nation', 'UNIVERSITY SCHOLARS PROGRAMME', 4); 
+MANAGING OPERATIONS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMA5010A', 'MANAGING OPERATIONS', 'DEAN''S OFFICE (BIZ)', 2); 
+INSTRUMENTAL METHODS OF ANALYSIS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN5193', 'INSTRUMENTAL METHODS OF ANALYSIS', 'CHEMICAL & BIOMOLECULAR ENGINEERING', 4); 
+Heat And Mass Transfer
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN2125E', 'Heat And Mass Transfer', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+Bank Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FIN3117', 'Bank Management', 'FINANCE', 4); 
+Options and Futures
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FIN3116', 'Options and Futures', 'FINANCE', 4); 
+Financial Statement Analysis
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FIN3113', 'Financial Statement Analysis', 'FINANCE', 4); 
+Digital Control Systems
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE3304', 'Digital Control Systems', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Magnetic Recording Technology (Advanced)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE6201', 'Magnetic Recording Technology (Advanced)', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Assessment of Sustainable Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR4323', 'Assessment of Sustainable Design', 'ARCHITECTURE', 4); 
+Mathematical Logic
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA4207', 'Mathematical Logic', 'MATHEMATICS', 4); 
+South Asian Literatures in English
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EN3265', 'South Asian Literatures in English', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+Advanced Cognitive Neuroscience
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PL6204', 'Advanced Cognitive Neuroscience', 'PSYCHOLOGY', 4); 
+Linear and Network Optimisation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA3252', 'Linear and Network Optimisation', 'MATHEMATICS', 4); 
+European Literature I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EN3261', 'European Literature I', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+Independent Study Module
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('UIS3942', 'Independent Study Module', 'DEAN''S OFFICE (BIZ)', 4); 
+GRADUATE RESEARCH SEMINAR
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SW6770', 'GRADUATE RESEARCH SEMINAR', 'SOCIAL WORK', 4); 
+Independent Study Module
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('UIS3941', 'Independent Study Module', 'DEAN''S OFFICE (BIZ)', 4); 
+Mathematical Methods in Genomics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA3259', 'Mathematical Methods in Genomics', 'MATHEMATICS', 4); 
+Essentials of Clear Writing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ES1502', 'Essentials of Clear Writing', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 0); 
+MODELLING OF MACHINING PROCESSES
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ME6604', 'MODELLING OF MACHINING PROCESSES', 'MECHANICAL ENGINEERING', 4); 
+MOBILE WIRELESS APPLICATION DEVELOPMENT
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SG4002', 'MOBILE WIRELESS APPLICATION DEVELOPMENT', 'INSTITUTE OF SYSTEMS SCIENCE', 4); 
+The Law Clinic
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6094', 'The Law Clinic', 'LAW', 4); 
+Independent Study Module (Ride-On)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('UIS4941R', 'Independent Study Module (Ride-On)', 'DEAN''S OFFICE (BIZ)', 4); 
+Independent Study
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CH4660', 'Independent Study', 'CHINESE STUDIES', 5); 
+State and Civil Society in the Information Age
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM5201R', 'State and Civil Society in the Information Age', 'COMMUNICATIONS AND NEW MEDIA', 5); 
+Global Economic Dimensions of Singapore
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SSA2220', 'Global Economic Dimensions of Singapore', 'ECONOMICS', 4); 
+Introduction to Urban Planning
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEK2005', 'Introduction to Urban Planning', 'REAL ESTATE', 4); 
+Government and Politics of Singapore
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEK2003', 'Government and Politics of Singapore', 'POLITICAL SCIENCE', 4); 
+Changing Landscapes of Singapore
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEK2001', 'Changing Landscapes of Singapore', 'GEOGRAPHY', 4); 
+Foreign Policy and Diplomacy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS2239', 'Foreign Policy and Diplomacy', 'POLITICAL SCIENCE', 4); 
+Mergers & Acquisitions (M&A)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4074', 'Mergers & Acquisitions (M&A)', 'LAW', 4); 
+Personal Property Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6411', 'Personal Property Law', 'LAW', 8); 
+Independent Study
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEM3902', 'Independent Study', 'COLLEGE OF ALICE & PETER TAN', 4); 
+Tembusu Undergraduate Research Opportunity (UROP)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEM3901', 'Tembusu Undergraduate Research Opportunity (UROP)', 'TEMBUSU COLLEGE', 4); 
+Introduction to Comparative Politics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS2234', 'Introduction to Comparative Politics', 'POLITICAL SCIENCE', 4); 
+INTERNATIONAL TRADE & FINANCE
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ECA5341', 'INTERNATIONAL TRADE & FINANCE', 'ECONOMICS', 4); 
+Materials For Engineers
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ME3251', 'Materials For Engineers', 'MECHANICAL ENGINEERING', 4); 
+Inorganic Chemistry 2
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CM2111', 'Inorganic Chemistry 2', 'CHEMISTRY', 4); 
+Independent Study
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SC4660', 'Independent Study', 'SOCIOLOGY', 5); 
+European Literature I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EU3217', 'European Literature I', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+RESEARCH PROPOSAL
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PLC5009', 'RESEARCH PROPOSAL', 'PSYCHOLOGY', 8); 
+Advanced Game Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM4209', 'Advanced Game Design', 'COMMUNICATIONS AND NEW MEDIA', 5); 
+Designing for an Integrated Communications Environment
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM4208', 'Designing for an Integrated Communications Environment', 'COMMUNICATIONS AND NEW MEDIA', 5); 
+Managing Communication Campaigns
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM4207', 'Managing Communication Campaigns', 'COMMUNICATIONS AND NEW MEDIA', 5); 
+Industrial Pharmacy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PR4206', 'Industrial Pharmacy', 'PHARMACY', 4); 
+Transnational Information Producers
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM4202', 'Transnational Information Producers', 'COMMUNICATIONS AND NEW MEDIA', 5); 
+Basic UROPS in Chemistry I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CM2288', 'Basic UROPS in Chemistry I', 'CHEMISTRY', 4); 
+Basic UROPS In Chemistry II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CM2289', 'Basic UROPS In Chemistry II', 'CHEMISTRY', 4); 
+Advanced Web Development
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SA4109', 'Advanced Web Development', 'INSTITUTE OF SYSTEMS SCIENCE', 8); 
+Mobile Application Development
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SA4108', 'Mobile Application Development', 'INSTITUTE OF SYSTEMS SCIENCE', 8); 
+Internet Application Development
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SA4103', 'Internet Application Development', 'INSTITUTE OF SYSTEMS SCIENCE', 4); 
+PROGRAMMING AND .NET DEVELOPMENT
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SA4102', 'PROGRAMMING AND .NET DEVELOPMENT', 'INSTITUTE OF SYSTEMS SCIENCE', 8); 
+OBJECT ORIENTED ANALYSIS AND DESIGN
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SA4101', 'OBJECT ORIENTED ANALYSIS AND DESIGN', 'INSTITUTE OF SYSTEMS SCIENCE', 6); 
+Managerial Accounting
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ACC2002', 'Managerial Accounting', 'ACCOUNTING', 4); 
+Topics in Management and Organization: Advanced Topics in OB
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMO6009B', 'Topics in Management and Organization: Advanced Topics in OB', 'MANAGEMENT AND ORGANISATION', 2); 
+Java Programming
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SA4105', 'Java Programming', 'INSTITUTE OF SYSTEMS SCIENCE', 6); 
+Software Engineering
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SA4104', 'Software Engineering', 'INSTITUTE OF SYSTEMS SCIENCE', 4); 
+Internship: Philosophy for Teaching
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PH4550', 'Internship: Philosophy for Teaching', 'PHILOSOPHY', 5); 
+Microelectronic Processes & Characterization
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE5432R', 'Microelectronic Processes & Characterization', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Issues in Indian Philosophy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PH3204', 'Issues in Indian Philosophy', 'PHILOSOPHY', 4); 
+Recent Philosophy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PH3206', 'Recent Philosophy', 'PHILOSOPHY', 4); 
+Electromagnetic Wave Theory
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE5831R', 'Electromagnetic Wave Theory', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Philosophy of Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PH3202', 'Philosophy of Law', 'PHILOSOPHY', 4); 
+Carriage of Goods by Sea
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6008B', 'Carriage of Goods by Sea', 'LAW', 4); 
+Nutritional Epidemiology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SPH6003', 'Nutritional Epidemiology', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+Introduction to Psychology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PL1101E', 'Introduction to Psychology', 'PSYCHOLOGY', 4); 
+Advanced Epidemiology II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SPH6001', 'Advanced Epidemiology II', 'SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH', 4); 
+SOCIAL NETWORKS & SOCIAL SUPPORT
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SW4213', 'SOCIAL NETWORKS & SOCIAL SUPPORT', 'SOCIAL WORK', 5); 
+Economic Analysis of Law I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EC3396', 'Economic Analysis of Law I', 'ECONOMICS', 4); 
+Economics and Psychology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EC3394', 'Economics and Psychology', 'ECONOMICS', 4); 
+International Legal Protection of Trade and Investment
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4178', 'International Legal Protection of Trade and Investment', 'LAW', 4); 
+Independent Study in Marketing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MKT3429', 'Independent Study in Marketing', 'MARKETING', 4); 
+Introduction to International Relations
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS2237', 'Introduction to International Relations', 'POLITICAL SCIENCE', 4); 
+Branding Strategy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MKT3424', 'Branding Strategy', 'MARKETING', 4); 
+GRADUATE SEMINAR
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR5770', 'GRADUATE SEMINAR', 'ARCHITECTURE', 4); 
+Offshore Pipelines
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('OT5205', 'Offshore Pipelines', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+B.Eng. Dissertation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ESE4502', 'B.Eng. Dissertation', 'CIVIL & ENVIRONMENTAL ENGINEERING', 12); 
+Global Legal Orders: Interdisciplinary Perspectives
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL6175', 'Global Legal Orders: Interdisciplinary Perspectives', 'LAW', 4); 
+Independent Study
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SW4660', 'Independent Study', 'SOCIAL WORK', 5); 
+Design of Floating Structures
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('OT5203', 'Design of Floating Structures', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Basic UROPS in Mathematics II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA2289', 'Basic UROPS in Mathematics II', 'MATHEMATICS', 4); 
+Statics and Mechanics of Materials
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EG1109FC', 'Statics and Mechanics of Materials', 'DEAN''S OFFICE (ENGINEERING)', 4); 
+INTERVENTION AND MANAGEMENT - CHILDREN 1
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SLP5110', 'INTERVENTION AND MANAGEMENT - CHILDREN 1', 'DIVISION OF GRADUATE MEDICAL STUDIES', 4); 
+ADVANCED MICROECONOMIC THEORY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EC6101', 'ADVANCED MICROECONOMIC THEORY', 'ECONOMICS', 4); 
+ECONOMETRIC MODELLING AND APPLICATIONS II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EC6103', 'ECONOMETRIC MODELLING AND APPLICATIONS II', 'ECONOMICS', 4); 
+ADVANCED MACROECONOMIC THEORY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EC6102', 'ADVANCED MACROECONOMIC THEORY', 'ECONOMICS', 4); 
+ADVANCED MATHEMATICAL ECONOMICS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EC6104', 'ADVANCED MATHEMATICAL ECONOMICS', 'ECONOMICS', 4); 
+Historical Variation in English
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EL2211', 'Historical Variation in English', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+CORPORATE STRATEGY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMA5013', 'CORPORATE STRATEGY', 'DEAN''S OFFICE (BIZ)', 4); 
+Macroeconomics in the Global Economy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMA5011', 'Macroeconomics in the Global Economy', 'DEAN''S OFFICE (BIZ)', 4); 
+Topics in Applied Chinese Linguistics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CH5880R', 'Topics in Applied Chinese Linguistics', 'CHINESE STUDIES', 5); 
+Structural Stability & Dynamics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE4258', 'Structural Stability & Dynamics', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Business Analytics - Data & Decisions
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('DSC2008', 'Business Analytics - Data & Decisions', 'DECISION SCIENCES', 4); 
+Contract and Commercial Law in Civil-Law Asia
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5017', 'Contract and Commercial Law in Civil-Law Asia', 'LAW', 4); 
+Coastal Processes & Sediment Transport
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CE5308', 'Coastal Processes & Sediment Transport', 'CIVIL & ENVIRONMENTAL ENGINEERING', 4); 
+Basic UROPS in Physics I
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC2288', 'Basic UROPS in Physics I', 'PHYSICS', 4); 
+Pressure Surges in Liquid & Gas Flow Systems
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ME5708', 'Pressure Surges in Liquid & Gas Flow Systems', 'MECHANICAL ENGINEERING', 4); 
+Personality & Individual Differences
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PL3241', 'Personality & Individual Differences', 'PSYCHOLOGY', 4); 
+Singapore Urban History & Architecture
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SSD2213', 'Singapore Urban History & Architecture', 'ARCHITECTURE', 4); 
+Sensation and Perception
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PL3243', 'Sensation and Perception', 'PSYCHOLOGY', 4); 
+GRADUATE ENGLISH COURSE (INTERMEDIATE LEVEL)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ES5001A', 'GRADUATE ENGLISH COURSE (INTERMEDIATE LEVEL)', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 0); 
+Memory
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PL3249', 'Memory', 'PSYCHOLOGY', 4); 
+CONTEMPORARY THEORIES
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR5221', 'CONTEMPORARY THEORIES', 'ARCHITECTURE', 4); 
+Chinese Media in Singapore: Theory and Practice
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CH2273', 'Chinese Media in Singapore: Theory and Practice', 'CHINESE STUDIES', 4); 
+UNIVERSITY RESEARCH OPPORTUNITIES PROGRAMME
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LLD5396', 'UNIVERSITY RESEARCH OPPORTUNITIES PROGRAMME', 'LAW', 4); 
+UNIVERSITY RESEARCH OPPORTUNITIES PROGRAMME
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LLD5397', 'UNIVERSITY RESEARCH OPPORTUNITIES PROGRAMME', 'LAW', 4); 
+BTech Dissertation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('TE4001', 'BTech Dissertation', 'BACHELOR OF TECHNOLOGY PROGRAMME', 12); 
+Multivariable Control Systems
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE5102', 'Multivariable Control Systems', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Tropical Horticulture
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM3256', 'Tropical Horticulture', 'BIOLOGICAL SCIENCES', 4); 
+Ecology of Terrestrial Environments
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM3255', 'Ecology of Terrestrial Environments', 'BIOLOGICAL SCIENCES', 4); 
+Chamber Ensemble 2A
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA2109', 'Chamber Ensemble 2A', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 2); 
+Large Ensembles 2B
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA2108', 'Large Ensembles 2B', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 2); 
+LAW & DEVELOPMENT IN CHINA
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5125', 'LAW & DEVELOPMENT IN CHINA', 'LAW', 4); 
+THE CONTEMPORARY INDIAN LEGAL SYSTEM
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5122', 'THE CONTEMPORARY INDIAN LEGAL SYSTEM', 'LAW', 4); 
+Bahasa Indonesia 5
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAB4201', 'Bahasa Indonesia 5', 'CENTRE FOR LANGUAGE STUDIES', 5); 
+Bahasa Indonesia 6
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LAB4202', 'Bahasa Indonesia 6', 'CENTRE FOR LANGUAGE STUDIES', 5); 
+GRADUATE SEMINARS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN5999', 'GRADUATE SEMINARS', 'CHEMICAL & BIOMOLECULAR ENGINEERING', 4); 
+Critical Thinking and Expository Writing: Up Close and Public: Designing Public Persona
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ES1501A', 'Critical Thinking and Expository Writing: Up Close and Public: Designing Public Persona', 'CTR FOR ENGLISH LANGUAGE COMMUNICATION', 4); 
+CHINESE MARITIME LAW
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5128', 'CHINESE MARITIME LAW', 'LAW', 4); 
+Social Change 1900 - 1950
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MS4201', 'Social Change 1900 - 1950', 'MALAY STUDIES', 5); 
+ARCHITECTURAL PRACTICE 2
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR5422', 'ARCHITECTURAL PRACTICE 2', 'ARCHITECTURE', 4); 
+Calculus with Applications
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA1312', 'Calculus with Applications', 'MATHEMATICS', 4); 
+Integrated Honours Thesis
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('XFA4402', 'Integrated Honours Thesis', 'ECONOMICS', 15); 
+Religious Issues in the Contemporary World
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('USP3506', 'Religious Issues in the Contemporary World', 'UNIVERSITY SCHOLARS PROGRAMME', 4); 
+Computer Communications Networks II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE4210E', 'Computer Communications Networks II', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+ASEAN Economic Community Law and Policy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5202', 'ASEAN Economic Community Law and Policy', 'LAW', 4); 
+The Problematic Concept Of 'Gender'
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('USP3501', 'The Problematic Concept Of ''Gender''', 'UNIVERSITY SCHOLARS PROGRAMME', 4); 
+Cultural Performance in Asia
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('TS4217', 'Cultural Performance in Asia', 'ENGLISH LANGUAGE & LITERATURE', 5); 
+Introduction to Signals and Communications
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE1003', 'Introduction to Signals and Communications', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Public Organisation Theory and Practice
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS4209', 'Public Organisation Theory and Practice', 'POLITICAL SCIENCE', 5); 
+Why do these crystal structures deserve the Nobel Prize?
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FMS1224B', 'Why do these crystal structures deserve the Nobel Prize?', 'BIOLOGICAL SCIENCES', 4); 
+China's Foreign Policy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS4203', 'China''s Foreign Policy', 'POLITICAL SCIENCE', 5); 
+Political Parties and Elections
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS4202', 'Political Parties and Elections', 'POLITICAL SCIENCE', 5); 
+Sustainable Energy Systems
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE4511', 'Sustainable Energy Systems', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Social Entrepreneurship
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MNO3330', 'Social Entrepreneurship', 'MANAGEMENT AND ORGANISATION', 4); 
+TRADITIONS IN ASIAN PHILOSOPHY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PH6320', 'TRADITIONS IN ASIAN PHILOSOPHY', 'PHILOSOPHY', 4); 
+INTERNATIONAL FIELD STUDY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('RE5011', 'INTERNATIONAL FIELD STUDY', 'REAL ESTATE', 8); 
+INTEGRATIVE FIELD PROJECT
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('RE5012', 'INTEGRATIVE FIELD PROJECT', 'REAL ESTATE', 12); 
+Special Studies
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ID3041', 'Special Studies', 'DIVISION OF INDUSTRIAL DESIGN', 14); 
+Advanced Statistical Theory II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ST5224', 'Advanced Statistical Theory II', 'STATISTICS & APPLIED PROBABILITY', 4); 
+Advanced Process Control
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN4227R', 'Advanced Process Control', 'CHEMICAL & BIOMOLECULAR ENGINEERING', 4); 
+Breakthrough Ideas for Digital Markets
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS3882', 'Breakthrough Ideas for Digital Markets', 'COMPUTER SCIENCE', 4); 
+Exploratory Satellite Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EG1310', 'Exploratory Satellite Design', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+MANAGEMENT PRACTICUM
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('BMA5901', 'MANAGEMENT PRACTICUM', 'DEAN''S OFFICE (BIZ)', 4); 
+Software Testing and Debugging
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS4218', 'Software Testing and Debugging', 'COMPUTER SCIENCE', 4); 
+International Commercial Arbitration
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL4029', 'International Commercial Arbitration', 'LAW', 4); 
+Programming Language Implementation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS4215', 'Programming Language Implementation', 'COMPUTER SCIENCE', 4); 
+Design 6
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('AR3102', 'Design 6', 'ARCHITECTURE', 8); 
+Advanced Process Control
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN4227E', 'Advanced Process Control', 'BACHELOR OF TECHNOLOGY PROGRAMME', 4); 
+FS: The 5 S's of Molecules
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FMS1202C', 'FS: The 5 S''s of Molecules', 'CHEMISTRY', 4); 
+Seminars in Accounting: Risk Management Technology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ACC4612E', 'Seminars in Accounting: Risk Management Technology', 'ACCOUNTING', 4); 
+Entrepreneurship
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MNO2009', 'Entrepreneurship', 'MANAGEMENT AND ORGANISATION', 4); 
+Computation & Machine: Ancient to Modern
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEK1536', 'Computation & Machine: Ancient to Modern', 'PHYSICS', 4); 
+Sem in Acctg: Internal Control and Risk Mgmt in China
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ACC4612C', 'Sem in Acctg: Internal Control and Risk Mgmt in China', 'ACCOUNTING', 4); 
+Experimental Microbiology
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LSM2203', 'Experimental Microbiology', 'MICROBIOLOGY', 4); 
+Leadership and Ethics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MNO2007', 'Leadership and Ethics', 'MANAGEMENT AND ORGANISATION', 4); 
+University Research Opportunities Programme
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5399', 'University Research Opportunities Programme', 'LAW', 4); 
+UNIVERSITY RESEARCH OPPORTUNITIES PROGRAMME
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5398', 'UNIVERSITY RESEARCH OPPORTUNITIES PROGRAMME', 'LAW', 4); 
+Graduate Research Seminar for Masters students
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SC5770', 'Graduate Research Seminar for Masters students', 'SOCIOLOGY', 4); 
+Design Thesis Project
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('ID4106', 'Design Thesis Project', 'DIVISION OF INDUSTRIAL DESIGN', 12); 
+UNIVERSITY RESEARCH OPPORTUNITIES PROGRAMME
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5397', 'UNIVERSITY RESEARCH OPPORTUNITIES PROGRAMME', 'LAW', 4); 
+UNIVERSITY RESEARCH OPPORTUNITIES PROGRAMME
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LL5396', 'UNIVERSITY RESEARCH OPPORTUNITIES PROGRAMME', 'LAW', 4); 
+Political Ideas and Issues
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PS6201', 'Political Ideas and Issues', 'POLITICAL SCIENCE', 4); 
+Satires and (Un)Serious Histories
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('USE2316', 'Satires and (Un)Serious Histories', 'UNIVERSITY SCHOLARS PROGRAMME', 4); 
+Multiculturalism in Singapore and Its Contested Meanings
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('USE2317', 'Multiculturalism in Singapore and Its Contested Meanings', 'UNIVERSITY SCHOLARS PROGRAMME', 4); 
+Advanced Algorithms
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CS6234', 'Advanced Algorithms', 'COMPUTER SCIENCE', 4); 
+Total War, 1815-1945
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('HY2216', 'Total War, 1815-1945', 'HISTORY', 4); 
+Understanding Law and Social Change
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('USE2313', 'Understanding Law and Social Change', 'UNIVERSITY SCHOLARS PROGRAMME', 4); 
+INDUSTRIAL ATTACHMENT PROJECT
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SA4107', 'INDUSTRIAL ATTACHMENT PROJECT', 'INSTITUTE OF SYSTEMS SCIENCE', 12); 
+Nutritional Biochemistry
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('FST4202', 'Nutritional Biochemistry', 'CHEMISTRY', 4); 
+AD Project
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SA4106', 'AD Project', 'INSTITUTE OF SYSTEMS SCIENCE', 6); 
+NUS H3 Science Research Programme
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SP1230', 'NUS H3 Science Research Programme', 'DEAN''S OFFICE (SCIENCE)', 4); 
+Introduction to Politics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEK1003', 'Introduction to Politics', 'POLITICAL SCIENCE', 4); 
+Introduction to Japanese Studies
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEK1002', 'Introduction to Japanese Studies', 'JAPANESE STUDIES', 4); 
+Geographical Journeys: Exploring World Environments
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEK1001', 'Geographical Journeys: Exploring World Environments', 'GEOGRAPHY', 4); 
+An Introduction to Literary Studies
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEK1000', 'An Introduction to Literary Studies', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+Software Project Management
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SG5102', 'Software Project Management', 'INSTITUTE OF SYSTEMS SCIENCE', 8); 
+Principles of Competition Law
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LC5232', 'Principles of Competition Law', 'LAW', 4); 
+Independent Study Module (Ride-On)
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('UIS4942R', 'Independent Study Module (Ride-On)', 'DEAN''S OFFICE (BIZ)', 4); 
+Introductory Mathematics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MA1301FC', 'Introductory Mathematics', 'MATHEMATICS', 4); 
+Southeast Asia: A Changing Region
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GEK1008', 'Southeast Asia: A Changing Region', 'SOUTHEAST ASIAN STUDIES', 4); 
+Public Policy and Management in Singapore
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PP5298', 'Public Policy and Management in Singapore', 'LEE KUAN YEW SCHOOL OF PUBLIC POLICY', 4); 
+MLA Studio: Region
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LA5702', 'MLA Studio: Region', 'ARCHITECTURE', 8); 
+Citizenship, Nation and Globalization
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SC4882B', 'Citizenship, Nation and Globalization', 'SOCIOLOGY', 5); 
+Dynamic Modelling of Public Policy Systems
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PP5294', 'Dynamic Modelling of Public Policy Systems', 'LEE KUAN YEW SCHOOL OF PUBLIC POLICY', 4); 
+Senior Recital in Voice
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA4191', 'Senior Recital in Voice', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 10); 
+Principles of Chemical Process II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CM2161', 'Principles of Chemical Process II', 'CHEMISTRY', 4); 
+Approaches to Japanese Linguistics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('JS3208', 'Approaches to Japanese Linguistics', 'JAPANESE STUDIES', 4); 
+POWER ELECTRONICS & APPLICATIONS TOELECTRO-MECHANICAL SYSTEMS
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MCH5001', 'POWER ELECTRONICS & APPLICATIONS TOELECTRO-MECHANICAL SYSTEMS', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Applications Of Mechatronics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MCH5002', 'Applications Of Mechatronics', 'MECHANICAL ENGINEERING', 4); 
+Intercultural Communication
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('NM2201', 'Intercultural Communication', 'COMMUNICATIONS AND NEW MEDIA', 4); 
+Geographical Research: Developing Ideas
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GE3240', 'Geographical Research: Developing Ideas', 'GEOGRAPHY', 4); 
+Applied Petroleum Exploration
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GE3243', 'Applied Petroleum Exploration', 'GEOGRAPHY', 4); 
+Sediments and Sedimentary Basins
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('GE3242', 'Sediments and Sedimentary Basins', 'GEOGRAPHY', 4); 
+Materials Chemistry 1
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CM3253', 'Materials Chemistry 1', 'CHEMISTRY', 4); 
+Nanochemistry
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CM3251', 'Nanochemistry', 'CHEMISTRY', 4); 
+Audio for Media 2
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA4174', 'Audio for Media 2', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 4); 
+RAS Final Project
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA4175', 'RAS Final Project', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 4); 
+Audio System Design
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA4176', 'Audio System Design', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 3); 
+B.Tech. Dissertation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('TM4101', 'B.Tech. Dissertation', 'BACHELOR OF TECHNOLOGY PROGRAMME', 12); 
+Nanophysics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PC3251', 'Nanophysics', 'PHYSICS', 4); 
+Popular Culture in Southeast Asia
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SE2210', 'Popular Culture in Southeast Asia', 'SOUTHEAST ASIAN STUDIES', 4); 
+Internship in Recording Arts and Sciences
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MUA4172', 'Internship in Recording Arts and Sciences', 'YONG SIEW TOH CONSERVATORY OF MUSIC', 4); 
+DCC Project for B.Eng. Dissertation
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EG4301', 'DCC Project for B.Eng. Dissertation', 'DEAN''S OFFICE (ENGINEERING)', 12); 
+Analog Electronics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EE3407', 'Analog Electronics', 'ELECTRICAL & COMPUTER ENGINEERING', 4); 
+Inorganic Nanomaterials for Sustainability
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('CN6163', 'Inorganic Nanomaterials for Sustainability', 'CHEMICAL & BIOMOLECULAR ENGINEERING', 4); 
+INTERNATIONAL CORPORATE FINANCE
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('LC5126', 'INTERNATIONAL CORPORATE FINANCE', 'LAW', 4); 
+Language Planning and Policy
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EL3252', 'Language Planning and Policy', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+Marketing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('MKT1003', 'Marketing', 'MARKETING', 4); 
+Cloud Computing
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('SG4211', 'Cloud Computing', 'INSTITUTE OF SYSTEMS SCIENCE', 3); 
+The Sociolinguistics of Humour: Jokes and Comedies
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EL3258', 'The Sociolinguistics of Humour: Jokes and Comedies', 'ENGLISH LANGUAGE & LITERATURE', 4); 
+COST ANALYSIS AND ENGINEERING ECONOMY
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IE5003', 'COST ANALYSIS AND ENGINEERING ECONOMY', 'INDUSTRIAL & SYSTEMS ENGINEERING', 4); 
+Applied Engineering Statistics
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('IE5002', 'Applied Engineering Statistics', 'INDUSTRIAL & SYSTEMS ENGINEERING', 4); 
+Pharmacology 1
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('PA2106', 'Pharmacology 1', 'PHARMACOLOGY', 4); 
+Development Economics II
+Insert Into ModuleInformation( ModuleCode, ModuleName, ModuleDepartment, ModuleCredit) VALUES ('EC4371', 'Development Economics II', 'ECONOMICS', 5); 

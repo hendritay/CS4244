@@ -8,6 +8,11 @@
    (slot  moduleid )
 )
 
+(defclass REQUIREDCOREMODULE
+   (is-a USER)
+   (slot  moduleid )
+)
+
 (defclass NOTINTERESTEDMODULE
    (is-a USER)
    (slot  moduleid )
@@ -98,7 +103,8 @@
 	(slot focusarea)
 	(slot modulepersem)
 	(slot graduatefrom) 
-	
+	(slot cohort)
+	(slot takeFYP)	
   )
   
   (defclass FOCUSAREA
@@ -115,6 +121,3 @@
    (slot focussecondary)
    (slot interestedmodule)
   )
-  
-  
- 
