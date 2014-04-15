@@ -5,9 +5,27 @@
 
 (defrule CopyFromModuleCandidate
    (object (is-a CANDIDATEMODULE) (moduleid ?moduleid))
+   (object (is-a MODULE) (moduleid ?moduleid) (modulelevel ?level) (mc ?mc))
+   
  => 
   (bind ?instancename (symbol-to-instance-name (sym-cat allmodule ?moduleid)))
   (make-instance ?instancename of ALLMODULE (moduleid ?moduleid))
+  
+  (if (eq ?level 1) 
+      
+     (bind ?currmc (send ?*requirement* get-level1mc))
+	 (bind ?newmc (+ ?currmc  ?mc))
+     (send ?*requirement* put-level1mc  ?newmc)
+	 
+	 (if (>= ?newmc 60) then
+	    (do-for-instance ((?indomie MODULE)) 
+		   (eq ?indomie:modulelevel 1)
+		   (send ?indomie put-desirable NO)
+		 )
+	 )
+   )
+	 	  
+  
  )
 
  
