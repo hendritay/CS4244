@@ -58,3 +58,13 @@
    (bind ?currentscore (send ?module get-modulescore))   
    (send ?module put-modulescore (+ ?currentscore ?score))
 )
+
+
+(defrule CheckForFocusArea
+   (object (is-a MODULETAKEN) (moduleid ?moduleid))   
+   (object (is-a FOCUSAREA) (type PRIMARY) (moduleid ?moduleid))
+ =>
+   (bind ?totalmodule (send ?*requirement* get-focusareamodule))
+   (bind ?newmodule (- ?totalmodule 1))
+   (send ?*requirement* put-focusareamodule ?newmodule)
+)

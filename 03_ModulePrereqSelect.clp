@@ -22,7 +22,8 @@
 		(unmake-instance ?objmodule)
 				
 		(if (and (eq ?total 1) 
-		        (not (any-instancep ((?preclude ALREADYPRECLUDE)) (eq ?preclude:moduleid ?moduleid)))
+		        (not (any-instancep ((?preclude ALREADYPRECLUDE)) (eq ?preclude:moduleid ?moduleid))
+				(not (any-instancep ((?taken MODULETAKEN)) (eq ?taken:moduleid ?moduleid)))
 			) then		   
 		   (make-instance ?instancename of ELIGIBLEMODULE (moduleid ?moduleid))
 		) 

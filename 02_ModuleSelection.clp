@@ -37,4 +37,12 @@
   (make-instance ?instancename of ALLMODULE (moduleid ?moduleid))
  )
 
- 
+
+(defrule CheckForFocusArea
+   (object (is-a CANDIDATEMODULE) (moduleid ?moduleid))
+   (object (is-a FOCUSAREA) (type PRIMARY) (moduleid ?moduleid))
+ =>
+   (bind ?totalmodule (send ?*requirement* get-focusareamodule))
+   (bind ?newmodule (- ?totalmodule 1))
+   (send ?*requirement* put-focusareamodule ?newmodule)
+) 

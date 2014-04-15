@@ -34162,6 +34162,7 @@ NONCS
 (moduleid  SSA2204)
 (mc 4)
 (modulelevel 4)
+(moduletagscore 100)
 (moduletype 
 SS
 NONCS
@@ -34387,6 +34388,7 @@ NONCS
 (moduleid  SSS1207)
 (mc 4)
 (modulelevel 4)
+(moduletagscore 80)
 (moduletype 
 SS
 NONCS
