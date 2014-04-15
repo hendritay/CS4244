@@ -25,32 +25,4 @@
 
 
  
- (defrule rule_interestedmodule
-   (object (is-a INTERESTEDMODULE) (moduleid ?moduleid))
-   (object (is-a SCORE) (interestedmodule ?score))
-   ?module <- (object (is-a MODULE) (moduleid ?moduleid))
-  =>
-    (bind ?currentscore (send ?module get-moduletagscore))   
-    (send ?module put-moduletagscore (+ ?currentscore ?score))
-  )
- 
-  
-
-(defrule moduletagcalculation
-  (object (is-a INTERESTEDTAG) (tag ?interestedtag) )  
-  (object (is-a MODULETAG) (moduletag ?interestedtag) (moduletagscore ?score) (moduleid ?moduleid))
-  ?module <- (object (is-a MODULE) (moduleid ?moduleid))
-  =>
-  (bind ?currentscore (send ?module get-moduletagscore))   
-   (send ?module put-moduletagscore (+ ?currentscore ?score))
-)
-
-(defrule focusareacalculation
-  (object (is-a FOCUSAREA) (moduleid ?moduleid) (type SECONDARY))
-  (object (is-a SCORE) (focussecondary ?score))
-  ?module <- (object (is-a MODULE) (moduleid ?moduleid))
-  =>
-   (bind ?currentscore (send ?module get-modulescore))   
-   (send ?module put-modulescore (+ ?currentscore ?score))
-)
 
