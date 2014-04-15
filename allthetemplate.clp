@@ -1,3 +1,4 @@
+
 (defclass INTERESTEDTAG
    (is-a USER)
    (slot  tag(create-accessor read-write))
@@ -47,15 +48,19 @@
     (is-a USER)
 	(slot moduleid )
 	(slot moduletagtotalscore (type NUMBER))
-	(slot sacrificable)
+	
  )
  
  (defclass MODULE
     (is-a USER)
 	(slot moduleid)
 	(slot moduledescription)
-	(slot MC (type NUMBER))
+	(slot mc (type NUMBER))
 	(slot modulepriority)
+	(slot modulelevel)
+	(multislot moduletype)
+	(slot desirable (default YES) (create-accessor read-write))
+	
 	(slot moduletagscore  (type NUMBER)(default 0) (create-accessor read-write))
  )
 
@@ -106,6 +111,7 @@
 	(slot cohort)
 	(slot science (default 12))
 	(slot takeFYP)	
+	(slot level1mc (create-accessor read-write))
   )
   
   (defclass FOCUSAREA
@@ -124,5 +130,6 @@
   )
   
   
-  
-  
+ (defglobal 
+   ?*requirement* = (make-instance [john] of REQUIREMENT (level1mc 0) (SS 8))
+)
