@@ -108,8 +108,6 @@
 	(slot takeFYP)	
   )
   
-  (defmessagehandler REQUIREMENT (
-  
   (defclass FOCUSAREA
       (is-a USER)
 	  (slot moduleid)
