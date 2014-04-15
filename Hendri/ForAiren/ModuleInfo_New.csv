@@ -1,0 +1,1001 @@
+ModuleCode;ModuleName;ModuleDepartment;ModuleCredit;ModuleLevel
+ACC1002;"Financial Accounting";ACCOUNTING;4;1
+ACC1002X;"Financial Accounting";ACCOUNTING;4;1
+ACC1006;"Accounting Information Systems";ACCOUNTING;4;1
+ACC2002;"Managerial Accounting";ACCOUNTING;4;2
+ACC3601;"Corporate Accounting and Reporting";ACCOUNTING;4;3
+ACC3602;"Managerial Planning and Control";ACCOUNTING;4;3
+ACC3603;"Assurance and Attestation";ACCOUNTING;4;3
+ACC3604;"Corporate and Securities Law";ACCOUNTING;4;3
+ACC3605;Taxation;ACCOUNTING;4;3
+ACC3606;"Advanced Corporate Accounting and Reporting";ACCOUNTING;4;3
+ACC3611;"Corporate Governance and Ethics";ACCOUNTING;4;3
+ACC3612;"Risk Management and Internal Control";ACCOUNTING;4;3
+ACC3613;"Advanced Assurance and Attestation";ACCOUNTING;4;3
+ACC3614;Valuation;ACCOUNTING;4;3
+ACC3615;"Accounting Theory";ACCOUNTING;4;3
+ACC4611;"Advanced Taxation";ACCOUNTING;4;4
+ACC4612A;"Seminars in Accounting: Internal Auditing";ACCOUNTING;4;4
+ACC4612C;"Sem in Acctg: Internal Control and Risk Mgmt in China";ACCOUNTING;4;4
+ACC4612D;"Seminars in Accounting: Advanced Accounting Theory";ACCOUNTING;4;4
+ACC4612E;"Seminars in Accounting: Risk Management Technology";ACCOUNTING;4;4
+ACC4619;"Advanced Independent Study in Accounting";ACCOUNTING;4;4
+ACC4629;"Advanced Independent Study in Accounting";ACCOUNTING;2;4
+ACC5001;"Business Analysis and Valuation";ACCOUNTING;4;5
+AR1101;"Design I";ARCHITECTURE;8;1
+AR1102;"Design 2";ARCHITECTURE;8;1
+AR1326;"Architectural Construction";ARCHITECTURE;4;1
+AR1327;"Structural Principles";ARCHITECTURE;4;1
+AR1721;"Climate Responsive Architecture";ARCHITECTURE;4;1
+AR1724;"Introduction To Landscape Architecture";ARCHITECTURE;4;1
+AR2101;"Design 3";ARCHITECTURE;8;2
+AR2102;"Design 4";ARCHITECTURE;8;2
+AR2151;"Technology Integration I";ARCHITECTURE;4;2
+AR2221;"History & Theory Of SEA Architecture";ARCHITECTURE;4;2
+AR2222;"History & Theory Of Western Architecture";ARCHITECTURE;4;2
+AR2223;"Theory Of Urban Design & Planning";ARCHITECTURE;4;2
+AR2224;"Ideas and Approaches in Design";ARCHITECTURE;4;2
+AR2225;"Reading Visual Images";ARCHITECTURE;4;2
+AR2226;"History & Theory Of Modern Architecture";ARCHITECTURE;4;2
+AR2327;"Architecture, Structure and Construction";ARCHITECTURE;4;2
+AR2521;"Digital Modelling and Simulation";ARCHITECTURE;4;2
+AR2723;"Strategies for Sustainable Architecture";ARCHITECTURE;4;2
+AR2724;"Designing with Environmental Systems";ARCHITECTURE;4;2
+AR3101;"Design 5";ARCHITECTURE;8;3
+AR3101A;"Design 5 (Landscape Architecture Emphasis)";ARCHITECTURE;8;3
+AR3102;"Design 6";ARCHITECTURE;8;3
+AR3102A;"Design 6 (Landscape Architecture Emphasis)";ARCHITECTURE;8;3
+AR3151;"Design - ISM";ARCHITECTURE;4;3
+AR3152;"Technology Integration II";ARCHITECTURE;4;3
+AR3421;"Introduction to Architectural Practice";ARCHITECTURE;4;3
+AR3721;"Environmental Systems and Construction";ARCHITECTURE;4;3
+AR4101;"Design 7";ARCHITECTURE;8;4
+AR4102;"Design 8";ARCHITECTURE;8;4
+AR4103;"Architectural & Technology Design 1";ARCHITECTURE;8;4
+AR4104;"Architectural & Technology Design 2";ARCHITECTURE;8;4
+AR4142;"Research Report";ARCHITECTURE;8;4
+AR4222;"Asian Architecture and Urban History";ARCHITECTURE;4;4
+AR4223;"Architecture and Urban Heritage";ARCHITECTURE;4;4
+AR4322;"Design Simulation & Analysis";ARCHITECTURE;4;4
+AR4323;"Assessment of Sustainable Design";ARCHITECTURE;4;4
+AR5011;"Research Methodology";ARCHITECTURE;4;5
+AR5103;"ARCHITECTURAL DESIGN THESIS";ARCHITECTURE;24;5
+AR5104;"FINAL DESIGN PROJECT";ARCHITECTURE;20;5
+AR5121;"SPECIAL TOPICS IN TECHNOLOGY";ARCHITECTURE;4;5
+AR5141;DISSERTATION;ARCHITECTURE;8;5
+AR5142;"TECHNICAL DISSERTATION";ARCHITECTURE;8;5
+AR5221;"CONTEMPORARY THEORIES";ARCHITECTURE;4;5
+AR5312;"Typo-Morphology In Architecture";ARCHITECTURE;4;5
+AR5321;"Advanced Architectural Technology";ARCHITECTURE;4;5
+AR5322;"Renewable Resources and Architecture";ARCHITECTURE;4;5
+AR5421;"Architectural Practice 1";ARCHITECTURE;4;5
+AR5422;"ARCHITECTURAL PRACTICE 2";ARCHITECTURE;4;5
+AR5467;"Domesticity in Architecture, Art & Film";ARCHITECTURE;4;5
+AR5770;"GRADUATE SEMINAR";ARCHITECTURE;4;5
+AR5951A;"Topics in History and Theory of Architecture 1";ARCHITECTURE;4;5
+AR5951B;"Topics in History & Theory of Architecture 2";ARCHITECTURE;4;5
+AR5951C;"Topics in History and Theory of Architecture 3";ARCHITECTURE;4;5
+AR5951K;"VAST AND CONTINUOUS INTERIORS: THE ASIAN EXPERIENCE";ARCHITECTURE;4;5
+AR5951M;"Topics In Theory And Theory Of Architecture - Spaces of Malaya and Nanyang";ARCHITECTURE;4;5
+AR5951Z;"Topics in History and Theory of Architecture Elective";ARCHITECTURE;4;5
+AR5952A;"Topics in Urban Studies 1";ARCHITECTURE;4;5
+AR5952B;"Topics in Urban Studies 2";ARCHITECTURE;4;5
+AR5952C;"Special Topics in Urban Studies 3";ARCHITECTURE;4;5
+AR5952J;"HUMAN ECOLOGY AND BUILT ENVIRONMENT - SPACE AND HEALTH";ARCHITECTURE;4;5
+AR5952K;"Topics In Urban Studies: Design Thinking and Implementation";ARCHITECTURE;4;5
+AR5952Z;"Topics in Urban Studies 2 Elective";ARCHITECTURE;4;5
+AR5953A;"Topics in Design Technology 1";ARCHITECTURE;4;5
+AR5953B;"Topics in Design Technology 2";ARCHITECTURE;4;5
+AR5953C;"Topics in Design Technology 3";ARCHITECTURE;4;5
+AR5953D;"Topics in Design Technology 4";ARCHITECTURE;4;5
+AR5953J;"Topics in Design Technology - Solar Decathlon";ARCHITECTURE;4;5
+AR5953L;"Topics in Design Technology - Design Space Exploration";ARCHITECTURE;4;5
+AR5953M;"Topics in Design Technology- Iterative Virtual Prototyping";ARCHITECTURE;4;5
+AR5954A;"Topics in Landscape Architecture 1";ARCHITECTURE;4;5
+AR5954B;"Topics in Landscape Architecture";ARCHITECTURE;4;5
+AR5954C;"Topics in Landscape Architecture";ARCHITECTURE;4;5
+AR6770;"PHD SEMINAR";ARCHITECTURE;4;6
+AS2237;"The U.S.: From Settlement to Superpower";HISTORY;4;2
+AS3239;"The United States in the Asia-Pacific";HISTORY;4;3
+AS4219;"American Intellectual History";HISTORY;5;4
+AS4232;"Topics in American Literature";"ENGLISH LANGUAGE & LITERATURE";5;4
+ASP1201;"H3 Humanities & Soc Sci Research Prog";"DEAN'S OFFICE (ARTS & SOCIAL SC.)";4;1
+AUD5101;Acoustics;"DIVISION OF GRADUATE MEDICAL STUDIES";2;5
+AUD5102;"Anatomy & Physiology";"DIVISION OF GRADUATE MEDICAL STUDIES";2;5
+AUD5103;"Pathologies of the Auditory System";"DIVISION OF GRADUATE MEDICAL STUDIES";2;5
+AUD5104;"Perception of Sound & Speech";"DIVISION OF GRADUATE MEDICAL STUDIES";2;5
+AUD5105;"Hearing Devices and Rehabilitation A - Part 1";"DIVISION OF GRADUATE MEDICAL STUDIES";3;5
+AUD5106;"Clinical Audiology A - Part 1";"DIVISION OF GRADUATE MEDICAL STUDIES";3;5
+AUD5107;"Paediatric Audiology A - Part 1";"DIVISION OF GRADUATE MEDICAL STUDIES";3;5
+AUD5108;"Electrophysiological Assessment A";"DIVISION OF GRADUATE MEDICAL STUDIES";2;5
+AUD5109;"Professional Practice Issues & Community Audiology";"DIVISION OF GRADUATE MEDICAL STUDIES";2;5
+AUD5110;"Vestibular Assessment and Management A";"DIVISION OF GRADUATE MEDICAL STUDIES";3;5
+AUD5111;"Hearing Devices & Rehabilitation A - Part 2";"DIVISION OF GRADUATE MEDICAL STUDIES";3;5
+AUD5112;"Clinical Audiology A - Part 2";"DIVISION OF GRADUATE MEDICAL STUDIES";4;5
+AUD5113;"Paediatric Audiology A - Part 2";"DIVISION OF GRADUATE MEDICAL STUDIES";4;5
+AUD5114;"Electrophysiological Assessment B";"DIVISION OF GRADUATE MEDICAL STUDIES";2;5
+AUD5115;"Experimental Design & Statistics";"DIVISION OF GRADUATE MEDICAL STUDIES";3;5
+AY1104;Anatomy;ANATOMY;4;1
+BAA6001;"Accounting Research Seminars I.";ACCOUNTING;4;6
+BAA6002;"Accounting Research Seminars II";ACCOUNTING;4;6
+BBP5000;"Global Strategic Management";"STRATEGY AND POLICY";4;5
+BBP6781;"SEMINAR IN STRATEGIC MANAGEMENT 1";"STRATEGY AND POLICY";4;6
+BBP6782B;"SEMINAR IN STRATEGIC MANAGEMENT 2";"STRATEGY AND POLICY";2;6
+BBP6791;"SEMINAR IN INTERNATIONAL BUSINESS";"STRATEGY AND POLICY";2;6
+BBP6792;"APPLIED ECONOMETRICS FOR BUSINESS STUDY";"STRATEGY AND POLICY";4;6
+BBP6793;"ECONOMIC MODELING FOR MANAGEMENT RESEARCH";"STRATEGY AND POLICY";4;6
+BBP6795A;"Role of Government: Firm Strategy in Indonesia";"STRATEGY AND POLICY";2;6
+BDC5101;"DETERMINISTIC OPERATIONS RESEARCH MODELS";"DECISION SCIENCES";4;5
+BDC6111;"Foundations of Optimization";"DECISION SCIENCES";4;6
+BDC6112;"Stochastic Processes";"DECISION SCIENCES";4;6
+BDC6113;"Foundations of Inventory Management";"DECISION SCIENCES";4;6
+BFA6002;"FINANCE THEORY";FINANCE;4;6
+BFA6004;"EMPIRICAL FINANCE";FINANCE;4;6
+BFS1001;"Personal Development & Career Management";"DEAN'S OFFICE (BIZ)";0;1
+BHD4001;"Honours Dissertation";"DEAN'S OFFICE (BIZ)";12;4
+BHD4001A;"Honours Dissertation";"DEAN'S OFFICE (BIZ)";0;4
+BHD4001B;"Honours Dissertation";"DEAN'S OFFICE (BIZ)";0;4
+BHD4001C;"Honours Dissertation";"DEAN'S OFFICE (BIZ)";12;4
+BIS3001;"Independent Study Module in Business";"DEAN'S OFFICE (BIZ)";4;3
+BL5102;"Environmental Science";"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";4;5
+BL5198;"GRADUATE SEMINAR MODULE IN BIOLOGICAL SCIENCES";"BIOLOGICAL SCIENCES";4;5
+BL5201;"Structural Biology And Proteomics";"BIOLOGICAL SCIENCES";4;5
+BL5202A;"BIOPHYSICAL METHODS IN LIFE SCIENCES";"BIOLOGICAL SCIENCES";4;5
+BL5203;"MOLECULAR RECOGNITION AND INTERACTIONS";"BIOLOGICAL SCIENCES";2;5
+BL5204;"CURRENT TRENDS IN BIOTECHNOLOGY";"BIOLOGICAL SCIENCES";4;5
+BL5207A;"Topics In Developmental Biology";"BIOLOGICAL SCIENCES";4;5
+BL5212;"Critical Thinking in Biological Sciences";"BIOLOGICAL SCIENCES";2;5
+BL5215;"MACROMOLECULAR X-RAY CRYSTALLOGRAPHY";"BIOLOGICAL SCIENCES";4;5
+BL5216;"ADVANCED GENETICS AND GENOME SCIENCES";"BIOLOGICAL SCIENCES";4;5
+BL5218;"STUDIES IN CONSERVATION";"BIOLOGICAL SCIENCES";4;5
+BL5219;"Field Research Techniques for Plant Ecology";"BIOLOGICAL SCIENCES";4;5
+BL5220;"ADVANCED ANIMAL DEVELOPMENT";"BIOLOGICAL SCIENCES";4;5
+BL5221;"PLANT AND MICROBIAL DEVELOPMENT";"BIOLOGICAL SCIENCES";4;5
+BL5222;"Cellular Mechanisms";"BIOLOGICAL SCIENCES";4;5
+BL5223;"Advanced Molecular Genetics";"BIOLOGICAL SCIENCES";4;5
+BL5224;"Special topics in Biological Sciences";"BIOLOGICAL SCIENCES";4;5
+BL5226;"Novel applications in Bioimaging Sciences";"BIOLOGICAL SCIENCES";4;5
+BL5227B;"Advances in Environmental Biology";"BIOLOGICAL SCIENCES";2;5
+BL5228;"Advances in Cell and Molecular Biology";"BIOLOGICAL SCIENCES";2;5
+BL5229;"Fundamentals in Biophysical Sciences";"BIOLOGICAL SCIENCES";2;5
+BL5230;"Invasion Biology";"BIOLOGICAL SCIENCES";2;5
+BL5231;"Writing in the Biological Sciences";"BIOLOGICAL SCIENCES";2;5
+BL5232;"Introduction to Bioimaging";"BIOLOGICAL SCIENCES";4;5
+BL5232A;"Practical Bioimaging A: Electron Microscopy";"BIOLOGICAL SCIENCES";2;5
+BL5233;"Modeling in Environmental Biology with R";"BIOLOGICAL SCIENCES";4;5
+BL5234;"Theoretical Biology";"BIOLOGICAL SCIENCES";4;5
+BL5235;"Advanced Optics for Microscopy";"BIOLOGICAL SCIENCES";4;5
+BLD3001;"Business Leadership Case Analysis";"DEAN'S OFFICE (BIZ)";4;3
+BLD3002;"CEOs as Leaders";"DEAN'S OFFICE (BIZ)";2;3
+BLD3003;"Personal Leadership Development";"DEAN'S OFFICE (BIZ)";2;3
+BLD3004;"Topics in Leadership";"DEAN'S OFFICE (BIZ)";4;3
+BMA5001;"MANAGERIAL ECONOMICS";"DEAN'S OFFICE (BIZ)";4;5
+BMA5002;"ANALYTICS FOR MANAGERS";"DEAN'S OFFICE (BIZ)";4;5
+BMA5003;"FINANCIAL ACCOUNTING";"DEAN'S OFFICE (BIZ)";4;5
+BMA5004A;"MANAGEMENT & ORGANIZATION";"DEAN'S OFFICE (BIZ)";2;5
+BMA5005;"Management Accounting";"DEAN'S OFFICE (BIZ)";2;5
+BMA5008;"FINANCIAL MANAGEMENT";"DEAN'S OFFICE (BIZ)";4;5
+BMA5009;"MARKETING MANAGEMENT";"DEAN'S OFFICE (BIZ)";4;5
+BMA5010A;"MANAGING OPERATIONS";"DEAN'S OFFICE (BIZ)";2;5
+BMA5011;"Macroeconomics in the Global Economy";"DEAN'S OFFICE (BIZ)";4;5
+BMA5013;"CORPORATE STRATEGY";"DEAN'S OFFICE (BIZ)";4;5
+BMA5014;"ADVANCED BUSINESS COMMUNICATIONS";"DEAN'S OFFICE (BIZ)";4;5
+BMA5016A;"LEADERSHIP IN ORGANIZATIONS";"DEAN'S OFFICE (BIZ)";2;5
+BMA5102;"LEGAL ISSUES IN BUSINESS";"DEAN'S OFFICE (BIZ)";4;5
+BMA5102A;"Topics in Legal Issues in Business";"STRATEGY AND POLICY";2;5
+BMA5104;"GLOBAL STRATEGIC MANAGEMENT";"DEAN'S OFFICE (BIZ)";4;5
+BMA5112;"Asian Business Environments";"DEAN'S OFFICE (BIZ)";4;5
+BMA5112A;"Special Topics in Asia Pacific Business";"DEAN'S OFFICE (BIZ)";2;5
+BMA5119;"Family Business";"DEAN'S OFFICE (BIZ)";2;5
+BMA5120;"EMERGING MARKETS STRATEGY";"DEAN'S OFFICE (BIZ)";2;5
+BMA5121;"Asian Business Insights III";"DEAN'S OFFICE (BIZ)";2;5
+BMA5122;"Macroeconomics and Finance: Perspectives from Asia";"DEAN'S OFFICE (BIZ)";4;5
+BMA5124;"Environmental and Resource Management in a Regulatory Environment";"DEAN'S OFFICE (BIZ)";4;5
+BMA5232;"STRATEGIC INFORMATION TECHNOLOGY";"DEAN'S OFFICE (BIZ)";4;5
+BMA5232A;"Topics in Strategic Information Technology";"DECISION SCIENCES";2;5
+BMA5235;"Transformational Service Innovations";"DEAN'S OFFICE (BIZ)";2;5
+BMA5271;"SUPPLY CHAIN MANAGEMENT";"DEAN'S OFFICE (BIZ)";4;5
+BMA5302;"INVESTMENT ANALYSIS AND MANAGEMENT";"DEAN'S OFFICE (BIZ)";4;5
+BMA5302A;"Investment Analysis & Management";"DEAN'S OFFICE (BIZ)";2;5
+BMA5303;"FINANCIAL STATEMENT ANALYSIS";"DEAN'S OFFICE (BIZ)";4;5
+BMA5309;"FUND MANAGEMENT";"DEAN'S OFFICE (BIZ)";4;5
+BMA5313;"PRIVATE EQUITY";"DEAN'S OFFICE (BIZ)";4;5
+BMA5313A;"Valuation and Mergers & Acquisitions";"DEAN'S OFFICE (BIZ)";4;5
+BMA5313C;"Topics in Valuation and Mergers & Acquisitions";"DEAN'S OFFICE (BIZ)";2;5
+BMA5313D;"PRIVATE EQUITY";FINANCE;4;5
+BMA5318;"INVESTMENT BANKING";"DEAN'S OFFICE (BIZ)";4;5
+BMA5318A;"Topics in Investment Banking";"DEAN'S OFFICE (BIZ)";2;5
+BMA5323;"Applied Portfolio Management";"DEAN'S OFFICE (BIZ)";4;5
+BMA5324;"Value Investing In Asia";"DEAN'S OFFICE (BIZ)";4;5
+BMA5325;"International Finance";"DEAN'S OFFICE (BIZ)";4;5
+BMA5327;"Family Business & Wealth Management";"DEAN'S OFFICE (BIZ)";4;5
+BMA5328;"Measuring and Improving the Impact of Social Enterprises";"DEAN'S OFFICE (BIZ)";4;5
+BMA5330;"Topics in Finance: Trading and Investing in Commodities";"DEAN'S OFFICE (BIZ)";2;5
+BMA5405;"MANAGING CHANGE";"DEAN'S OFFICE (BIZ)";4;5
+BMA5407;"MANAGING HUMAN CAPITAL";"DEAN'S OFFICE (BIZ)";4;5
+BMA5409;"SEMINARS IN MANAGEMENT AND ORGANIZATIONS:MANAGERIAL DECISION MAKING";"DEAN'S OFFICE (BIZ)";4;5
+BMA5414;"Managing the China Venture";"DEAN'S OFFICE (BIZ)";4;5
+BMA5419;"Global Management of Asian Multinationals";"MANAGEMENT AND ORGANISATION";4;5
+BMA5419A;"Topics in Global Management of Asian Multinationals";"MANAGEMENT AND ORGANISATION";2;5
+BMA5420;"Leadership in Asia";"DEAN'S OFFICE (BIZ)";4;5
+BMA5502;"CONSUMER BEHAVIOUR";"DEAN'S OFFICE (BIZ)";4;5
+BMA5503;"PROMOTIONAL MANAGEMENT";"DEAN'S OFFICE (BIZ)";4;5
+BMA5504;"GLOBAL MARKETING";"DEAN'S OFFICE (BIZ)";4;5
+BMA5506;"PRODUCT & BRAND MANAGEMENT";"DEAN'S OFFICE (BIZ)";4;5
+BMA5511;"CHANNELS AND PRICING STRATEGY";"DEAN'S OFFICE (BIZ)";4;5
+BMA5523;"CUSTOMER RELATIONSHIP MANAGEMENT";"DEAN'S OFFICE (BIZ)";4;5
+BMA5523A;"Topics in Customer Relationship Management";"DEAN'S OFFICE (BIZ)";2;5
+BMA5524;"APPLIED MARKET RESEARCH";"DEAN'S OFFICE (BIZ)";4;5
+BMA5801;"Management Communication";"DEAN'S OFFICE (BIZ)";0;5
+BMA5901;"MANAGEMENT PRACTICUM";"DEAN'S OFFICE (BIZ)";4;5
+BMC5001;"LEADERSHIP AND MANAGERIAL SKILLS";"DEAN'S OFFICE (BIZ)";6;5
+BMC5002;"Corporate Strategy For 21st-Century Organisations";"DEAN'S OFFICE (BIZ)";6;5
+BMC5003;"DECISION MAKING USING THE INFORMATION AGE TECHNOLOGIES";"DEAN'S OFFICE (BIZ)";6;5
+BMC5004;"Business Environment In Asia";"DEAN'S OFFICE (BIZ)";6;5
+BMC5005;"INTERNATIONAL BUSINESS AND LAW";"DEAN'S OFFICE (BIZ)";6;5
+BMC5006;"THE ASIAN CONSUMER AND MARKETING MANAGEMENT";"DEAN'S OFFICE (BIZ)";6;5
+BMC5007;"ACCOUNTING AND MANAGEMENT OF FINANCIAL RESOURCES";"DEAN'S OFFICE (BIZ)";6;5
+BMC5008;"Cross-Cultural Human Resource Management";"DEAN'S OFFICE (BIZ)";6;5
+BMC5009;"SYSTEM OPERATION AND PRODUCTION MANAGEMENT";"DEAN'S OFFICE (BIZ)";6;5
+BMC5010;"Corporate Finance And Corporate Governance";"DEAN'S OFFICE (BIZ)";6;5
+BMC5011;"SPECIAL TOPIC";"DEAN'S OFFICE (BIZ)";6;5
+BMC5012;"ADVANCED STUDY PROJECT";"DEAN'S OFFICE (BIZ)";6;5
+BME5001;"LEADERSHIP AND MANAGERIAL SKILLS";"DEAN'S OFFICE (BIZ)";6;5
+BME5002;"Corporate Strategy";"DEAN'S OFFICE (BIZ)";4;5
+BME5003;"Decision and Risk Analysis";"DEAN'S OFFICE (BIZ)";6;5
+BME5004;"Managerial Economics";"DEAN'S OFFICE (BIZ)";4;5
+BME5006;"Strategic Marketing and Brand Management";"DEAN'S OFFICE (BIZ)";6;5
+BME5007;"Accounting And Management Of Financial Resources";"DEAN'S OFFICE (BIZ)";6;5
+BME5008;"MANAGEMENT & ORGANIZATION";"DEAN'S OFFICE (BIZ)";6;5
+BME5009;"LOGISTICS AND OPERATIONS MANAGEMENT";"DEAN'S OFFICE (BIZ)";6;5
+BME5010;"Innovation Management and Entrepreneurship";"DEAN'S OFFICE (BIZ)";6;5
+BME5011;"CONTEMPORARY ISSUES IN ASIAN BUSINESS";"DEAN'S OFFICE (BIZ)";6;5
+BME5012;"THINKING CREATIVELY AND STRATEGICALLY";"DEAN'S OFFICE (BIZ)";6;5
+BME5014;"Legal Issues in Business";"DEAN'S OFFICE (BIZ)";4;5
+BME5015;"Macroeconomics and International Finance";"DEAN'S OFFICE (BIZ)";4;5
+BME5017;"Asian Business Environment";"DEAN'S OFFICE (BIZ)";3;5
+BMF5001;"Financial Management of Family Business";"DEAN'S OFFICE (BIZ)";4;5
+BMF5002;"Valuation of Mergers and Acquisitions";FINANCE;4;5
+BMK5002;"Applied Market Research";MARKETING;4;5
+BMK5003;"Behavioral Economics";MARKETING;4;5
+BMK5004;"Design Thinking & Business Innovations";MARKETING;4;5
+BMK5005;"Competitive Marketing Strategy";MARKETING;4;5
+BMK6100;"Proseminar in Marketing";MARKETING;4;6
+BMK6101;"Marketing Seminar: Perspectives in Consumer Behavior";MARKETING;4;6
+BMK6103;"Marketing Seminar: Consumer Judgment and Decision Making";MARKETING;4;6
+BMK6104;"Marketing Seminar: Marketing Theory & Research";MARKETING;4;6
+BMK6105E;"Independent Study Module: Emotions and Mental Imagery";MARKETING;4;6
+BMK6106;"Marketing Seminar: Empirical IO Models in Marketing";MARKETING;4;6
+BMK6107;"Marketing Seminar: Choice Models & Marketing Applications";MARKETING;4;6
+BMK6109;"Marketing Seminar: Advanced Game Theory";MARKETING;4;6
+BMK6111C;"Special Topics in Marketing";MARKETING;2;6
+BMK6111D;"Special Topics in Marketing";MARKETING;2;6
+BMK6111E;"Special Topics in Marketing";MARKETING;2;6
+BMK6112;"Dynamic Structural Models in Marketing and Economics";MARKETING;4;6
+BMM5001;"Leadership and Management";"DEAN'S OFFICE (BIZ)";4;5
+BMM5002;"Asia-Pacific Economic and Business Environment";"DEAN'S OFFICE (BIZ)";4;5
+BMM5101;"Judgment and Decision-Making for Modern Policy Makers";"DEAN'S OFFICE (BIZ)";4;5
+BMM5105;"Real Estate Fundamentals and City Planning";"DEAN'S OFFICE (BIZ)";4;5
+BMO5000;"Block Seminar";"DEAN'S OFFICE (BIZ)";2;5
+BMO5001;"Managing Across Cultures";"MANAGEMENT AND ORGANISATION";4;5
+BMO5002;"Business Project";"MANAGEMENT AND ORGANISATION";10;5
+BMO5004;"Special Topics in Organizational Behavior";"MANAGEMENT AND ORGANISATION";4;5
+BMO6001;"Seminar in Organisation Behaviour";"MANAGEMENT AND ORGANISATION";4;6
+BMO6002;"SEMINAR IN ORGANISATION THEORY";"MANAGEMENT AND ORGANISATION";4;6
+BMO6003;"SEMINAR IN HUMAN RESOURCE MANAGEMENT";"MANAGEMENT AND ORGANISATION";4;6
+BMO6004;"SEMINAR IN RESEARCH METHODOLOGY";"MANAGEMENT AND ORGANISATION";4;6
+BMO6006S;"Independent Study: Genetic Behavior Research";"MANAGEMENT AND ORGANISATION";4;6
+BMO6006T;"Independent Study: Emotion Experiences and Emotion Regulations at Work";"MANAGEMENT AND ORGANISATION";4;6
+BMO6006U;"Independent Study: Taking Stock of Conservation of Resource Theory";"MANAGEMENT AND ORGANISATION";4;6
+BMO6006V;"Independent Study: Organizational Socialization";"MANAGEMENT AND ORGANISATION";4;6
+BMO6007;"SEMINAR IN ADVANCED QUANTITATIVE RESEARCH METHODS";"MANAGEMENT AND ORGANISATION";4;6
+BMO6009A;"Topics in Management and Organization (TiMO): Professional Seminar in Organizational Sciences";"MANAGEMENT AND ORGANISATION";2;6
+BMO6009B;"Topics in Management and Organization: Advanced Topics in OB";"MANAGEMENT AND ORGANISATION";2;6
+BMP5001;"Venture Capital";"DEAN'S OFFICE (BIZ)";4;5
+BMP5002;"Asian Business Environment";"DEAN'S OFFICE (BIZ)";4;5
+BMP5003;"Managing for Public & Private Environmental Sustainability";"STRATEGY AND POLICY";4;5
+BMU5001;"LEADERSHIP & MANAGERIAL SKILLS";"DEAN'S OFFICE (BIZ)";4;5
+BMU5002;"ASIAN BUSINESS ENVIRONMENT";"DEAN'S OFFICE (BIZ)";4;5
+BMU5003;"ECONOMIC ANALYSIS FOR MANAGERS";"DEAN'S OFFICE (BIZ)";4;5
+BMU5006;"Marketing Strategy";"DEAN'S OFFICE (BIZ)";4;5
+BMU5007;"CORPORATE FINANCE";"DEAN'S OFFICE (BIZ)";4;5
+BMU5008;"CORPORATE GOVERNANCE, BUSINESS LAW & ETHICS";"DEAN'S OFFICE (BIZ)";4;5
+BMU5014;"CONTEMPORARY ISSUES IN BUSINESS";"DEAN'S OFFICE (BIZ)";4;5
+BMU5015;"COMPETITIVE STRATEGY & BUSINESS POLICY";"DEAN'S OFFICE (BIZ)";4;5
+BMU5017;"Management Practicum";"DEAN'S OFFICE (BIZ)";4;5
+BN2001;"Independent Study";"BIOMEDICAL ENGINEERING";4;2
+BN2101;"Principles of Bioengineering";"BIOMEDICAL ENGINEERING";4;2
+BN2102;"Bioengineering Data Analysis";"BIOMEDICAL ENGINEERING";4;2
+BN2103;"Bioengineering Design Workshop";"BIOMEDICAL ENGINEERING";2;2
+BN2201;"Quantitative Physiology for Bioengineers";"BIOMEDICAL ENGINEERING";4;2
+BN2202;"Introduction to Biotransport";"BIOMEDICAL ENGINEERING";4;2
+BN2203;"Introduction to Bioengineering Design";"BIOMEDICAL ENGINEERING";4;2
+BN2401;"Biosignals Processing";"BIOMEDICAL ENGINEERING";4;2
+BN3101;"Biomedical Engineering Design";"BIOMEDICAL ENGINEERING";6;3
+BN3201;"Introduction To Biomechanics";"BIOMEDICAL ENGINEERING";4;3
+BN3301;"Introduction To Biomaterials";"BIOMEDICAL ENGINEERING";4;3
+BN3401;"Biomedical Electronics & Systems";"BIOMEDICAL ENGINEERING";4;3
+BN3402;"Bio-Analytical Methods In Bioengineering";"BIOMEDICAL ENGINEERING";4;3
+BN3501;"Equilibrium and Kinetic Bioprocesses";"BIOMEDICAL ENGINEERING";4;3
+BN4101R;"B.Eng. Dissertation";"BIOMEDICAL ENGINEERING";12;4
+BN4201;"Musculoskeletal Biomechanics";"BIOMEDICAL ENGINEERING";4;4
+BN4202;"Biofluids Dynamics";"BIOMEDICAL ENGINEERING";4;4
+BN4203;"Rehabilitation Engineering";"BIOMEDICAL ENGINEERING";4;4
+BN4301;"Principles Of Tissue Engineering";"BIOMEDICAL ENGINEERING";4;4
+BN4402;Electrophysiology;"BIOMEDICAL ENGINEERING";4;4
+BN4403;"Cellular Bioengineering";"BIOMEDICAL ENGINEERING";4;4
+BN4404;"Bioelectromechanical Systems - Biomems";"BIOMEDICAL ENGINEERING";4;4
+BN4406;"Biophotonics And Bioimaging";"BIOMEDICAL ENGINEERING";4;4
+BN5101;"Engineering Principles In Medicine I";"BIOMEDICAL ENGINEERING";4;5
+BN5102;"ENGINEERING PRINCIPLES IN MEDICINE II";"BIOMEDICAL ENGINEERING";4;5
+BN5104;"QUANTITATIVE PHYSIOLOGY PRINCIPLES IN BIOENGINEERING";"BIOMEDICAL ENGINEERING";4;5
+BN5201;"Advanced Biomaterials";"BIOMEDICAL ENGINEERING";4;5
+BN5203;"ADVANCED TISSUE ENGINEERING";"BIOMEDICAL ENGINEERING";4;5
+BN5205;"COMPUTATIONAL BIOMECHANICS";"BIOMEDICAL ENGINEERING";4;5
+BN5209;"NEUROSENSORS AND SIGNAL PROCESSING";"BIOMEDICAL ENGINEERING";4;5
+BN5501;"The Singapore-Stanford Biodesign Process";"BIOMEDICAL ENGINEERING";4;5
+BN5999;"GRADUATE SEMINARS";"BIOMEDICAL ENGINEERING";4;5
+BN6999;"DOCTORAL SEMINARS";"BIOMEDICAL ENGINEERING";8;6
+BPS5000;Dissertation;BUILDING;8;5
+BPS5101;"Total Building Performance and Integration";BUILDING;4;5
+BPS5102;"Climate Change and the Built Environment";BUILDING;4;5
+BPS5103;"Green Building Integration and Evaluation Studio";BUILDING;8;5
+BPS5201;"Thermal and Indoor Air Quality Performance";BUILDING;4;5
+BPS5202;"Lighting and Acoustics Performance";BUILDING;4;5
+BPS5203;"Structural Systems and Spatial Performance";BUILDING;4;5
+BPS5204;"Energy Efficiency and Renewable Energy in Buildings";BUILDING;4;5
+BPS5205;"Sustainable Construction and Maintainability";BUILDING;4;5
+BPS5206;"Protective Building Technologies";BUILDING;4;5
+BPS5207;"Fire Technology";BUILDING;4;5
+BPS5300;"Topics in Building Performance and Sustainability";BUILDING;4;5
+BRP6551;"GRADUATE RESEARCH SEMINAR 1";"DEAN'S OFFICE (BIZ)";2;6
+BRP6552;"GRADUATE RESEARCH SEMINAR 2";"DEAN'S OFFICE (BIZ)";2;6
+BS5770;"GRADUATE SEMINAR";BUILDING;4;5
+BS6770;"PHD SEMINAR";BUILDING;4;6
+BSP1004;"Legal Environment Of Business";"STRATEGY AND POLICY";4;1
+BSP1004X;"Legal Environment Of Business";"STRATEGY AND POLICY";4;1
+BSP1005;"Managerial Economics";"STRATEGY AND POLICY";4;1
+BSP2001;"Macro And International Economics";"STRATEGY AND POLICY";4;2
+BSP2005;"Asian Business Environments";"STRATEGY AND POLICY";4;2
+BSP3001A;"Strategic Management";"STRATEGY AND POLICY";4;3
+BSP3001B;"Strategic Management";"STRATEGY AND POLICY";4;3
+BSP3001C;"Strategic Management";"STRATEGY AND POLICY";4;3
+BSP3513;"Family Business";"STRATEGY AND POLICY";4;3
+BSP4512;"Global Strategic Management";"STRATEGY AND POLICY";4;4
+BSP4513;"Econometrics: Theory And Practical Business Application";"STRATEGY AND POLICY";4;4
+BT1101;"Introduction to Business Analytics";"INFORMATION SYSTEMS";4;1
+BT5110;"Data Management and Warehousing";"COMPUTER SCIENCE";4;5
+BX5101;"BUSINESS AND THE ENVIRONMENT";"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";4;5
+CDM5101;"Fundamentals of Cancer Biology";"DEAN'S OFFICE (MEDICINE)";4;5
+CDM5102;"Translational Cancer Research";"DEAN'S OFFICE (MEDICINE)";4;5
+CE2112;"Soil Mechanics";"CIVIL & ENVIRONMENTAL ENGINEERING";4;2
+CE2134;Hydraulics;"CIVIL & ENVIRONMENTAL ENGINEERING";4;2
+CE2155;"Structural Mechanics and Materials";"CIVIL & ENVIRONMENTAL ENGINEERING";4;2
+CE2183;"Construction Project Management";"CIVIL & ENVIRONMENTAL ENGINEERING";4;2
+CE2184;"Infrastructure & The Environment";"CIVIL & ENVIRONMENTAL ENGINEERING";4;2
+CE2407;"Engineering & Uncertainty Analyses";"CIVIL & ENVIRONMENTAL ENGINEERING";4;2
+CE2409;"Computer Applications in Civil Engineering";"CIVIL & ENVIRONMENTAL ENGINEERING";4;2
+CE3101;"Integrated Infrastructure Project";"CIVIL & ENVIRONMENTAL ENGINEERING";4;3
+CE3102;"Engineering of Socio-Technical Systems";"CIVIL & ENVIRONMENTAL ENGINEERING";4;3
+CE3115;"Geotechnical Engineering";"CIVIL & ENVIRONMENTAL ENGINEERING";4;3
+CE3116;"Foundation Engineering";"CIVIL & ENVIRONMENTAL ENGINEERING";4;3
+CE3121;"Transportation Engineering";"CIVIL & ENVIRONMENTAL ENGINEERING";4;3
+CE3132;"Water Resources Engineering";"CIVIL & ENVIRONMENTAL ENGINEERING";4;3
+CE3155;"Structural Analysis";"CIVIL & ENVIRONMENTAL ENGINEERING";4;3
+CE3165;"Structural Concrete Design";"CIVIL & ENVIRONMENTAL ENGINEERING";4;3
+CE3166;"Structural Steel Design and System";"CIVIL & ENVIRONMENTAL ENGINEERING";4;3
+CE4103;"Design Project";"CIVIL & ENVIRONMENTAL ENGINEERING";4;4
+CE4104;"B. Eng. Dissertation";"CIVIL & ENVIRONMENTAL ENGINEERING";8;4
+CE4221;"Design of Land Transport Infrastructures";"CIVIL & ENVIRONMENTAL ENGINEERING";4;4
+CE4231;"Earth's Climate: Science & Modelling";"CIVIL & ENVIRONMENTAL ENGINEERING";4;4
+CE4247;"Treatment Plant Hydraulics";"CIVIL & ENVIRONMENTAL ENGINEERING";4;4
+CE4257;"Linear Finite Element Analysis";"CIVIL & ENVIRONMENTAL ENGINEERING";4;4
+CE4258;"Structural Stability & Dynamics";"CIVIL & ENVIRONMENTAL ENGINEERING";4;4
+CE4282;"Building Information Modeling for Project Management";"CIVIL & ENVIRONMENTAL ENGINEERING";4;4
+CE5001;"Research Project";"CIVIL & ENVIRONMENTAL ENGINEERING";8;5
+CE5101;"Seepage & Consolidation of Soils";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5104;"Underground Space";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5105;"Analytical & Numerical Methods In Foundation Engineering";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5106;"Ground Improvement";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5107;"Pile Foundations";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5108;"Earth Retaining Structures";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5111;"UNDERGROUND CONSTRUCTION DESIGN PROJECT";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5112;"Structural Support Systems for Excavation";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5113;"Geotechnical Investigation & Monitoring";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5203;"Traffic Flow & Control";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5205;"Transportation Planning";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5207;"Pavement Network Management Systems";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5307;"Wave Hydrodynamics and Physical Oceanography";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5308;"Coastal Processes & Sediment Transport";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5310;HYDROINFORMATICS;"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5311;"Environmental modelling with computers";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5312;"River Mechanics";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5313;"Groundwater Hydrology";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5314;"HEWRM Project";"CIVIL & ENVIRONMENTAL ENGINEERING";8;5
+CE5509;"Advanced Structural Steel Design";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5510;"Advanced Structural Concrete Design";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5514;"Plate & Shell Structures";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5603;"Engineering Economics & Project Evaluation";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5604;"Advanced Concrete Technology";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5610;"Assessment and Retrofit of Concrete Structures";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5611;"Precast Concrete Technology";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5804;"Global Infrastructure Project Management";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5805;"CONSTRUCTION EQUIPMENT & METHODS";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5806;"Construction Project and Site Control";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5881;"TOPICS IN GEOTECHNICAL ENGINEERING: SOIL DYNAMICS";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5883A;"Topics in Hydraulic & Water Resources - Environmental Hydraulics";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5883B;"Topics in Hydraulic & Water Resources - Modelling Climate Change";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE5999;"GRADUATE SEMINARS";"CIVIL & ENVIRONMENTAL ENGINEERING";4;5
+CE6001;"OPERATIONS & MANAGEMENT OF INFRASTRUCTURE SYSTEMS";"CIVIL & ENVIRONMENTAL ENGINEERING";4;6
+CE6002;"ANALYSIS OF CIVIL ENGINEERING EXPERIMENTS";"CIVIL & ENVIRONMENTAL ENGINEERING";4;6
+CE6003;"NUMERICAL METHODS IN ENGINEERING MECHANICS";"CIVIL & ENVIRONMENTAL ENGINEERING";4;6
+CE6006;"ADVANCED FINITE ELEMENT ANALYSIS";"CIVIL & ENVIRONMENTAL ENGINEERING";4;6
+CE6101;"GEOTECHNICAL CONSTITUTIVE MODELING";"CIVIL & ENVIRONMENTAL ENGINEERING";4;6
+CE6102;"GEOTECHNICAL ANALYSIS";"CIVIL & ENVIRONMENTAL ENGINEERING";4;6
+CE6999;"DOCTORAL SEMINARS";"CIVIL & ENVIRONMENTAL ENGINEERING";8;6
+CG1001;"Introduction to Computer Engineering";"COMPUTING & ENGINEERING";2;1
+CG1108;"Electrical Engineering";"COMPUTING & ENGINEERING";4;1
+CG2271;"Real-Time Operating Systems";"COMPUTING & ENGINEERING";4;2
+CG3002;"Embedded Systems Design Project";"COMPUTING & ENGINEERING";6;3
+CG3204L;"Computer Networks Laboratory";"COMPUTING & ENGINEERING";4;3
+CG3207;"Computer Architecture";"COMPUTING & ENGINEERING";4;3
+CG4001;"B. Eng. Dissertation";"COMPUTING & ENGINEERING";12;4
+CH1101E;"Introduction to Chinese Studies";"CHINESE STUDIES";4;1
+CH2121;"History of Chinese Literature";"CHINESE STUDIES";4;2
+CH2141;"General History of China";"CHINESE STUDIES";4;2
+CH2161;"Traditional Chinese Taxonomy of Learning";"CHINESE STUDIES";4;2
+CH2162;"Reading Classical Chinese Texts";"CHINESE STUDIES";4;2
+CH2223;"Chinese Fiction";"CHINESE STUDIES";4;2
+CH2252;"History of Chinese Philosophy";"CHINESE STUDIES";4;2
+CH2273;"Chinese Media in Singapore: Theory and Practice";"CHINESE STUDIES";4;2
+CH2274;"Discovering the Chinese Business Environment";"CHINESE STUDIES";4;2
+CH2291;"Chinese Tradition (taught in English)";"CHINESE STUDIES";4;2
+CH2297;"Exploring Chinese Cinema: Shanghai-Hong Kong-Singapore";"CHINESE STUDIES";4;2
+CH3221;"Selected Readings in Chinese Verse";"CHINESE STUDIES";4;3
+CH3223;"Selected Authors/Texts II";"CHINESE STUDIES";4;3
+CH3226;"Modern Chinese Literature";"CHINESE STUDIES";4;3
+CH3227;"Chinese Vernacular Stories";"CHINESE STUDIES";4;3
+CH3229;"Modern Literature in Taiwan and Hong Kong";"CHINESE STUDIES";4;3
+CH3243;"Chinese Cultural History";"CHINESE STUDIES";4;3
+CH3245;"Overseas Chinese Society";"CHINESE STUDIES";4;3
+CH3248;"Contemporary China: 1949 to Present";"CHINESE STUDIES";4;3
+CH3255;"Introduction to Chinese Buddhism";"CHINESE STUDIES";4;3
+CH3291;"Contemporary Chinese Culture (taught in English)";"CHINESE STUDIES";4;3
+CH3295;"Understanding China: Past and Present (in English)";"CHINESE STUDIES";4;3
+CH4204;"Selected Topics in Chinese Linguistics";"CHINESE STUDIES";5;4
+CH4224;"Studies in Chinese Verse";"CHINESE STUDIES";5;4
+CH4242;"SELECTED PERIODS OF CHINESE HISTORY I";"CHINESE STUDIES";5;4
+CH4243;"Selected Periods of Chinese History II";"CHINESE STUDIES";5;4
+CH4244;"Selected Topics on The Overseas Chinese";"CHINESE STUDIES";5;4
+CH4247;"Print Culture in Modern China";"CHINESE STUDIES";5;4
+CH4261;"Prescribed Text: Zhuangzi";"CHINESE STUDIES";5;4
+CH4281;"Translation Studies";"CHINESE STUDIES";5;4
+CH4401;"Honours Thesis";"CHINESE STUDIES";15;4
+CH4660;"Independent Study";"CHINESE STUDIES";5;4
+CH4882A;"Personalities in Modern Chinese History";"CHINESE STUDIES";5;4
+CH5212;"THEORIES IN PHONOLOGY (Taught in English)";"CHINESE STUDIES";4;5
+CH5212R;"THEORIES IN PHONOLOGY (TAUGHT IN ENGLISH)";"CHINESE STUDIES";5;5
+CH5213;"Cognitive Linguistics & Chinese Language";"CHINESE STUDIES";4;5
+CH5213R;"Cognitive Linguistics & Chinese Language";"CHINESE STUDIES";5;5
+CH5225;"TOPICS IN SE ASIAN CHINESE LITERATURE";"CHINESE STUDIES";4;5
+CH5225R;"TOPICS IN SE ASIAN CHINESE LITERATURE";"CHINESE STUDIES";5;5
+CH5242;"Selected Texts in Chinese Historiography";"CHINESE STUDIES";4;5
+CH5242R;"Selected Texts in Chinese Hist";"CHINESE STUDIES";5;5
+CH5660;"INDEPENDENT STUDY";"CHINESE STUDIES";4;5
+CH5880;"Topics in Applied Chinese Linguistics";"CHINESE STUDIES";4;5
+CH5880R;"Topics in Applied Chinese Linguistics";"CHINESE STUDIES";5;5
+CH6201;"TOPICS IN CHINESE LINGUISTICS";"CHINESE STUDIES";4;6
+CH6203;"Grammaticalization and Chinese Grammar";"CHINESE STUDIES";4;6
+CH6227;"CULTURE AND SOCIETY THROUGH LITERATURE";"CHINESE STUDIES";4;6
+CH6241;"TOPICS IN CHINESE HISTORY";"CHINESE STUDIES";4;6
+CH6245;"Culture and Society in Chinese History";"CHINESE STUDIES";4;6
+CH6251;"TOPICS IN CHINESE PHILOSOPHY";"CHINESE STUDIES";4;6
+CH6262;"INDEPENDENT STUDY IN CHINESE STUDIES";"CHINESE STUDIES";4;6
+CH6263;"TRANSLATION: FORMAL, CULTURAL, POLITICAL";"CHINESE STUDIES";4;6
+CH6770;"GRADUATE RESEARCH SEMINAR";"CHINESE STUDIES";4;6
+CL1101E;"Introduction to Chinese Language";"CHINESE STUDIES";4;1
+CL2101;"The Chinese Script : History and Issues";"CHINESE STUDIES";4;2
+CL2102;"Chinese Phonetics";"CHINESE STUDIES";4;2
+CL2103;"Chinese Grammar";"CHINESE STUDIES";4;2
+CL2121;"History of Chinese Literature";"CHINESE STUDIES";4;2
+CL2204;"Chinese Semantics";"CHINESE STUDIES";4;2
+CL2241;"General History of China";"CHINESE STUDIES";4;2
+CL2260;"Selected Readings";"CHINESE STUDIES";4;2
+CL2280;"Basic Translation";"CHINESE STUDIES";4;2
+CL2281;"Translation and Interpretation";"CHINESE STUDIES";4;2
+CL2291;"Chinese Anthropolinguistics (taught in English)";"CHINESE STUDIES";4;2
+CL3202;"Chinese Lexicology";"CHINESE STUDIES";4;3
+CL3203;"Chinese Discourse Analysis & Pragmatics";"CHINESE STUDIES";4;3
+CL3205;"Topics on Chinese Linguistics II";"CHINESE STUDIES";4;3
+CL3207;"Chinese Sociolinguistics";"CHINESE STUDIES";4;3
+CL3208;"Chinese Phonology";"CHINESE STUDIES";4;3
+CL3210;"The Grammars and Lexicons of the Chinese Dialects";"CHINESE STUDIES";4;3
+CL3211;"The Standardization of the Chinese Language";"CHINESE STUDIES";4;3
+CL3221;"Selected Readings in Chinese Verse";"CHINESE STUDIES";4;3
+CL3281;"Advanced Translation";"CHINESE STUDIES";4;3
+CM1111;"Inorganic Chemistry 1";CHEMISTRY;4;1
+CM1121;"Organic Chemistry 1";CHEMISTRY;4;1
+CM1131;"Physical Chemistry 1";CHEMISTRY;4;1
+CM1161;"Principles of Chemical Process I";CHEMISTRY;4;1
+CM1191;"Experiments in Chemistry 1";CHEMISTRY;4;1
+CM1401;"Chemistry for Life Sciences";CHEMISTRY;4;1
+CM1402;"General Chemistry";CHEMISTRY;4;1
+CM1417;"Fundamentals of Chemistry";CHEMISTRY;4;1
+CM1501;"Organic Chemistry for Engineers";CHEMISTRY;4;1
+CM1502;"General and Physical Chemistry for Engineers";CHEMISTRY;4;1
+CM2101;"Physical Chemistry 2";CHEMISTRY;4;2
+CM2111;"Inorganic Chemistry 2";CHEMISTRY;4;2
+CM2121;"Organic Chemistry 2";CHEMISTRY;4;2
+CM2142;"Analytical Chemistry 1";CHEMISTRY;4;2
+CM2161;"Principles of Chemical Process II";CHEMISTRY;4;2
+CM2191;"Experiments in Chemistry 2.";CHEMISTRY;4;2
+CM2192;"Experiments in Chemistry 3.";CHEMISTRY;4;2
+CM2192A;"Experiments in Chemistry 3A";CHEMISTRY;2;2
+CM2288;"Basic UROPS in Chemistry I";CHEMISTRY;4;2
+CM2289;"Basic UROPS In Chemistry II";CHEMISTRY;4;2
+CM3181;"Professional Placement Applied Chemistry";CHEMISTRY;8;3
+CM3193;"Industrial Process Laboratory";CHEMISTRY;4;3
+CM3194;"Synthesis and Instrumentation Laboratory";CHEMISTRY;4;3
+CM3211;"Organometallic Chemistry";CHEMISTRY;4;3
+CM3212;"Transition Metal Chemistry";CHEMISTRY;4;3
+CM3221;"Organic Synthesis and Spectroscopy";CHEMISTRY;4;3
+CM3222;"Organic Reaction Mechanisms";CHEMISTRY;4;3
+CM3225;Biomolecules;CHEMISTRY;4;3
+CM3231;"Quantum Chem & Molecular Thermodynamics";CHEMISTRY;4;3
+CM3232;"Phy Chem of the Solid State & Interfaces";CHEMISTRY;4;3
+CM3242;"Instrumental Analysis II";CHEMISTRY;4;3
+CM3251;Nanochemistry;CHEMISTRY;4;3
+CM3252;"Polymer Chemistry 1";CHEMISTRY;4;3
+CM3253;"Materials Chemistry 1";CHEMISTRY;4;3
+CM3261;"Environmental Chemistry";CHEMISTRY;4;3
+CM3262;"Advanced Inorganic Materials";CHEMISTRY;4;3
+CM3264;"Petroleum and Industrial Organics";CHEMISTRY;4;3
+CM3265;"Polymer Chemistry II";CHEMISTRY;4;3
+CM3268;"Molecular Basis of Drug Design";CHEMISTRY;4;3
+CM3288;"Advanced UROPS in Chemistry I";CHEMISTRY;4;3
+CM3289;"Advanced UROPS in Chemistry II";CHEMISTRY;4;3
+CM3291;"Advanced Experiments In Organic & Inorganic Chemistry";CHEMISTRY;4;3
+CM3292;"Advanced Experiments In Analytical & Physical Chemistry";CHEMISTRY;4;3
+CM3295;"Selected Experiments in Analytical Chem.";CHEMISTRY;4;3
+CM3296;"Molecular Modelling: Theory & Practice";CHEMISTRY;4;3
+CM3301;"Advanced Forensic Science";CHEMISTRY;4;3
+CM3302;"Overseas Exploratory Project (Europe)";CHEMISTRY;2;3
+CM3303;"Overseas Exploratory Project (CHINA)";CHEMISTRY;2;3
+CM3311;"Undergraduate Professional Internship";CHEMISTRY;4;3
+CM3312;"Extended Undergraduate Professional Internship";CHEMISTRY;8;3
+CM4199A;"Honours Project in Chemistry";CHEMISTRY;16;4
+CM4199B;"Honours Project in Applied Chemistry";CHEMISTRY;16;4
+CM4201;"DIRECTED INDEPENDENT STUDY IN MODERN CHEMISTRY";CHEMISTRY;4;4
+CM4214;"Structural Methods in Inorganic Chem";CHEMISTRY;4;4
+CM4215;"BIOINORGANIC CHEMISTRY";CHEMISTRY;4;4
+CM4222;"Advanced Organic Synthesis and Spectroscopy";CHEMISTRY;4;4
+CM4227;"Chemical Biology";CHEMISTRY;4;4
+CM4236;"Spectroscopy in Biophysical Chemistry";CHEMISTRY;4;4
+CM4237;"Interfaces and the Liquid State";CHEMISTRY;4;4
+CM4241;"Trace Analysis";CHEMISTRY;4;4
+CM4242;"Advanced Analytical Techniques";CHEMISTRY;4;4
+CM4261;"Surface Science";CHEMISTRY;4;4
+CM4268;"Advanced Polymer Science";CHEMISTRY;4;4
+CM4269;"Sustainable & Green Chemistry";CHEMISTRY;4;4
+CM4271;"MEDICINAL CHEMISTRY";CHEMISTRY;4;4
+CM4273;"Computational Drug Design";CHEMISTRY;4;4
+CM4274;"The Art and Methodology in Total Synthesis";CHEMISTRY;4;4
+CM4282;"Energy Resources";CHEMISTRY;4;4
+CM5100;"M.SC. PROJECT (FOR M.SC. COURSEWORK STUDENTS ONLY)";CHEMISTRY;8;5
+CM5111;"GRADUATE INORGANIC CHEMISTRY";CHEMISTRY;4;5
+CM5121;"GRADUATE ORGANIC CHEMISTRY";CHEMISTRY;4;5
+CM5131;"GRADUATE PHYSICAL CHEMISTRY";CHEMISTRY;4;5
+CM5141;"GRADUATE ANALYTICAL CHEMISTRY";CHEMISTRY;4;5
+CM5198;"Graduate Seminar Module in Chemistry";CHEMISTRY;4;5
+CM5201;"PRACTICAL SYNTHETIC AND ANALYTICAL CHEMISTRY";CHEMISTRY;4;5
+CM5211;"Contemporary Organometallic Chemistry";CHEMISTRY;4;5
+CM5221;"ADVANCED ORGANIC SYNTHESIS";CHEMISTRY;4;5
+CM5223;"Topics in Supramolecular Chemistry";CHEMISTRY;4;5
+CM5224;"Emerging Concepts in Drug Discovery";CHEMISTRY;4;5
+CM5225;"Asymmetric Catalysis";CHEMISTRY;4;5
+CM5237;"Advanced Optical Spectroscopy and Imaging";CHEMISTRY;4;5
+CM5241;"Modern Analytical Techniques";CHEMISTRY;4;5
+CM5243;"X-Ray Crystallography:A Pract'l Approach";CHEMISTRY;4;5
+CM5244;"Topics in Environmental Chemistry";CHEMISTRY;4;5
+CM5245;BIOANALYTICALCHEMISTRY;CHEMISTRY;4;5
+CM5262;"Contemporary Materials Chemistry";CHEMISTRY;4;5
+CM5268;"Advanced Organic Materials";CHEMISTRY;4;5
+CN1111;"Chemical Engineering Principles";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;1
+CN1111E;"Chemical Engineering Principles";"BACHELOR OF TECHNOLOGY PROGRAMME";4;1
+CN1111FC;"Chemical Engineering Principles";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;1
+CN2108;"Chemical Engineering Process Laboratory I";"CHEMICAL & BIOMOLECULAR ENGINEERING";2;2
+CN2116;"Chemical Kinetics & Reactor Design";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;2
+CN2116E;"Chemical Kinetics And Reactor Design";"BACHELOR OF TECHNOLOGY PROGRAMME";4;2
+CN2121;"Chemical Engineering Thermodynamics";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;2
+CN2121E;"Chemical Engineering Thermodynamics";"BACHELOR OF TECHNOLOGY PROGRAMME";4;2
+CN2122;"Fluid Mechanics";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;2
+CN2122E;"Fluid Mechanics";"BACHELOR OF TECHNOLOGY PROGRAMME";4;2
+CN2125;"Heat & Mass Transfer";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;2
+CN2125E;"Heat And Mass Transfer";"BACHELOR OF TECHNOLOGY PROGRAMME";4;2
+CN3108;"Chemical Engineering Process Laboratory II";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;3
+CN3109;"Chemical Engineering Process Laboratory III";"CHEMICAL & BIOMOLECULAR ENGINEERING";2;3
+CN3121;"Process Dynamics & Control";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;3
+CN3121E;"Process Dynamics & Control";"BACHELOR OF TECHNOLOGY PROGRAMME";4;3
+CN3124;"Fluid-Solid Systems";"CHEMICAL & BIOMOLECULAR ENGINEERING";3;3
+CN3124E;"Particle Technology";"BACHELOR OF TECHNOLOGY PROGRAMME";4;3
+CN3132;"Separation Processes";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;3
+CN3132E;"Separation Processes";"BACHELOR OF TECHNOLOGY PROGRAMME";5;3
+CN3135;"Process Safety, Health and Environment";"CHEMICAL & BIOMOLECULAR ENGINEERING";3;3
+CN3135E;"Process Safety, Health and Environment";"BACHELOR OF TECHNOLOGY PROGRAMME";3;3
+CN3421;"Process Modeling And Numerical Simulation";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;3
+CN4118E;"B.Tech. Dissertation";"BACHELOR OF TECHNOLOGY PROGRAMME";10;4
+CN4118R;"B.Eng. Dissertation";"CHEMICAL & BIOMOLECULAR ENGINEERING";10;4
+CN4121;"Design Project";"CHEMICAL & BIOMOLECULAR ENGINEERING";10;4
+CN4122;"Process Synthesis and Simulation";"CHEMICAL & BIOMOLECULAR ENGINEERING";3;4
+CN4122E;"Process Synthesis and Simulation";"BACHELOR OF TECHNOLOGY PROGRAMME";3;4
+CN4123E;"Design Project";"BACHELOR OF TECHNOLOGY PROGRAMME";7;4
+CN4201R;"Petroleum Refining";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4203R;"Polymer Engineering";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4208E;"Biochemical Engineering";"BACHELOR OF TECHNOLOGY PROGRAMME";4;4
+CN4210E;"Membrane Science And Engineering";"BACHELOR OF TECHNOLOGY PROGRAMME";4;4
+CN4211R;"Petrochemicals and Processing Technology";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4215R;"Food Technology and Engineering";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4216R;"Electronic Materials Science";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4217R;"Processing of Microelectronic Materials";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4223R;"Microelectronic Thin Films";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4227E;"Advanced Process Control";"BACHELOR OF TECHNOLOGY PROGRAMME";4;4
+CN4227R;"Advanced Process Control";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4238R;"Chemical & Biochemical Process Modeling";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4240E;"Unit Operations and Processes for Effluent Treatment";"BACHELOR OF TECHNOLOGY PROGRAMME";4;4
+CN4240R;"Processes for Effluent Control";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4245R;"Data Based Process Characterisation";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4246E;"Chemical And Bio-Catalysis";"BACHELOR OF TECHNOLOGY PROGRAMME";4;4
+CN4246R;"Chemical and Bio Catalysis";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4247R;"Enzyme Technology";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4248;"Sustainable Process Development";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN4249;"Engg. Design in Molecular Biotechnology";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;4
+CN5010;"MATHEMATICAL METHODS IN CHEMICAL & ENVIRONMENTAL ENGINEERING";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5020;"ADVANCED REACTION ENGINEERING";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5030;"ADVANCED CHEMICAL ENGINEERING THERMODYNAMICS";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5040;"ADVANCED TRANSPORT PHENOMENA";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5050;"ADVANCED SEPARATION PROCESSES";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5111;"OPTIMIZATION OF CHEMICAL PROCESSES";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5131;"COLLOIDS & SURFACES";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5161;"POLYMER PROCESSING ENGINEERING";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5162;"ADVANCED POLYMERIC MATERIALS";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5172;"BIOCHEMICAL ENGINEERING";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5173;"DOWNSTREAM PROCESSING OF BIOCHEMICAL & PHARMACEUTICAL PRODUCTS";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5192;"Future Fuel Options: Prospects and Technologies";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5193;"INSTRUMENTAL METHODS OF ANALYSIS";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5222;"PHARMACEUTICALS & FINE CHEMICALS";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5251;"Membrane Science & Technology";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5391;"Selected Topics in Advanced Chemical Engineering I";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN5555;"Chemical Engineering Project";"CHEMICAL & BIOMOLECULAR ENGINEERING";8;5
+CN5999;"GRADUATE SEMINARS";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;5
+CN6020;"Advanced Reaction Engineering";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;6
+CN6162;"ADVANCED POLYMERIC MATERIALS";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;6
+CN6163;"Inorganic Nanomaterials for Sustainability";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;6
+CN6251;"MEMBRANE SCIENCE & TECHNOLOGY";"CHEMICAL & BIOMOLECULAR ENGINEERING";4;6
+CN6999;"DOCTORAL SEMINARS";"CHEMICAL & BIOMOLECULAR ENGINEERING";8;6
+CO5102;"PRINCIPLES OF EPIDEMIOLOGY";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5103;"QUANTITATIVE EPIDEMIOLOGIC METHODS";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5104;"HEALTH POLICY AND SYSTEMS";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5201;"CONTROL OF COMMUNICABLE DISEASES";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5202;"Environmental and Occupational Health";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5203;"LIFESTYLE AND BEHAVIOR IN HEALTH AND DISEASE";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5204;"HEALTH ECONOMICS AND FINANCING";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5205;"MANAGEMENT OF HEALTHCARE ORGANIZATIONS";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5208;"MEASURING AND MANAGING QUALITY OF CARE";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5209;"CONTROL OF NON-COMMUNICABLE DISEASES";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5210;PRACTICUM;"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5212;"PLANNING HEALTH PROMOTION PROGRAMS";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5214;"INTRODUCTION TO HEALTH SERVICES RESEARCH";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5215;"Advanced Epidemiology I";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5218;"Advanced Quantitative Methods I";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5219;"CLINICAL EPIDEMIOLOGIC METHODS";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5220;"DESIGN, CONDUCT AND ANALYSIS OF CLINICAL TRIALS";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5222;"Program Evaluation";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5223A;"EPIDEMIOLOGY AND DISEASE CONTROL";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5223F;"Health Promotion";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5223G;"GLOBAL HEALTH PROGRAMS: PLANNING AND EVALUATION";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5224;"Data Collection in Public Health";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5226;"Public Health Communication";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5229;"Nutrition and Health";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5231;"Field Practice";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5305;"Industrial Hygiene";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5306;"PUBLIC HEALTH TOXICOLOGY";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CO5880G;"Special Topics in Global Health";"SAW SWEE HOCK SCHOOL OF PUBLIC HEALTH";4;5
+CP2201;"Journey of the Innovator";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";2;2
+CP3101A;"Global Open Source Project";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";4;3
+CP3101B;"Web Programming and Applications";"COMPUTER SCIENCE";4;3
+CP3106;"Independent Project";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";4;3
+CP3108A;"Independent Work";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";2;3
+CP3108B;"Independent Work";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";4;3
+CP3109;"Overseas Exploratory Project";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";2;3
+CP3200;Internship;"DEAN'S OFFICE (SCHOOL OF COMPUTING)";6;3
+CP3201;"Industry Seminar";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";2;3
+CP3208;"Undergraduate Research in Computing I";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";4;3
+CP3209;"Undergraduate Research in Computing II";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";4;3
+CP3880;"Advanced Technology Attachment Programme";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";12;3
+CP4101;"B.Comp. Dissertation";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";12;4
+CP5010;"Graduate Research Paper";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";0;5
+CP5101;"MComp Dissertation";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";16;5
+CP6010;"Doctoral Seminar";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";0;6
+CS1010;"Programming Methodology";"COMPUTER SCIENCE";4;1
+CS1010E;"Programming Methodology";"COMPUTER SCIENCE";4;1
+CS1010FC;"Programming Methodology";"COMPUTER SCIENCE";4;1
+CS1010R;"Programming Methodology";"COMPUTER SCIENCE";1;1
+CS1010S;"Programming Methodology";"COMPUTER SCIENCE";4;1
+CS1020;"Data Structures and Algorithms I";"COMPUTER SCIENCE";4;1
+CS1020E;"Data Structures and Algorithms I";"COMPUTER SCIENCE";4;1
+CS1101S;"Programming Methodology";"COMPUTER SCIENCE";5;1
+CS1231;"Discrete Structures";"COMPUTER SCIENCE";4;1
+CS1231R;"Discrete Structures";"COMPUTER SCIENCE";1;1
+CS2010;"Data Structures and Algorithms II";"COMPUTER SCIENCE";4;2
+CS2010R;"Data Structures & Algorithms II";"COMPUTER SCIENCE";1;2
+CS2020;"Data Structures and Algorithms Accelerated";"COMPUTER SCIENCE";6;2
+CS2100;"Computer Organisation";"COMPUTER SCIENCE";4;2
+CS2100R;"Computer Organisation";"COMPUTER SCIENCE";1;2
+CS2101;"Effective Communication for Computing Professionals";"CTR FOR ENGLISH LANGUAGE COMMUNICATION";4;2
+CS2102;"Database Systems";"COMPUTER SCIENCE";4;2
+CS2102R;"Database Systems";"COMPUTER SCIENCE";1;2
+CS2103;"Software Engineering";"COMPUTER SCIENCE";4;2
+CS2103R;"Software Engineering";"COMPUTER SCIENCE";1;2
+CS2103T;"Software Engineering";"COMPUTER SCIENCE";4;2
+CS2104;"Programming Language Concepts";"COMPUTER SCIENCE";4;2
+CS2104R;"Programming Language Concepts";"COMPUTER SCIENCE";1;2
+CS2105;"Introduction to Computer Networks";"COMPUTER SCIENCE";4;2
+CS2105R;"Introduction to Computer Networks";"COMPUTER SCIENCE";1;2
+CS2106;"Introduction to Operating Systems";"COMPUTER SCIENCE";4;2
+CS2106R;"Introduction to Operating Systems";"COMPUTER SCIENCE";1;2
+CS2107;"Introduction to Information and System Security";"COMPUTER SCIENCE";4;2
+CS2220;"Introduction to Computational Biology";"COMPUTER SCIENCE";4;2
+CS2309;"CS Research Methodology";"COMPUTER SCIENCE";4;2
+CS3103;"Computer Networks and Protocols";"COMPUTER SCIENCE";4;3
+CS3103L;"Computer Networks Laboratory";"COMPUTER SCIENCE";2;3
+CS3201;"Software Engineering Project I";"COMPUTER SCIENCE";4;3
+CS3202;"Software Engineering Project II";"COMPUTER SCIENCE";4;3
+CS3210;"Parallel Computing";"COMPUTER SCIENCE";4;3
+CS3211;"Parallel and Concurrent Programming";"COMPUTER SCIENCE";4;3
+CS3213;"Software Systems Design";"COMPUTER SCIENCE";4;3
+CS3216;"Software Development on Evolving Platforms";"COMPUTER SCIENCE";5;3
+CS3217;"Software Engineering on Modern Application Platforms";"COMPUTER SCIENCE";5;3
+CS3218;"Multimodal Processing in Mobile Platforms";"COMPUTER SCIENCE";4;3
+CS3223;"Database Systems Implementation";"COMPUTER SCIENCE";4;3
+CS3225;"Combinatorial Methods in Bioinformatics";"COMPUTER SCIENCE";4;3
+CS3230;"Design and Analysis of Algorithms";"COMPUTER SCIENCE";4;3
+CS3230R;"Design and Analysis of Algorithms";"COMPUTER SCIENCE";1;3
+CS3233;"Competitive Programming";"COMPUTER SCIENCE";4;3
+CS3233R;"Competitive Programming";"COMPUTER SCIENCE";1;3
+CS3234;"Logic and Formal Systems";"COMPUTER SCIENCE";4;3
+CS3235;"Computer Security";"COMPUTER SCIENCE";4;3
+CS3236;"Introduction to Information Theory";"COMPUTER SCIENCE";4;3
+CS3240;"Interaction Design";"COMPUTER SCIENCE";4;3
+CS3241;"Computer Graphics";"COMPUTER SCIENCE";4;3
+CS3241R;"Computer Graphics";"COMPUTER SCIENCE";1;3
+CS3242;"3D Modeling and Animation";"COMPUTER SCIENCE";4;3
+CS3243;"Introduction to Artificial Intelligence";"COMPUTER SCIENCE";4;3
+CS3243R;"Introduction to Artificial Intelligence";"COMPUTER SCIENCE";1;3
+CS3244;"Machine Learning";"COMPUTER SCIENCE";4;3
+CS3244R;"Machine Learning";"COMPUTER SCIENCE";1;3
+CS3245;"Information Retrieval";"COMPUTER SCIENCE";4;3
+CS3246;"Multimedia Content Analysis and Search";"COMPUTER SCIENCE";4;3
+CS3246R;"Hypermedia and World Wide Web";"COMPUTER SCIENCE";1;3
+CS3247;"Game Development";"COMPUTER SCIENCE";4;3
+CS3249;"User Interface Development";"COMPUTER SCIENCE";4;3
+CS3281;"Thematic Systems Project I";"COMPUTER SCIENCE";4;3
+CS3281R;"Thematic Systems Project I";"COMPUTER SCIENCE";1;3
+CS3282;"Thematic Systems Project II";"COMPUTER SCIENCE";4;3
+CS3282R;"Thematic Systems Project II";"COMPUTER SCIENCE";1;3
+CS3283;"Media Technology Project I";"COMPUTER SCIENCE";4;3
+CS3284;"Media Technology Project II";"COMPUTER SCIENCE";4;3
+CS3343;"Digital Media Production";"COMPUTER SCIENCE";4;3
+CS3882;"Breakthrough Ideas for Digital Markets";"COMPUTER SCIENCE";4;3
+CS4211;"Formal Methods for Software Engineering";"COMPUTER SCIENCE";4;4
+CS4212;"Compiler Design";"COMPUTER SCIENCE";4;4
+CS4215;"Programming Language Implementation";"COMPUTER SCIENCE";4;4
+CS4218;"Software Testing and Debugging";"COMPUTER SCIENCE";4;4
+CS4220;"Knowledge Discovery Methods in Bioinformatics";"COMPUTER SCIENCE";4;4
+CS4220R;"Knowledge Discovery Methods in Bioinformatics";"COMPUTER SCIENCE";1;4
+CS4221;"Database Design";"COMPUTER SCIENCE";4;4
+CS4222;"Wireless Computing and Sensor Networks";"COMPUTER SCIENCE";4;4
+CS4223;"Multi-core Architectures";"COMPUTER SCIENCE";4;4
+CS4224;"Distributed Databases";"COMPUTER SCIENCE";4;4
+CS4231;"Parallel and Distributed Algorithms";"COMPUTER SCIENCE";4;4
+CS4232;"Theory of Computation";"COMPUTER SCIENCE";4;4
+CS4236;"Cryptography Theory and Practice";"COMPUTER SCIENCE";4;4
+CS4238;"Computer Security Practice";"COMPUTER SCIENCE";4;4
+CS4242;"Social Media Computing";"COMPUTER SCIENCE";4;4
+CS4243;"Computer Vision and Pattern Recognition";"COMPUTER SCIENCE";4;4
+CS4243R;"Computer Vision and Pattern Recognition";"COMPUTER SCIENCE";1;4
+CS4244;"Knowledge-Based Systems";"COMPUTER SCIENCE";4;4
+CS4246;"AI Planning and Decision Making";"COMPUTER SCIENCE";4;4
+CS4246R;"AI Planning and Decision Making";"COMPUTER SCIENCE";1;4
+CS4247;"Graphics Rendering Techniques";"COMPUTER SCIENCE";4;4
+CS4248;"Natural Language Processing";"COMPUTER SCIENCE";4;4
+CS4248R;"Natural Language Processing";"COMPUTER SCIENCE";1;4
+CS4249;"Phenomena and Theories of Human-Computer Interaction";"COMPUTER SCIENCE";4;4
+CS4274;"Mobile and Multimedia Networking";"COMPUTER SCIENCE";4;4
+CS4340;"Digital Special Effects";"COMPUTER SCIENCE";4;4
+CS4344;"Networked and Mobile Gaming";"COMPUTER SCIENCE";4;4
+CS4345;"General-Purpose Computation on GPU";"COMPUTER SCIENCE";4;4
+CS4347;"Sound and Music Computing";"COMPUTER SCIENCE";4;4
+CS4880;"Digital Entrepreneurship";"DEAN'S OFFICE (SCHOOL OF COMPUTING)";4;4
+CS5201;"Foundation in Theoretical CS";"COMPUTER SCIENCE";0;5
+CS5202;"Foundation in Computer Systems";"COMPUTER SCIENCE";0;5
+CS5214;"Design of Optimising Compilers";"COMPUTER SCIENCE";4;5
+CS5215;"Constraint Programming";"COMPUTER SCIENCE";4;5
+CS5218;"Principles of Program Analysis";"COMPUTER SCIENCE";4;5
+CS5222;"Advanced Computer Architecture";"COMPUTER SCIENCE";4;5
+CS5223;"Distributed Systems";"COMPUTER SCIENCE";4;5
+CS5224;"Cloud Computing";"COMPUTER SCIENCE";4;5
+CS5228;"Knowledge Discovery and Data Mining";"COMPUTER SCIENCE";4;5
+CS5229;"Advanced Computer Networks";"COMPUTER SCIENCE";4;5
+CS5230;"Computational Complexity";"COMPUTER SCIENCE";4;5
+CS5231;"Systems Security";"COMPUTER SCIENCE";4;5
+CS5232;"Formal Specification and Design Techniques";"COMPUTER SCIENCE";4;5
+CS5233;"Simulation and Modelling Techniques";"COMPUTER SCIENCE";4;5
+CS5234;"COMBINATORIAL AND GRAPH ALGORITHMS";"COMPUTER SCIENCE";4;5
+CS5237;"Computational Geometry and Applications";"COMPUTER SCIENCE";4;5
+CS5240;"Theoretical Foundations in MultiMedia";"COMPUTER SCIENCE";4;5
+CS5241;"Speech Processing";"COMPUTER SCIENCE";4;5
+CS5249;"Audio in Multimedia Systems";"COMPUTER SCIENCE";4;5
+CS5272;"Embedded Software Design";"COMPUTER SCIENCE";4;5
+CS5321;"Network Security and Management";"COMPUTER SCIENCE";4;5
+CS5331;"Web Security";"COMPUTER SCIENCE";4;5
+CS5340;"Uncertainty Modelling in AI";"COMPUTER SCIENCE";4;5
+CS5342;"Multimedia Computing and Applications";"COMPUTER SCIENCE";4;5
+CS5344;"Big-Data Analytics Technology";"COMPUTER SCIENCE";4;5
+CS5351;"The Business of Software";"INFORMATION SYSTEMS";4;5
+CS6101;"Exploration of Computer Science Research";"COMPUTER SCIENCE";4;6
+CS6204;"Advanced Topics in Networking";"COMPUTER SCIENCE";4;6
+CS6205;"Advanced Modelling & Simulation";"COMPUTER SCIENCE";4;6
+CS6207;"Advanced Natural Language Processing";"COMPUTER SCIENCE";4;6
+CS6208;"Advanced Topics in Artificial Intelligence";"COMPUTER SCIENCE";4;6
+CS6210;"The Art of Computer Science Research";"COMPUTER SCIENCE";4;6
+CS6220;"Advanced Topics in Data Mining";"COMPUTER SCIENCE";4;6
+CS6221;"Modeling and Analysis Techniques in Systems Biology";"COMPUTER SCIENCE";4;6
+CS6231;"Topics in System Security";"COMPUTER SCIENCE";4;6
+CS6234;"Advanced Algorithms";"COMPUTER SCIENCE";4;6
+CS6241;"Advanced Topics in Computer Graphics";"COMPUTER SCIENCE";4;6
+CSA6101;"CULTURAL STUDIES THEORY AND ANALYSIS";"DEAN'S OFFICE (ARTS & SOCIAL SC.)";4;6
+CSA6770;"Graduate Research Seminar";SOCIOLOGY;4;6
+CSA6880;"Topics in Cultural Studies in Asia";"DEAN'S OFFICE (ARTS & SOCIAL SC.)";4;6
+CZ5225;"MODELING AND SIMULATION IN BIOLOGY";PHARMACY;4;5
+CZ5226;"Advanced Bioinformatics";PHARMACY;4;5
+DE4201;"Seminars in Sustainable Cities";"REAL ESTATE";4;4
+DE5106;"Environmental Management And Assessment";"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";4;5
+DE5107;"Environmental Planning";"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";4;5
+DE5108;"STUDY REPORT";"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";6;5
+DE5109;DISSERTATION;"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";10;5
+DEP5101;"Urban Analysis Workshop";"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";4;5
+DEP5101A;"Qualitative Methods for Urban Planning";"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";4;5
+DEP5102;"Urban Planning History & Theory";"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";4;5
+DEP5103;"Urban Planning Studio";"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";4;5
+DEP5103A;"Quantitative Methods for Urban Planning";"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";4;5
+DEP5104;"Urban and Regional Economics";"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";4;5
+DEP5105;"Urban Infrastructure and Mobility Systems";"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";4;5
+DEP5106;"Integrated Urban Planning Studio";"DEAN'S OFFICE (SCHOOL OF DESIGN & ENV)";8;5
+DI5100;"Dental Implantology";DENTISTRY;1;5
+DSC1007;"Business Analytics - Models & Decisions";"DECISION SCIENCES";4;1
+DSC1007X;"Business Analytics - Models & Decisions";"DECISION SCIENCES";4;1
+DSC2006;"Operations Management";"DECISION SCIENCES";4;2
+DSC2008;"Business Analytics - Data & Decisions";"DECISION SCIENCES";4;2
+DSC3201;"Supply Chain Management";"DECISION SCIENCES";4;3
+DSC3202;"Purchasing And Materials Management";"DECISION SCIENCES";4;3
+DSC3203;"Service Operations Management";"DECISION SCIENCES";4;3
+DSC3213;"Strategic Information Systems";"DECISION SCIENCES";4;3
+DSC3214;"Introduction To Optimisation";"DECISION SCIENCES";4;3
+DSC3215;"Stochastic Models In Management";"DECISION SCIENCES";4;3
+DSC3216;"Forecasting For Managerial Decisions";"DECISION SCIENCES";4;3
+DSC3218;"Physical Distribution Management";"DECISION SCIENCES";4;3
+DSC3222M;"TIOSCM: Business Practicum";"DECISION SCIENCES";4;3
+DSC3224;"Dynamic Pricing & Revenue Management";"DECISION SCIENCES";4;3
+DSC3226;"Sustainable Operations Management";"DECISION SCIENCES";4;3
+DSC3229;"Independent Study in Ops & Supply Chain Mgt";"DECISION SCIENCES";4;3
+DSC4211C;"SIOSCM: OPERATIONS STRATEGY";"DECISION SCIENCES";4;4
+DSC4211G;"SIOSCM: Service Design";"DECISION SCIENCES";4;4
+DSC4213;"Analytical Tools for Consulting";"DECISION SCIENCES";4;4
+DSC4219;"Advanced Independent Study in Ops & Supply Chain Mgt";"DECISION SCIENCES";4;4
+DSC5101;"Analytics in Managerial Economics";"DECISION SCIENCES";4;5
+DSC5102;"Business Analytics Capstone Project";"DECISION SCIENCES";12;5
+DSC5103;STATISTICS;"DECISION SCIENCES";4;5
+DSC5121;"Hands-on with Business Analytics (Supply Chain & Finance)";"DECISION SCIENCES";4;5
+DSC5211A;"Supply Chain Coordination and Risk Management";"DECISION SCIENCES";4;5
+DSC5211B;"Analytical Tools for Consulting";"DECISION SCIENCES";4;5
+DSC5211C;"Quantitative Risk Management";"DECISION SCIENCES";4;5
+DTS5701;"LARGE SCALE SYSTEMS ENGINEERING";"TEMASEK DEFENCE SYSTEMS INSTITUTE";4;5
+DTS5702;"C3 SYSTEMS";"TEMASEK DEFENCE SYSTEMS INSTITUTE";4;5
+DTS5703;"OPERATIONS RESEARCH";"TEMASEK DEFENCE SYSTEMS INSTITUTE";4;5
+DTS5704;"INTEGRATED LOGISTICS SUPPORT";"TEMASEK DEFENCE SYSTEMS INSTITUTE";4;5
+DTS5705;"GUIDED WEAPONS";"TEMASEK DEFENCE SYSTEMS INSTITUTE";4;5
+DTS5707;"MODELLING AND SIMULATION";"TEMASEK DEFENCE SYSTEMS INSTITUTE";4;5
+DTS5708;SURVIVABILITY;"TEMASEK DEFENCE SYSTEMS INSTITUTE";4;5
+DTS5709;"SENSOR TECHNOLOGY AND SYSTEMS";"TEMASEK DEFENCE SYSTEMS INSTITUTE";4;5
+DTS5714;"INTERACTIVE SIMULATION SYSTEMS";"TEMASEK DEFENCE SYSTEMS INSTITUTE";4;5
+DTS5715;"INFORMATION ASSURANCE";"TEMASEK DEFENCE SYSTEMS INSTITUTE";4;5
+DTS5716;"Systems Approach to Engineering Management";"TEMASEK DEFENCE SYSTEMS INSTITUTE";4;5
+DY5190;"Graduate Seminar module";DENTISTRY;0;5
+DY5310;Endodontics;"DIVISION OF GRADUATE DENTAL STUDIES";0;5
+DY5320;"Oral & Maxillofacial Surgery";"DIVISION OF GRADUATE DENTAL STUDIES";0;5
+DY5330;Orthodontics;"DIVISION OF GRADUATE DENTAL STUDIES";0;5
+DY5340;Periodontology;"DIVISION OF GRADUATE DENTAL STUDIES";0;5
+DY5350;Prosthodontics;"DIVISION OF GRADUATE DENTAL STUDIES";0;5
+EB5101;"Foundations of Business Analytics";"INSTITUTE OF SYSTEMS SCIENCE";8;5
+EB5103;"Advanced Analytics";"INSTITUTE OF SYSTEMS SCIENCE";8;5
+EB5105;"Enterprise Business Analytics Project";"INSTITUTE OF SYSTEMS SCIENCE";12;5
+EB5201;"Campaign Management";"INSTITUTE OF SYSTEMS SCIENCE";3;5
+EB5203;"Customer Relationship Management";"INSTITUTE OF SYSTEMS SCIENCE";3;5
+EC1101E;"Introduction to Economic Analysis";ECONOMICS;4;1
+EC1301;"Principles of Economics";ECONOMICS;4;1
+EC2101;"Microeconomic Analysis I";ECONOMICS;4;2
+EC2102;"Macroeconomic Analysis I";ECONOMICS;4;2
+EC2104;"Quantitative Methods for Economic Analysis";ECONOMICS;4;2
+EC2303;"Foundations for Econometrics";ECONOMICS;4;2
+EC2373;"Global Economic Dimensions of Singapore";ECONOMICS;4;2
+EC2374;"Economy of Modern China I";ECONOMICS;4;2
+EC3101;"Microeconomic Analysis II";ECONOMICS;4;3
+EC3102;"Macroeconomic Analysis II";ECONOMICS;4;3
+EC3303;"Econometrics I";ECONOMICS;4;3
+EC3304;"Econometrics II";ECONOMICS;4;3
+EC3312;"Game Theory & Applications to Economics";ECONOMICS;4;3
+EC3314;"Mathematical Economics";ECONOMICS;4;3
+EC3322;"Industrial Organisation I";ECONOMICS;4;3
+EC3332;"Money and Banking I";ECONOMICS;4;3
+EC3333;"Financial Economics I";ECONOMICS;4;3
+EC3341;"International Economics I";ECONOMICS;4;3
+EC3351;"Public Finance";ECONOMICS;4;3
+EC3352;"Seminar in Singapore's Economic Policy";ECONOMICS;4;3
+EC3353;"Health Economics I";ECONOMICS;4;3
+EC3361;"Labour Economics I";ECONOMICS;4;3
+EC3371;"Development Economics I";ECONOMICS;4;3
+EC3373;"Asean Economies";ECONOMICS;4;3
+EC3375;"Economy and Business of Japan and Korea";ECONOMICS;4;3
+EC3376;"European Economic Integration";ECONOMICS;4;3
+EC3377;"Global Economic History";ECONOMICS;4;3
+EC3381;"Urban Economics";ECONOMICS;4;3
+EC3382;"Transport Economics I";ECONOMICS;4;3
+EC3383;"Environmental Economics";ECONOMICS;4;3
+EC3384;"Resource and Energy Economics I";ECONOMICS;4;3
+EC3394;"Economics and Psychology";ECONOMICS;4;3
+EC3395;"Economics and Ethics";ECONOMICS;4;3
+EC3396;"Economic Analysis of Law I";ECONOMICS;4;3
+EC3551;"FASS Undergraduate Research Opportunity (UROP)";ECONOMICS;4;3
+EC3880;"Topics in Economics";ECONOMICS;4;3
+EC3880B;"Topics in Economics: Economics of Ageing";ECONOMICS;4;3
+EC4101;"Microeconomic Analysis III";ECONOMICS;5;4
+EC4102;"Macroeconomic Analysis III";ECONOMICS;5;4
+EC4303;"Econometrics III";ECONOMICS;5;4
+EC4324;"Economics of Competition Policy";ECONOMICS;5;4
+EC4332;"Money and Banking II";ECONOMICS;5;4
+EC4333;"Financial Economics II";ECONOMICS;5;4
+EC4341;"International Economics II";ECONOMICS;5;4
+EC4351;"Public Economics";ECONOMICS;5;4
+EC4361;"Labour Economics II";ECONOMICS;5;4
+EC4371;"Development Economics II";ECONOMICS;5;4
+EC4372;"Technology and Innovation";ECONOMICS;5;4
+EC4394;"Behavioural Economics";ECONOMICS;5;4
+EC4396;"Economic Analysis of Law II";ECONOMICS;5;4
+EC4401;"Honours Thesis";ECONOMICS;15;4
+EC4660;"Independent Study";ECONOMICS;5;4
+EC4880;"Topics in Economics";ECONOMICS;5;4
+EC5101;"MICROECONOMIC THEORY";ECONOMICS;4;5
+EC5102;"MACROECONOMIC THEORY";ECONOMICS;4;5
+EC5103;"ECONOMETRIC MODELLING AND APPLICATIONS I";ECONOMICS;4;5
+EC5104;"Mathematical Economics";ECONOMICS;4;5
+EC5104R;"Mathematical Economics";ECONOMICS;5;5
+EC5314;"TIME SERIES ANALYSIS";ECONOMICS;4;5
+EC5322;"Industrial Organisation";ECONOMICS;4;5
+EC5322R;"Industrial Organisation";ECONOMICS;5;5
+EC5326;"Policy Impact Evaluation Methods";ECONOMICS;4;5
+EC5326R;"Policy Impact Evaluation Methods";ECONOMICS;5;5
+EC5332;"Money & Banking";ECONOMICS;4;5
+EC5332R;"Money & Banking";ECONOMICS;5;5
+EC5342;"International Trade";ECONOMICS;4;5
+EC5352;"Public Economics";ECONOMICS;4;5
+EC5361;"LABOUR ECONOMICS";ECONOMICS;4;5
+EC5660;"INDEPENDENT STUDY";ECONOMICS;4;5
+EC5880;"Topics in Economics";ECONOMICS;4;5
+EC5880R;"Topics in Economics";ECONOMICS;5;5
+EC5883;"Topics in Applied Economics";ECONOMICS;4;5
+EC6101;"ADVANCED MICROECONOMIC THEORY";ECONOMICS;4;6
+EC6102;"ADVANCED MACROECONOMIC THEORY";ECONOMICS;4;6
+EC6103;"ECONOMETRIC MODELLING AND APPLICATIONS II";ECONOMICS;4;6
+EC6104;"ADVANCED MATHEMATICAL ECONOMICS";ECONOMICS;4;6
+EC6312;"Advanced Game Theory";ECONOMICS;4;6
+EC6316;"Contract Theory and Applications";ECONOMICS;4;6
