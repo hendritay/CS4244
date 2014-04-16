@@ -47,7 +47,7 @@ namespace CS4244
                     collection.Add(code + " " + name);
                 }
 
-                query = "Select distinct Tag from ModuleTag";
+                query = "Select distinct ModuleTag from ModuleTag";
                 command = new SQLiteCommand(query, con);
                 reader = command.ExecuteReader();
 
