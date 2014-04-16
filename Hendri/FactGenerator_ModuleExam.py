@@ -16,7 +16,7 @@ for row in table:
 	
 	print "([exam" + ModuleCode +"] of EXAM "	
 	print "(moduleid  " + row["ModuleCode"] +")"
-	print "(exam-time " + row["ExamTime"].replace(" ", "") +")"
+	print "(exam-time " + row["ExamTime"].replace(" ", "").replace(":", "") +")"
 	print "(exam-date " + row["ExamDate"] +")"
 	print ")"
 	

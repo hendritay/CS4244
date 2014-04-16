@@ -22,7 +22,7 @@ for row in table:
 	print "([mod" + ModuleCode +"] of MODULE "	
 	print "(moduleid  " + row["ModuleCode"] +")"
 	print "(mc " + str(row["ModuleCredit"]) +")"
-	print "(modulelevel " + str(row["ModuleCredit"]) +")"
+	print "(modulelevel " + str(row["ModuleLevel"]) +")"
 	print "(moduletype " 
 	
 	if ModuleCode[0:2].upper() == "GE":
