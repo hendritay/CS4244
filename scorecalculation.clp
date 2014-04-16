@@ -23,4 +23,12 @@
  ( [InterestedTagCompScience] of INTERESTEDTAG
     (tag COMPUTER_SCIENCE)
  )
+ 
+ ( allmodFNA1002 of ALLMODULE (moduleid FNA1002))
+	
+	( allmodFNA1002 of ELIGIBLEMODULE (moduleid ACC1002))
+	
+	( eligiblemoduleSSA1201 of ELIGIBLEMODULE (moduleid SSA1203))
+(eligiblemoduleSSA1207 of ELIGIBLEMODULE (moduleid SSA1207))
+( eligiblemoduleSSA1201 of ELIGIBLEMODULE (moduleid SSA2204))
  )

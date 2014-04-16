@@ -8,7 +8,7 @@
 
 ; The alreadyprecludelist means that we can not take already. 
 
-(defrule RemoveAndCreateEligibleModuleFromPrereqModule
+(defrule MODULESELECTION::RemoveAndCreateEligibleModuleFromPrereqModule
 	  (object (is-a ALLMODULE) (moduleid ?somemodule))	  
 	  ?objmodule <- (object (is-a MODULEPREQ) (modulepreq $? ?somemodule $?) (moduleid ?moduleid))
 	  

@@ -1,7 +1,7 @@
 ; For every preclusion it has, it can no longer become eligible module
 ; and there is 
 
-(defrule ModulePreclusionRule
+(defrule MODULESELECTION::ModulePreclusionRule
 	  (object (is-a ALLMODULE) (moduleid ?somemodule))
 	  ?objmodule <- (object (is-a MODULEPRECLUDE) (moduleidpreclusion ?somemodule))
 	=>   
@@ -23,6 +23,4 @@
 	)
 
 	
-	(make-instance allmodFNA1002 of ALLMODULE (moduleid FNA1002))
 	
-	(make-instance allmodFNA1002 of ELIGIBLEMODULE (moduleid ACC1002))

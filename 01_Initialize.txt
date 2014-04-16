@@ -59,7 +59,7 @@
     (send ?module put-moduletagscore (+ ?currentscore ?score))
  )
  ; not interested module
- (defrule INITIALIZE::rule_interestedmodule
+ (defrule INITIALIZE::notrule_interestedmodule
    (object (is-a NOTINTERESTEDMODULE) (moduleid ?moduleid))
    (object (is-a SCORE) (notinterestedmodule ?score))
    ?module <- (object (is-a MODULE) (moduleid ?moduleid))

@@ -26232,3 +26232,815 @@
 (moduleoption 1)
 )
 )
+(definstances TIMETABLE::MODULETIMEOPTIONLIST
+([optionV1] of MODULEOPTION 
+(option V1)
+)
+([optionX1] of MODULEOPTION 
+(option X1)
+)
+([optionX2] of MODULEOPTION 
+(option X2)
+)
+([optionJ1] of MODULEOPTION 
+(option J1)
+)
+([optionK1] of MODULEOPTION 
+(option K1)
+)
+([optionK2] of MODULEOPTION 
+(option K2)
+)
+([optionA1] of MODULEOPTION 
+(option A1)
+)
+([optionA2] of MODULEOPTION 
+(option A2)
+)
+([optionA3] of MODULEOPTION 
+(option A3)
+)
+([optionB1] of MODULEOPTION 
+(option B1)
+)
+([optionB2] of MODULEOPTION 
+(option B2)
+)
+([optionB3] of MODULEOPTION 
+(option B3)
+)
+([optionC1] of MODULEOPTION 
+(option C1)
+)
+([optionC2] of MODULEOPTION 
+(option C2)
+)
+([optionC3] of MODULEOPTION 
+(option C3)
+)
+([optionD1] of MODULEOPTION 
+(option D1)
+)
+([optionD2] of MODULEOPTION 
+(option D2)
+)
+([optionD3] of MODULEOPTION 
+(option D3)
+)
+([optionE1] of MODULEOPTION 
+(option E1)
+)
+([optionE2] of MODULEOPTION 
+(option E2)
+)
+([optionE3] of MODULEOPTION 
+(option E3)
+)
+([optionJX] of MODULEOPTION 
+(option JX)
+)
+([optionK3] of MODULEOPTION 
+(option K3)
+)
+([optionF4] of MODULEOPTION 
+(option F4)
+)
+([optionF5] of MODULEOPTION 
+(option F5)
+)
+([optionF6] of MODULEOPTION 
+(option F6)
+)
+([optionH4] of MODULEOPTION 
+(option H4)
+)
+([optionH5] of MODULEOPTION 
+(option H5)
+)
+([optionH6] of MODULEOPTION 
+(option H6)
+)
+([optionG1] of MODULEOPTION 
+(option G1)
+)
+([optionG2] of MODULEOPTION 
+(option G2)
+)
+([optionG3] of MODULEOPTION 
+(option G3)
+)
+([optionM4] of MODULEOPTION 
+(option M4)
+)
+([optionM5] of MODULEOPTION 
+(option M5)
+)
+([optionM6] of MODULEOPTION 
+(option M6)
+)
+([optionL1] of MODULEOPTION 
+(option L1)
+)
+([option1] of MODULEOPTION 
+(option 1)
+)
+([optionA4] of MODULEOPTION 
+(option A4)
+)
+([optionA5] of MODULEOPTION 
+(option A5)
+)
+([optionA6] of MODULEOPTION 
+(option A6)
+)
+([optionA7] of MODULEOPTION 
+(option A7)
+)
+([optionA8] of MODULEOPTION 
+(option A8)
+)
+([optionY1] of MODULEOPTION 
+(option Y1)
+)
+([optionB4] of MODULEOPTION 
+(option B4)
+)
+([optionC5] of MODULEOPTION 
+(option C5)
+)
+([optionC6] of MODULEOPTION 
+(option C6)
+)
+([optionC7] of MODULEOPTION 
+(option C7)
+)
+([optionPRJ] of MODULEOPTION 
+(option PRJ)
+)
+([optionALL] of MODULEOPTION 
+(option ALL)
+)
+([optionSL1] of MODULEOPTION 
+(option SL1)
+)
+([optionSL2] of MODULEOPTION 
+(option SL2)
+)
+([option2] of MODULEOPTION 
+(option 2)
+)
+([option3] of MODULEOPTION 
+(option 3)
+)
+([option4] of MODULEOPTION 
+(option 4)
+)
+([option5] of MODULEOPTION 
+(option 5)
+)
+([option6] of MODULEOPTION 
+(option 6)
+)
+([option7] of MODULEOPTION 
+(option 7)
+)
+([optionB5] of MODULEOPTION 
+(option B5)
+)
+([optionB6] of MODULEOPTION 
+(option B6)
+)
+([optionB7] of MODULEOPTION 
+(option B7)
+)
+([optionB8] of MODULEOPTION 
+(option B8)
+)
+([optionQ1] of MODULEOPTION 
+(option Q1)
+)
+([optionF1] of MODULEOPTION 
+(option F1)
+)
+([optionF2] of MODULEOPTION 
+(option F2)
+)
+([optionW1] of MODULEOPTION 
+(option W1)
+)
+([optionL2] of MODULEOPTION 
+(option L2)
+)
+([optionR1] of MODULEOPTION 
+(option R1)
+)
+([optionP1] of MODULEOPTION 
+(option P1)
+)
+([optionZ1] of MODULEOPTION 
+(option Z1)
+)
+([optionH1] of MODULEOPTION 
+(option H1)
+)
+([optionL3] of MODULEOPTION 
+(option L3)
+)
+([optionS1] of MODULEOPTION 
+(option S1)
+)
+([optionS2] of MODULEOPTION 
+(option S2)
+)
+([optionA01] of MODULEOPTION 
+(option A01)
+)
+([optionA02] of MODULEOPTION 
+(option A02)
+)
+([optionA03] of MODULEOPTION 
+(option A03)
+)
+([optionA04] of MODULEOPTION 
+(option A04)
+)
+([optionA05] of MODULEOPTION 
+(option A05)
+)
+([optionA06] of MODULEOPTION 
+(option A06)
+)
+([optionB01] of MODULEOPTION 
+(option B01)
+)
+([optionB02] of MODULEOPTION 
+(option B02)
+)
+([optionC01] of MODULEOPTION 
+(option C01)
+)
+([optionC02] of MODULEOPTION 
+(option C02)
+)
+([optionC03] of MODULEOPTION 
+(option C03)
+)
+([optionC04] of MODULEOPTION 
+(option C04)
+)
+([optionC05] of MODULEOPTION 
+(option C05)
+)
+([optionC06] of MODULEOPTION 
+(option C06)
+)
+([optionD01] of MODULEOPTION 
+(option D01)
+)
+([optionD02] of MODULEOPTION 
+(option D02)
+)
+([optionD08] of MODULEOPTION 
+(option D08)
+)
+([optionE05] of MODULEOPTION 
+(option E05)
+)
+([optionE07] of MODULEOPTION 
+(option E07)
+)
+([optionE08] of MODULEOPTION 
+(option E08)
+)
+([optionE09] of MODULEOPTION 
+(option E09)
+)
+([optionE10] of MODULEOPTION 
+(option E10)
+)
+([optionE11] of MODULEOPTION 
+(option E11)
+)
+([optionE12] of MODULEOPTION 
+(option E12)
+)
+([optionE14] of MODULEOPTION 
+(option E14)
+)
+([optionE15] of MODULEOPTION 
+(option E15)
+)
+([optionE16] of MODULEOPTION 
+(option E16)
+)
+([optionE17] of MODULEOPTION 
+(option E17)
+)
+([optionE18] of MODULEOPTION 
+(option E18)
+)
+([optionE19] of MODULEOPTION 
+(option E19)
+)
+([optionS01] of MODULEOPTION 
+(option S01)
+)
+([optionS02] of MODULEOPTION 
+(option S02)
+)
+([optionS03] of MODULEOPTION 
+(option S03)
+)
+([optionS04] of MODULEOPTION 
+(option S04)
+)
+([optionS05] of MODULEOPTION 
+(option S05)
+)
+([optionS06] of MODULEOPTION 
+(option S06)
+)
+([optionS07] of MODULEOPTION 
+(option S07)
+)
+([optionS08] of MODULEOPTION 
+(option S08)
+)
+([optionS09] of MODULEOPTION 
+(option S09)
+)
+([optionS10] of MODULEOPTION 
+(option S10)
+)
+([optionE01] of MODULEOPTION 
+(option E01)
+)
+([optionE02] of MODULEOPTION 
+(option E02)
+)
+([optionE03] of MODULEOPTION 
+(option E03)
+)
+([optionE04] of MODULEOPTION 
+(option E04)
+)
+([optionE06] of MODULEOPTION 
+(option E06)
+)
+([optionE13] of MODULEOPTION 
+(option E13)
+)
+([optionE20] of MODULEOPTION 
+(option E20)
+)
+([optionE21] of MODULEOPTION 
+(option E21)
+)
+([optionE22] of MODULEOPTION 
+(option E22)
+)
+([optionE23] of MODULEOPTION 
+(option E23)
+)
+([optionE24] of MODULEOPTION 
+(option E24)
+)
+([optionE25] of MODULEOPTION 
+(option E25)
+)
+([optionE26] of MODULEOPTION 
+(option E26)
+)
+([optionE27] of MODULEOPTION 
+(option E27)
+)
+([optionE28] of MODULEOPTION 
+(option E28)
+)
+([optionE29] of MODULEOPTION 
+(option E29)
+)
+([optionE30] of MODULEOPTION 
+(option E30)
+)
+([optionE31] of MODULEOPTION 
+(option E31)
+)
+([optionE32] of MODULEOPTION 
+(option E32)
+)
+([optionE33] of MODULEOPTION 
+(option E33)
+)
+([optionE34] of MODULEOPTION 
+(option E34)
+)
+([optionE35] of MODULEOPTION 
+(option E35)
+)
+([optionE36] of MODULEOPTION 
+(option E36)
+)
+([optionE37] of MODULEOPTION 
+(option E37)
+)
+([optionCA1] of MODULEOPTION 
+(option CA1)
+)
+([optionCA2] of MODULEOPTION 
+(option CA2)
+)
+([optionCA3] of MODULEOPTION 
+(option CA3)
+)
+([optionCB3] of MODULEOPTION 
+(option CB3)
+)
+([optionFS1] of MODULEOPTION 
+(option FS1)
+)
+([optionFS2] of MODULEOPTION 
+(option FS2)
+)
+([optionLA1] of MODULEOPTION 
+(option LA1)
+)
+([optionLB1] of MODULEOPTION 
+(option LB1)
+)
+([optionLB3] of MODULEOPTION 
+(option LB3)
+)
+([optionLM1] of MODULEOPTION 
+(option LM1)
+)
+([optionLM3] of MODULEOPTION 
+(option LM3)
+)
+([optionLT1] of MODULEOPTION 
+(option LT1)
+)
+([optionLT2] of MODULEOPTION 
+(option LT2)
+)
+([optionLT3] of MODULEOPTION 
+(option LT3)
+)
+([optionLT4] of MODULEOPTION 
+(option LT4)
+)
+([optionMM1] of MODULEOPTION 
+(option MM1)
+)
+([optionMM2] of MODULEOPTION 
+(option MM2)
+)
+([optionMM3] of MODULEOPTION 
+(option MM3)
+)
+([optionMT1] of MODULEOPTION 
+(option MT1)
+)
+([optionMT2] of MODULEOPTION 
+(option MT2)
+)
+([optionPT1] of MODULEOPTION 
+(option PT1)
+)
+([optionSM1] of MODULEOPTION 
+(option SM1)
+)
+([optionSM2] of MODULEOPTION 
+(option SM2)
+)
+([optionSM4] of MODULEOPTION 
+(option SM4)
+)
+([optionST4] of MODULEOPTION 
+(option ST4)
+)
+([optionG01] of MODULEOPTION 
+(option G01)
+)
+([optionG02] of MODULEOPTION 
+(option G02)
+)
+([optionG03] of MODULEOPTION 
+(option G03)
+)
+([optionG04] of MODULEOPTION 
+(option G04)
+)
+([optionG05] of MODULEOPTION 
+(option G05)
+)
+([optionG06] of MODULEOPTION 
+(option G06)
+)
+([optionG08] of MODULEOPTION 
+(option G08)
+)
+([optionG10] of MODULEOPTION 
+(option G10)
+)
+([optionG11] of MODULEOPTION 
+(option G11)
+)
+([optionG12] of MODULEOPTION 
+(option G12)
+)
+([optionG13] of MODULEOPTION 
+(option G13)
+)
+([optionG14] of MODULEOPTION 
+(option G14)
+)
+([optionG15] of MODULEOPTION 
+(option G15)
+)
+([optionG17] of MODULEOPTION 
+(option G17)
+)
+([optionG18] of MODULEOPTION 
+(option G18)
+)
+([optionG19] of MODULEOPTION 
+(option G19)
+)
+([optionG20] of MODULEOPTION 
+(option G20)
+)
+([optionG21] of MODULEOPTION 
+(option G21)
+)
+([optionG22] of MODULEOPTION 
+(option G22)
+)
+([optionG26] of MODULEOPTION 
+(option G26)
+)
+([optionG27] of MODULEOPTION 
+(option G27)
+)
+([optionG28] of MODULEOPTION 
+(option G28)
+)
+([optionG29] of MODULEOPTION 
+(option G29)
+)
+([option8] of MODULEOPTION 
+(option 8)
+)
+([optionG07] of MODULEOPTION 
+(option G07)
+)
+([optionG09] of MODULEOPTION 
+(option G09)
+)
+([optionG16] of MODULEOPTION 
+(option G16)
+)
+([optionG23] of MODULEOPTION 
+(option G23)
+)
+([optionG24] of MODULEOPTION 
+(option G24)
+)
+([optionG25] of MODULEOPTION 
+(option G25)
+)
+([optionG30] of MODULEOPTION 
+(option G30)
+)
+([optionG31] of MODULEOPTION 
+(option G31)
+)
+([optionG32] of MODULEOPTION 
+(option G32)
+)
+([optionG33] of MODULEOPTION 
+(option G33)
+)
+([optionG34] of MODULEOPTION 
+(option G34)
+)
+([optionG35] of MODULEOPTION 
+(option G35)
+)
+([optionG36] of MODULEOPTION 
+(option G36)
+)
+([optionG37] of MODULEOPTION 
+(option G37)
+)
+([optionG38] of MODULEOPTION 
+(option G38)
+)
+([optionG39] of MODULEOPTION 
+(option G39)
+)
+([optionG40] of MODULEOPTION 
+(option G40)
+)
+([optionG41] of MODULEOPTION 
+(option G41)
+)
+([optionG42] of MODULEOPTION 
+(option G42)
+)
+([optionG43] of MODULEOPTION 
+(option G43)
+)
+([optionG44] of MODULEOPTION 
+(option G44)
+)
+([optionG45] of MODULEOPTION 
+(option G45)
+)
+([optionG46] of MODULEOPTION 
+(option G46)
+)
+([optionG47] of MODULEOPTION 
+(option G47)
+)
+([optionG48] of MODULEOPTION 
+(option G48)
+)
+([optionG49] of MODULEOPTION 
+(option G49)
+)
+([optionJ2] of MODULEOPTION 
+(option J2)
+)
+([optionJ3] of MODULEOPTION 
+(option J3)
+)
+([optionJ4] of MODULEOPTION 
+(option J4)
+)
+([optionJ5] of MODULEOPTION 
+(option J5)
+)
+([optionJ6] of MODULEOPTION 
+(option J6)
+)
+([optionJ7] of MODULEOPTION 
+(option J7)
+)
+([optionM1] of MODULEOPTION 
+(option M1)
+)
+([optionM2] of MODULEOPTION 
+(option M2)
+)
+([optionEV2] of MODULEOPTION 
+(option EV2)
+)
+([option10] of MODULEOPTION 
+(option 10)
+)
+([option11] of MODULEOPTION 
+(option 11)
+)
+([option12] of MODULEOPTION 
+(option 12)
+)
+([option13] of MODULEOPTION 
+(option 13)
+)
+([option14] of MODULEOPTION 
+(option 14)
+)
+([option15] of MODULEOPTION 
+(option 15)
+)
+([option16] of MODULEOPTION 
+(option 16)
+)
+([option17] of MODULEOPTION 
+(option 17)
+)
+([option18] of MODULEOPTION 
+(option 18)
+)
+([option19] of MODULEOPTION 
+(option 19)
+)
+([option20] of MODULEOPTION 
+(option 20)
+)
+([option21] of MODULEOPTION 
+(option 21)
+)
+([option22] of MODULEOPTION 
+(option 22)
+)
+([option23] of MODULEOPTION 
+(option 23)
+)
+([option24] of MODULEOPTION 
+(option 24)
+)
+([option25] of MODULEOPTION 
+(option 25)
+)
+([option26] of MODULEOPTION 
+(option 26)
+)
+([option27] of MODULEOPTION 
+(option 27)
+)
+([option28] of MODULEOPTION 
+(option 28)
+)
+([option9] of MODULEOPTION 
+(option 9)
+)
+([option31] of MODULEOPTION 
+(option 31)
+)
+([optionA] of MODULEOPTION 
+(option A)
+)
+([optionB] of MODULEOPTION 
+(option B)
+)
+([optionC] of MODULEOPTION 
+(option C)
+)
+([optionD] of MODULEOPTION 
+(option D)
+)
+([optionSL3] of MODULEOPTION 
+(option SL3)
+)
+([optionW2] of MODULEOPTION 
+(option W2)
+)
+([optionC4] of MODULEOPTION 
+(option C4)
+)
+([optionP01] of MODULEOPTION 
+(option P01)
+)
+([optionN1] of MODULEOPTION 
+(option N1)
+)
+([optionN2] of MODULEOPTION 
+(option N2)
+)
+([optionQ2] of MODULEOPTION 
+(option Q2)
+)
+([option29] of MODULEOPTION 
+(option 29)
+)
+([option30] of MODULEOPTION 
+(option 30)
+)
+([option47] of MODULEOPTION 
+(option 47)
+)
+([option48] of MODULEOPTION 
+(option 48)
+)
+([option57] of MODULEOPTION 
+(option 57)
+)
+([option66] of MODULEOPTION 
+(option 66)
+)
+([option67] of MODULEOPTION 
+(option 67)
+)
+([option74] of MODULEOPTION 
+(option 74)
+)
+([option39] of MODULEOPTION 
+(option 39)
+)
+([option56] of MODULEOPTION 
+(option 56)
+)
+([option80] of MODULEOPTION 
+(option 80)
+)
+([option44] of MODULEOPTION 
+(option 44)
+)
+([option58] of MODULEOPTION 
+(option 58)
+)
+([option59] of MODULEOPTION 
+(option 59)
+)
+([option72] of MODULEOPTION 
+(option 72)
+)
+([optionW3] of MODULEOPTION 
+(option W3)
+)
+([optionR2] of MODULEOPTION 
+(option R2)
+)
+)

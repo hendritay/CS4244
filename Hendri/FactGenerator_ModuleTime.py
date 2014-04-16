@@ -10,6 +10,7 @@ table = c.fetchall()
 print "(definstances TIMETABLE::MODULETIMELIST"
 i = 0;
 OldModuleCode = ""
+
 for row in table:
 
 	if row["ModuleCode"] == OldModuleCode:
@@ -27,10 +28,30 @@ for row in table:
 	StartTime = StartTime[:-3]
 	EndTime = str(row["EndTime"])
 	EndTime = EndTime[:-3]
+	
+	StartTime = StartTime.replace(":", "")
+	EndTime = StartTime.replace(":", "")
+	
 	print "(starttime " + StartTime +")"
 	print "(endtime " + EndTime +")"
 	print "(semester " + row["Semester"] +")"
+	print "(moduleoption " + row["ModuleOption"] +")"
 	print ")"
 	
+
+	
 print ")"
+
+c.execute("SELECT Distinct ModuleOption as ModuleOption FROM ModuleTime")
+table = c.fetchall()
+
+print "(definstances TIMETABLE::MODULETIMEOPTIONLIST"
+
+for row in table:
+	print "([option" +row["ModuleOption"] +"] of MODULEOPTION "	
+	print "(option " + row["ModuleOption"] +")"
+	print ")"
+
+print ")"
+
 	

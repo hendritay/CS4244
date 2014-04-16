@@ -33,6 +33,9 @@ for row in table:
 	
 	if ModuleCode[0:2].upper() == "CS":
 	    print "CS"
+		if row["ModuleLevel"] >= 4:
+			print "FYP"
+			print
 	else:
 		print "NONCS"
 	

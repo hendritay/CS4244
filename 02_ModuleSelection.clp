@@ -3,7 +3,7 @@
 ; Might need to get higher salience
 ; Copy from candidate module list
 
-(defrule CopyFromModuleCandidate
+(defrule MODULESELECTION::CopyFromModuleCandidate
    (object (is-a CANDIDATEMODULE) (moduleid ?moduleid))
    (object (is-a MODULE) (moduleid ?moduleid) (modulelevel ?level) (mc ?mc))
    
@@ -30,7 +30,7 @@
 
  
  ; Copy from moduletaken to all module list 
-(defrule CopyFromModuleTaken
+(defrule MODULESELECTION::CopyFromModuleTaken
    (object (is-a MODULETAKEN) (moduleid ?moduleid))
  => 
   (bind ?instancename (symbol-to-instance-name (sym-cat allmodule ?moduleid)))
@@ -38,7 +38,7 @@
  )
 
 
-(defrule CheckForFocusArea
+(defrule MODULESELECTION::CheckForFocusArea
    (object (is-a CANDIDATEMODULE) (moduleid ?moduleid))
    (object (is-a FOCUSAREA) (type PRIMARY) (moduleid ?moduleid))
  =>
