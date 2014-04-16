@@ -154,3 +154,9 @@
   
  (defglobal ?*requirement* = (make-instance [john] of REQUIREMENT (level1mc 0) (SS 8)))
 
+
+(defclass TIMETABLE::EXAM
+  (is-a USER)
+  (slot moduleid)
+  (slot exam-date)
+  (slot exam-time))
