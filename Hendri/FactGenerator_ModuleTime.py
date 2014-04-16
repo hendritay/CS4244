@@ -30,7 +30,7 @@ for row in table:
 	EndTime = EndTime[:-3]
 	
 	StartTime = StartTime.replace(":", "")
-	EndTime = StartTime.replace(":", "")
+	EndTime = EndTime.replace(":", "")
 	
 	print "(starttime " + StartTime +")"
 	print "(endtime " + EndTime +")"
