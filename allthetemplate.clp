@@ -17,6 +17,9 @@
   (export defclass MODULE)
   (export defclass MODULEPREQ)
   (export defclass MODULETAKEN)
+  (export defclass REQUIREMENT)
+  (export defclass ELIGIBLEMODULE)
+  (export defclass ALLMODULE)
  )
 
 (defmodule MODULESELECTION
@@ -128,7 +131,8 @@
   (slot day)
   (slot starttime (type NUMBER))
   (slot endtime (type NUMBER))
-  (slot semester (type NUMBER))
+  (slot semester (type NUMBER)
+  (slot moduleoption )
  )
  
  (defclass INITIALIZE::REQUIREMENT
@@ -178,4 +182,5 @@
   (is-a USER)
   (slot moduleid)
   (slot exam-date)
-  (slot exam-time))
+  (slot exam-time)
+  )
