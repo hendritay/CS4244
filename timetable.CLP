@@ -13,7 +13,9 @@
 =>
 (send ?current-data put-current-stage -1))
 
-(defglobal ?*final-url* = "")
+(defglobal 
+  ?*final-url* = ""
+  ?*final-module-list* = "")
 
 ; step 1: filter to get candidate modules who don't have unmet prereqs ;
 
@@ -245,13 +247,50 @@ then (send ?current-data put-url (sym-cat (send ?current-data get-url) ?selected
 (send ?current-data put-url (sym-cat (send ?current-data get-url) "&"))
 (send ?current-data put-current-stage -1))
 
-(defrule TIMETABLE::generate-finished
+(defrule TIMETABLE::generate-finished-url
 ?current-data <- (object (is-a CURRENTDATA) (current-stage -2)(url ?current-url))
 =>
-(bind ?*final-url* ?current-url)
+(send ?current-data put-current-stage -3)
+(bind ?*final-url* ?current-url))
+
+; generate list of candidate modules ;
+
+(defrule TIMETABLE::generate-candidate-module-list (declare (salience 1))
+?current-data <- (object (is-a CURRENTDATA) (current-stage -3))
+?candidate <- (object (is-a CANDIDATEMODULE) (moduleid ?candidate-id))
+(test
+  (not
+    (any-instancep
+      ((?printed PRINTEDMODULE))
+      (eq ?printed:moduleid ?candidate-id))))
+=>
+(send ?current-data put-module-list (sym-cat (send ?current-data get-module-list) ?candidate-id))
+(send ?current-data put-current-stage -4)
+(make-instance (sym-cat PP- ?candidate-id) of PRINTEDMODULE (moduleid ?candidate-id)))
+
+(defrule TIMETABLE::generate-comma (declare (salience 1))
+?current-data <- (object (is-a CURRENTDATA) (current-stage -4))
+?candidate <- (object (is-a CANDIDATEMODULE)(moduleid ?candidate-id))
+(test
+  (not
+    (any-instancep
+      ((?printed PRINTEDMODULE))
+      (eq ?printed:moduleid ?candidate-id))))
+=>
+(send ?current-data put-module-list (sym-cat (send ?current-data get-module-list) ","))
+(send ?current-data put-current-stage -3))
+
+(defrule TIMETABLE::generate-finished-module-list
+?current-data <- (object (is-a CURRENTDATA) (current-stage -3)(module-list ?current-module-list))
+=>
+(send ?current-data put-current-stage -5)
+(bind ?*final-module-list* ?current-module-list)
 (halt))
 
 (deffunction TIMETABLE::print-out-url ()
 (printout t ?*final-url* crlf))
   
+(deffunction TIMETABLE::find-all-candidate-module ()
+(printout t ?*final-module-list* crlf))
   
+    
