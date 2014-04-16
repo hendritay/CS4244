@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Data.SQLite;
 
 namespace CS4244
 {
@@ -21,6 +22,7 @@ namespace CS4244
         private List<string> _breadth = new List<string>();
         private List<string> _ue = new List<string>();
         private List<string> _scienceMods = new List<string>();
+        private List<string> _ss = new List<string>();
 
         private List<string> _personalPreference = new List<string>();
         private List<string> _moduleLike = new List<string>();
@@ -32,6 +34,30 @@ namespace CS4244
         private List<string> _focusAreaInstance = new List<string>();
         private List<string> _modulesTakenInstance = new List<string>();
         private List<string> _requirementInstance = new List<string>();
+        private List<string> _requiredModulesInstance = new List<string>();
+        List<List<string>> AllTheList = new List<List<string>>();
+
+        public User()
+        {
+            AllTheList.Add(_moduleLikeInstance);
+            AllTheList.Add(_moduleDislikeInstance);
+            AllTheList.Add(_moduleTagInstance);
+            AllTheList.Add(_focusAreaInstance);
+            AllTheList.Add(_modulesTakenInstance);
+            AllTheList.Add(_requirementInstance);
+            AllTheList.Add(_requiredModulesInstance);
+        }
+
+        public void OutputEverything()
+        {
+            foreach (List<string> element in AllTheList)
+            {
+                foreach (string output in element)
+                {
+                    Console.WriteLine(output);
+                }
+            }
+        }
 
         public void setName(string name)
         {
@@ -163,6 +189,16 @@ namespace CS4244
             return _scienceMods;
         }
 
+        public void setSS(string ssMods)
+        {
+            _ss.Add(ssMods);
+        }
+
+        public List<string> getSS()
+        {
+            return _ss;
+        }
+
         public void setPersonalPref(string personalPref)
         {
             _personalPreference.Add(personalPref);
@@ -195,7 +231,6 @@ namespace CS4244
 
         public void createInterestModuleInstance()
         {
-            List<string> createInstance = new List<string>();
             List<string> moduleLike = new List<string>();
 
             moduleLike = _moduleLike;
@@ -203,10 +238,8 @@ namespace CS4244
             for (int i = 0; i < moduleLike.Count; i++)
             {
                 string[] temp = moduleLike[i].Split(' ');
-                createInstance.Add("(make-instance [Interest " + temp[0].Trim() + "] of INTERESTEDMODULE (moduleid "+ temp[0].Trim() + "))");
+                _moduleLikeInstance.Add("(make-instance [Interest " + temp[0].Trim() + "] of INTERESTEDMODULE (moduleid " + temp[0].Trim() + "))");
             }
-
-            _moduleLikeInstance = createInstance;
         }
 
         public List<string> getInterestModuleInstance()
@@ -216,7 +249,6 @@ namespace CS4244
 
         public void createDisInterestModuleInstance()
         {
-            List<string> createInstance = new List<string>();
             List<string> moduleDislike = new List<string>();
 
             moduleDislike = _moduleDislike;
@@ -224,10 +256,8 @@ namespace CS4244
             for (int i = 0; i < moduleDislike.Count; i++)
             {
                 string[] temp = moduleDislike[i].Split(' ');
-                createInstance.Add("(make-instance [DisInterest " + temp[0].Trim() + "] of NOTINTERESTEDMODULE (moduleid " + temp[0].Trim() + "))");
+                _moduleDislikeInstance.Add("(make-instance [DisInterest " + temp[0].Trim() + "] of NOTINTERESTEDMODULE (moduleid " + temp[0].Trim() + "))");
             }
-
-            _moduleDislikeInstance = createInstance;
         }
 
         public List<string> getDisInterestModuleInstance()
@@ -237,47 +267,73 @@ namespace CS4244
 
         public void createInterestTagInstance()
         {
-            List<string> createInstance = new List<string>();
             List<string> moduleTag = new List<string>();
 
             moduleTag = _personalPreference;
 
             for (int i = 0; i < moduleTag.Count; i++)
             {
-                createInstance.Add("(make-instance [Tag " + moduleTag[i].Trim() + "] of INTERESTEDTAG (tag " + moduleTag[i].Trim() + "))");
+                _moduleTagInstance.Add("(make-instance [Tag " + moduleTag[i].Trim() + "] of INTERESTEDTAG (tag " + moduleTag[i].Trim() + "))");
             }
-
-            _moduleTagInstance = createInstance;
         }
 
         public List<string> getInterestTagInstance()
         {
             return _moduleTagInstance;
         }
-
+        
         public void createFocusAreaInstance()
         {
-            List<string> createInstance = new List<string>();
             List<string> focusArea = new List<string>();
-
+            string primary = "";
+            string elective = "";
+            
+            string fArea = _focusArea;
             focusArea = _focusAreas;
+
+            string dbConnectionString = @"Data Source=C:\Users\User\Documents\Visual Studio 2010\Projects\CS4244\CS4244\CS4244.sqlite;Version=3;";
+            SQLiteConnection con = new SQLiteConnection(dbConnectionString);
+
+            try
+            {
+                con.Open();
+                string query = "Select [Primary], Elective from FocusArea where FocusArea = '" + fArea + "'";
+                SQLiteCommand command = new SQLiteCommand(query, con);
+                SQLiteDataReader reader = command.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    primary = (reader.GetString(0));
+                    elective = (reader.GetString(1));
+                }
+                con.Close();
+            }
+            catch (Exception ex)
+            {
+                Console.Write(ex);
+            }
+
 
             for (int i = 0; i < focusArea.Count; i++)
             {
-                createInstance.Add("(make-instance [FocusArea " + focusArea[i].Trim() + "] of FOCUSAREA (moduleid " + focusArea[i].Trim() + ") (type SECONDARY))");
+                if (primary.Contains(focusArea[i]))
+                {
+                    _focusAreaInstance.Add("(make-instance [FocusArea " + focusArea[i].Trim() + "] of FOCUSAREA (moduleid " + focusArea[i].Trim() + ") (type PRIMARY))");
+                }
+                else if (elective.Contains(focusArea[i]))
+                {
+                    _focusAreaInstance.Add("(make-instance [FocusArea " + focusArea[i].Trim() + "] of FOCUSAREA (moduleid " + focusArea[i].Trim() + ") (type ELECTIVE))");
+                }
             }
-
-            _focusAreaInstance = createInstance;
         }
 
         public List<string> getFocusAreaInstance()
         {
             return _focusAreaInstance;
         }
-
+        // To Do, add focus areas
         public void createModulesTakenInstance()
         {
-            List<string> createInstance = new List<string>();
             List<string> modulesTaken = new List<string>();
 
             // Add Core
@@ -288,13 +344,20 @@ namespace CS4244
                     modulesTaken.Add(_core[i]);
                 }
             }
-
             // Add GEM
             if (_gem.Count != 0)
             {
                 for (int i = 0; i < _gem.Count(); i++)
                 {
                     modulesTaken.Add(_gem[i]);
+                }
+            }
+            // Add SS
+            if (_ss.Count != 0)
+            {
+                for (int i = 0; i < _ss.Count(); i++)
+                {
+                    modulesTaken.Add(_ss[i]);
                 }
             }
             // Add Breadth
@@ -321,14 +384,21 @@ namespace CS4244
                     modulesTaken.Add(_scienceMods[i]);
                 }
             }
-
+            
             for (int i = 0; i < modulesTaken.Count; i++)
             {
                 string[] temp = modulesTaken[i].Split(' ');
-                createInstance.Add("(make-instance [allmodule " + temp[0].Trim() + "] of MODULETAKEN (moduleid " + temp[0].Trim() + "))");
+                _modulesTakenInstance.Add("(make-instance [allmodule " + temp[0].Trim() + "] of MODULETAKEN (moduleid " + temp[0].Trim() + "))");
             }
 
-             _modulesTakenInstance = createInstance;
+            // Add Focus Area
+            if (_focusAreas.Count != 0)
+            {
+                for (int i = 0; i < _focusAreas.Count(); i++)
+                {
+                    _modulesTakenInstance.Add("(make-instance [allmodule " + _focusAreas[i].Trim() + "] of MODULETAKEN (moduleid " + _focusAreas[i].Trim() + "))");
+                }
+            }
         }
 
         public List<string> getModulesTakenInstance()
@@ -338,8 +408,6 @@ namespace CS4244
 
         public void createRequirementInstance()
         {
-            List<string> createInstance = new List<string>();
-
             string ueMC = "20";
             string gemMC = "8";
             string ssMC = "4";
@@ -360,24 +428,15 @@ namespace CS4244
                 {
                     if (!_gem[0].Equals(""))
                     {
-                        int ss = 0;
-                        int gem = 0;
-
-                        for (int i = 0; i < _gem.Count(); i++)
-                        {
-                            if (_gem[i].Contains("SS"))
-                            {
-                                ss++;
-                            }
-
-                            if (_gem[i].Contains("GE"))
-                            {
-                                gem++;
-                            }
-                        }
-
-                        gemMC = (8 - gem * 4).ToString();
-                        ssMC = (4 - ss * 4).ToString();
+                        gemMC = (8 - _gem.Count() * 4).ToString();
+                    }   
+                }
+                
+                if (_ss.Count != 0)
+                {
+                    if (!_ss[0].Equals(""))
+                    {
+                        ssMC = (4 - _ss.Count() * 4).ToString();
                     }
                 }
 
@@ -389,7 +448,7 @@ namespace CS4244
                     }
                 }
 
-                createInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")");
+                _requirementInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")");
             }
             else if (_jcPoly.Equals("Poly")) // Handle Poly exemptions
             {
@@ -410,24 +469,15 @@ namespace CS4244
                 {
                     if (!_gem[0].Equals(""))
                     {
-                        int ss = 0;
-                        int gem = 0;
+                        gemMC = (4 - _gem.Count() * 4).ToString();
+                    }
+                }
 
-                        for (int i = 0; i < _gem.Count(); i++)
-                        {
-                            if (_gem[i].Contains("SS"))
-                            {
-                                ss++;
-                            }
-
-                            if (_gem[i].Contains("GE"))
-                            {
-                                gem++;
-                            }
-                        }
-
-                        gemMC = (4 - gem * 4).ToString();
-                        ssMC = (4 - ss * 4).ToString();
+                if (_ss.Count != 0)
+                {
+                    if (!_ss[0].Equals(""))
+                    {
+                        ssMC = (4 - _ss.Count() * 4).ToString();
                     }
                 }
 
@@ -439,19 +489,64 @@ namespace CS4244
                     }
                 }
 
-                createInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")");
+                _requirementInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")");
             }
             else // Neither JC nor Poly
             {
-                createInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")");
+                _requirementInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")");
             }
-
-            _requirementInstance = createInstance;
         }
 
         public List<string> getRequirementInstance()
         {
             return _requirementInstance;
+        }
+
+        public void createRequiredModulesInstance()
+        {
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS1010] of REQUIREDCOREMODULE (moduleid CS1010)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS1020] of REQUIREDCOREMODULE (moduleid CS1020)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2010] of REQUIREDCOREMODULE (moduleid CS2010)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS1231] of REQUIREDCOREMODULE (moduleid CS1231)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2100] of REQUIREDCOREMODULE (moduleid CS2100)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2103T] of REQUIREDCOREMODULE (moduleid CS2103T)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2105] of REQUIREDCOREMODULE (moduleid CS2105)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2106] of REQUIREDCOREMODULE (moduleid CS2106)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS3230] of REQUIREDCOREMODULE (moduleid CS3230)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule IS1103] of REQUIREDCOREMODULE (moduleid IS1103)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2101] of REQUIREDCOREMODULE (moduleid CS2101)");
+            // should have rules to take care of MA1301 in clips for JC students
+            _requiredModulesInstance.Add("(make-instance [RequiredModule MA1301] of REQUIREDCOREMODULE (moduleid MA1301)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule MA1521] of REQUIREDCOREMODULE (moduleid MA1521)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule MA1101R] of REQUIREDCOREMODULE (moduleid MA1101R)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule ST2334] of REQUIREDCOREMODULE (moduleid ST2334)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule PC1222] of REQUIREDCOREMODULE (moduleid PC1222)");
+
+            if (_fyp.Equals("Yes"))
+            {
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CP4101] of REQUIREDCOREMODULE (moduleid CP4101)");
+            }
+
+            if (_projectType.Contains("CS3201"))
+            {
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3201] of REQUIREDCOREMODULE (moduleid CS3201)");
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3202] of REQUIREDCOREMODULE (moduleid CS3202)");
+            }
+            else if (_projectType.Contains("CS3281"))
+            {
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3281] of REQUIREDCOREMODULE (moduleid CS3281)");
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3282] of REQUIREDCOREMODULE (moduleid CS3282)");
+            }
+            else
+            {
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3283] of REQUIREDCOREMODULE (moduleid CS3283)");
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3284] of REQUIREDCOREMODULE (moduleid CS3284)");
+            }
+        }
+
+        public List<string> getRequiredModulesInstance()
+        {
+            return _requiredModulesInstance;
         }
     }
 }

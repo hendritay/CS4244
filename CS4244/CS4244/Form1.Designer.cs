@@ -61,7 +61,6 @@
             this.nameLabel = new System.Windows.Forms.Label();
             this.welcomeLabel = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.label10 = new System.Windows.Forms.Label();
             this.button13 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.panel9 = new System.Windows.Forms.Panel();
@@ -104,12 +103,14 @@
             this.button15 = new System.Windows.Forms.Button();
             this.button14 = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.modulesDislikeLBox = new System.Windows.Forms.ListBox();
             this.delButton3 = new System.Windows.Forms.Button();
             this.addButton3 = new System.Windows.Forms.Button();
             this.modulesDislikeBox = new System.Windows.Forms.ComboBox();
             this.dislikeLabel = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.modulesInterestLBox = new System.Windows.Forms.ListBox();
             this.delButton2 = new System.Windows.Forms.Button();
             this.addButton2 = new System.Windows.Forms.Button();
@@ -122,8 +123,19 @@
             this.addButton4 = new System.Windows.Forms.Button();
             this.preferenceBox = new System.Windows.Forms.ComboBox();
             this.preferenceLabel = new System.Windows.Forms.Label();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
-            this.pictureBox10 = new System.Windows.Forms.PictureBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.listBox6 = new System.Windows.Forms.ListBox();
+            this.button16 = new System.Windows.Forms.Button();
+            this.button17 = new System.Windows.Forms.Button();
+            this.comboBox10 = new System.Windows.Forms.ComboBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.panel11 = new System.Windows.Forms.Panel();
+            this.listBox7 = new System.Windows.Forms.ListBox();
+            this.button18 = new System.Windows.Forms.Button();
+            this.button19 = new System.Windows.Forms.Button();
+            this.comboBox11 = new System.Windows.Forms.ComboBox();
+            this.label12 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.JCPolyPanel.SuspendLayout();
@@ -149,11 +161,13 @@
             this.modulesPanel.SuspendLayout();
             this.tabPage3.SuspendLayout();
             this.panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
+            this.panel10.SuspendLayout();
+            this.panel11.SuspendLayout();
             this.SuspendLayout();
             // 
             // button1
@@ -176,7 +190,7 @@
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(1024, 620);
-            this.tabControl1.TabIndex = 3;
+            this.tabControl1.TabIndex = 0;
             // 
             // tabPage1
             // 
@@ -206,7 +220,7 @@
             this.JCPolyPanel.Location = new System.Drawing.Point(6, 383);
             this.JCPolyPanel.Name = "JCPolyPanel";
             this.JCPolyPanel.Size = new System.Drawing.Size(1000, 60);
-            this.JCPolyPanel.TabIndex = 9;
+            this.JCPolyPanel.TabIndex = 5;
             // 
             // pictureBox6
             // 
@@ -230,7 +244,7 @@
             this.comboBox4.Location = new System.Drawing.Point(251, 4);
             this.comboBox4.Name = "comboBox4";
             this.comboBox4.Size = new System.Drawing.Size(100, 29);
-            this.comboBox4.TabIndex = 1;
+            this.comboBox4.TabIndex = 0;
             this.comboBox4.SelectedIndexChanged += new System.EventHandler(this.comboBox4_SelectedIndexChanged);
             // 
             // label4
@@ -240,7 +254,7 @@
             this.label4.Location = new System.Drawing.Point(3, 1);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(241, 30);
-            this.label4.TabIndex = 0;
+            this.label4.TabIndex = 1;
             this.label4.Text = "Are you from JC or Poly?";
             // 
             // projectPanel
@@ -251,7 +265,7 @@
             this.projectPanel.Location = new System.Drawing.Point(6, 444);
             this.projectPanel.Name = "projectPanel";
             this.projectPanel.Size = new System.Drawing.Size(1000, 60);
-            this.projectPanel.TabIndex = 8;
+            this.projectPanel.TabIndex = 6;
             // 
             // pictureBox7
             // 
@@ -296,7 +310,7 @@
             this.FocusAreaPanel.Location = new System.Drawing.Point(6, 322);
             this.FocusAreaPanel.Name = "FocusAreaPanel";
             this.FocusAreaPanel.Size = new System.Drawing.Size(1000, 60);
-            this.FocusAreaPanel.TabIndex = 7;
+            this.FocusAreaPanel.TabIndex = 4;
             // 
             // pictureBox5
             // 
@@ -349,7 +363,7 @@
             this.FYPPanel.Location = new System.Drawing.Point(6, 261);
             this.FYPPanel.Name = "FYPPanel";
             this.FYPPanel.Size = new System.Drawing.Size(1000, 60);
-            this.FYPPanel.TabIndex = 6;
+            this.FYPPanel.TabIndex = 3;
             // 
             // pictureBox4
             // 
@@ -393,7 +407,7 @@
             this.miniMaxPanel.Location = new System.Drawing.Point(6, 200);
             this.miniMaxPanel.Name = "miniMaxPanel";
             this.miniMaxPanel.Size = new System.Drawing.Size(1000, 60);
-            this.miniMaxPanel.TabIndex = 5;
+            this.miniMaxPanel.TabIndex = 2;
             // 
             // pictureBox3
             // 
@@ -438,7 +452,7 @@
             this.degreePanel.Location = new System.Drawing.Point(6, 139);
             this.degreePanel.Name = "degreePanel";
             this.degreePanel.Size = new System.Drawing.Size(1000, 60);
-            this.degreePanel.TabIndex = 3;
+            this.degreePanel.TabIndex = 1;
             // 
             // pictureBox2
             // 
@@ -457,7 +471,7 @@
             this.cohortLabel.Location = new System.Drawing.Point(2, 5);
             this.cohortLabel.Name = "cohortLabel";
             this.cohortLabel.Size = new System.Drawing.Size(81, 30);
-            this.cohortLabel.TabIndex = 5;
+            this.cohortLabel.TabIndex = 0;
             this.cohortLabel.Text = "Cohort:";
             // 
             // matricBox
@@ -467,14 +481,14 @@
             this.matricBox.FormattingEnabled = true;
             this.matricBox.ItemHeight = 30;
             this.matricBox.Items.AddRange(new object[] {
-            "Cohort 2010/2011",
-            "Cohort 2011/2012",
-            "Cohort 2012/2013",
-            "Cohort 2013/2014"});
+            "2010/2011",
+            "2011/2012",
+            "2012/2013",
+            "2013/2014"});
             this.matricBox.Location = new System.Drawing.Point(89, 1);
             this.matricBox.Name = "matricBox";
             this.matricBox.Size = new System.Drawing.Size(300, 38);
-            this.matricBox.TabIndex = 3;
+            this.matricBox.TabIndex = 1;
             this.matricBox.SelectedIndexChanged += new System.EventHandler(this.matricBox_SelectedIndexChanged);
             // 
             // panel1
@@ -485,7 +499,7 @@
             this.panel1.Location = new System.Drawing.Point(6, 78);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1000, 60);
-            this.panel1.TabIndex = 2;
+            this.panel1.TabIndex = 0;
             // 
             // pictureBox1
             // 
@@ -503,7 +517,7 @@
             this.nameTextBox.Location = new System.Drawing.Point(89, 1);
             this.nameTextBox.Name = "nameTextBox";
             this.nameTextBox.Size = new System.Drawing.Size(300, 35);
-            this.nameTextBox.TabIndex = 2;
+            this.nameTextBox.TabIndex = 1;
             this.nameTextBox.TextChanged += new System.EventHandler(this.nameTextBox_TextChanged);
             // 
             // nameLabel
@@ -512,7 +526,7 @@
             this.nameLabel.Location = new System.Drawing.Point(3, 1);
             this.nameLabel.Name = "nameLabel";
             this.nameLabel.Size = new System.Drawing.Size(80, 30);
-            this.nameLabel.TabIndex = 2;
+            this.nameLabel.TabIndex = 0;
             this.nameLabel.Text = "Name:";
             // 
             // welcomeLabel
@@ -526,6 +540,8 @@
             // 
             // tabPage2
             // 
+            this.tabPage2.Controls.Add(this.panel10);
+            this.tabPage2.Controls.Add(this.panel11);
             this.tabPage2.Controls.Add(this.label10);
             this.tabPage2.Controls.Add(this.button13);
             this.tabPage2.Controls.Add(this.button2);
@@ -542,17 +558,6 @@
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Modules Taken";
             this.tabPage2.UseVisualStyleBackColor = true;
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.ForeColor = System.Drawing.Color.Red;
-            this.label10.Location = new System.Drawing.Point(5, 8);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(531, 30);
-            this.label10.TabIndex = 12;
-            this.label10.Text = "Please skip this page if you have not taken any modules";
             // 
             // button13
             // 
@@ -581,19 +586,19 @@
             this.panel9.Controls.Add(this.button12);
             this.panel9.Controls.Add(this.comboBox9);
             this.panel9.Controls.Add(this.label9);
-            this.panel9.Location = new System.Drawing.Point(508, 390);
+            this.panel9.Location = new System.Drawing.Point(508, 265);
             this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(500, 176);
+            this.panel9.Size = new System.Drawing.Size(500, 135);
             this.panel9.TabIndex = 9;
             // 
             // listBox5
             // 
-            this.listBox5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox5.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox5.FormattingEnabled = true;
-            this.listBox5.ItemHeight = 21;
+            this.listBox5.ItemHeight = 17;
             this.listBox5.Location = new System.Drawing.Point(2, 62);
             this.listBox5.Name = "listBox5";
-            this.listBox5.Size = new System.Drawing.Size(444, 88);
+            this.listBox5.Size = new System.Drawing.Size(444, 72);
             this.listBox5.TabIndex = 8;
             // 
             // button11
@@ -645,19 +650,19 @@
             this.panel8.Controls.Add(this.button10);
             this.panel8.Controls.Add(this.comboBox8);
             this.panel8.Controls.Add(this.label8);
-            this.panel8.Location = new System.Drawing.Point(508, 217);
+            this.panel8.Location = new System.Drawing.Point(508, 131);
             this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(500, 176);
+            this.panel8.Size = new System.Drawing.Size(500, 135);
             this.panel8.TabIndex = 8;
             // 
             // listBox4
             // 
-            this.listBox4.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox4.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox4.FormattingEnabled = true;
-            this.listBox4.ItemHeight = 21;
+            this.listBox4.ItemHeight = 17;
             this.listBox4.Location = new System.Drawing.Point(2, 62);
             this.listBox4.Name = "listBox4";
-            this.listBox4.Size = new System.Drawing.Size(444, 88);
+            this.listBox4.Size = new System.Drawing.Size(444, 72);
             this.listBox4.TabIndex = 8;
             // 
             // button9
@@ -709,19 +714,19 @@
             this.panel7.Controls.Add(this.button8);
             this.panel7.Controls.Add(this.comboBox7);
             this.panel7.Controls.Add(this.label7);
-            this.panel7.Location = new System.Drawing.Point(8, 390);
+            this.panel7.Location = new System.Drawing.Point(8, 265);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(500, 176);
+            this.panel7.Size = new System.Drawing.Size(500, 135);
             this.panel7.TabIndex = 7;
             // 
             // listBox3
             // 
-            this.listBox3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox3.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox3.FormattingEnabled = true;
-            this.listBox3.ItemHeight = 21;
+            this.listBox3.ItemHeight = 17;
             this.listBox3.Location = new System.Drawing.Point(2, 62);
             this.listBox3.Name = "listBox3";
-            this.listBox3.Size = new System.Drawing.Size(444, 88);
+            this.listBox3.Size = new System.Drawing.Size(444, 72);
             this.listBox3.TabIndex = 8;
             // 
             // button7
@@ -773,19 +778,19 @@
             this.panel6.Controls.Add(this.button6);
             this.panel6.Controls.Add(this.comboBox6);
             this.panel6.Controls.Add(this.label6);
-            this.panel6.Location = new System.Drawing.Point(8, 217);
+            this.panel6.Location = new System.Drawing.Point(8, 131);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(500, 176);
+            this.panel6.Size = new System.Drawing.Size(500, 135);
             this.panel6.TabIndex = 6;
             // 
             // listBox2
             // 
-            this.listBox2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox2.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox2.FormattingEnabled = true;
-            this.listBox2.ItemHeight = 21;
+            this.listBox2.ItemHeight = 17;
             this.listBox2.Location = new System.Drawing.Point(2, 62);
             this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(444, 88);
+            this.listBox2.Size = new System.Drawing.Size(444, 72);
             this.listBox2.TabIndex = 8;
             // 
             // button5
@@ -826,9 +831,9 @@
             this.label6.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(-3, 1);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(458, 30);
+            this.label6.Size = new System.Drawing.Size(57, 30);
             this.label6.TabIndex = 0;
-            this.label6.Text = "General Education (GEM)/Singapore Studies (SS)";
+            this.label6.Text = "GEM";
             // 
             // panel5
             // 
@@ -837,19 +842,19 @@
             this.panel5.Controls.Add(this.button4);
             this.panel5.Controls.Add(this.comboBox5);
             this.panel5.Controls.Add(this.label5);
-            this.panel5.Location = new System.Drawing.Point(508, 41);
+            this.panel5.Location = new System.Drawing.Point(508, -3);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(500, 176);
+            this.panel5.Size = new System.Drawing.Size(500, 135);
             this.panel5.TabIndex = 5;
             // 
             // listBox1
             // 
-            this.listBox1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 21;
+            this.listBox1.ItemHeight = 17;
             this.listBox1.Location = new System.Drawing.Point(2, 62);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(444, 88);
+            this.listBox1.Size = new System.Drawing.Size(444, 72);
             this.listBox1.TabIndex = 8;
             // 
             // button3
@@ -901,19 +906,19 @@
             this.modulesPanel.Controls.Add(this.addButton);
             this.modulesPanel.Controls.Add(this.modulesTakenBox);
             this.modulesPanel.Controls.Add(this.modulesLabel);
-            this.modulesPanel.Location = new System.Drawing.Point(8, 41);
+            this.modulesPanel.Location = new System.Drawing.Point(8, -3);
             this.modulesPanel.Name = "modulesPanel";
-            this.modulesPanel.Size = new System.Drawing.Size(500, 176);
+            this.modulesPanel.Size = new System.Drawing.Size(500, 135);
             this.modulesPanel.TabIndex = 4;
             // 
             // modulesTakenLBox
             // 
-            this.modulesTakenLBox.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.modulesTakenLBox.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.modulesTakenLBox.FormattingEnabled = true;
-            this.modulesTakenLBox.ItemHeight = 21;
+            this.modulesTakenLBox.ItemHeight = 17;
             this.modulesTakenLBox.Location = new System.Drawing.Point(2, 62);
             this.modulesTakenLBox.Name = "modulesTakenLBox";
-            this.modulesTakenLBox.Size = new System.Drawing.Size(444, 88);
+            this.modulesTakenLBox.Size = new System.Drawing.Size(444, 72);
             this.modulesTakenLBox.TabIndex = 8;
             // 
             // delButton
@@ -1006,6 +1011,16 @@
             this.panel3.Size = new System.Drawing.Size(460, 350);
             this.panel3.TabIndex = 13;
             // 
+            // pictureBox10
+            // 
+            this.pictureBox10.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox10.Location = new System.Drawing.Point(327, -1);
+            this.pictureBox10.Name = "pictureBox10";
+            this.pictureBox10.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox10.TabIndex = 18;
+            this.pictureBox10.TabStop = false;
+            this.pictureBox10.Visible = false;
+            // 
             // modulesDislikeLBox
             // 
             this.modulesDislikeLBox.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -1070,6 +1085,16 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(460, 350);
             this.panel2.TabIndex = 12;
+            // 
+            // pictureBox9
+            // 
+            this.pictureBox9.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox9.Location = new System.Drawing.Point(327, -1);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox9.TabIndex = 17;
+            this.pictureBox9.TabStop = false;
+            this.pictureBox9.Visible = false;
             // 
             // modulesInterestLBox
             // 
@@ -1198,25 +1223,140 @@
             this.preferenceLabel.TabIndex = 0;
             this.preferenceLabel.Text = "Personal Preference:";
             // 
-            // pictureBox9
+            // label10
             // 
-            this.pictureBox9.Image = global::CS4244.Properties.Resources.tick;
-            this.pictureBox9.Location = new System.Drawing.Point(327, -1);
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(35, 35);
-            this.pictureBox9.TabIndex = 17;
-            this.pictureBox9.TabStop = false;
-            this.pictureBox9.Visible = false;
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.ForeColor = System.Drawing.Color.Red;
+            this.label10.Location = new System.Drawing.Point(6, 554);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(531, 30);
+            this.label10.TabIndex = 13;
+            this.label10.Text = "Please skip this page if you have not taken any modules";
             // 
-            // pictureBox10
+            // panel10
             // 
-            this.pictureBox10.Image = global::CS4244.Properties.Resources.tick;
-            this.pictureBox10.Location = new System.Drawing.Point(327, -1);
-            this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(35, 35);
-            this.pictureBox10.TabIndex = 18;
-            this.pictureBox10.TabStop = false;
-            this.pictureBox10.Visible = false;
+            this.panel10.Controls.Add(this.listBox6);
+            this.panel10.Controls.Add(this.button16);
+            this.panel10.Controls.Add(this.button17);
+            this.panel10.Controls.Add(this.comboBox10);
+            this.panel10.Controls.Add(this.label11);
+            this.panel10.Location = new System.Drawing.Point(508, 402);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(500, 135);
+            this.panel10.TabIndex = 15;
+            // 
+            // listBox6
+            // 
+            this.listBox6.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox6.FormattingEnabled = true;
+            this.listBox6.ItemHeight = 17;
+            this.listBox6.Location = new System.Drawing.Point(2, 62);
+            this.listBox6.Name = "listBox6";
+            this.listBox6.Size = new System.Drawing.Size(444, 72);
+            this.listBox6.TabIndex = 8;
+            // 
+            // button16
+            // 
+            this.button16.Location = new System.Drawing.Point(406, 33);
+            this.button16.Name = "button16";
+            this.button16.Size = new System.Drawing.Size(40, 23);
+            this.button16.TabIndex = 8;
+            this.button16.Text = "Del";
+            this.button16.UseVisualStyleBackColor = true;
+            // 
+            // button17
+            // 
+            this.button17.Location = new System.Drawing.Point(365, 33);
+            this.button17.Name = "button17";
+            this.button17.Size = new System.Drawing.Size(40, 23);
+            this.button17.TabIndex = 5;
+            this.button17.Text = "Add";
+            this.button17.UseVisualStyleBackColor = true;
+            // 
+            // comboBox10
+            // 
+            this.comboBox10.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.comboBox10.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.comboBox10.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboBox10.FormattingEnabled = true;
+            this.comboBox10.ItemHeight = 15;
+            this.comboBox10.Location = new System.Drawing.Point(2, 34);
+            this.comboBox10.Name = "comboBox10";
+            this.comboBox10.Size = new System.Drawing.Size(360, 23);
+            this.comboBox10.TabIndex = 4;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(-3, 1);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(75, 30);
+            this.label11.TabIndex = 0;
+            this.label11.Text = "Others";
+            // 
+            // panel11
+            // 
+            this.panel11.Controls.Add(this.listBox7);
+            this.panel11.Controls.Add(this.button18);
+            this.panel11.Controls.Add(this.button19);
+            this.panel11.Controls.Add(this.comboBox11);
+            this.panel11.Controls.Add(this.label12);
+            this.panel11.Location = new System.Drawing.Point(8, 402);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(500, 135);
+            this.panel11.TabIndex = 14;
+            // 
+            // listBox7
+            // 
+            this.listBox7.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox7.FormattingEnabled = true;
+            this.listBox7.ItemHeight = 17;
+            this.listBox7.Location = new System.Drawing.Point(2, 62);
+            this.listBox7.Name = "listBox7";
+            this.listBox7.Size = new System.Drawing.Size(444, 72);
+            this.listBox7.TabIndex = 8;
+            // 
+            // button18
+            // 
+            this.button18.Location = new System.Drawing.Point(406, 33);
+            this.button18.Name = "button18";
+            this.button18.Size = new System.Drawing.Size(40, 23);
+            this.button18.TabIndex = 8;
+            this.button18.Text = "Del";
+            this.button18.UseVisualStyleBackColor = true;
+            // 
+            // button19
+            // 
+            this.button19.Location = new System.Drawing.Point(365, 33);
+            this.button19.Name = "button19";
+            this.button19.Size = new System.Drawing.Size(40, 23);
+            this.button19.TabIndex = 5;
+            this.button19.Text = "Add";
+            this.button19.UseVisualStyleBackColor = true;
+            // 
+            // comboBox11
+            // 
+            this.comboBox11.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.comboBox11.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.comboBox11.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboBox11.FormattingEnabled = true;
+            this.comboBox11.ItemHeight = 15;
+            this.comboBox11.Location = new System.Drawing.Point(2, 34);
+            this.comboBox11.Name = "comboBox11";
+            this.comboBox11.Size = new System.Drawing.Size(360, 23);
+            this.comboBox11.TabIndex = 4;
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Location = new System.Drawing.Point(-3, 1);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(35, 30);
+            this.label12.TabIndex = 0;
+            this.label12.Text = "SS";
             // 
             // Form1
             // 
@@ -1269,13 +1409,17 @@
             this.tabPage3.ResumeLayout(false);
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
+            this.panel10.ResumeLayout(false);
+            this.panel10.PerformLayout();
+            this.panel11.ResumeLayout(false);
+            this.panel11.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -1367,7 +1511,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button14;
         private System.Windows.Forms.Button button15;
-        private System.Windows.Forms.Label label10;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox3;
@@ -1378,6 +1521,19 @@
         private System.Windows.Forms.PictureBox pictureBox8;
         private System.Windows.Forms.PictureBox pictureBox9;
         private System.Windows.Forms.PictureBox pictureBox10;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Panel panel10;
+        private System.Windows.Forms.ListBox listBox6;
+        private System.Windows.Forms.Button button16;
+        private System.Windows.Forms.Button button17;
+        private System.Windows.Forms.ComboBox comboBox10;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Panel panel11;
+        private System.Windows.Forms.ListBox listBox7;
+        private System.Windows.Forms.Button button18;
+        private System.Windows.Forms.Button button19;
+        private System.Windows.Forms.ComboBox comboBox11;
+        private System.Windows.Forms.Label label12;
 
 
     }

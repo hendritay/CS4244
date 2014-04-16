@@ -40,7 +40,7 @@ namespace CS4244
                     modulesInterestBox.Items.Add(code + " " + name);
                     modulesDislikeBox.Items.Add(code + " " + name);
                     //comboBox5.Items.Add(code + " " + name);
-                    comboBox6.Items.Add(code + " " + name);
+                    //comboBox6.Items.Add(code + " " + name);
                     comboBox7.Items.Add(code + " " + name);
                     comboBox8.Items.Add(code + " " + name);
                     comboBox9.Items.Add(code + " " + name);
@@ -83,7 +83,41 @@ namespace CS4244
                     }
                 }
 
-                
+                // Init GEM
+                query = "Select ModuleCode, ModuleName from ModuleInformation where ModuleCode like 'GE%'";
+                command = new SQLiteCommand(query, con);
+                reader = command.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    string modules = reader.GetString(0);
+                    string modulesName = reader.GetString(1);
+                    comboBox6.Items.Add(modules + " " + modulesName);
+                }
+
+                // Init SS
+                query = "Select ModuleCode, ModuleName from ModuleInformation where ModuleCode like 'SS%'";
+                command = new SQLiteCommand(query, con);
+                reader = command.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    string modules = reader.GetString(0);
+                    string modulesName = reader.GetString(1);
+                    comboBox11.Items.Add(modules + " " + modulesName);
+                }
+
+                // Init Others
+                query = "Select ModuleCode, ModuleName from ModuleInformation where ModuleCode like 'CS4%'";
+                command = new SQLiteCommand(query, con);
+                reader = command.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    string modules = reader.GetString(0);
+                    string modulesName = reader.GetString(1);
+                    comboBox10.Items.Add(modules + " " + modulesName);
+                }
 
                 con.Close();
             }
@@ -532,11 +566,10 @@ namespace CS4244
                 u.createFocusAreaInstance();
                 u.createModulesTakenInstance();
                 u.createRequirementInstance();
+                u.createRequiredModulesInstance();
 
                 Form2 form2 = new Form2();
                 form2.ShowDialog();
-
-                MessageBox.Show(u.getRequirementInstance()[0]);
             }
             else
             {
@@ -549,6 +582,9 @@ namespace CS4244
                 MessageBox.Show("Please fill in the required fields:\r\n" + field);
                 tabControl1.SelectTab(0);
             }
+
+            u.OutputEverything();
+
         }
 
         private void nameTextBox_TextChanged(object sender, EventArgs e)
