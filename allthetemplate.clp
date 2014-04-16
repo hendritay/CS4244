@@ -4,7 +4,7 @@
 )
 
 (defrule MAIN::change-phase
-	?list <- (phase-sequence1  ?next-phase  $?other-phases)
+	?list <- (phase-sequence  ?next-phase  $?other-phases)
 =>
 	(focus ?next-phase)
 	(retract ?list)
@@ -16,14 +16,17 @@
 (defmodule INITIALIZE
   (export defclass MODULE)
   (export defclass MODULEPREQ)
+  
  )
 
 (defmodule MODULESELECTION
    (import INITIALIZE defclass ?ALL)
+   (export defclass CANDIDATEMODULE)
 )
  
 (defmodule TIMETABLE
   (import INITIALIZE defclass ?ALL)
+  (import MODULESELECTION defclass ?ALL)
 )
 
 
@@ -73,7 +76,7 @@
    (slot moduleid (create-accessor read-write))
  )
  
- (defclass INITIALIZE::CANDIDATEMODULE
+ (defclass MODULESELECTION::CANDIDATEMODULE
     (is-a USER)
 	(slot moduleid )
 	(slot moduletagtotalscore (type NUMBER))
