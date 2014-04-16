@@ -5,6 +5,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption V1)
 )
 ([timeACC1002X0] of MODULETIME 
 (moduleid  ACC1002X)
@@ -12,6 +13,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption X1)
 )
 ([timeACC1002X1] of MODULETIME 
 (moduleid  ACC1002X)
@@ -19,6 +21,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption X2)
 )
 ([timeACC10060] of MODULETIME 
 (moduleid  ACC1006)
@@ -26,6 +29,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption J1)
 )
 ([timeACC20020] of MODULETIME 
 (moduleid  ACC2002)
@@ -33,6 +37,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption K1)
 )
 ([timeACC20021] of MODULETIME 
 (moduleid  ACC2002)
@@ -40,6 +45,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption K2)
 )
 ([timeACC36010] of MODULETIME 
 (moduleid  ACC3601)
@@ -47,6 +53,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption A1)
 )
 ([timeACC36011] of MODULETIME 
 (moduleid  ACC3601)
@@ -54,6 +61,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption A1)
 )
 ([timeACC36012] of MODULETIME 
 (moduleid  ACC3601)
@@ -61,6 +69,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption A2)
 )
 ([timeACC36013] of MODULETIME 
 (moduleid  ACC3601)
@@ -68,6 +77,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption A2)
 )
 ([timeACC36014] of MODULETIME 
 (moduleid  ACC3601)
@@ -75,6 +85,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption A3)
 )
 ([timeACC36015] of MODULETIME 
 (moduleid  ACC3601)
@@ -82,6 +93,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption A3)
 )
 ([timeACC36020] of MODULETIME 
 (moduleid  ACC3602)
@@ -89,6 +101,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption B1)
 )
 ([timeACC36021] of MODULETIME 
 (moduleid  ACC3602)
@@ -96,6 +109,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption B1)
 )
 ([timeACC36022] of MODULETIME 
 (moduleid  ACC3602)
@@ -103,6 +117,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption B2)
 )
 ([timeACC36023] of MODULETIME 
 (moduleid  ACC3602)
@@ -110,6 +125,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption B2)
 )
 ([timeACC36024] of MODULETIME 
 (moduleid  ACC3602)
@@ -117,6 +133,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption B3)
 )
 ([timeACC36025] of MODULETIME 
 (moduleid  ACC3602)
@@ -124,6 +141,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption B3)
 )
 ([timeACC36030] of MODULETIME 
 (moduleid  ACC3603)
@@ -131,6 +149,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption C1)
 )
 ([timeACC36031] of MODULETIME 
 (moduleid  ACC3603)
@@ -138,6 +157,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption C1)
 )
 ([timeACC36032] of MODULETIME 
 (moduleid  ACC3603)
@@ -145,6 +165,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption C2)
 )
 ([timeACC36033] of MODULETIME 
 (moduleid  ACC3603)
@@ -152,6 +173,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption C2)
 )
 ([timeACC36034] of MODULETIME 
 (moduleid  ACC3603)
@@ -159,6 +181,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption C3)
 )
 ([timeACC36035] of MODULETIME 
 (moduleid  ACC3603)
@@ -166,6 +189,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption C3)
 )
 ([timeACC36040] of MODULETIME 
 (moduleid  ACC3604)
@@ -173,6 +197,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption D1)
 )
 ([timeACC36041] of MODULETIME 
 (moduleid  ACC3604)
@@ -180,6 +205,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption D1)
 )
 ([timeACC36042] of MODULETIME 
 (moduleid  ACC3604)
@@ -187,6 +213,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption D2)
 )
 ([timeACC36043] of MODULETIME 
 (moduleid  ACC3604)
@@ -194,6 +221,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption D2)
 )
 ([timeACC36044] of MODULETIME 
 (moduleid  ACC3604)
@@ -201,6 +229,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption D3)
 )
 ([timeACC36045] of MODULETIME 
 (moduleid  ACC3604)
@@ -208,6 +237,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption D3)
 )
 ([timeACC36050] of MODULETIME 
 (moduleid  ACC3605)
@@ -215,6 +245,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E1)
 )
 ([timeACC36051] of MODULETIME 
 (moduleid  ACC3605)
@@ -222,6 +253,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E1)
 )
 ([timeACC36052] of MODULETIME 
 (moduleid  ACC3605)
@@ -229,6 +261,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption E2)
 )
 ([timeACC36053] of MODULETIME 
 (moduleid  ACC3605)
@@ -236,6 +269,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E2)
 )
 ([timeACC36054] of MODULETIME 
 (moduleid  ACC3605)
@@ -243,6 +277,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E3)
 )
 ([timeACC36055] of MODULETIME 
 (moduleid  ACC3605)
@@ -250,6 +285,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption E3)
 )
 ([timeACC36060] of MODULETIME 
 (moduleid  ACC3606)
@@ -257,6 +293,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption JX)
 )
 ([timeACC36110] of MODULETIME 
 (moduleid  ACC3611)
@@ -264,6 +301,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption K1)
 )
 ([timeACC36111] of MODULETIME 
 (moduleid  ACC3611)
@@ -271,6 +309,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption K1)
 )
 ([timeACC36112] of MODULETIME 
 (moduleid  ACC3611)
@@ -278,6 +317,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption K2)
 )
 ([timeACC36113] of MODULETIME 
 (moduleid  ACC3611)
@@ -285,6 +325,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption K2)
 )
 ([timeACC36114] of MODULETIME 
 (moduleid  ACC3611)
@@ -292,6 +333,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption K3)
 )
 ([timeACC36115] of MODULETIME 
 (moduleid  ACC3611)
@@ -299,6 +341,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption K3)
 )
 ([timeACC36120] of MODULETIME 
 (moduleid  ACC3612)
@@ -306,6 +349,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption F4)
 )
 ([timeACC36121] of MODULETIME 
 (moduleid  ACC3612)
@@ -313,6 +357,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption F4)
 )
 ([timeACC36122] of MODULETIME 
 (moduleid  ACC3612)
@@ -320,6 +365,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption F4)
 )
 ([timeACC36123] of MODULETIME 
 (moduleid  ACC3612)
@@ -327,6 +373,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption F5)
 )
 ([timeACC36124] of MODULETIME 
 (moduleid  ACC3612)
@@ -334,6 +381,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption F5)
 )
 ([timeACC36125] of MODULETIME 
 (moduleid  ACC3612)
@@ -341,6 +389,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption F5)
 )
 ([timeACC36126] of MODULETIME 
 (moduleid  ACC3612)
@@ -348,6 +397,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption F6)
 )
 ([timeACC36127] of MODULETIME 
 (moduleid  ACC3612)
@@ -355,6 +405,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption F6)
 )
 ([timeACC36128] of MODULETIME 
 (moduleid  ACC3612)
@@ -362,6 +413,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption F6)
 )
 ([timeACC36130] of MODULETIME 
 (moduleid  ACC3613)
@@ -369,6 +421,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption H4)
 )
 ([timeACC36131] of MODULETIME 
 (moduleid  ACC3613)
@@ -376,6 +429,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption H4)
 )
 ([timeACC36132] of MODULETIME 
 (moduleid  ACC3613)
@@ -383,6 +437,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption H5)
 )
 ([timeACC36133] of MODULETIME 
 (moduleid  ACC3613)
@@ -390,6 +445,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption H5)
 )
 ([timeACC36134] of MODULETIME 
 (moduleid  ACC3613)
@@ -397,6 +453,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption H6)
 )
 ([timeACC36135] of MODULETIME 
 (moduleid  ACC3613)
@@ -404,6 +461,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption H6)
 )
 ([timeACC36140] of MODULETIME 
 (moduleid  ACC3614)
@@ -411,6 +469,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G1)
 )
 ([timeACC36141] of MODULETIME 
 (moduleid  ACC3614)
@@ -418,6 +477,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption G1)
 )
 ([timeACC36142] of MODULETIME 
 (moduleid  ACC3614)
@@ -425,6 +485,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G2)
 )
 ([timeACC36143] of MODULETIME 
 (moduleid  ACC3614)
@@ -432,6 +493,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption G2)
 )
 ([timeACC36144] of MODULETIME 
 (moduleid  ACC3614)
@@ -439,6 +501,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption G3)
 )
 ([timeACC36145] of MODULETIME 
 (moduleid  ACC3614)
@@ -446,6 +509,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption G3)
 )
 ([timeACC36150] of MODULETIME 
 (moduleid  ACC3615)
@@ -453,6 +517,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption M4)
 )
 ([timeACC36151] of MODULETIME 
 (moduleid  ACC3615)
@@ -460,6 +525,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption M4)
 )
 ([timeACC36152] of MODULETIME 
 (moduleid  ACC3615)
@@ -467,6 +533,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption M5)
 )
 ([timeACC36153] of MODULETIME 
 (moduleid  ACC3615)
@@ -474,6 +541,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption M5)
 )
 ([timeACC36154] of MODULETIME 
 (moduleid  ACC3615)
@@ -481,6 +549,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption M6)
 )
 ([timeACC36155] of MODULETIME 
 (moduleid  ACC3615)
@@ -488,6 +557,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption M6)
 )
 ([timeACC46110] of MODULETIME 
 (moduleid  ACC4611)
@@ -495,6 +565,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption K1)
 )
 ([timeACC4612A0] of MODULETIME 
 (moduleid  ACC4612A)
@@ -502,6 +573,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption L1)
 )
 ([timeACC4612C0] of MODULETIME 
 (moduleid  ACC4612C)
@@ -509,6 +581,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption C1)
 )
 ([timeACC4612E0] of MODULETIME 
 (moduleid  ACC4612E)
@@ -516,6 +589,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption E1)
 )
 ([timeAR11020] of MODULETIME 
 (moduleid  AR1102)
@@ -523,6 +597,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR11021] of MODULETIME 
 (moduleid  AR1102)
@@ -530,6 +605,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR13260] of MODULETIME 
 (moduleid  AR1326)
@@ -537,6 +613,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR17210] of MODULETIME 
 (moduleid  AR1721)
@@ -544,6 +621,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR17240] of MODULETIME 
 (moduleid  AR1724)
@@ -551,6 +629,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR21020] of MODULETIME 
 (moduleid  AR2102)
@@ -558,6 +637,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR21021] of MODULETIME 
 (moduleid  AR2102)
@@ -565,6 +645,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR22250] of MODULETIME 
 (moduleid  AR2225)
@@ -572,6 +653,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR23270] of MODULETIME 
 (moduleid  AR2327)
@@ -579,6 +661,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR27230] of MODULETIME 
 (moduleid  AR2723)
@@ -586,6 +669,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR31020] of MODULETIME 
 (moduleid  AR3102)
@@ -593,6 +677,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR31021] of MODULETIME 
 (moduleid  AR3102)
@@ -600,6 +685,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR3102A0] of MODULETIME 
 (moduleid  AR3102A)
@@ -607,6 +693,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR3102A1] of MODULETIME 
 (moduleid  AR3102A)
@@ -614,6 +701,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR37210] of MODULETIME 
 (moduleid  AR3721)
@@ -621,6 +709,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR41020] of MODULETIME 
 (moduleid  AR4102)
@@ -628,6 +717,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR41021] of MODULETIME 
 (moduleid  AR4102)
@@ -635,6 +725,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR41040] of MODULETIME 
 (moduleid  AR4104)
@@ -642,6 +733,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR41041] of MODULETIME 
 (moduleid  AR4104)
@@ -649,6 +741,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR41420] of MODULETIME 
 (moduleid  AR4142)
@@ -656,6 +749,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR42230] of MODULETIME 
 (moduleid  AR4223)
@@ -663,6 +757,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR43230] of MODULETIME 
 (moduleid  AR4323)
@@ -670,6 +765,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR50110] of MODULETIME 
 (moduleid  AR5011)
@@ -677,6 +773,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR52210] of MODULETIME 
 (moduleid  AR5221)
@@ -684,6 +781,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR5952J0] of MODULETIME 
 (moduleid  AR5952J)
@@ -691,6 +789,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR5952Z0] of MODULETIME 
 (moduleid  AR5952Z)
@@ -698,6 +797,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR5952Z1] of MODULETIME 
 (moduleid  AR5952Z)
@@ -705,6 +805,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR5952Z2] of MODULETIME 
 (moduleid  AR5952Z)
@@ -712,6 +813,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAR5953L0] of MODULETIME 
 (moduleid  AR5953L)
@@ -719,6 +821,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeAS42320] of MODULETIME 
 (moduleid  AS4232)
@@ -726,6 +829,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeBFS10010] of MODULETIME 
 (moduleid  BFS1001)
@@ -733,6 +837,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption A1)
 )
 ([timeBFS10011] of MODULETIME 
 (moduleid  BFS1001)
@@ -740,6 +845,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption A2)
 )
 ([timeBFS10012] of MODULETIME 
 (moduleid  BFS1001)
@@ -747,6 +853,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption A3)
 )
 ([timeBFS10013] of MODULETIME 
 (moduleid  BFS1001)
@@ -754,6 +861,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption A4)
 )
 ([timeBFS10014] of MODULETIME 
 (moduleid  BFS1001)
@@ -761,6 +869,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption A5)
 )
 ([timeBN20010] of MODULETIME 
 (moduleid  BN2001)
@@ -768,6 +877,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeBN21030] of MODULETIME 
 (moduleid  BN2103)
@@ -775,6 +885,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeBN22010] of MODULETIME 
 (moduleid  BN2201)
@@ -782,6 +893,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeBN22030] of MODULETIME 
 (moduleid  BN2203)
@@ -789,6 +901,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeBN22031] of MODULETIME 
 (moduleid  BN2203)
@@ -796,6 +909,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeBN24010] of MODULETIME 
 (moduleid  BN2401)
@@ -803,6 +917,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeBN34010] of MODULETIME 
 (moduleid  BN3401)
@@ -810,6 +925,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeBN35010] of MODULETIME 
 (moduleid  BN3501)
@@ -817,6 +933,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeBN42010] of MODULETIME 
 (moduleid  BN4201)
@@ -824,6 +941,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeBN42030] of MODULETIME 
 (moduleid  BN4203)
@@ -831,6 +949,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeBN44020] of MODULETIME 
 (moduleid  BN4402)
@@ -838,6 +957,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeBN44040] of MODULETIME 
 (moduleid  BN4404)
@@ -845,6 +965,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeBSP10040] of MODULETIME 
 (moduleid  BSP1004)
@@ -852,6 +973,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption A1)
 )
 ([timeBSP10041] of MODULETIME 
 (moduleid  BSP1004)
@@ -859,6 +981,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A2)
 )
 ([timeBSP10042] of MODULETIME 
 (moduleid  BSP1004)
@@ -866,6 +989,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption A3)
 )
 ([timeBSP10043] of MODULETIME 
 (moduleid  BSP1004)
@@ -873,6 +997,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A4)
 )
 ([timeBSP10044] of MODULETIME 
 (moduleid  BSP1004)
@@ -880,6 +1005,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption A5)
 )
 ([timeBSP10045] of MODULETIME 
 (moduleid  BSP1004)
@@ -887,6 +1013,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A6)
 )
 ([timeBSP10046] of MODULETIME 
 (moduleid  BSP1004)
@@ -894,6 +1021,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption A7)
 )
 ([timeBSP10047] of MODULETIME 
 (moduleid  BSP1004)
@@ -901,6 +1029,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A8)
 )
 ([timeBSP1004X0] of MODULETIME 
 (moduleid  BSP1004X)
@@ -908,6 +1037,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption Y1)
 )
 ([timeBSP10050] of MODULETIME 
 (moduleid  BSP1005)
@@ -915,6 +1045,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption D1)
 )
 ([timeBSP10051] of MODULETIME 
 (moduleid  BSP1005)
@@ -922,6 +1053,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption D2)
 )
 ([timeBSP20010] of MODULETIME 
 (moduleid  BSP2001)
@@ -929,6 +1061,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G1)
 )
 ([timeBSP20011] of MODULETIME 
 (moduleid  BSP2001)
@@ -936,6 +1069,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption G2)
 )
 ([timeBSP20050] of MODULETIME 
 (moduleid  BSP2005)
@@ -943,6 +1077,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E1)
 )
 ([timeBSP20051] of MODULETIME 
 (moduleid  BSP2005)
@@ -950,6 +1085,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E2)
 )
 ([timeBSP3001A0] of MODULETIME 
 (moduleid  BSP3001A)
@@ -957,6 +1093,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption A1)
 )
 ([timeBSP3001A1] of MODULETIME 
 (moduleid  BSP3001A)
@@ -964,6 +1101,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption A2)
 )
 ([timeBSP3001B0] of MODULETIME 
 (moduleid  BSP3001B)
@@ -971,6 +1109,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B3)
 )
 ([timeBSP3001B1] of MODULETIME 
 (moduleid  BSP3001B)
@@ -978,6 +1117,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption B4)
 )
 ([timeBSP3001C0] of MODULETIME 
 (moduleid  BSP3001C)
@@ -985,6 +1125,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption C5)
 )
 ([timeBSP3001C1] of MODULETIME 
 (moduleid  BSP3001C)
@@ -992,6 +1133,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption C6)
 )
 ([timeBSP3001C2] of MODULETIME 
 (moduleid  BSP3001C)
@@ -999,6 +1141,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption C7)
 )
 ([timeBSP45120] of MODULETIME 
 (moduleid  BSP4512)
@@ -1006,6 +1149,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption D1)
 )
 ([timeCE21120] of MODULETIME 
 (moduleid  CE2112)
@@ -1013,6 +1157,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE21121] of MODULETIME 
 (moduleid  CE2112)
@@ -1020,6 +1165,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE21830] of MODULETIME 
 (moduleid  CE2183)
@@ -1027,6 +1173,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE21831] of MODULETIME 
 (moduleid  CE2183)
@@ -1034,6 +1181,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE31010] of MODULETIME 
 (moduleid  CE3101)
@@ -1041,6 +1189,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE31020] of MODULETIME 
 (moduleid  CE3102)
@@ -1048,6 +1197,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption PRJ)
 )
 ([timeCE31160] of MODULETIME 
 (moduleid  CE3116)
@@ -1055,6 +1205,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE31161] of MODULETIME 
 (moduleid  CE3116)
@@ -1062,6 +1213,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE31320] of MODULETIME 
 (moduleid  CE3132)
@@ -1069,6 +1221,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE31321] of MODULETIME 
 (moduleid  CE3132)
@@ -1076,6 +1229,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE31550] of MODULETIME 
 (moduleid  CE3155)
@@ -1083,6 +1237,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE31551] of MODULETIME 
 (moduleid  CE3155)
@@ -1090,6 +1245,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE31650] of MODULETIME 
 (moduleid  CE3165)
@@ -1097,6 +1253,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE31651] of MODULETIME 
 (moduleid  CE3165)
@@ -1104,6 +1261,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE42210] of MODULETIME 
 (moduleid  CE4221)
@@ -1111,6 +1269,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE42310] of MODULETIME 
 (moduleid  CE4231)
@@ -1118,6 +1277,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE42580] of MODULETIME 
 (moduleid  CE4258)
@@ -1125,6 +1285,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE42820] of MODULETIME 
 (moduleid  CE4282)
@@ -1132,6 +1293,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE51050] of MODULETIME 
 (moduleid  CE5105)
@@ -1139,6 +1301,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE51060] of MODULETIME 
 (moduleid  CE5106)
@@ -1146,6 +1309,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE51070] of MODULETIME 
 (moduleid  CE5107)
@@ -1153,6 +1317,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE52070] of MODULETIME 
 (moduleid  CE5207)
@@ -1160,6 +1325,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE53080] of MODULETIME 
 (moduleid  CE5308)
@@ -1167,6 +1333,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE56030] of MODULETIME 
 (moduleid  CE5603)
@@ -1174,6 +1341,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE56040] of MODULETIME 
 (moduleid  CE5604)
@@ -1181,6 +1349,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE56110] of MODULETIME 
 (moduleid  CE5611)
@@ -1188,6 +1357,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE58050] of MODULETIME 
 (moduleid  CE5805)
@@ -1195,6 +1365,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE58810] of MODULETIME 
 (moduleid  CE5881)
@@ -1202,6 +1373,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCE5883A0] of MODULETIME 
 (moduleid  CE5883A)
@@ -1209,6 +1381,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCG11080] of MODULETIME 
 (moduleid  CG1108)
@@ -1216,6 +1389,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeCG22710] of MODULETIME 
 (moduleid  CG2271)
@@ -1223,6 +1397,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCG3204L0] of MODULETIME 
 (moduleid  CG3204L)
@@ -1230,6 +1405,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCG40010] of MODULETIME 
 (moduleid  CG4001)
@@ -1237,6 +1413,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH1101E0] of MODULETIME 
 (moduleid  CH1101E)
@@ -1244,6 +1421,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH21410] of MODULETIME 
 (moduleid  CH2141)
@@ -1251,6 +1429,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH22230] of MODULETIME 
 (moduleid  CH2223)
@@ -1258,6 +1437,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH22730] of MODULETIME 
 (moduleid  CH2273)
@@ -1265,6 +1445,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH22910] of MODULETIME 
 (moduleid  CH2291)
@@ -1272,6 +1453,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH22970] of MODULETIME 
 (moduleid  CH2297)
@@ -1279,6 +1461,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH32230] of MODULETIME 
 (moduleid  CH3223)
@@ -1286,6 +1469,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH32260] of MODULETIME 
 (moduleid  CH3226)
@@ -1293,6 +1477,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH32290] of MODULETIME 
 (moduleid  CH3229)
@@ -1300,6 +1485,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH32480] of MODULETIME 
 (moduleid  CH3248)
@@ -1307,6 +1493,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH42440] of MODULETIME 
 (moduleid  CH4244)
@@ -1314,6 +1501,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH42610] of MODULETIME 
 (moduleid  CH4261)
@@ -1321,6 +1509,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH42810] of MODULETIME 
 (moduleid  CH4281)
@@ -1328,6 +1517,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH52250] of MODULETIME 
 (moduleid  CH5225)
@@ -1335,6 +1525,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH5225R0] of MODULETIME 
 (moduleid  CH5225R)
@@ -1342,6 +1533,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH52420] of MODULETIME 
 (moduleid  CH5242)
@@ -1349,6 +1541,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH5242R0] of MODULETIME 
 (moduleid  CH5242R)
@@ -1356,6 +1549,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH58800] of MODULETIME 
 (moduleid  CH5880)
@@ -1363,6 +1557,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH5880R0] of MODULETIME 
 (moduleid  CH5880R)
@@ -1370,6 +1565,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH62010] of MODULETIME 
 (moduleid  CH6201)
@@ -1377,6 +1573,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCH62450] of MODULETIME 
 (moduleid  CH6245)
@@ -1384,6 +1581,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCL1101E0] of MODULETIME 
 (moduleid  CL1101E)
@@ -1391,6 +1589,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCL21030] of MODULETIME 
 (moduleid  CL2103)
@@ -1398,6 +1597,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCL22410] of MODULETIME 
 (moduleid  CL2241)
@@ -1405,6 +1605,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCL22600] of MODULETIME 
 (moduleid  CL2260)
@@ -1412,6 +1613,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCL22810] of MODULETIME 
 (moduleid  CL2281)
@@ -1419,6 +1621,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCL22910] of MODULETIME 
 (moduleid  CL2291)
@@ -1426,6 +1629,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCL32050] of MODULETIME 
 (moduleid  CL3205)
@@ -1433,6 +1637,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCL32080] of MODULETIME 
 (moduleid  CL3208)
@@ -1440,6 +1645,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCL32110] of MODULETIME 
 (moduleid  CL3211)
@@ -1447,6 +1653,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCL32810] of MODULETIME 
 (moduleid  CL3281)
@@ -1454,6 +1661,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCM11210] of MODULETIME 
 (moduleid  CM1121)
@@ -1461,6 +1669,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM11610] of MODULETIME 
 (moduleid  CM1161)
@@ -1468,6 +1677,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM11611] of MODULETIME 
 (moduleid  CM1161)
@@ -1475,6 +1685,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM11910] of MODULETIME 
 (moduleid  CM1191)
@@ -1482,6 +1693,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM14020] of MODULETIME 
 (moduleid  CM1402)
@@ -1489,6 +1701,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM14021] of MODULETIME 
 (moduleid  CM1402)
@@ -1496,6 +1709,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM15020] of MODULETIME 
 (moduleid  CM1502)
@@ -1503,6 +1717,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCM15021] of MODULETIME 
 (moduleid  CM1502)
@@ -1510,6 +1725,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCM21010] of MODULETIME 
 (moduleid  CM2101)
@@ -1517,6 +1733,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21011] of MODULETIME 
 (moduleid  CM2101)
@@ -1524,6 +1741,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21012] of MODULETIME 
 (moduleid  CM2101)
@@ -1531,6 +1749,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21110] of MODULETIME 
 (moduleid  CM2111)
@@ -1538,6 +1757,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21111] of MODULETIME 
 (moduleid  CM2111)
@@ -1545,6 +1765,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21112] of MODULETIME 
 (moduleid  CM2111)
@@ -1552,6 +1773,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21210] of MODULETIME 
 (moduleid  CM2121)
@@ -1559,6 +1781,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21211] of MODULETIME 
 (moduleid  CM2121)
@@ -1566,6 +1789,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21212] of MODULETIME 
 (moduleid  CM2121)
@@ -1573,6 +1797,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21420] of MODULETIME 
 (moduleid  CM2142)
@@ -1580,6 +1805,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21421] of MODULETIME 
 (moduleid  CM2142)
@@ -1587,6 +1813,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21422] of MODULETIME 
 (moduleid  CM2142)
@@ -1594,6 +1821,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21610] of MODULETIME 
 (moduleid  CM2161)
@@ -1601,6 +1829,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21611] of MODULETIME 
 (moduleid  CM2161)
@@ -1608,6 +1837,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21910] of MODULETIME 
 (moduleid  CM2191)
@@ -1615,6 +1845,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21920] of MODULETIME 
 (moduleid  CM2192)
@@ -1622,6 +1853,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM21921] of MODULETIME 
 (moduleid  CM2192)
@@ -1629,6 +1861,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeCM2192A0] of MODULETIME 
 (moduleid  CM2192A)
@@ -1636,6 +1869,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM31810] of MODULETIME 
 (moduleid  CM3181)
@@ -1643,6 +1877,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM31811] of MODULETIME 
 (moduleid  CM3181)
@@ -1650,6 +1885,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM31812] of MODULETIME 
 (moduleid  CM3181)
@@ -1657,6 +1893,7 @@
 (starttime 600)
 (endtime 600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM31813] of MODULETIME 
 (moduleid  CM3181)
@@ -1664,6 +1901,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM31814] of MODULETIME 
 (moduleid  CM3181)
@@ -1671,6 +1909,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM31815] of MODULETIME 
 (moduleid  CM3181)
@@ -1678,6 +1917,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32110] of MODULETIME 
 (moduleid  CM3211)
@@ -1685,6 +1925,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32111] of MODULETIME 
 (moduleid  CM3211)
@@ -1692,6 +1933,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32220] of MODULETIME 
 (moduleid  CM3222)
@@ -1699,6 +1941,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption L1)
 )
 ([timeCM32221] of MODULETIME 
 (moduleid  CM3222)
@@ -1706,6 +1949,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption L1)
 )
 ([timeCM32250] of MODULETIME 
 (moduleid  CM3225)
@@ -1713,6 +1957,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32251] of MODULETIME 
 (moduleid  CM3225)
@@ -1720,6 +1965,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32320] of MODULETIME 
 (moduleid  CM3232)
@@ -1727,6 +1973,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeCM32321] of MODULETIME 
 (moduleid  CM3232)
@@ -1734,6 +1981,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeCM32510] of MODULETIME 
 (moduleid  CM3251)
@@ -1741,6 +1989,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32511] of MODULETIME 
 (moduleid  CM3251)
@@ -1748,6 +1997,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32530] of MODULETIME 
 (moduleid  CM3253)
@@ -1755,6 +2005,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption L1)
 )
 ([timeCM32531] of MODULETIME 
 (moduleid  CM3253)
@@ -1762,6 +2013,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption L1)
 )
 ([timeCM32610] of MODULETIME 
 (moduleid  CM3261)
@@ -1769,6 +2021,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32611] of MODULETIME 
 (moduleid  CM3261)
@@ -1776,6 +2029,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32620] of MODULETIME 
 (moduleid  CM3262)
@@ -1783,6 +2037,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32621] of MODULETIME 
 (moduleid  CM3262)
@@ -1790,6 +2045,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32640] of MODULETIME 
 (moduleid  CM3264)
@@ -1797,6 +2053,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32641] of MODULETIME 
 (moduleid  CM3264)
@@ -1804,6 +2061,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32650] of MODULETIME 
 (moduleid  CM3265)
@@ -1811,6 +2069,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32651] of MODULETIME 
 (moduleid  CM3265)
@@ -1818,6 +2077,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32960] of MODULETIME 
 (moduleid  CM3296)
@@ -1825,6 +2085,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM32961] of MODULETIME 
 (moduleid  CM3296)
@@ -1832,6 +2093,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM33010] of MODULETIME 
 (moduleid  CM3301)
@@ -1839,6 +2101,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM33011] of MODULETIME 
 (moduleid  CM3301)
@@ -1846,6 +2109,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM33120] of MODULETIME 
 (moduleid  CM3312)
@@ -1853,6 +2117,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeCM33121] of MODULETIME 
 (moduleid  CM3312)
@@ -1860,6 +2125,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeCM33122] of MODULETIME 
 (moduleid  CM3312)
@@ -1867,6 +2133,7 @@
 (starttime 600)
 (endtime 600)
 (semester 2)
+(moduleoption L1)
 )
 ([timeCM33123] of MODULETIME 
 (moduleid  CM3312)
@@ -1874,6 +2141,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeCM33124] of MODULETIME 
 (moduleid  CM3312)
@@ -1881,6 +2149,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeCM33125] of MODULETIME 
 (moduleid  CM3312)
@@ -1888,6 +2157,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeCM42140] of MODULETIME 
 (moduleid  CM4214)
@@ -1895,6 +2165,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42141] of MODULETIME 
 (moduleid  CM4214)
@@ -1902,6 +2173,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42360] of MODULETIME 
 (moduleid  CM4236)
@@ -1909,6 +2181,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42361] of MODULETIME 
 (moduleid  CM4236)
@@ -1916,6 +2189,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42410] of MODULETIME 
 (moduleid  CM4241)
@@ -1923,6 +2197,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42411] of MODULETIME 
 (moduleid  CM4241)
@@ -1930,6 +2205,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42420] of MODULETIME 
 (moduleid  CM4242)
@@ -1937,6 +2213,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42421] of MODULETIME 
 (moduleid  CM4242)
@@ -1944,6 +2221,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42680] of MODULETIME 
 (moduleid  CM4268)
@@ -1951,6 +2229,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42681] of MODULETIME 
 (moduleid  CM4268)
@@ -1958,6 +2237,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42690] of MODULETIME 
 (moduleid  CM4269)
@@ -1965,6 +2245,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42691] of MODULETIME 
 (moduleid  CM4269)
@@ -1972,6 +2253,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42710] of MODULETIME 
 (moduleid  CM4271)
@@ -1979,6 +2261,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42711] of MODULETIME 
 (moduleid  CM4271)
@@ -1986,6 +2269,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42740] of MODULETIME 
 (moduleid  CM4274)
@@ -1993,6 +2277,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM42741] of MODULETIME 
 (moduleid  CM4274)
@@ -2000,6 +2285,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM52250] of MODULETIME 
 (moduleid  CM5225)
@@ -2007,6 +2293,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM52370] of MODULETIME 
 (moduleid  CM5237)
@@ -2014,6 +2301,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM52450] of MODULETIME 
 (moduleid  CM5245)
@@ -2021,6 +2309,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCM52620] of MODULETIME 
 (moduleid  CM5262)
@@ -2028,6 +2317,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeCN11110] of MODULETIME 
 (moduleid  CN1111)
@@ -2035,6 +2325,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN11111] of MODULETIME 
 (moduleid  CN1111)
@@ -2042,6 +2333,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN1111E0] of MODULETIME 
 (moduleid  CN1111E)
@@ -2049,6 +2341,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN21080] of MODULETIME 
 (moduleid  CN2108)
@@ -2056,6 +2349,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN21081] of MODULETIME 
 (moduleid  CN2108)
@@ -2063,6 +2357,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN21082] of MODULETIME 
 (moduleid  CN2108)
@@ -2070,6 +2365,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeCN21083] of MODULETIME 
 (moduleid  CN2108)
@@ -2077,6 +2373,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeCN21084] of MODULETIME 
 (moduleid  CN2108)
@@ -2084,6 +2381,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 3)
 )
 ([timeCN21085] of MODULETIME 
 (moduleid  CN2108)
@@ -2091,6 +2389,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 3)
 )
 ([timeCN21086] of MODULETIME 
 (moduleid  CN2108)
@@ -2098,6 +2397,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 4)
 )
 ([timeCN21087] of MODULETIME 
 (moduleid  CN2108)
@@ -2105,6 +2405,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 4)
 )
 ([timeCN21160] of MODULETIME 
 (moduleid  CN2116)
@@ -2112,6 +2413,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN21161] of MODULETIME 
 (moduleid  CN2116)
@@ -2119,6 +2421,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN2116E0] of MODULETIME 
 (moduleid  CN2116E)
@@ -2126,6 +2429,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN21210] of MODULETIME 
 (moduleid  CN2121)
@@ -2133,6 +2437,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN21211] of MODULETIME 
 (moduleid  CN2121)
@@ -2140,6 +2445,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN21220] of MODULETIME 
 (moduleid  CN2122)
@@ -2147,6 +2453,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN21221] of MODULETIME 
 (moduleid  CN2122)
@@ -2154,6 +2461,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN21250] of MODULETIME 
 (moduleid  CN2125)
@@ -2161,6 +2469,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN21251] of MODULETIME 
 (moduleid  CN2125)
@@ -2168,6 +2477,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN2125E0] of MODULETIME 
 (moduleid  CN2125E)
@@ -2175,6 +2485,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN31080] of MODULETIME 
 (moduleid  CN3108)
@@ -2182,6 +2493,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN31090] of MODULETIME 
 (moduleid  CN3109)
@@ -2189,6 +2501,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN31091] of MODULETIME 
 (moduleid  CN3109)
@@ -2196,6 +2509,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 2)
 )
 ([timeCN31240] of MODULETIME 
 (moduleid  CN3124)
@@ -2203,6 +2517,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN3124E0] of MODULETIME 
 (moduleid  CN3124E)
@@ -2210,6 +2525,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN31320] of MODULETIME 
 (moduleid  CN3132)
@@ -2217,6 +2533,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN31321] of MODULETIME 
 (moduleid  CN3132)
@@ -2224,6 +2541,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN31350] of MODULETIME 
 (moduleid  CN3135)
@@ -2231,6 +2549,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN34210] of MODULETIME 
 (moduleid  CN3421)
@@ -2238,6 +2557,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN34211] of MODULETIME 
 (moduleid  CN3421)
@@ -2245,6 +2565,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4118E0] of MODULETIME 
 (moduleid  CN4118E)
@@ -2252,6 +2573,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4118R0] of MODULETIME 
 (moduleid  CN4118R)
@@ -2259,6 +2581,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4118R1] of MODULETIME 
 (moduleid  CN4118R)
@@ -2266,6 +2589,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN41210] of MODULETIME 
 (moduleid  CN4121)
@@ -2273,6 +2597,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN41220] of MODULETIME 
 (moduleid  CN4122)
@@ -2280,6 +2605,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4123E0] of MODULETIME 
 (moduleid  CN4123E)
@@ -2287,6 +2613,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4201R0] of MODULETIME 
 (moduleid  CN4201R)
@@ -2294,6 +2621,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4203R0] of MODULETIME 
 (moduleid  CN4203R)
@@ -2301,6 +2629,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4203R1] of MODULETIME 
 (moduleid  CN4203R)
@@ -2308,6 +2637,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4208E0] of MODULETIME 
 (moduleid  CN4208E)
@@ -2315,6 +2645,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4210E0] of MODULETIME 
 (moduleid  CN4210E)
@@ -2322,6 +2653,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4223R0] of MODULETIME 
 (moduleid  CN4223R)
@@ -2329,6 +2661,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4227E0] of MODULETIME 
 (moduleid  CN4227E)
@@ -2336,6 +2669,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4227R0] of MODULETIME 
 (moduleid  CN4227R)
@@ -2343,6 +2677,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4227R1] of MODULETIME 
 (moduleid  CN4227R)
@@ -2350,6 +2685,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4238R0] of MODULETIME 
 (moduleid  CN4238R)
@@ -2357,6 +2693,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4240R0] of MODULETIME 
 (moduleid  CN4240R)
@@ -2364,6 +2701,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4240R1] of MODULETIME 
 (moduleid  CN4240R)
@@ -2371,6 +2709,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4246R0] of MODULETIME 
 (moduleid  CN4246R)
@@ -2378,6 +2717,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN4246R1] of MODULETIME 
 (moduleid  CN4246R)
@@ -2385,6 +2725,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN42480] of MODULETIME 
 (moduleid  CN4248)
@@ -2392,6 +2733,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN51110] of MODULETIME 
 (moduleid  CN5111)
@@ -2399,6 +2741,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCN51730] of MODULETIME 
 (moduleid  CN5173)
@@ -2406,6 +2749,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCP3101B0] of MODULETIME 
 (moduleid  CP3101B)
@@ -2413,6 +2757,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCP32010] of MODULETIME 
 (moduleid  CP3201)
@@ -2420,6 +2765,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS10100] of MODULETIME 
 (moduleid  CS1010)
@@ -2427,6 +2773,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS1010E0] of MODULETIME 
 (moduleid  CS1010E)
@@ -2434,6 +2781,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS1010S0] of MODULETIME 
 (moduleid  CS1010S)
@@ -2441,6 +2789,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS10200] of MODULETIME 
 (moduleid  CS1020)
@@ -2448,6 +2797,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS10201] of MODULETIME 
 (moduleid  CS1020)
@@ -2455,6 +2805,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeCS1020E0] of MODULETIME 
 (moduleid  CS1020E)
@@ -2462,6 +2813,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS12310] of MODULETIME 
 (moduleid  CS1231)
@@ -2469,6 +2821,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS12311] of MODULETIME 
 (moduleid  CS1231)
@@ -2476,6 +2829,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS20100] of MODULETIME 
 (moduleid  CS2010)
@@ -2483,6 +2837,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS20200] of MODULETIME 
 (moduleid  CS2020)
@@ -2490,6 +2845,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS20201] of MODULETIME 
 (moduleid  CS2020)
@@ -2497,6 +2853,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS21000] of MODULETIME 
 (moduleid  CS2100)
@@ -2504,6 +2861,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS21001] of MODULETIME 
 (moduleid  CS2100)
@@ -2511,6 +2869,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS21010] of MODULETIME 
 (moduleid  CS2101)
@@ -2518,6 +2877,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS21011] of MODULETIME 
 (moduleid  CS2101)
@@ -2525,6 +2885,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS21012] of MODULETIME 
 (moduleid  CS2101)
@@ -2532,6 +2893,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS21013] of MODULETIME 
 (moduleid  CS2101)
@@ -2539,6 +2901,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeCS21014] of MODULETIME 
 (moduleid  CS2101)
@@ -2546,6 +2909,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeCS21015] of MODULETIME 
 (moduleid  CS2101)
@@ -2553,6 +2917,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeCS21016] of MODULETIME 
 (moduleid  CS2101)
@@ -2560,6 +2925,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 3)
 )
 ([timeCS21017] of MODULETIME 
 (moduleid  CS2101)
@@ -2567,6 +2933,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeCS21018] of MODULETIME 
 (moduleid  CS2101)
@@ -2574,6 +2941,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 3)
 )
 ([timeCS21019] of MODULETIME 
 (moduleid  CS2101)
@@ -2581,6 +2949,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 4)
 )
 ([timeCS210110] of MODULETIME 
 (moduleid  CS2101)
@@ -2588,6 +2957,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 4)
 )
 ([timeCS210111] of MODULETIME 
 (moduleid  CS2101)
@@ -2595,6 +2965,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 4)
 )
 ([timeCS210112] of MODULETIME 
 (moduleid  CS2101)
@@ -2602,6 +2973,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 5)
 )
 ([timeCS210113] of MODULETIME 
 (moduleid  CS2101)
@@ -2609,6 +2981,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 5)
 )
 ([timeCS210114] of MODULETIME 
 (moduleid  CS2101)
@@ -2616,6 +2989,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 5)
 )
 ([timeCS210115] of MODULETIME 
 (moduleid  CS2101)
@@ -2623,6 +2997,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 6)
 )
 ([timeCS210116] of MODULETIME 
 (moduleid  CS2101)
@@ -2630,6 +3005,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 6)
 )
 ([timeCS210117] of MODULETIME 
 (moduleid  CS2101)
@@ -2637,6 +3013,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 6)
 )
 ([timeCS210118] of MODULETIME 
 (moduleid  CS2101)
@@ -2644,6 +3021,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 7)
 )
 ([timeCS210119] of MODULETIME 
 (moduleid  CS2101)
@@ -2651,6 +3029,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 7)
 )
 ([timeCS210120] of MODULETIME 
 (moduleid  CS2101)
@@ -2658,6 +3037,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 7)
 )
 ([timeCS21020] of MODULETIME 
 (moduleid  CS2102)
@@ -2665,6 +3045,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS21030] of MODULETIME 
 (moduleid  CS2103)
@@ -2672,6 +3053,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS21050] of MODULETIME 
 (moduleid  CS2105)
@@ -2679,6 +3061,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS21060] of MODULETIME 
 (moduleid  CS2106)
@@ -2686,6 +3069,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS21070] of MODULETIME 
 (moduleid  CS2107)
@@ -2693,6 +3077,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS31030] of MODULETIME 
 (moduleid  CS3103)
@@ -2700,6 +3085,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32010] of MODULETIME 
 (moduleid  CS3201)
@@ -2707,6 +3093,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32020] of MODULETIME 
 (moduleid  CS3202)
@@ -2714,6 +3101,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32100] of MODULETIME 
 (moduleid  CS3210)
@@ -2721,6 +3109,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32110] of MODULETIME 
 (moduleid  CS3211)
@@ -2728,6 +3117,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32170] of MODULETIME 
 (moduleid  CS3217)
@@ -2735,6 +3125,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32171] of MODULETIME 
 (moduleid  CS3217)
@@ -2742,6 +3133,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32180] of MODULETIME 
 (moduleid  CS3218)
@@ -2749,6 +3141,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32230] of MODULETIME 
 (moduleid  CS3223)
@@ -2756,6 +3149,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32250] of MODULETIME 
 (moduleid  CS3225)
@@ -2763,6 +3157,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32300] of MODULETIME 
 (moduleid  CS3230)
@@ -2770,6 +3165,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32330] of MODULETIME 
 (moduleid  CS3233)
@@ -2777,6 +3173,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32340] of MODULETIME 
 (moduleid  CS3234)
@@ -2784,6 +3181,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32400] of MODULETIME 
 (moduleid  CS3240)
@@ -2791,6 +3189,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32401] of MODULETIME 
 (moduleid  CS3240)
@@ -2798,6 +3197,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 2)
 )
 ([timeCS32410] of MODULETIME 
 (moduleid  CS3241)
@@ -2805,6 +3205,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32420] of MODULETIME 
 (moduleid  CS3242)
@@ -2812,6 +3213,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32430] of MODULETIME 
 (moduleid  CS3243)
@@ -2819,6 +3221,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32450] of MODULETIME 
 (moduleid  CS3245)
@@ -2826,6 +3229,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32470] of MODULETIME 
 (moduleid  CS3247)
@@ -2833,6 +3237,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32490] of MODULETIME 
 (moduleid  CS3249)
@@ -2840,6 +3245,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32820] of MODULETIME 
 (moduleid  CS3282)
@@ -2847,6 +3253,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS32840] of MODULETIME 
 (moduleid  CS3284)
@@ -2854,6 +3261,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS33430] of MODULETIME 
 (moduleid  CS3343)
@@ -2861,6 +3269,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS38820] of MODULETIME 
 (moduleid  CS3882)
@@ -2868,6 +3277,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS42150] of MODULETIME 
 (moduleid  CS4215)
@@ -2875,6 +3285,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS42180] of MODULETIME 
 (moduleid  CS4218)
@@ -2882,6 +3293,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS42200] of MODULETIME 
 (moduleid  CS4220)
@@ -2889,6 +3301,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS42220] of MODULETIME 
 (moduleid  CS4222)
@@ -2896,6 +3309,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS42310] of MODULETIME 
 (moduleid  CS4231)
@@ -2903,6 +3317,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS42360] of MODULETIME 
 (moduleid  CS4236)
@@ -2910,6 +3325,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS42420] of MODULETIME 
 (moduleid  CS4242)
@@ -2917,6 +3333,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS42440] of MODULETIME 
 (moduleid  CS4244)
@@ -2924,6 +3341,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS42470] of MODULETIME 
 (moduleid  CS4247)
@@ -2931,6 +3349,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS43400] of MODULETIME 
 (moduleid  CS4340)
@@ -2938,6 +3357,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS43470] of MODULETIME 
 (moduleid  CS4347)
@@ -2945,6 +3365,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS48800] of MODULETIME 
 (moduleid  CS4880)
@@ -2952,6 +3373,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS52140] of MODULETIME 
 (moduleid  CS5214)
@@ -2959,6 +3381,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS52180] of MODULETIME 
 (moduleid  CS5218)
@@ -2966,6 +3389,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS52220] of MODULETIME 
 (moduleid  CS5222)
@@ -2973,6 +3397,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS52300] of MODULETIME 
 (moduleid  CS5230)
@@ -2980,6 +3405,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS52310] of MODULETIME 
 (moduleid  CS5231)
@@ -2987,6 +3413,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS52320] of MODULETIME 
 (moduleid  CS5232)
@@ -2994,6 +3421,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS52330] of MODULETIME 
 (moduleid  CS5233)
@@ -3001,6 +3429,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS52410] of MODULETIME 
 (moduleid  CS5241)
@@ -3008,6 +3437,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS52720] of MODULETIME 
 (moduleid  CS5272)
@@ -3015,6 +3445,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS53310] of MODULETIME 
 (moduleid  CS5331)
@@ -3022,6 +3453,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCS53420] of MODULETIME 
 (moduleid  CS5342)
@@ -3029,6 +3461,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeCZ52260] of MODULETIME 
 (moduleid  CZ5226)
@@ -3036,6 +3469,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeDSC10070] of MODULETIME 
 (moduleid  DSC1007)
@@ -3043,6 +3477,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption B1)
 )
 ([timeDSC10071] of MODULETIME 
 (moduleid  DSC1007)
@@ -3050,6 +3485,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption B2)
 )
 ([timeDSC10072] of MODULETIME 
 (moduleid  DSC1007)
@@ -3057,6 +3493,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B3)
 )
 ([timeDSC10073] of MODULETIME 
 (moduleid  DSC1007)
@@ -3064,6 +3501,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B4)
 )
 ([timeDSC10074] of MODULETIME 
 (moduleid  DSC1007)
@@ -3071,6 +3509,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption B5)
 )
 ([timeDSC10075] of MODULETIME 
 (moduleid  DSC1007)
@@ -3078,6 +3517,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption B6)
 )
 ([timeDSC10076] of MODULETIME 
 (moduleid  DSC1007)
@@ -3085,6 +3525,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B7)
 )
 ([timeDSC10077] of MODULETIME 
 (moduleid  DSC1007)
@@ -3092,6 +3533,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B8)
 )
 ([timeDSC1007X0] of MODULETIME 
 (moduleid  DSC1007X)
@@ -3099,6 +3541,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption Q1)
 )
 ([timeDSC20060] of MODULETIME 
 (moduleid  DSC2006)
@@ -3106,6 +3549,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption F1)
 )
 ([timeDSC20061] of MODULETIME 
 (moduleid  DSC2006)
@@ -3113,6 +3557,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption F2)
 )
 ([timeDSC20080] of MODULETIME 
 (moduleid  DSC2008)
@@ -3120,6 +3565,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption W1)
 )
 ([timeDSC32010] of MODULETIME 
 (moduleid  DSC3201)
@@ -3127,6 +3573,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption L1)
 )
 ([timeDSC32011] of MODULETIME 
 (moduleid  DSC3201)
@@ -3134,6 +3581,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption L2)
 )
 ([timeDSC32020] of MODULETIME 
 (moduleid  DSC3202)
@@ -3141,6 +3589,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption R1)
 )
 ([timeDSC32030] of MODULETIME 
 (moduleid  DSC3203)
@@ -3148,6 +3597,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption C1)
 )
 ([timeDSC32031] of MODULETIME 
 (moduleid  DSC3203)
@@ -3155,6 +3605,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption C2)
 )
 ([timeDSC32130] of MODULETIME 
 (moduleid  DSC3213)
@@ -3162,6 +3613,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption P1)
 )
 ([timeDSC32160] of MODULETIME 
 (moduleid  DSC3216)
@@ -3169,6 +3621,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption F1)
 )
 ([timeDSC32240] of MODULETIME 
 (moduleid  DSC3224)
@@ -3176,6 +3629,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption X1)
 )
 ([timeDSC32260] of MODULETIME 
 (moduleid  DSC3226)
@@ -3183,6 +3637,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption Z1)
 )
 ([timeDSC4211C0] of MODULETIME 
 (moduleid  DSC4211C)
@@ -3190,6 +3645,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption G1)
 )
 ([timeDSC4211G0] of MODULETIME 
 (moduleid  DSC4211G)
@@ -3197,6 +3653,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption H1)
 )
 ([timeDSC51210] of MODULETIME 
 (moduleid  DSC5121)
@@ -3204,6 +3661,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption V1)
 )
 ([timeDSC5211A0] of MODULETIME 
 (moduleid  DSC5211A)
@@ -3211,6 +3669,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption Y1)
 )
 ([timeEC1101E0] of MODULETIME 
 (moduleid  EC1101E)
@@ -3218,6 +3677,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC13010] of MODULETIME 
 (moduleid  EC1301)
@@ -3225,6 +3685,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC13011] of MODULETIME 
 (moduleid  EC1301)
@@ -3232,6 +3693,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEC21010] of MODULETIME 
 (moduleid  EC2101)
@@ -3239,6 +3701,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC21011] of MODULETIME 
 (moduleid  EC2101)
@@ -3246,6 +3709,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEC21020] of MODULETIME 
 (moduleid  EC2102)
@@ -3253,6 +3717,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC21021] of MODULETIME 
 (moduleid  EC2102)
@@ -3260,6 +3725,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEC21040] of MODULETIME 
 (moduleid  EC2104)
@@ -3267,6 +3733,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC23030] of MODULETIME 
 (moduleid  EC2303)
@@ -3274,6 +3741,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC23730] of MODULETIME 
 (moduleid  EC2373)
@@ -3281,6 +3749,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC23740] of MODULETIME 
 (moduleid  EC2374)
@@ -3288,6 +3757,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC31010] of MODULETIME 
 (moduleid  EC3101)
@@ -3295,6 +3765,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC31020] of MODULETIME 
 (moduleid  EC3102)
@@ -3302,6 +3773,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33030] of MODULETIME 
 (moduleid  EC3303)
@@ -3309,6 +3781,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33040] of MODULETIME 
 (moduleid  EC3304)
@@ -3316,6 +3789,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33120] of MODULETIME 
 (moduleid  EC3312)
@@ -3323,6 +3797,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33220] of MODULETIME 
 (moduleid  EC3322)
@@ -3330,6 +3805,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33320] of MODULETIME 
 (moduleid  EC3332)
@@ -3337,6 +3813,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33330] of MODULETIME 
 (moduleid  EC3333)
@@ -3344,6 +3821,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33410] of MODULETIME 
 (moduleid  EC3341)
@@ -3351,6 +3829,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33510] of MODULETIME 
 (moduleid  EC3351)
@@ -3358,6 +3837,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33520] of MODULETIME 
 (moduleid  EC3352)
@@ -3365,6 +3845,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33610] of MODULETIME 
 (moduleid  EC3361)
@@ -3372,6 +3853,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33710] of MODULETIME 
 (moduleid  EC3371)
@@ -3379,6 +3861,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33750] of MODULETIME 
 (moduleid  EC3375)
@@ -3386,6 +3869,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33760] of MODULETIME 
 (moduleid  EC3376)
@@ -3393,6 +3877,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33770] of MODULETIME 
 (moduleid  EC3377)
@@ -3400,6 +3885,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33810] of MODULETIME 
 (moduleid  EC3381)
@@ -3407,6 +3893,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33840] of MODULETIME 
 (moduleid  EC3384)
@@ -3414,6 +3901,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33940] of MODULETIME 
 (moduleid  EC3394)
@@ -3421,6 +3909,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC33960] of MODULETIME 
 (moduleid  EC3396)
@@ -3428,6 +3917,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC3880B0] of MODULETIME 
 (moduleid  EC3880B)
@@ -3435,6 +3925,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC41010] of MODULETIME 
 (moduleid  EC4101)
@@ -3442,6 +3933,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC41011] of MODULETIME 
 (moduleid  EC4101)
@@ -3449,6 +3941,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEC41020] of MODULETIME 
 (moduleid  EC4102)
@@ -3456,6 +3949,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC41021] of MODULETIME 
 (moduleid  EC4102)
@@ -3463,6 +3957,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEC43240] of MODULETIME 
 (moduleid  EC4324)
@@ -3470,6 +3965,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC43320] of MODULETIME 
 (moduleid  EC4332)
@@ -3477,6 +3973,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC43330] of MODULETIME 
 (moduleid  EC4333)
@@ -3484,6 +3981,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC43410] of MODULETIME 
 (moduleid  EC4341)
@@ -3491,6 +3989,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC43510] of MODULETIME 
 (moduleid  EC4351)
@@ -3498,6 +3997,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC43610] of MODULETIME 
 (moduleid  EC4361)
@@ -3505,6 +4005,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC43710] of MODULETIME 
 (moduleid  EC4371)
@@ -3512,6 +4013,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC43940] of MODULETIME 
 (moduleid  EC4394)
@@ -3519,6 +4021,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC48800] of MODULETIME 
 (moduleid  EC4880)
@@ -3526,6 +4029,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC5326R0] of MODULETIME 
 (moduleid  EC5326R)
@@ -3533,6 +4037,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEC5332R0] of MODULETIME 
 (moduleid  EC5332R)
@@ -3540,6 +4045,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE10030] of MODULETIME 
 (moduleid  EE1003)
@@ -3547,6 +4053,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE20110] of MODULETIME 
 (moduleid  EE2011)
@@ -3554,6 +4061,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE20111] of MODULETIME 
 (moduleid  EE2011)
@@ -3561,6 +4069,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE2011E0] of MODULETIME 
 (moduleid  EE2011E)
@@ -3568,6 +4077,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE20120] of MODULETIME 
 (moduleid  EE2012)
@@ -3575,6 +4085,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE20121] of MODULETIME 
 (moduleid  EE2012)
@@ -3582,6 +4093,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE20200] of MODULETIME 
 (moduleid  EE2020)
@@ -3589,6 +4101,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE20201] of MODULETIME 
 (moduleid  EE2020)
@@ -3596,6 +4109,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE2020E0] of MODULETIME 
 (moduleid  EE2020E)
@@ -3603,6 +4117,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE20210] of MODULETIME 
 (moduleid  EE2021)
@@ -3610,6 +4125,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE20211] of MODULETIME 
 (moduleid  EE2021)
@@ -3617,6 +4133,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEE20212] of MODULETIME 
 (moduleid  EE2021)
@@ -3624,6 +4141,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 3)
 )
 ([timeEE20213] of MODULETIME 
 (moduleid  EE2021)
@@ -3631,6 +4149,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 4)
 )
 ([timeEE20214] of MODULETIME 
 (moduleid  EE2021)
@@ -3638,6 +4157,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 5)
 )
 ([timeEE2021E0] of MODULETIME 
 (moduleid  EE2021E)
@@ -3645,6 +4165,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE20220] of MODULETIME 
 (moduleid  EE2022)
@@ -3652,6 +4173,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE20221] of MODULETIME 
 (moduleid  EE2022)
@@ -3659,6 +4181,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE20230] of MODULETIME 
 (moduleid  EE2023)
@@ -3666,6 +4189,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE20231] of MODULETIME 
 (moduleid  EE2023)
@@ -3673,6 +4197,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEE20232] of MODULETIME 
 (moduleid  EE2023)
@@ -3680,6 +4205,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeEE20233] of MODULETIME 
 (moduleid  EE2023)
@@ -3687,6 +4213,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 4)
 )
 ([timeEE20240] of MODULETIME 
 (moduleid  EE2024)
@@ -3694,6 +4221,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE20241] of MODULETIME 
 (moduleid  EE2024)
@@ -3701,6 +4229,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE20310] of MODULETIME 
 (moduleid  EE2031)
@@ -3708,6 +4237,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE20320] of MODULETIME 
 (moduleid  EE2032)
@@ -3715,6 +4245,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE3013C0] of MODULETIME 
 (moduleid  EE3013C)
@@ -3722,6 +4253,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption ALL)
 )
 ([timeEE3013E0] of MODULETIME 
 (moduleid  EE3013E)
@@ -3729,6 +4261,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE30310] of MODULETIME 
 (moduleid  EE3031)
@@ -3736,6 +4269,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeEE30311] of MODULETIME 
 (moduleid  EE3031)
@@ -3743,6 +4277,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption L2)
 )
 ([timeEE30312] of MODULETIME 
 (moduleid  EE3031)
@@ -3750,6 +4285,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption L3)
 )
 ([timeEE3031E0] of MODULETIME 
 (moduleid  EE3031E)
@@ -3757,6 +4293,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE3031E1] of MODULETIME 
 (moduleid  EE3031E)
@@ -3764,6 +4301,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEE30320] of MODULETIME 
 (moduleid  EE3032)
@@ -3771,6 +4309,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption L1)
 )
 ([timeEE30321] of MODULETIME 
 (moduleid  EE3032)
@@ -3778,6 +4317,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption L2)
 )
 ([timeEE30322] of MODULETIME 
 (moduleid  EE3032)
@@ -3785,6 +4325,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption L3)
 )
 ([timeEE3104C0] of MODULETIME 
 (moduleid  EE3104C)
@@ -3792,6 +4333,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE3131C0] of MODULETIME 
 (moduleid  EE3131C)
@@ -3799,6 +4341,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE33040] of MODULETIME 
 (moduleid  EE3304)
@@ -3806,6 +4349,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE3331C0] of MODULETIME 
 (moduleid  EE3331C)
@@ -3813,6 +4357,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE34070] of MODULETIME 
 (moduleid  EE3407)
@@ -3820,6 +4365,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE3407E0] of MODULETIME 
 (moduleid  EE3407E)
@@ -3827,6 +4373,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE3431C0] of MODULETIME 
 (moduleid  EE3431C)
@@ -3834,6 +4381,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE3431C1] of MODULETIME 
 (moduleid  EE3431C)
@@ -3841,6 +4389,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE3431E0] of MODULETIME 
 (moduleid  EE3431E)
@@ -3848,6 +4397,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE3501C0] of MODULETIME 
 (moduleid  EE3501C)
@@ -3855,6 +4405,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE3501E0] of MODULETIME 
 (moduleid  EE3501E)
@@ -3862,6 +4413,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE40010] of MODULETIME 
 (moduleid  EE4001)
@@ -3869,6 +4421,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE41040] of MODULETIME 
 (moduleid  EE4104)
@@ -3876,6 +4429,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE41100] of MODULETIME 
 (moduleid  EE4110)
@@ -3883,6 +4437,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE4112E0] of MODULETIME 
 (moduleid  EE4112E)
@@ -3890,6 +4445,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE41140] of MODULETIME 
 (moduleid  EE4114)
@@ -3897,6 +4453,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE42100] of MODULETIME 
 (moduleid  EE4210)
@@ -3904,6 +4461,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE42101] of MODULETIME 
 (moduleid  EE4210)
@@ -3911,6 +4469,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE4210E0] of MODULETIME 
 (moduleid  EE4210E)
@@ -3918,6 +4477,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE42120] of MODULETIME 
 (moduleid  EE4212)
@@ -3925,6 +4485,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE42130] of MODULETIME 
 (moduleid  EE4213)
@@ -3932,6 +4493,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE42180] of MODULETIME 
 (moduleid  EE4218)
@@ -3939,6 +4501,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE43020] of MODULETIME 
 (moduleid  EE4302)
@@ -3946,6 +4509,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE43060] of MODULETIME 
 (moduleid  EE4306)
@@ -3953,6 +4517,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE43070] of MODULETIME 
 (moduleid  EE4307)
@@ -3960,6 +4525,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE44010] of MODULETIME 
 (moduleid  EE4401)
@@ -3967,6 +4533,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE44080] of MODULETIME 
 (moduleid  EE4408)
@@ -3974,6 +4541,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE4410A0] of MODULETIME 
 (moduleid  EE4410A)
@@ -3981,6 +4549,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE4410A1] of MODULETIME 
 (moduleid  EE4410A)
@@ -3988,6 +4557,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE4410A2] of MODULETIME 
 (moduleid  EE4410A)
@@ -3995,6 +4565,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE44150] of MODULETIME 
 (moduleid  EE4415)
@@ -4002,6 +4573,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE4415E0] of MODULETIME 
 (moduleid  EE4415E)
@@ -4009,6 +4581,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE44310] of MODULETIME 
 (moduleid  EE4431)
@@ -4016,6 +4589,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE44320] of MODULETIME 
 (moduleid  EE4432)
@@ -4023,6 +4597,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE44340] of MODULETIME 
 (moduleid  EE4434)
@@ -4030,6 +4605,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE45090] of MODULETIME 
 (moduleid  EE4509)
@@ -4037,6 +4613,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE45110] of MODULETIME 
 (moduleid  EE4511)
@@ -4044,6 +4621,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE46030] of MODULETIME 
 (moduleid  EE4603)
@@ -4051,6 +4629,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE46050] of MODULETIME 
 (moduleid  EE4605)
@@ -4058,6 +4637,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE59030] of MODULETIME 
 (moduleid  EE5903)
@@ -4065,6 +4645,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE5904R0] of MODULETIME 
 (moduleid  EE5904R)
@@ -4072,6 +4653,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEE5907R0] of MODULETIME 
 (moduleid  EE5907R)
@@ -4079,6 +4661,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEG11080] of MODULETIME 
 (moduleid  EG1108)
@@ -4086,6 +4669,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEG11090] of MODULETIME 
 (moduleid  EG1109)
@@ -4093,6 +4677,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEG11091] of MODULETIME 
 (moduleid  EG1109)
@@ -4100,6 +4685,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEG13100] of MODULETIME 
 (moduleid  EG1310)
@@ -4107,6 +4693,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEG13101] of MODULETIME 
 (moduleid  EG1310)
@@ -4114,6 +4701,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEG2201A0] of MODULETIME 
 (moduleid  EG2201A)
@@ -4121,6 +4709,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEG24010] of MODULETIME 
 (moduleid  EG2401)
@@ -4128,6 +4717,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEG24011] of MODULETIME 
 (moduleid  EG2401)
@@ -4135,6 +4725,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEG26040] of MODULETIME 
 (moduleid  EG2604)
@@ -4142,6 +4733,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEG2606A0] of MODULETIME 
 (moduleid  EG2606A)
@@ -4149,6 +4741,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEG2606B0] of MODULETIME 
 (moduleid  EG2606B)
@@ -4156,6 +4749,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEG33010] of MODULETIME 
 (moduleid  EG3301)
@@ -4163,6 +4757,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEG43010] of MODULETIME 
 (moduleid  EG4301)
@@ -4170,6 +4765,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL1101E0] of MODULETIME 
 (moduleid  EL1101E)
@@ -4177,6 +4773,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL22010] of MODULETIME 
 (moduleid  EL2201)
@@ -4184,6 +4781,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL22110] of MODULETIME 
 (moduleid  EL2211)
@@ -4191,6 +4789,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL32020] of MODULETIME 
 (moduleid  EL3202)
@@ -4198,6 +4797,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL32080] of MODULETIME 
 (moduleid  EL3208)
@@ -4205,6 +4805,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL32090] of MODULETIME 
 (moduleid  EL3209)
@@ -4212,6 +4813,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL32520] of MODULETIME 
 (moduleid  EL3252)
@@ -4219,6 +4821,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL32580] of MODULETIME 
 (moduleid  EL3258)
@@ -4226,6 +4829,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL3880F0] of MODULETIME 
 (moduleid  EL3880F)
@@ -4233,6 +4837,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL42160] of MODULETIME 
 (moduleid  EL4216)
@@ -4240,6 +4845,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL42540] of MODULETIME 
 (moduleid  EL4254)
@@ -4247,6 +4853,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL42550] of MODULETIME 
 (moduleid  EL4255)
@@ -4254,6 +4861,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL4880A0] of MODULETIME 
 (moduleid  EL4880A)
@@ -4261,6 +4869,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL5250R0] of MODULETIME 
 (moduleid  EL5250R)
@@ -4268,6 +4877,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL5252R0] of MODULETIME 
 (moduleid  EL5252R)
@@ -4275,6 +4885,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL5253R0] of MODULETIME 
 (moduleid  EL5253R)
@@ -4282,6 +4893,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL5270R0] of MODULETIME 
 (moduleid  EL5270R)
@@ -4289,6 +4901,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEL5880BR0] of MODULETIME 
 (moduleid  EL5880BR)
@@ -4296,6 +4909,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEM12010] of MODULETIME 
 (moduleid  EM1201)
@@ -4303,6 +4917,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEM12011] of MODULETIME 
 (moduleid  EM1201)
@@ -4310,6 +4925,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEM12012] of MODULETIME 
 (moduleid  EM1201)
@@ -4317,6 +4933,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEM12013] of MODULETIME 
 (moduleid  EM1201)
@@ -4324,6 +4941,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEM12020] of MODULETIME 
 (moduleid  EM1202)
@@ -4331,6 +4949,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEM12021] of MODULETIME 
 (moduleid  EM1202)
@@ -4338,6 +4957,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN1101E0] of MODULETIME 
 (moduleid  EN1101E)
@@ -4345,6 +4965,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN22010] of MODULETIME 
 (moduleid  EN2201)
@@ -4352,6 +4973,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN22011] of MODULETIME 
 (moduleid  EN2201)
@@ -4359,6 +4981,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEN22020] of MODULETIME 
 (moduleid  EN2202)
@@ -4366,6 +4989,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN22021] of MODULETIME 
 (moduleid  EN2202)
@@ -4373,6 +4997,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 2)
 )
 ([timeEN22022] of MODULETIME 
 (moduleid  EN2202)
@@ -4380,6 +5005,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 3)
 )
 ([timeEN22030] of MODULETIME 
 (moduleid  EN2203)
@@ -4387,6 +5013,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN22031] of MODULETIME 
 (moduleid  EN2203)
@@ -4394,6 +5021,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN22710] of MODULETIME 
 (moduleid  EN2271)
@@ -4401,6 +5029,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN32220] of MODULETIME 
 (moduleid  EN3222)
@@ -4408,6 +5037,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN32290] of MODULETIME 
 (moduleid  EN3229)
@@ -4415,6 +5045,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN32410] of MODULETIME 
 (moduleid  EN3241)
@@ -4422,6 +5053,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN32490] of MODULETIME 
 (moduleid  EN3249)
@@ -4429,6 +5061,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN32610] of MODULETIME 
 (moduleid  EN3261)
@@ -4436,6 +5069,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN32650] of MODULETIME 
 (moduleid  EN3265)
@@ -4443,6 +5077,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN3880A0] of MODULETIME 
 (moduleid  EN3880A)
@@ -4450,6 +5085,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN3880A1] of MODULETIME 
 (moduleid  EN3880A)
@@ -4457,6 +5093,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN42230] of MODULETIME 
 (moduleid  EN4223)
@@ -4464,6 +5101,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN42260] of MODULETIME 
 (moduleid  EN4226)
@@ -4471,6 +5109,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN42320] of MODULETIME 
 (moduleid  EN4232)
@@ -4478,6 +5117,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN42470] of MODULETIME 
 (moduleid  EN4247)
@@ -4485,6 +5125,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN42471] of MODULETIME 
 (moduleid  EN4247)
@@ -4492,6 +5133,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN42620] of MODULETIME 
 (moduleid  EN4262)
@@ -4499,6 +5141,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN5242R0] of MODULETIME 
 (moduleid  EN5242R)
@@ -4506,6 +5149,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN5247R0] of MODULETIME 
 (moduleid  EN5247R)
@@ -4513,6 +5157,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN5253R0] of MODULETIME 
 (moduleid  EN5253R)
@@ -4520,6 +5165,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN5880AR0] of MODULETIME 
 (moduleid  EN5880AR)
@@ -4527,6 +5173,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEN5883R0] of MODULETIME 
 (moduleid  EN5883R)
@@ -4534,6 +5181,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeENV21020] of MODULETIME 
 (moduleid  ENV2102)
@@ -4541,6 +5189,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeENV31010] of MODULETIME 
 (moduleid  ENV3101)
@@ -4548,6 +5197,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeES10000] of MODULETIME 
 (moduleid  ES1000)
@@ -4555,6 +5205,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption C1)
 )
 ([timeES10001] of MODULETIME 
 (moduleid  ES1000)
@@ -4562,6 +5213,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption C1)
 )
 ([timeES10002] of MODULETIME 
 (moduleid  ES1000)
@@ -4569,6 +5221,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E1)
 )
 ([timeES10003] of MODULETIME 
 (moduleid  ES1000)
@@ -4576,6 +5229,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E1)
 )
 ([timeES10004] of MODULETIME 
 (moduleid  ES1000)
@@ -4583,6 +5237,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E2)
 )
 ([timeES10005] of MODULETIME 
 (moduleid  ES1000)
@@ -4590,6 +5245,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E2)
 )
 ([timeES10006] of MODULETIME 
 (moduleid  ES1000)
@@ -4597,6 +5253,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E3)
 )
 ([timeES10007] of MODULETIME 
 (moduleid  ES1000)
@@ -4604,6 +5261,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E3)
 )
 ([timeES10008] of MODULETIME 
 (moduleid  ES1000)
@@ -4611,6 +5269,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption S1)
 )
 ([timeES10009] of MODULETIME 
 (moduleid  ES1000)
@@ -4618,6 +5277,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption S1)
 )
 ([timeES100010] of MODULETIME 
 (moduleid  ES1000)
@@ -4625,6 +5285,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption S2)
 )
 ([timeES100011] of MODULETIME 
 (moduleid  ES1000)
@@ -4632,6 +5293,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption S2)
 )
 ([timeES11020] of MODULETIME 
 (moduleid  ES1102)
@@ -4639,6 +5301,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A01)
 )
 ([timeES11021] of MODULETIME 
 (moduleid  ES1102)
@@ -4646,6 +5309,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A01)
 )
 ([timeES11022] of MODULETIME 
 (moduleid  ES1102)
@@ -4653,6 +5317,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption A02)
 )
 ([timeES11023] of MODULETIME 
 (moduleid  ES1102)
@@ -4660,6 +5325,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption A02)
 )
 ([timeES11024] of MODULETIME 
 (moduleid  ES1102)
@@ -4667,6 +5333,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption A03)
 )
 ([timeES11025] of MODULETIME 
 (moduleid  ES1102)
@@ -4674,6 +5341,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption A03)
 )
 ([timeES11026] of MODULETIME 
 (moduleid  ES1102)
@@ -4681,6 +5349,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption A04)
 )
 ([timeES11027] of MODULETIME 
 (moduleid  ES1102)
@@ -4688,6 +5357,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption A04)
 )
 ([timeES11028] of MODULETIME 
 (moduleid  ES1102)
@@ -4695,6 +5365,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A05)
 )
 ([timeES11029] of MODULETIME 
 (moduleid  ES1102)
@@ -4702,6 +5373,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A05)
 )
 ([timeES110210] of MODULETIME 
 (moduleid  ES1102)
@@ -4709,6 +5381,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption A06)
 )
 ([timeES110211] of MODULETIME 
 (moduleid  ES1102)
@@ -4716,6 +5389,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption A06)
 )
 ([timeES110212] of MODULETIME 
 (moduleid  ES1102)
@@ -4723,6 +5397,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B01)
 )
 ([timeES110213] of MODULETIME 
 (moduleid  ES1102)
@@ -4730,6 +5405,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B01)
 )
 ([timeES110214] of MODULETIME 
 (moduleid  ES1102)
@@ -4737,6 +5413,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption B02)
 )
 ([timeES110215] of MODULETIME 
 (moduleid  ES1102)
@@ -4744,6 +5421,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption B02)
 )
 ([timeES110216] of MODULETIME 
 (moduleid  ES1102)
@@ -4751,6 +5429,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption C01)
 )
 ([timeES110217] of MODULETIME 
 (moduleid  ES1102)
@@ -4758,6 +5437,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption C01)
 )
 ([timeES110218] of MODULETIME 
 (moduleid  ES1102)
@@ -4765,6 +5445,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption C02)
 )
 ([timeES110219] of MODULETIME 
 (moduleid  ES1102)
@@ -4772,6 +5453,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption C02)
 )
 ([timeES110220] of MODULETIME 
 (moduleid  ES1102)
@@ -4779,6 +5461,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption C03)
 )
 ([timeES110221] of MODULETIME 
 (moduleid  ES1102)
@@ -4786,6 +5469,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption C03)
 )
 ([timeES110222] of MODULETIME 
 (moduleid  ES1102)
@@ -4793,6 +5477,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption C04)
 )
 ([timeES110223] of MODULETIME 
 (moduleid  ES1102)
@@ -4800,6 +5485,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption C04)
 )
 ([timeES110224] of MODULETIME 
 (moduleid  ES1102)
@@ -4807,6 +5493,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption C05)
 )
 ([timeES110225] of MODULETIME 
 (moduleid  ES1102)
@@ -4814,6 +5501,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption C05)
 )
 ([timeES110226] of MODULETIME 
 (moduleid  ES1102)
@@ -4821,6 +5509,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption C06)
 )
 ([timeES110227] of MODULETIME 
 (moduleid  ES1102)
@@ -4828,6 +5517,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption C06)
 )
 ([timeES110228] of MODULETIME 
 (moduleid  ES1102)
@@ -4835,6 +5525,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption D01)
 )
 ([timeES110229] of MODULETIME 
 (moduleid  ES1102)
@@ -4842,6 +5533,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption D01)
 )
 ([timeES110230] of MODULETIME 
 (moduleid  ES1102)
@@ -4849,6 +5541,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption D02)
 )
 ([timeES110231] of MODULETIME 
 (moduleid  ES1102)
@@ -4856,6 +5549,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption D02)
 )
 ([timeES110232] of MODULETIME 
 (moduleid  ES1102)
@@ -4863,6 +5557,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption D08)
 )
 ([timeES110233] of MODULETIME 
 (moduleid  ES1102)
@@ -4870,6 +5565,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption D08)
 )
 ([timeES110234] of MODULETIME 
 (moduleid  ES1102)
@@ -4877,6 +5573,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E05)
 )
 ([timeES110235] of MODULETIME 
 (moduleid  ES1102)
@@ -4884,6 +5581,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E05)
 )
 ([timeES110236] of MODULETIME 
 (moduleid  ES1102)
@@ -4891,6 +5589,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E07)
 )
 ([timeES110237] of MODULETIME 
 (moduleid  ES1102)
@@ -4898,6 +5597,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E07)
 )
 ([timeES110238] of MODULETIME 
 (moduleid  ES1102)
@@ -4905,6 +5605,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E08)
 )
 ([timeES110239] of MODULETIME 
 (moduleid  ES1102)
@@ -4912,6 +5613,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E08)
 )
 ([timeES110240] of MODULETIME 
 (moduleid  ES1102)
@@ -4919,6 +5621,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption E09)
 )
 ([timeES110241] of MODULETIME 
 (moduleid  ES1102)
@@ -4926,6 +5629,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption E09)
 )
 ([timeES110242] of MODULETIME 
 (moduleid  ES1102)
@@ -4933,6 +5637,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption E10)
 )
 ([timeES110243] of MODULETIME 
 (moduleid  ES1102)
@@ -4940,6 +5645,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption E10)
 )
 ([timeES110244] of MODULETIME 
 (moduleid  ES1102)
@@ -4947,6 +5653,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E11)
 )
 ([timeES110245] of MODULETIME 
 (moduleid  ES1102)
@@ -4954,6 +5661,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E11)
 )
 ([timeES110246] of MODULETIME 
 (moduleid  ES1102)
@@ -4961,6 +5669,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E12)
 )
 ([timeES110247] of MODULETIME 
 (moduleid  ES1102)
@@ -4968,6 +5677,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E12)
 )
 ([timeES110248] of MODULETIME 
 (moduleid  ES1102)
@@ -4975,6 +5685,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E14)
 )
 ([timeES110249] of MODULETIME 
 (moduleid  ES1102)
@@ -4982,6 +5693,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E14)
 )
 ([timeES110250] of MODULETIME 
 (moduleid  ES1102)
@@ -4989,6 +5701,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption E15)
 )
 ([timeES110251] of MODULETIME 
 (moduleid  ES1102)
@@ -4996,6 +5709,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption E15)
 )
 ([timeES110252] of MODULETIME 
 (moduleid  ES1102)
@@ -5003,6 +5717,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E16)
 )
 ([timeES110253] of MODULETIME 
 (moduleid  ES1102)
@@ -5010,6 +5725,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E16)
 )
 ([timeES110254] of MODULETIME 
 (moduleid  ES1102)
@@ -5017,6 +5733,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption E17)
 )
 ([timeES110255] of MODULETIME 
 (moduleid  ES1102)
@@ -5024,6 +5741,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption E17)
 )
 ([timeES110256] of MODULETIME 
 (moduleid  ES1102)
@@ -5031,6 +5749,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E18)
 )
 ([timeES110257] of MODULETIME 
 (moduleid  ES1102)
@@ -5038,6 +5757,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E18)
 )
 ([timeES110258] of MODULETIME 
 (moduleid  ES1102)
@@ -5045,6 +5765,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E19)
 )
 ([timeES110259] of MODULETIME 
 (moduleid  ES1102)
@@ -5052,6 +5773,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E19)
 )
 ([timeES110260] of MODULETIME 
 (moduleid  ES1102)
@@ -5059,6 +5781,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption S01)
 )
 ([timeES110261] of MODULETIME 
 (moduleid  ES1102)
@@ -5066,6 +5789,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption S01)
 )
 ([timeES110262] of MODULETIME 
 (moduleid  ES1102)
@@ -5073,6 +5797,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption S02)
 )
 ([timeES110263] of MODULETIME 
 (moduleid  ES1102)
@@ -5080,6 +5805,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption S02)
 )
 ([timeES110264] of MODULETIME 
 (moduleid  ES1102)
@@ -5087,6 +5813,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption S03)
 )
 ([timeES110265] of MODULETIME 
 (moduleid  ES1102)
@@ -5094,6 +5821,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption S03)
 )
 ([timeES110266] of MODULETIME 
 (moduleid  ES1102)
@@ -5101,6 +5829,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption S04)
 )
 ([timeES110267] of MODULETIME 
 (moduleid  ES1102)
@@ -5108,6 +5837,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption S04)
 )
 ([timeES110268] of MODULETIME 
 (moduleid  ES1102)
@@ -5115,6 +5845,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption S05)
 )
 ([timeES110269] of MODULETIME 
 (moduleid  ES1102)
@@ -5122,6 +5853,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption S05)
 )
 ([timeES110270] of MODULETIME 
 (moduleid  ES1102)
@@ -5129,6 +5861,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption S06)
 )
 ([timeES110271] of MODULETIME 
 (moduleid  ES1102)
@@ -5136,6 +5869,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption S06)
 )
 ([timeES110272] of MODULETIME 
 (moduleid  ES1102)
@@ -5143,6 +5877,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption S07)
 )
 ([timeES110273] of MODULETIME 
 (moduleid  ES1102)
@@ -5150,6 +5885,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption S07)
 )
 ([timeES110274] of MODULETIME 
 (moduleid  ES1102)
@@ -5157,6 +5893,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption S08)
 )
 ([timeES110275] of MODULETIME 
 (moduleid  ES1102)
@@ -5164,6 +5901,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption S08)
 )
 ([timeES110276] of MODULETIME 
 (moduleid  ES1102)
@@ -5171,6 +5909,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption S09)
 )
 ([timeES110277] of MODULETIME 
 (moduleid  ES1102)
@@ -5178,6 +5917,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption S09)
 )
 ([timeES110278] of MODULETIME 
 (moduleid  ES1102)
@@ -5185,6 +5925,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption S10)
 )
 ([timeES110279] of MODULETIME 
 (moduleid  ES1102)
@@ -5192,6 +5933,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption S10)
 )
 ([timeES1501A0] of MODULETIME 
 (moduleid  ES1501A)
@@ -5199,6 +5941,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 2)
 )
 ([timeES1501A1] of MODULETIME 
 (moduleid  ES1501A)
@@ -5206,6 +5949,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 2)
 )
 ([timeES1501A2] of MODULETIME 
 (moduleid  ES1501A)
@@ -5213,6 +5957,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption 3)
 )
 ([timeES1501A3] of MODULETIME 
 (moduleid  ES1501A)
@@ -5220,6 +5965,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption 3)
 )
 ([timeES15310] of MODULETIME 
 (moduleid  ES1531)
@@ -5227,6 +5973,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E01)
 )
 ([timeES15311] of MODULETIME 
 (moduleid  ES1531)
@@ -5234,6 +5981,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E01)
 )
 ([timeES15312] of MODULETIME 
 (moduleid  ES1531)
@@ -5241,6 +5989,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E02)
 )
 ([timeES15313] of MODULETIME 
 (moduleid  ES1531)
@@ -5248,6 +5997,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E02)
 )
 ([timeES15314] of MODULETIME 
 (moduleid  ES1531)
@@ -5255,6 +6005,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E03)
 )
 ([timeES15315] of MODULETIME 
 (moduleid  ES1531)
@@ -5262,6 +6013,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E03)
 )
 ([timeES15316] of MODULETIME 
 (moduleid  ES1531)
@@ -5269,6 +6021,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E04)
 )
 ([timeES15317] of MODULETIME 
 (moduleid  ES1531)
@@ -5276,6 +6029,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E04)
 )
 ([timeES15318] of MODULETIME 
 (moduleid  ES1531)
@@ -5283,6 +6037,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E05)
 )
 ([timeES15319] of MODULETIME 
 (moduleid  ES1531)
@@ -5290,6 +6045,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E05)
 )
 ([timeES153110] of MODULETIME 
 (moduleid  ES1531)
@@ -5297,6 +6053,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E06)
 )
 ([timeES153111] of MODULETIME 
 (moduleid  ES1531)
@@ -5304,6 +6061,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E06)
 )
 ([timeES153112] of MODULETIME 
 (moduleid  ES1531)
@@ -5311,6 +6069,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E07)
 )
 ([timeES153113] of MODULETIME 
 (moduleid  ES1531)
@@ -5318,6 +6077,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E07)
 )
 ([timeES153114] of MODULETIME 
 (moduleid  ES1531)
@@ -5325,6 +6085,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E08)
 )
 ([timeES153115] of MODULETIME 
 (moduleid  ES1531)
@@ -5332,6 +6093,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E08)
 )
 ([timeES153116] of MODULETIME 
 (moduleid  ES1531)
@@ -5339,6 +6101,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E09)
 )
 ([timeES153117] of MODULETIME 
 (moduleid  ES1531)
@@ -5346,6 +6109,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E09)
 )
 ([timeES153118] of MODULETIME 
 (moduleid  ES1531)
@@ -5353,6 +6117,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E10)
 )
 ([timeES153119] of MODULETIME 
 (moduleid  ES1531)
@@ -5360,6 +6125,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E10)
 )
 ([timeES153120] of MODULETIME 
 (moduleid  ES1531)
@@ -5367,6 +6133,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E11)
 )
 ([timeES153121] of MODULETIME 
 (moduleid  ES1531)
@@ -5374,6 +6141,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E11)
 )
 ([timeES153122] of MODULETIME 
 (moduleid  ES1531)
@@ -5381,6 +6149,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption E12)
 )
 ([timeES153123] of MODULETIME 
 (moduleid  ES1531)
@@ -5388,6 +6157,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption E12)
 )
 ([timeES153124] of MODULETIME 
 (moduleid  ES1531)
@@ -5395,6 +6165,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption E13)
 )
 ([timeES153125] of MODULETIME 
 (moduleid  ES1531)
@@ -5402,6 +6173,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption E13)
 )
 ([timeES153126] of MODULETIME 
 (moduleid  ES1531)
@@ -5409,6 +6181,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption E14)
 )
 ([timeES153127] of MODULETIME 
 (moduleid  ES1531)
@@ -5416,6 +6189,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E14)
 )
 ([timeES153128] of MODULETIME 
 (moduleid  ES1531)
@@ -5423,6 +6197,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption E15)
 )
 ([timeES153129] of MODULETIME 
 (moduleid  ES1531)
@@ -5430,6 +6205,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E15)
 )
 ([timeES153130] of MODULETIME 
 (moduleid  ES1531)
@@ -5437,6 +6213,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E16)
 )
 ([timeES153131] of MODULETIME 
 (moduleid  ES1531)
@@ -5444,6 +6221,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption E16)
 )
 ([timeES153132] of MODULETIME 
 (moduleid  ES1531)
@@ -5451,6 +6229,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E17)
 )
 ([timeES153133] of MODULETIME 
 (moduleid  ES1531)
@@ -5458,6 +6237,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption E17)
 )
 ([timeES153134] of MODULETIME 
 (moduleid  ES1531)
@@ -5465,6 +6245,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption E18)
 )
 ([timeES153135] of MODULETIME 
 (moduleid  ES1531)
@@ -5472,6 +6253,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption E18)
 )
 ([timeES153136] of MODULETIME 
 (moduleid  ES1531)
@@ -5479,6 +6261,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption E19)
 )
 ([timeES153137] of MODULETIME 
 (moduleid  ES1531)
@@ -5486,6 +6269,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption E19)
 )
 ([timeES153138] of MODULETIME 
 (moduleid  ES1531)
@@ -5493,6 +6277,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E20)
 )
 ([timeES153139] of MODULETIME 
 (moduleid  ES1531)
@@ -5500,6 +6285,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption E20)
 )
 ([timeES153140] of MODULETIME 
 (moduleid  ES1531)
@@ -5507,6 +6293,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E21)
 )
 ([timeES153141] of MODULETIME 
 (moduleid  ES1531)
@@ -5514,6 +6301,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E21)
 )
 ([timeES153142] of MODULETIME 
 (moduleid  ES1531)
@@ -5521,6 +6309,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E22)
 )
 ([timeES153143] of MODULETIME 
 (moduleid  ES1531)
@@ -5528,6 +6317,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E22)
 )
 ([timeES153144] of MODULETIME 
 (moduleid  ES1531)
@@ -5535,6 +6325,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E23)
 )
 ([timeES153145] of MODULETIME 
 (moduleid  ES1531)
@@ -5542,6 +6333,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E23)
 )
 ([timeES153146] of MODULETIME 
 (moduleid  ES1531)
@@ -5549,6 +6341,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E24)
 )
 ([timeES153147] of MODULETIME 
 (moduleid  ES1531)
@@ -5556,6 +6349,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E24)
 )
 ([timeES153148] of MODULETIME 
 (moduleid  ES1531)
@@ -5563,6 +6357,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption E25)
 )
 ([timeES153149] of MODULETIME 
 (moduleid  ES1531)
@@ -5570,6 +6365,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption E25)
 )
 ([timeES153150] of MODULETIME 
 (moduleid  ES1531)
@@ -5577,6 +6373,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption E26)
 )
 ([timeES153151] of MODULETIME 
 (moduleid  ES1531)
@@ -5584,6 +6381,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption E26)
 )
 ([timeES153152] of MODULETIME 
 (moduleid  ES1531)
@@ -5591,6 +6389,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption E27)
 )
 ([timeES153153] of MODULETIME 
 (moduleid  ES1531)
@@ -5598,6 +6397,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E27)
 )
 ([timeES153154] of MODULETIME 
 (moduleid  ES1531)
@@ -5605,6 +6405,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption E28)
 )
 ([timeES153155] of MODULETIME 
 (moduleid  ES1531)
@@ -5612,6 +6413,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E28)
 )
 ([timeES153156] of MODULETIME 
 (moduleid  ES1531)
@@ -5619,6 +6421,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E29)
 )
 ([timeES153157] of MODULETIME 
 (moduleid  ES1531)
@@ -5626,6 +6429,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption E29)
 )
 ([timeES153158] of MODULETIME 
 (moduleid  ES1531)
@@ -5633,6 +6437,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption E30)
 )
 ([timeES153159] of MODULETIME 
 (moduleid  ES1531)
@@ -5640,6 +6445,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E30)
 )
 ([timeES153160] of MODULETIME 
 (moduleid  ES1531)
@@ -5647,6 +6453,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E31)
 )
 ([timeES153161] of MODULETIME 
 (moduleid  ES1531)
@@ -5654,6 +6461,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E31)
 )
 ([timeES153162] of MODULETIME 
 (moduleid  ES1531)
@@ -5661,6 +6469,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E32)
 )
 ([timeES153163] of MODULETIME 
 (moduleid  ES1531)
@@ -5668,6 +6477,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption E32)
 )
 ([timeES153164] of MODULETIME 
 (moduleid  ES1531)
@@ -5675,6 +6485,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E33)
 )
 ([timeES153165] of MODULETIME 
 (moduleid  ES1531)
@@ -5682,6 +6493,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption E33)
 )
 ([timeES153166] of MODULETIME 
 (moduleid  ES1531)
@@ -5689,6 +6501,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption E34)
 )
 ([timeES153167] of MODULETIME 
 (moduleid  ES1531)
@@ -5696,6 +6509,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption E34)
 )
 ([timeES153168] of MODULETIME 
 (moduleid  ES1531)
@@ -5703,6 +6517,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption E35)
 )
 ([timeES153169] of MODULETIME 
 (moduleid  ES1531)
@@ -5710,6 +6525,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption E35)
 )
 ([timeES153170] of MODULETIME 
 (moduleid  ES1531)
@@ -5717,6 +6533,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption E36)
 )
 ([timeES153171] of MODULETIME 
 (moduleid  ES1531)
@@ -5724,6 +6541,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption E36)
 )
 ([timeES153172] of MODULETIME 
 (moduleid  ES1531)
@@ -5731,6 +6549,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E37)
 )
 ([timeES153173] of MODULETIME 
 (moduleid  ES1531)
@@ -5738,6 +6557,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption E37)
 )
 ([timeES15410] of MODULETIME 
 (moduleid  ES1541)
@@ -5745,6 +6565,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption CA1)
 )
 ([timeES15411] of MODULETIME 
 (moduleid  ES1541)
@@ -5752,6 +6573,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption CA1)
 )
 ([timeES15412] of MODULETIME 
 (moduleid  ES1541)
@@ -5759,6 +6581,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption CA2)
 )
 ([timeES15413] of MODULETIME 
 (moduleid  ES1541)
@@ -5766,6 +6589,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption CA2)
 )
 ([timeES15414] of MODULETIME 
 (moduleid  ES1541)
@@ -5773,6 +6597,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption CA3)
 )
 ([timeES15415] of MODULETIME 
 (moduleid  ES1541)
@@ -5780,6 +6605,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption CA3)
 )
 ([timeES15416] of MODULETIME 
 (moduleid  ES1541)
@@ -5787,6 +6613,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption CB3)
 )
 ([timeES15417] of MODULETIME 
 (moduleid  ES1541)
@@ -5794,6 +6621,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption CB3)
 )
 ([timeES15418] of MODULETIME 
 (moduleid  ES1541)
@@ -5801,6 +6629,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption FS1)
 )
 ([timeES15419] of MODULETIME 
 (moduleid  ES1541)
@@ -5808,6 +6637,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption FS1)
 )
 ([timeES154110] of MODULETIME 
 (moduleid  ES1541)
@@ -5815,6 +6645,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption FS2)
 )
 ([timeES154111] of MODULETIME 
 (moduleid  ES1541)
@@ -5822,6 +6653,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption FS2)
 )
 ([timeES154112] of MODULETIME 
 (moduleid  ES1541)
@@ -5829,6 +6661,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption LA1)
 )
 ([timeES154113] of MODULETIME 
 (moduleid  ES1541)
@@ -5836,6 +6669,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption LA1)
 )
 ([timeES154114] of MODULETIME 
 (moduleid  ES1541)
@@ -5843,6 +6677,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption LB1)
 )
 ([timeES154115] of MODULETIME 
 (moduleid  ES1541)
@@ -5850,6 +6685,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption LB1)
 )
 ([timeES154116] of MODULETIME 
 (moduleid  ES1541)
@@ -5857,6 +6693,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption LB3)
 )
 ([timeES154117] of MODULETIME 
 (moduleid  ES1541)
@@ -5864,6 +6701,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption LB3)
 )
 ([timeES154118] of MODULETIME 
 (moduleid  ES1541)
@@ -5871,6 +6709,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption LM1)
 )
 ([timeES154119] of MODULETIME 
 (moduleid  ES1541)
@@ -5878,6 +6717,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption LM1)
 )
 ([timeES154120] of MODULETIME 
 (moduleid  ES1541)
@@ -5885,6 +6725,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption LM3)
 )
 ([timeES154121] of MODULETIME 
 (moduleid  ES1541)
@@ -5892,6 +6733,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption LM3)
 )
 ([timeES154122] of MODULETIME 
 (moduleid  ES1541)
@@ -5899,6 +6741,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption LT1)
 )
 ([timeES154123] of MODULETIME 
 (moduleid  ES1541)
@@ -5906,6 +6749,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption LT1)
 )
 ([timeES154124] of MODULETIME 
 (moduleid  ES1541)
@@ -5913,6 +6757,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption LT2)
 )
 ([timeES154125] of MODULETIME 
 (moduleid  ES1541)
@@ -5920,6 +6765,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption LT2)
 )
 ([timeES154126] of MODULETIME 
 (moduleid  ES1541)
@@ -5927,6 +6773,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption LT3)
 )
 ([timeES154127] of MODULETIME 
 (moduleid  ES1541)
@@ -5934,6 +6781,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption LT3)
 )
 ([timeES154128] of MODULETIME 
 (moduleid  ES1541)
@@ -5941,6 +6789,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption LT4)
 )
 ([timeES154129] of MODULETIME 
 (moduleid  ES1541)
@@ -5948,6 +6797,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption LT4)
 )
 ([timeES154130] of MODULETIME 
 (moduleid  ES1541)
@@ -5955,6 +6805,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption MM1)
 )
 ([timeES154131] of MODULETIME 
 (moduleid  ES1541)
@@ -5962,6 +6813,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption MM1)
 )
 ([timeES154132] of MODULETIME 
 (moduleid  ES1541)
@@ -5969,6 +6821,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption MM2)
 )
 ([timeES154133] of MODULETIME 
 (moduleid  ES1541)
@@ -5976,6 +6829,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption MM2)
 )
 ([timeES154134] of MODULETIME 
 (moduleid  ES1541)
@@ -5983,6 +6837,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption MM3)
 )
 ([timeES154135] of MODULETIME 
 (moduleid  ES1541)
@@ -5990,6 +6845,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption MM3)
 )
 ([timeES154136] of MODULETIME 
 (moduleid  ES1541)
@@ -5997,6 +6853,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption MT1)
 )
 ([timeES154137] of MODULETIME 
 (moduleid  ES1541)
@@ -6004,6 +6861,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption MT1)
 )
 ([timeES154138] of MODULETIME 
 (moduleid  ES1541)
@@ -6011,6 +6869,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption MT2)
 )
 ([timeES154139] of MODULETIME 
 (moduleid  ES1541)
@@ -6018,6 +6877,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption MT2)
 )
 ([timeES154140] of MODULETIME 
 (moduleid  ES1541)
@@ -6025,6 +6885,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption PT1)
 )
 ([timeES154141] of MODULETIME 
 (moduleid  ES1541)
@@ -6032,6 +6893,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption PT1)
 )
 ([timeES154142] of MODULETIME 
 (moduleid  ES1541)
@@ -6039,6 +6901,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SM1)
 )
 ([timeES154143] of MODULETIME 
 (moduleid  ES1541)
@@ -6046,6 +6909,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SM1)
 )
 ([timeES154144] of MODULETIME 
 (moduleid  ES1541)
@@ -6053,6 +6917,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SM2)
 )
 ([timeES154145] of MODULETIME 
 (moduleid  ES1541)
@@ -6060,6 +6925,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SM2)
 )
 ([timeES154146] of MODULETIME 
 (moduleid  ES1541)
@@ -6067,6 +6933,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SM4)
 )
 ([timeES154147] of MODULETIME 
 (moduleid  ES1541)
@@ -6074,6 +6941,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SM4)
 )
 ([timeES154148] of MODULETIME 
 (moduleid  ES1541)
@@ -6081,6 +6949,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption ST4)
 )
 ([timeES154149] of MODULETIME 
 (moduleid  ES1541)
@@ -6088,6 +6957,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption ST4)
 )
 ([timeES20020] of MODULETIME 
 (moduleid  ES2002)
@@ -6095,6 +6965,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G01)
 )
 ([timeES20021] of MODULETIME 
 (moduleid  ES2002)
@@ -6102,6 +6973,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G01)
 )
 ([timeES20022] of MODULETIME 
 (moduleid  ES2002)
@@ -6109,6 +6981,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G02)
 )
 ([timeES20023] of MODULETIME 
 (moduleid  ES2002)
@@ -6116,6 +6989,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G02)
 )
 ([timeES20024] of MODULETIME 
 (moduleid  ES2002)
@@ -6123,6 +6997,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G03)
 )
 ([timeES20025] of MODULETIME 
 (moduleid  ES2002)
@@ -6130,6 +7005,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G03)
 )
 ([timeES20026] of MODULETIME 
 (moduleid  ES2002)
@@ -6137,6 +7013,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G04)
 )
 ([timeES20027] of MODULETIME 
 (moduleid  ES2002)
@@ -6144,6 +7021,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G04)
 )
 ([timeES20028] of MODULETIME 
 (moduleid  ES2002)
@@ -6151,6 +7029,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G05)
 )
 ([timeES20029] of MODULETIME 
 (moduleid  ES2002)
@@ -6158,6 +7037,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G05)
 )
 ([timeES200210] of MODULETIME 
 (moduleid  ES2002)
@@ -6165,6 +7045,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G06)
 )
 ([timeES200211] of MODULETIME 
 (moduleid  ES2002)
@@ -6172,6 +7053,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G06)
 )
 ([timeES200212] of MODULETIME 
 (moduleid  ES2002)
@@ -6179,6 +7061,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G08)
 )
 ([timeES200213] of MODULETIME 
 (moduleid  ES2002)
@@ -6186,6 +7069,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G08)
 )
 ([timeES200214] of MODULETIME 
 (moduleid  ES2002)
@@ -6193,6 +7077,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G10)
 )
 ([timeES200215] of MODULETIME 
 (moduleid  ES2002)
@@ -6200,6 +7085,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G10)
 )
 ([timeES200216] of MODULETIME 
 (moduleid  ES2002)
@@ -6207,6 +7093,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G11)
 )
 ([timeES200217] of MODULETIME 
 (moduleid  ES2002)
@@ -6214,6 +7101,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G11)
 )
 ([timeES200218] of MODULETIME 
 (moduleid  ES2002)
@@ -6221,6 +7109,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G12)
 )
 ([timeES200219] of MODULETIME 
 (moduleid  ES2002)
@@ -6228,6 +7117,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G12)
 )
 ([timeES200220] of MODULETIME 
 (moduleid  ES2002)
@@ -6235,6 +7125,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G13)
 )
 ([timeES200221] of MODULETIME 
 (moduleid  ES2002)
@@ -6242,6 +7133,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G13)
 )
 ([timeES200222] of MODULETIME 
 (moduleid  ES2002)
@@ -6249,6 +7141,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G14)
 )
 ([timeES200223] of MODULETIME 
 (moduleid  ES2002)
@@ -6256,6 +7149,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G14)
 )
 ([timeES200224] of MODULETIME 
 (moduleid  ES2002)
@@ -6263,6 +7157,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption G15)
 )
 ([timeES200225] of MODULETIME 
 (moduleid  ES2002)
@@ -6270,6 +7165,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption G15)
 )
 ([timeES200226] of MODULETIME 
 (moduleid  ES2002)
@@ -6277,6 +7173,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G17)
 )
 ([timeES200227] of MODULETIME 
 (moduleid  ES2002)
@@ -6284,6 +7181,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G17)
 )
 ([timeES200228] of MODULETIME 
 (moduleid  ES2002)
@@ -6291,6 +7189,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G18)
 )
 ([timeES200229] of MODULETIME 
 (moduleid  ES2002)
@@ -6298,6 +7197,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G18)
 )
 ([timeES200230] of MODULETIME 
 (moduleid  ES2002)
@@ -6305,6 +7205,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G19)
 )
 ([timeES200231] of MODULETIME 
 (moduleid  ES2002)
@@ -6312,6 +7213,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G19)
 )
 ([timeES200232] of MODULETIME 
 (moduleid  ES2002)
@@ -6319,6 +7221,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption G20)
 )
 ([timeES200233] of MODULETIME 
 (moduleid  ES2002)
@@ -6326,6 +7229,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption G20)
 )
 ([timeES200234] of MODULETIME 
 (moduleid  ES2002)
@@ -6333,6 +7237,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G21)
 )
 ([timeES200235] of MODULETIME 
 (moduleid  ES2002)
@@ -6340,6 +7245,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G21)
 )
 ([timeES200236] of MODULETIME 
 (moduleid  ES2002)
@@ -6347,6 +7253,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption G22)
 )
 ([timeES200237] of MODULETIME 
 (moduleid  ES2002)
@@ -6354,6 +7261,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption G22)
 )
 ([timeES200238] of MODULETIME 
 (moduleid  ES2002)
@@ -6361,6 +7269,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G26)
 )
 ([timeES200239] of MODULETIME 
 (moduleid  ES2002)
@@ -6368,6 +7277,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G26)
 )
 ([timeES200240] of MODULETIME 
 (moduleid  ES2002)
@@ -6375,6 +7285,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G27)
 )
 ([timeES200241] of MODULETIME 
 (moduleid  ES2002)
@@ -6382,6 +7293,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G27)
 )
 ([timeES200242] of MODULETIME 
 (moduleid  ES2002)
@@ -6389,6 +7301,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption G28)
 )
 ([timeES200243] of MODULETIME 
 (moduleid  ES2002)
@@ -6396,6 +7309,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption G28)
 )
 ([timeES200244] of MODULETIME 
 (moduleid  ES2002)
@@ -6403,6 +7317,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G29)
 )
 ([timeES200245] of MODULETIME 
 (moduleid  ES2002)
@@ -6410,6 +7325,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G29)
 )
 ([timeES2007S0] of MODULETIME 
 (moduleid  ES2007S)
@@ -6417,6 +7333,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeES2007S1] of MODULETIME 
 (moduleid  ES2007S)
@@ -6424,6 +7341,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeES2007S2] of MODULETIME 
 (moduleid  ES2007S)
@@ -6431,6 +7349,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeES2007S3] of MODULETIME 
 (moduleid  ES2007S)
@@ -6438,6 +7357,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeES2007S4] of MODULETIME 
 (moduleid  ES2007S)
@@ -6445,6 +7365,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeES2007S5] of MODULETIME 
 (moduleid  ES2007S)
@@ -6452,6 +7373,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeES2007S6] of MODULETIME 
 (moduleid  ES2007S)
@@ -6459,6 +7381,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 4)
 )
 ([timeES2007S7] of MODULETIME 
 (moduleid  ES2007S)
@@ -6466,6 +7389,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 4)
 )
 ([timeES2007S8] of MODULETIME 
 (moduleid  ES2007S)
@@ -6473,6 +7397,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 5)
 )
 ([timeES2007S9] of MODULETIME 
 (moduleid  ES2007S)
@@ -6480,6 +7405,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 5)
 )
 ([timeES2007S10] of MODULETIME 
 (moduleid  ES2007S)
@@ -6487,6 +7413,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 6)
 )
 ([timeES2007S11] of MODULETIME 
 (moduleid  ES2007S)
@@ -6494,6 +7421,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 6)
 )
 ([timeES2007S12] of MODULETIME 
 (moduleid  ES2007S)
@@ -6501,6 +7429,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 7)
 )
 ([timeES2007S13] of MODULETIME 
 (moduleid  ES2007S)
@@ -6508,6 +7437,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 7)
 )
 ([timeES2007S14] of MODULETIME 
 (moduleid  ES2007S)
@@ -6515,6 +7445,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 8)
 )
 ([timeES2007S15] of MODULETIME 
 (moduleid  ES2007S)
@@ -6522,6 +7453,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 8)
 )
 ([timeES23310] of MODULETIME 
 (moduleid  ES2331)
@@ -6529,6 +7461,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G01)
 )
 ([timeES23311] of MODULETIME 
 (moduleid  ES2331)
@@ -6536,6 +7469,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G01)
 )
 ([timeES23312] of MODULETIME 
 (moduleid  ES2331)
@@ -6543,6 +7477,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G02)
 )
 ([timeES23313] of MODULETIME 
 (moduleid  ES2331)
@@ -6550,6 +7485,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G02)
 )
 ([timeES23314] of MODULETIME 
 (moduleid  ES2331)
@@ -6557,6 +7493,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G03)
 )
 ([timeES23315] of MODULETIME 
 (moduleid  ES2331)
@@ -6564,6 +7501,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G03)
 )
 ([timeES23316] of MODULETIME 
 (moduleid  ES2331)
@@ -6571,6 +7509,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G04)
 )
 ([timeES23317] of MODULETIME 
 (moduleid  ES2331)
@@ -6578,6 +7517,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G04)
 )
 ([timeES23318] of MODULETIME 
 (moduleid  ES2331)
@@ -6585,6 +7525,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G05)
 )
 ([timeES23319] of MODULETIME 
 (moduleid  ES2331)
@@ -6592,6 +7533,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G05)
 )
 ([timeES233110] of MODULETIME 
 (moduleid  ES2331)
@@ -6599,6 +7541,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G06)
 )
 ([timeES233111] of MODULETIME 
 (moduleid  ES2331)
@@ -6606,6 +7549,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G06)
 )
 ([timeES233112] of MODULETIME 
 (moduleid  ES2331)
@@ -6613,6 +7557,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G07)
 )
 ([timeES233113] of MODULETIME 
 (moduleid  ES2331)
@@ -6620,6 +7565,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G07)
 )
 ([timeES233114] of MODULETIME 
 (moduleid  ES2331)
@@ -6627,6 +7573,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G08)
 )
 ([timeES233115] of MODULETIME 
 (moduleid  ES2331)
@@ -6634,6 +7581,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G08)
 )
 ([timeES233116] of MODULETIME 
 (moduleid  ES2331)
@@ -6641,6 +7589,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G09)
 )
 ([timeES233117] of MODULETIME 
 (moduleid  ES2331)
@@ -6648,6 +7597,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G09)
 )
 ([timeES233118] of MODULETIME 
 (moduleid  ES2331)
@@ -6655,6 +7605,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G10)
 )
 ([timeES233119] of MODULETIME 
 (moduleid  ES2331)
@@ -6662,6 +7613,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption G10)
 )
 ([timeES233120] of MODULETIME 
 (moduleid  ES2331)
@@ -6669,6 +7621,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G11)
 )
 ([timeES233121] of MODULETIME 
 (moduleid  ES2331)
@@ -6676,6 +7629,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption G11)
 )
 ([timeES233122] of MODULETIME 
 (moduleid  ES2331)
@@ -6683,6 +7637,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G12)
 )
 ([timeES233123] of MODULETIME 
 (moduleid  ES2331)
@@ -6690,6 +7645,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G12)
 )
 ([timeES233124] of MODULETIME 
 (moduleid  ES2331)
@@ -6697,6 +7653,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G13)
 )
 ([timeES233125] of MODULETIME 
 (moduleid  ES2331)
@@ -6704,6 +7661,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G13)
 )
 ([timeES233126] of MODULETIME 
 (moduleid  ES2331)
@@ -6711,6 +7669,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G14)
 )
 ([timeES233127] of MODULETIME 
 (moduleid  ES2331)
@@ -6718,6 +7677,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G14)
 )
 ([timeES233128] of MODULETIME 
 (moduleid  ES2331)
@@ -6725,6 +7685,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G15)
 )
 ([timeES233129] of MODULETIME 
 (moduleid  ES2331)
@@ -6732,6 +7693,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G15)
 )
 ([timeES233130] of MODULETIME 
 (moduleid  ES2331)
@@ -6739,6 +7701,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G16)
 )
 ([timeES233131] of MODULETIME 
 (moduleid  ES2331)
@@ -6746,6 +7709,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G16)
 )
 ([timeES233132] of MODULETIME 
 (moduleid  ES2331)
@@ -6753,6 +7717,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G17)
 )
 ([timeES233133] of MODULETIME 
 (moduleid  ES2331)
@@ -6760,6 +7725,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G17)
 )
 ([timeES233134] of MODULETIME 
 (moduleid  ES2331)
@@ -6767,6 +7733,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G18)
 )
 ([timeES233135] of MODULETIME 
 (moduleid  ES2331)
@@ -6774,6 +7741,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G18)
 )
 ([timeES233136] of MODULETIME 
 (moduleid  ES2331)
@@ -6781,6 +7749,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G19)
 )
 ([timeES233137] of MODULETIME 
 (moduleid  ES2331)
@@ -6788,6 +7757,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G19)
 )
 ([timeES233138] of MODULETIME 
 (moduleid  ES2331)
@@ -6795,6 +7765,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption G20)
 )
 ([timeES233139] of MODULETIME 
 (moduleid  ES2331)
@@ -6802,6 +7773,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G20)
 )
 ([timeES233140] of MODULETIME 
 (moduleid  ES2331)
@@ -6809,6 +7781,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G21)
 )
 ([timeES233141] of MODULETIME 
 (moduleid  ES2331)
@@ -6816,6 +7789,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G21)
 )
 ([timeES233142] of MODULETIME 
 (moduleid  ES2331)
@@ -6823,6 +7797,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G22)
 )
 ([timeES233143] of MODULETIME 
 (moduleid  ES2331)
@@ -6830,6 +7805,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G22)
 )
 ([timeES233144] of MODULETIME 
 (moduleid  ES2331)
@@ -6837,6 +7813,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G23)
 )
 ([timeES233145] of MODULETIME 
 (moduleid  ES2331)
@@ -6844,6 +7821,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G23)
 )
 ([timeES233146] of MODULETIME 
 (moduleid  ES2331)
@@ -6851,6 +7829,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G24)
 )
 ([timeES233147] of MODULETIME 
 (moduleid  ES2331)
@@ -6858,6 +7837,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption G24)
 )
 ([timeES233148] of MODULETIME 
 (moduleid  ES2331)
@@ -6865,6 +7845,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G25)
 )
 ([timeES233149] of MODULETIME 
 (moduleid  ES2331)
@@ -6872,6 +7853,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G25)
 )
 ([timeES233150] of MODULETIME 
 (moduleid  ES2331)
@@ -6879,6 +7861,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G26)
 )
 ([timeES233151] of MODULETIME 
 (moduleid  ES2331)
@@ -6886,6 +7869,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G26)
 )
 ([timeES233152] of MODULETIME 
 (moduleid  ES2331)
@@ -6893,6 +7877,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G27)
 )
 ([timeES233153] of MODULETIME 
 (moduleid  ES2331)
@@ -6900,6 +7885,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G27)
 )
 ([timeES233154] of MODULETIME 
 (moduleid  ES2331)
@@ -6907,6 +7893,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G28)
 )
 ([timeES233155] of MODULETIME 
 (moduleid  ES2331)
@@ -6914,6 +7901,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G28)
 )
 ([timeES233156] of MODULETIME 
 (moduleid  ES2331)
@@ -6921,6 +7909,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G29)
 )
 ([timeES233157] of MODULETIME 
 (moduleid  ES2331)
@@ -6928,6 +7917,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G29)
 )
 ([timeES233158] of MODULETIME 
 (moduleid  ES2331)
@@ -6935,6 +7925,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G30)
 )
 ([timeES233159] of MODULETIME 
 (moduleid  ES2331)
@@ -6942,6 +7933,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G30)
 )
 ([timeES233160] of MODULETIME 
 (moduleid  ES2331)
@@ -6949,6 +7941,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G31)
 )
 ([timeES233161] of MODULETIME 
 (moduleid  ES2331)
@@ -6956,6 +7949,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G31)
 )
 ([timeES233162] of MODULETIME 
 (moduleid  ES2331)
@@ -6963,6 +7957,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G32)
 )
 ([timeES233163] of MODULETIME 
 (moduleid  ES2331)
@@ -6970,6 +7965,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G32)
 )
 ([timeES233164] of MODULETIME 
 (moduleid  ES2331)
@@ -6977,6 +7973,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G33)
 )
 ([timeES233165] of MODULETIME 
 (moduleid  ES2331)
@@ -6984,6 +7981,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G33)
 )
 ([timeES233166] of MODULETIME 
 (moduleid  ES2331)
@@ -6991,6 +7989,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G34)
 )
 ([timeES233167] of MODULETIME 
 (moduleid  ES2331)
@@ -6998,6 +7997,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G34)
 )
 ([timeES233168] of MODULETIME 
 (moduleid  ES2331)
@@ -7005,6 +8005,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G35)
 )
 ([timeES233169] of MODULETIME 
 (moduleid  ES2331)
@@ -7012,6 +8013,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G35)
 )
 ([timeES233170] of MODULETIME 
 (moduleid  ES2331)
@@ -7019,6 +8021,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G36)
 )
 ([timeES233171] of MODULETIME 
 (moduleid  ES2331)
@@ -7026,6 +8029,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G36)
 )
 ([timeES233172] of MODULETIME 
 (moduleid  ES2331)
@@ -7033,6 +8037,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G37)
 )
 ([timeES233173] of MODULETIME 
 (moduleid  ES2331)
@@ -7040,6 +8045,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G37)
 )
 ([timeES233174] of MODULETIME 
 (moduleid  ES2331)
@@ -7047,6 +8053,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G38)
 )
 ([timeES233175] of MODULETIME 
 (moduleid  ES2331)
@@ -7054,6 +8061,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G38)
 )
 ([timeES233176] of MODULETIME 
 (moduleid  ES2331)
@@ -7061,6 +8069,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G39)
 )
 ([timeES233177] of MODULETIME 
 (moduleid  ES2331)
@@ -7068,6 +8077,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G39)
 )
 ([timeES233178] of MODULETIME 
 (moduleid  ES2331)
@@ -7075,6 +8085,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption G40)
 )
 ([timeES233179] of MODULETIME 
 (moduleid  ES2331)
@@ -7082,6 +8093,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption G40)
 )
 ([timeES233180] of MODULETIME 
 (moduleid  ES2331)
@@ -7089,6 +8101,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption G41)
 )
 ([timeES233181] of MODULETIME 
 (moduleid  ES2331)
@@ -7096,6 +8109,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption G41)
 )
 ([timeES233182] of MODULETIME 
 (moduleid  ES2331)
@@ -7103,6 +8117,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G42)
 )
 ([timeES233183] of MODULETIME 
 (moduleid  ES2331)
@@ -7110,6 +8125,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G42)
 )
 ([timeES233184] of MODULETIME 
 (moduleid  ES2331)
@@ -7117,6 +8133,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G43)
 )
 ([timeES233185] of MODULETIME 
 (moduleid  ES2331)
@@ -7124,6 +8141,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption G43)
 )
 ([timeES233186] of MODULETIME 
 (moduleid  ES2331)
@@ -7131,6 +8149,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption G44)
 )
 ([timeES233187] of MODULETIME 
 (moduleid  ES2331)
@@ -7138,6 +8157,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption G44)
 )
 ([timeES233188] of MODULETIME 
 (moduleid  ES2331)
@@ -7145,6 +8165,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption G45)
 )
 ([timeES233189] of MODULETIME 
 (moduleid  ES2331)
@@ -7152,6 +8173,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption G45)
 )
 ([timeES233190] of MODULETIME 
 (moduleid  ES2331)
@@ -7159,6 +8181,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G46)
 )
 ([timeES233191] of MODULETIME 
 (moduleid  ES2331)
@@ -7166,6 +8189,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption G46)
 )
 ([timeES233192] of MODULETIME 
 (moduleid  ES2331)
@@ -7173,6 +8197,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G47)
 )
 ([timeES233193] of MODULETIME 
 (moduleid  ES2331)
@@ -7180,6 +8205,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption G47)
 )
 ([timeES233194] of MODULETIME 
 (moduleid  ES2331)
@@ -7187,6 +8213,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption G48)
 )
 ([timeES233195] of MODULETIME 
 (moduleid  ES2331)
@@ -7194,6 +8221,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption G48)
 )
 ([timeES233196] of MODULETIME 
 (moduleid  ES2331)
@@ -7201,6 +8229,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption G49)
 )
 ([timeES233197] of MODULETIME 
 (moduleid  ES2331)
@@ -7208,6 +8237,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G49)
 )
 ([timeESE24010] of MODULETIME 
 (moduleid  ESE2401)
@@ -7215,6 +8245,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESE24011] of MODULETIME 
 (moduleid  ESE2401)
@@ -7222,6 +8253,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESE30010] of MODULETIME 
 (moduleid  ESE3001)
@@ -7229,6 +8261,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESE30011] of MODULETIME 
 (moduleid  ESE3001)
@@ -7236,6 +8269,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESE44030] of MODULETIME 
 (moduleid  ESE4403)
@@ -7243,6 +8277,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESE44050] of MODULETIME 
 (moduleid  ESE4405)
@@ -7250,6 +8285,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESE44051] of MODULETIME 
 (moduleid  ESE4405)
@@ -7257,6 +8293,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESE44070] of MODULETIME 
 (moduleid  ESE4407)
@@ -7264,6 +8301,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESE45020] of MODULETIME 
 (moduleid  ESE4502)
@@ -7271,6 +8309,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESE54010] of MODULETIME 
 (moduleid  ESE5401)
@@ -7278,6 +8317,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESE54050] of MODULETIME 
 (moduleid  ESE5405)
@@ -7285,6 +8325,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESE56020] of MODULETIME 
 (moduleid  ESE5602)
@@ -7292,6 +8333,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESP11040] of MODULETIME 
 (moduleid  ESP1104)
@@ -7299,6 +8341,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESP11041] of MODULETIME 
 (moduleid  ESP1104)
@@ -7306,6 +8349,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESP21100] of MODULETIME 
 (moduleid  ESP2110)
@@ -7313,6 +8357,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESP21101] of MODULETIME 
 (moduleid  ESP2110)
@@ -7320,6 +8365,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESP21102] of MODULETIME 
 (moduleid  ESP2110)
@@ -7327,6 +8373,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 2)
 )
 ([timeESP21103] of MODULETIME 
 (moduleid  ESP2110)
@@ -7334,6 +8381,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeESP39030] of MODULETIME 
 (moduleid  ESP3903)
@@ -7341,6 +8389,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESP44020] of MODULETIME 
 (moduleid  ESP4402)
@@ -7348,6 +8397,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeESP49010] of MODULETIME 
 (moduleid  ESP4901)
@@ -7355,6 +8405,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEU1101E0] of MODULETIME 
 (moduleid  EU1101E)
@@ -7362,6 +8413,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEU22030] of MODULETIME 
 (moduleid  EU2203)
@@ -7369,6 +8421,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEU22140] of MODULETIME 
 (moduleid  EU2214)
@@ -7376,6 +8429,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEU22230] of MODULETIME 
 (moduleid  EU2223)
@@ -7383,6 +8437,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEU32170] of MODULETIME 
 (moduleid  EU3217)
@@ -7390,6 +8445,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEU32240] of MODULETIME 
 (moduleid  EU3224)
@@ -7397,6 +8453,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEU32280] of MODULETIME 
 (moduleid  EU3228)
@@ -7404,6 +8461,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEU32300] of MODULETIME 
 (moduleid  EU3230)
@@ -7411,6 +8469,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEU32310] of MODULETIME 
 (moduleid  EU3231)
@@ -7418,6 +8477,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEU42240] of MODULETIME 
 (moduleid  EU4224)
@@ -7425,6 +8485,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeEU42280] of MODULETIME 
 (moduleid  EU4228)
@@ -7432,6 +8493,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeFDP20010] of MODULETIME 
 (moduleid  FDP2001)
@@ -7439,6 +8501,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFDP20011] of MODULETIME 
 (moduleid  FDP2001)
@@ -7446,6 +8509,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeFDP20020] of MODULETIME 
 (moduleid  FDP2002)
@@ -7453,6 +8517,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFDP20021] of MODULETIME 
 (moduleid  FDP2002)
@@ -7460,6 +8525,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeFIN20040] of MODULETIME 
 (moduleid  FIN2004)
@@ -7467,6 +8533,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption J1)
 )
 ([timeFIN20041] of MODULETIME 
 (moduleid  FIN2004)
@@ -7474,6 +8541,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption J2)
 )
 ([timeFIN20042] of MODULETIME 
 (moduleid  FIN2004)
@@ -7481,6 +8549,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption J3)
 )
 ([timeFIN20043] of MODULETIME 
 (moduleid  FIN2004)
@@ -7488,6 +8557,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption J4)
 )
 ([timeFIN20044] of MODULETIME 
 (moduleid  FIN2004)
@@ -7495,6 +8565,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption J5)
 )
 ([timeFIN20045] of MODULETIME 
 (moduleid  FIN2004)
@@ -7502,6 +8573,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption J6)
 )
 ([timeFIN20046] of MODULETIME 
 (moduleid  FIN2004)
@@ -7509,6 +8581,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption J7)
 )
 ([timeFIN2004X0] of MODULETIME 
 (moduleid  FIN2004X)
@@ -7516,6 +8589,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption G1)
 )
 ([timeFIN3101A0] of MODULETIME 
 (moduleid  FIN3101A)
@@ -7523,6 +8597,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A1)
 )
 ([timeFIN3101A1] of MODULETIME 
 (moduleid  FIN3101A)
@@ -7530,6 +8605,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption A2)
 )
 ([timeFIN3101A2] of MODULETIME 
 (moduleid  FIN3101A)
@@ -7537,6 +8613,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A3)
 )
 ([timeFIN3102A0] of MODULETIME 
 (moduleid  FIN3102A)
@@ -7544,6 +8621,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption A1)
 )
 ([timeFIN3102A1] of MODULETIME 
 (moduleid  FIN3102A)
@@ -7551,6 +8629,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption A2)
 )
 ([timeFIN3102A2] of MODULETIME 
 (moduleid  FIN3102A)
@@ -7558,6 +8637,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption A3)
 )
 ([timeFIN3102B0] of MODULETIME 
 (moduleid  FIN3102B)
@@ -7565,6 +8645,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption B4)
 )
 ([timeFIN3103A0] of MODULETIME 
 (moduleid  FIN3103A)
@@ -7572,6 +8653,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption A1)
 )
 ([timeFIN3103A1] of MODULETIME 
 (moduleid  FIN3103A)
@@ -7579,6 +8661,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption A2)
 )
 ([timeFIN3103A2] of MODULETIME 
 (moduleid  FIN3103A)
@@ -7586,6 +8669,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption A3)
 )
 ([timeFIN3103B0] of MODULETIME 
 (moduleid  FIN3103B)
@@ -7593,6 +8677,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B4)
 )
 ([timeFIN31130] of MODULETIME 
 (moduleid  FIN3113)
@@ -7600,6 +8685,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption F1)
 )
 ([timeFIN31160] of MODULETIME 
 (moduleid  FIN3116)
@@ -7607,6 +8693,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption H1)
 )
 ([timeFIN31170] of MODULETIME 
 (moduleid  FIN3117)
@@ -7614,6 +8701,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption M1)
 )
 ([timeFIN31171] of MODULETIME 
 (moduleid  FIN3117)
@@ -7621,6 +8709,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption M2)
 )
 ([timeFIN31180] of MODULETIME 
 (moduleid  FIN3118)
@@ -7628,6 +8717,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption J1)
 )
 ([timeFIN31300] of MODULETIME 
 (moduleid  FIN3130)
@@ -7635,6 +8725,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption L1)
 )
 ([timeFIN31301] of MODULETIME 
 (moduleid  FIN3130)
@@ -7642,6 +8733,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption L2)
 )
 ([timeFIN31310] of MODULETIME 
 (moduleid  FIN3131)
@@ -7649,6 +8741,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption E1)
 )
 ([timeFIN31311] of MODULETIME 
 (moduleid  FIN3131)
@@ -7656,6 +8749,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E2)
 )
 ([timeFIN4112G0] of MODULETIME 
 (moduleid  FIN4112G)
@@ -7663,6 +8757,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption P1)
 )
 ([timeFIN4112H0] of MODULETIME 
 (moduleid  FIN4112H)
@@ -7670,6 +8765,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption R1)
 )
 ([timeFIN4112K0] of MODULETIME 
 (moduleid  FIN4112K)
@@ -7677,6 +8773,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption P1)
 )
 ([timeFIN41130] of MODULETIME 
 (moduleid  FIN4113)
@@ -7684,6 +8781,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption S1)
 )
 ([timeFIN41131] of MODULETIME 
 (moduleid  FIN4113)
@@ -7691,6 +8789,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption S2)
 )
 ([timeFIN41160] of MODULETIME 
 (moduleid  FIN4116)
@@ -7698,6 +8797,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption P1)
 )
 ([timeFMA1201J0] of MODULETIME 
 (moduleid  FMA1201J)
@@ -7705,6 +8805,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeFMA1201P0] of MODULETIME 
 (moduleid  FMA1201P)
@@ -7712,6 +8813,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeFMA1201Q0] of MODULETIME 
 (moduleid  FMA1201Q)
@@ -7719,6 +8821,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeFMA1201R0] of MODULETIME 
 (moduleid  FMA1201R)
@@ -7726,6 +8829,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeFMA1203F0] of MODULETIME 
 (moduleid  FMA1203F)
@@ -7733,6 +8837,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeFMA1203H0] of MODULETIME 
 (moduleid  FMA1203H)
@@ -7740,6 +8845,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeFMA1206M0] of MODULETIME 
 (moduleid  FMA1206M)
@@ -7747,6 +8853,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeFMC12010] of MODULETIME 
 (moduleid  FMC1201)
@@ -7754,6 +8861,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeFMC12030] of MODULETIME 
 (moduleid  FMC1203)
@@ -7761,6 +8869,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeFMD12010] of MODULETIME 
 (moduleid  FMD1201)
@@ -7768,6 +8877,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeFMS1201D0] of MODULETIME 
 (moduleid  FMS1201D)
@@ -7775,6 +8885,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1202C0] of MODULETIME 
 (moduleid  FMS1202C)
@@ -7782,6 +8893,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1203S0] of MODULETIME 
 (moduleid  FMS1203S)
@@ -7789,6 +8901,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1204P0] of MODULETIME 
 (moduleid  FMS1204P)
@@ -7796,6 +8909,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1204S0] of MODULETIME 
 (moduleid  FMS1204S)
@@ -7803,6 +8917,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1205M0] of MODULETIME 
 (moduleid  FMS1205M)
@@ -7810,6 +8925,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1205P0] of MODULETIME 
 (moduleid  FMS1205P)
@@ -7817,6 +8933,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1207C0] of MODULETIME 
 (moduleid  FMS1207C)
@@ -7824,6 +8941,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1207P0] of MODULETIME 
 (moduleid  FMS1207P)
@@ -7831,6 +8949,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1209C0] of MODULETIME 
 (moduleid  FMS1209C)
@@ -7838,6 +8957,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1209M0] of MODULETIME 
 (moduleid  FMS1209M)
@@ -7845,6 +8965,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1210C0] of MODULETIME 
 (moduleid  FMS1210C)
@@ -7852,6 +8973,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1210M0] of MODULETIME 
 (moduleid  FMS1210M)
@@ -7859,6 +8981,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1215B0] of MODULETIME 
 (moduleid  FMS1215B)
@@ -7866,6 +8989,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1221B0] of MODULETIME 
 (moduleid  FMS1221B)
@@ -7873,6 +8997,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFMS1224B0] of MODULETIME 
 (moduleid  FMS1224B)
@@ -7880,6 +9005,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST2102A0] of MODULETIME 
 (moduleid  FST2102A)
@@ -7887,6 +9013,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST2102A1] of MODULETIME 
 (moduleid  FST2102A)
@@ -7894,6 +9021,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST21060] of MODULETIME 
 (moduleid  FST2106)
@@ -7901,6 +9029,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST22010] of MODULETIME 
 (moduleid  FST2201)
@@ -7908,6 +9037,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST22011] of MODULETIME 
 (moduleid  FST2201)
@@ -7915,6 +9045,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST31810] of MODULETIME 
 (moduleid  FST3181)
@@ -7922,6 +9053,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST31811] of MODULETIME 
 (moduleid  FST3181)
@@ -7929,6 +9061,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST31812] of MODULETIME 
 (moduleid  FST3181)
@@ -7936,6 +9069,7 @@
 (starttime 600)
 (endtime 600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST31813] of MODULETIME 
 (moduleid  FST3181)
@@ -7943,6 +9077,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST31814] of MODULETIME 
 (moduleid  FST3181)
@@ -7950,6 +9085,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST31815] of MODULETIME 
 (moduleid  FST3181)
@@ -7957,6 +9093,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST41020] of MODULETIME 
 (moduleid  FST4102)
@@ -7964,6 +9101,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST41030] of MODULETIME 
 (moduleid  FST4103)
@@ -7971,6 +9109,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST42020] of MODULETIME 
 (moduleid  FST4202)
@@ -7978,6 +9117,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeFST52030] of MODULETIME 
 (moduleid  FST5203)
@@ -7985,6 +9125,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGE1101E0] of MODULETIME 
 (moduleid  GE1101E)
@@ -7992,6 +9133,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE21010] of MODULETIME 
 (moduleid  GE2101)
@@ -7999,6 +9141,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE22020] of MODULETIME 
 (moduleid  GE2202)
@@ -8006,6 +9149,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE22060] of MODULETIME 
 (moduleid  GE2206)
@@ -8013,6 +9157,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE22180] of MODULETIME 
 (moduleid  GE2218)
@@ -8020,6 +9165,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE22200] of MODULETIME 
 (moduleid  GE2220)
@@ -8027,6 +9173,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE32040] of MODULETIME 
 (moduleid  GE3204)
@@ -8034,6 +9181,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE32060] of MODULETIME 
 (moduleid  GE3206)
@@ -8041,6 +9189,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE32160] of MODULETIME 
 (moduleid  GE3216)
@@ -8048,6 +9197,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE32210] of MODULETIME 
 (moduleid  GE3221)
@@ -8055,6 +9205,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE32400] of MODULETIME 
 (moduleid  GE3240)
@@ -8062,6 +9213,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE32420] of MODULETIME 
 (moduleid  GE3242)
@@ -8069,6 +9221,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE32430] of MODULETIME 
 (moduleid  GE3243)
@@ -8076,6 +9229,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE42020] of MODULETIME 
 (moduleid  GE4202)
@@ -8083,6 +9237,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE42070] of MODULETIME 
 (moduleid  GE4207)
@@ -8090,6 +9245,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE42110] of MODULETIME 
 (moduleid  GE4211)
@@ -8097,6 +9253,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE42180] of MODULETIME 
 (moduleid  GE4218)
@@ -8104,6 +9261,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE52110] of MODULETIME 
 (moduleid  GE5211)
@@ -8111,6 +9269,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE52120] of MODULETIME 
 (moduleid  GE5212)
@@ -8118,6 +9277,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGE62160] of MODULETIME 
 (moduleid  GE6216)
@@ -8125,6 +9285,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10000] of MODULETIME 
 (moduleid  GEK1000)
@@ -8132,6 +9293,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10010] of MODULETIME 
 (moduleid  GEK1001)
@@ -8139,6 +9301,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10020] of MODULETIME 
 (moduleid  GEK1002)
@@ -8146,6 +9309,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10030] of MODULETIME 
 (moduleid  GEK1003)
@@ -8153,6 +9317,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10080] of MODULETIME 
 (moduleid  GEK1008)
@@ -8160,6 +9325,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10110] of MODULETIME 
 (moduleid  GEK1011)
@@ -8167,6 +9333,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10120] of MODULETIME 
 (moduleid  GEK1012)
@@ -8174,6 +9341,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10220] of MODULETIME 
 (moduleid  GEK1022)
@@ -8181,6 +9349,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK1029T0] of MODULETIME 
 (moduleid  GEK1029T)
@@ -8188,6 +9357,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10480] of MODULETIME 
 (moduleid  GEK1048)
@@ -8195,6 +9365,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10540] of MODULETIME 
 (moduleid  GEK1054)
@@ -8202,6 +9373,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10550] of MODULETIME 
 (moduleid  GEK1055)
@@ -8209,6 +9381,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10560] of MODULETIME 
 (moduleid  GEK1056)
@@ -8216,6 +9389,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10580] of MODULETIME 
 (moduleid  GEK1058)
@@ -8223,6 +9397,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10590] of MODULETIME 
 (moduleid  GEK1059)
@@ -8230,6 +9405,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10620] of MODULETIME 
 (moduleid  GEK1062)
@@ -8237,6 +9413,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10640] of MODULETIME 
 (moduleid  GEK1064)
@@ -8244,6 +9421,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK10660] of MODULETIME 
 (moduleid  GEK1066)
@@ -8251,6 +9429,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK15010] of MODULETIME 
 (moduleid  GEK1501)
@@ -8258,6 +9437,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK15050] of MODULETIME 
 (moduleid  GEK1505)
@@ -8265,6 +9445,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15051] of MODULETIME 
 (moduleid  GEK1505)
@@ -8272,6 +9453,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15080] of MODULETIME 
 (moduleid  GEK1508)
@@ -8279,6 +9461,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15081] of MODULETIME 
 (moduleid  GEK1508)
@@ -8286,6 +9469,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15090] of MODULETIME 
 (moduleid  GEK1509)
@@ -8293,6 +9477,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15091] of MODULETIME 
 (moduleid  GEK1509)
@@ -8300,6 +9485,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15100] of MODULETIME 
 (moduleid  GEK1510)
@@ -8307,6 +9493,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15101] of MODULETIME 
 (moduleid  GEK1510)
@@ -8314,6 +9501,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15130] of MODULETIME 
 (moduleid  GEK1513)
@@ -8321,6 +9509,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK15150] of MODULETIME 
 (moduleid  GEK1515)
@@ -8328,6 +9517,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15151] of MODULETIME 
 (moduleid  GEK1515)
@@ -8335,6 +9525,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15190] of MODULETIME 
 (moduleid  GEK1519)
@@ -8342,6 +9533,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15191] of MODULETIME 
 (moduleid  GEK1519)
@@ -8349,6 +9541,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15200] of MODULETIME 
 (moduleid  GEK1520)
@@ -8356,6 +9549,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15201] of MODULETIME 
 (moduleid  GEK1520)
@@ -8363,6 +9557,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15220] of MODULETIME 
 (moduleid  GEK1522)
@@ -8370,6 +9565,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK1522T0] of MODULETIME 
 (moduleid  GEK1522T)
@@ -8377,6 +9573,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK15230] of MODULETIME 
 (moduleid  GEK1523)
@@ -8384,6 +9581,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK15231] of MODULETIME 
 (moduleid  GEK1523)
@@ -8391,6 +9589,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK15240] of MODULETIME 
 (moduleid  GEK1524)
@@ -8398,6 +9597,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK15241] of MODULETIME 
 (moduleid  GEK1524)
@@ -8405,6 +9605,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK15270] of MODULETIME 
 (moduleid  GEK1527)
@@ -8412,6 +9613,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15271] of MODULETIME 
 (moduleid  GEK1527)
@@ -8419,6 +9621,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15272] of MODULETIME 
 (moduleid  GEK1527)
@@ -8426,6 +9629,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeGEK15273] of MODULETIME 
 (moduleid  GEK1527)
@@ -8433,6 +9637,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeGEK15310] of MODULETIME 
 (moduleid  GEK1531)
@@ -8440,6 +9645,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15360] of MODULETIME 
 (moduleid  GEK1536)
@@ -8447,6 +9653,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15361] of MODULETIME 
 (moduleid  GEK1536)
@@ -8454,6 +9661,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15380] of MODULETIME 
 (moduleid  GEK1538)
@@ -8461,6 +9669,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15400] of MODULETIME 
 (moduleid  GEK1540)
@@ -8468,6 +9677,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15401] of MODULETIME 
 (moduleid  GEK1540)
@@ -8475,6 +9685,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15440] of MODULETIME 
 (moduleid  GEK1544)
@@ -8482,6 +9693,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15441] of MODULETIME 
 (moduleid  GEK1544)
@@ -8489,6 +9701,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15470] of MODULETIME 
 (moduleid  GEK1547)
@@ -8496,6 +9709,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15471] of MODULETIME 
 (moduleid  GEK1547)
@@ -8503,6 +9717,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15480] of MODULETIME 
 (moduleid  GEK1548)
@@ -8510,6 +9725,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK15481] of MODULETIME 
 (moduleid  GEK1548)
@@ -8517,6 +9733,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK19000] of MODULETIME 
 (moduleid  GEK1900)
@@ -8524,6 +9741,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK19001] of MODULETIME 
 (moduleid  GEK1900)
@@ -8531,6 +9749,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK20010] of MODULETIME 
 (moduleid  GEK2001)
@@ -8538,6 +9757,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK20030] of MODULETIME 
 (moduleid  GEK2003)
@@ -8545,6 +9765,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK20050] of MODULETIME 
 (moduleid  GEK2005)
@@ -8552,6 +9773,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK20100] of MODULETIME 
 (moduleid  GEK2010)
@@ -8559,6 +9781,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK20130] of MODULETIME 
 (moduleid  GEK2013)
@@ -8566,6 +9789,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK20240] of MODULETIME 
 (moduleid  GEK2024)
@@ -8573,6 +9797,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK20300] of MODULETIME 
 (moduleid  GEK2030)
@@ -8580,6 +9805,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK20360] of MODULETIME 
 (moduleid  GEK2036)
@@ -8587,6 +9813,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK20370] of MODULETIME 
 (moduleid  GEK2037)
@@ -8594,6 +9821,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK20390] of MODULETIME 
 (moduleid  GEK2039)
@@ -8601,6 +9829,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK20420] of MODULETIME 
 (moduleid  GEK2042)
@@ -8608,6 +9837,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK20440] of MODULETIME 
 (moduleid  GEK2044)
@@ -8615,6 +9845,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK20470] of MODULETIME 
 (moduleid  GEK2047)
@@ -8622,6 +9853,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEK25060] of MODULETIME 
 (moduleid  GEK2506)
@@ -8629,6 +9861,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK25061] of MODULETIME 
 (moduleid  GEK2506)
@@ -8636,6 +9869,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK25080] of MODULETIME 
 (moduleid  GEK2508)
@@ -8643,6 +9877,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK25081] of MODULETIME 
 (moduleid  GEK2508)
@@ -8650,6 +9885,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEK30070] of MODULETIME 
 (moduleid  GEK3007)
@@ -8657,6 +9893,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM10030] of MODULETIME 
 (moduleid  GEM1003)
@@ -8664,6 +9901,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1004FC0] of MODULETIME 
 (moduleid  GEM1004FC)
@@ -8671,6 +9909,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM10230] of MODULETIME 
 (moduleid  GEM1023)
@@ -8678,6 +9917,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM10330] of MODULETIME 
 (moduleid  GEM1033)
@@ -8685,6 +9925,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM10331] of MODULETIME 
 (moduleid  GEM1033)
@@ -8692,6 +9933,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM10350] of MODULETIME 
 (moduleid  GEM1035)
@@ -8699,6 +9941,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM10360] of MODULETIME 
 (moduleid  GEM1036)
@@ -8706,6 +9949,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM15010] of MODULETIME 
 (moduleid  GEM1501)
@@ -8713,6 +9957,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM15360] of MODULETIME 
 (moduleid  GEM1536)
@@ -8720,6 +9965,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEM15361] of MODULETIME 
 (moduleid  GEM1536)
@@ -8727,6 +9973,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEM15370] of MODULETIME 
 (moduleid  GEM1537)
@@ -8734,6 +9981,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEM15371] of MODULETIME 
 (moduleid  GEM1537)
@@ -8741,6 +9989,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEM1902A0] of MODULETIME 
 (moduleid  GEM1902A)
@@ -8748,6 +9997,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1902A1] of MODULETIME 
 (moduleid  GEM1902A)
@@ -8755,6 +10005,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1902E0] of MODULETIME 
 (moduleid  GEM1902E)
@@ -8762,6 +10013,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1902E1] of MODULETIME 
 (moduleid  GEM1902E)
@@ -8769,6 +10021,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1902E2] of MODULETIME 
 (moduleid  GEM1902E)
@@ -8776,6 +10029,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeGEM1902E3] of MODULETIME 
 (moduleid  GEM1902E)
@@ -8783,6 +10037,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeGEM1902G0] of MODULETIME 
 (moduleid  GEM1902G)
@@ -8790,6 +10045,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1902G1] of MODULETIME 
 (moduleid  GEM1902G)
@@ -8797,6 +10053,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1902M0] of MODULETIME 
 (moduleid  GEM1902M)
@@ -8804,6 +10061,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1902N0] of MODULETIME 
 (moduleid  GEM1902N)
@@ -8811,6 +10069,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1902N1] of MODULETIME 
 (moduleid  GEM1902N)
@@ -8818,6 +10077,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1902S0] of MODULETIME 
 (moduleid  GEM1902S)
@@ -8825,6 +10085,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1902S1] of MODULETIME 
 (moduleid  GEM1902S)
@@ -8832,6 +10093,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM19040] of MODULETIME 
 (moduleid  GEM1904)
@@ -8839,6 +10101,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM19041] of MODULETIME 
 (moduleid  GEM1904)
@@ -8846,6 +10109,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 2)
 )
 ([timeGEM19080] of MODULETIME 
 (moduleid  GEM1908)
@@ -8853,6 +10117,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM19090] of MODULETIME 
 (moduleid  GEM1909)
@@ -8860,6 +10125,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM19091] of MODULETIME 
 (moduleid  GEM1909)
@@ -8867,6 +10133,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeGEM1912B0] of MODULETIME 
 (moduleid  GEM1912B)
@@ -8874,6 +10141,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1912B1] of MODULETIME 
 (moduleid  GEM1912B)
@@ -8881,6 +10149,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1912D0] of MODULETIME 
 (moduleid  GEM1912D)
@@ -8888,6 +10157,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1912D1] of MODULETIME 
 (moduleid  GEM1912D)
@@ -8895,6 +10165,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM1915FC0] of MODULETIME 
 (moduleid  GEM1915FC)
@@ -8902,6 +10173,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM20060] of MODULETIME 
 (moduleid  GEM2006)
@@ -8909,6 +10181,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM20220] of MODULETIME 
 (moduleid  GEM2022)
@@ -8916,6 +10189,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM20221] of MODULETIME 
 (moduleid  GEM2022)
@@ -8923,6 +10197,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM20222] of MODULETIME 
 (moduleid  GEM2022)
@@ -8930,6 +10205,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeGEM20223] of MODULETIME 
 (moduleid  GEM2022)
@@ -8937,6 +10213,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeGEM20224] of MODULETIME 
 (moduleid  GEM2022)
@@ -8944,6 +10221,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 3)
 )
 ([timeGEM20225] of MODULETIME 
 (moduleid  GEM2022)
@@ -8951,6 +10229,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 3)
 )
 ([timeGEM20270] of MODULETIME 
 (moduleid  GEM2027)
@@ -8958,6 +10237,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM25090] of MODULETIME 
 (moduleid  GEM2509)
@@ -8965,6 +10245,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM29000] of MODULETIME 
 (moduleid  GEM2900)
@@ -8972,6 +10253,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEM29001] of MODULETIME 
 (moduleid  GEM2900)
@@ -8979,6 +10261,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEM29002] of MODULETIME 
 (moduleid  GEM2900)
@@ -8986,6 +10269,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeGEM29003] of MODULETIME 
 (moduleid  GEM2900)
@@ -8993,6 +10277,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeGEM29010] of MODULETIME 
 (moduleid  GEM2901)
@@ -9000,6 +10285,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEM29011] of MODULETIME 
 (moduleid  GEM2901)
@@ -9007,6 +10293,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeGEM29030] of MODULETIME 
 (moduleid  GEM2903)
@@ -9014,6 +10301,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM29031] of MODULETIME 
 (moduleid  GEM2903)
@@ -9021,6 +10309,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM29032] of MODULETIME 
 (moduleid  GEM2903)
@@ -9028,6 +10317,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 2)
 )
 ([timeGEM29033] of MODULETIME 
 (moduleid  GEM2903)
@@ -9035,6 +10325,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeGEM29034] of MODULETIME 
 (moduleid  GEM2903)
@@ -9042,6 +10333,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 3)
 )
 ([timeGEM29035] of MODULETIME 
 (moduleid  GEM2903)
@@ -9049,6 +10341,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeGEM29036] of MODULETIME 
 (moduleid  GEM2903)
@@ -9056,6 +10349,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 4)
 )
 ([timeGEM29037] of MODULETIME 
 (moduleid  GEM2903)
@@ -9063,6 +10357,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 4)
 )
 ([timeGEM29040] of MODULETIME 
 (moduleid  GEM2904)
@@ -9070,6 +10365,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM29041] of MODULETIME 
 (moduleid  GEM2904)
@@ -9077,6 +10373,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM29042] of MODULETIME 
 (moduleid  GEM2904)
@@ -9084,6 +10381,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeGEM29043] of MODULETIME 
 (moduleid  GEM2904)
@@ -9091,6 +10389,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeGEM29044] of MODULETIME 
 (moduleid  GEM2904)
@@ -9098,6 +10397,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeGEM29045] of MODULETIME 
 (moduleid  GEM2904)
@@ -9105,6 +10405,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeGEM29046] of MODULETIME 
 (moduleid  GEM2904)
@@ -9112,6 +10413,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 4)
 )
 ([timeGEM29047] of MODULETIME 
 (moduleid  GEM2904)
@@ -9119,6 +10421,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 4)
 )
 ([timeGEM29050] of MODULETIME 
 (moduleid  GEM2905)
@@ -9126,6 +10429,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGEM29051] of MODULETIME 
 (moduleid  GEM2905)
@@ -9133,6 +10437,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeGEM29052] of MODULETIME 
 (moduleid  GEM2905)
@@ -9140,6 +10445,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeGEM29053] of MODULETIME 
 (moduleid  GEM2905)
@@ -9147,6 +10453,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 4)
 )
 ([timeGEM29054] of MODULETIME 
 (moduleid  GEM2905)
@@ -9154,6 +10461,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 5)
 )
 ([timeGEM39010] of MODULETIME 
 (moduleid  GEM3901)
@@ -9161,6 +10469,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGL1101E0] of MODULETIME 
 (moduleid  GL1101E)
@@ -9168,6 +10477,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGL21020] of MODULETIME 
 (moduleid  GL2102)
@@ -9175,6 +10485,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeGL21030] of MODULETIME 
 (moduleid  GL2103)
@@ -9182,6 +10493,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHR20020] of MODULETIME 
 (moduleid  HR2002)
@@ -9189,6 +10501,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E2)
 )
 ([timeHR20021] of MODULETIME 
 (moduleid  HR2002)
@@ -9196,6 +10509,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption EV2)
 )
 ([timeHY1101E0] of MODULETIME 
 (moduleid  HY1101E)
@@ -9203,6 +10517,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY1101E1] of MODULETIME 
 (moduleid  HY1101E)
@@ -9210,6 +10525,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY22160] of MODULETIME 
 (moduleid  HY2216)
@@ -9217,6 +10533,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY22290] of MODULETIME 
 (moduleid  HY2229)
@@ -9224,6 +10541,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY22320] of MODULETIME 
 (moduleid  HY2232)
@@ -9231,6 +10549,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY22390] of MODULETIME 
 (moduleid  HY2239)
@@ -9238,6 +10557,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY22420] of MODULETIME 
 (moduleid  HY2242)
@@ -9245,6 +10565,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY22421] of MODULETIME 
 (moduleid  HY2242)
@@ -9252,6 +10573,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY22540] of MODULETIME 
 (moduleid  HY2254)
@@ -9259,6 +10581,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY22560] of MODULETIME 
 (moduleid  HY2256)
@@ -9266,6 +10589,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY22590] of MODULETIME 
 (moduleid  HY2259)
@@ -9273,6 +10597,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY32010] of MODULETIME 
 (moduleid  HY3201)
@@ -9280,6 +10605,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY32090] of MODULETIME 
 (moduleid  HY3209)
@@ -9287,6 +10613,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY32260] of MODULETIME 
 (moduleid  HY3226)
@@ -9294,6 +10621,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY32360] of MODULETIME 
 (moduleid  HY3236)
@@ -9301,6 +10629,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY32420] of MODULETIME 
 (moduleid  HY3242)
@@ -9308,6 +10637,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY32480] of MODULETIME 
 (moduleid  HY3248)
@@ -9315,6 +10645,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY32520] of MODULETIME 
 (moduleid  HY3252)
@@ -9322,6 +10653,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY42050] of MODULETIME 
 (moduleid  HY4205)
@@ -9329,6 +10661,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY42110] of MODULETIME 
 (moduleid  HY4211)
@@ -9336,6 +10669,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY42150] of MODULETIME 
 (moduleid  HY4215)
@@ -9343,6 +10677,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY42160] of MODULETIME 
 (moduleid  HY4216)
@@ -9350,6 +10685,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeHY42220] of MODULETIME 
 (moduleid  HY4222)
@@ -9357,6 +10693,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID11060] of MODULETIME 
 (moduleid  ID1106)
@@ -9364,6 +10701,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID11061] of MODULETIME 
 (moduleid  ID1106)
@@ -9371,6 +10709,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID11062] of MODULETIME 
 (moduleid  ID1106)
@@ -9378,6 +10717,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeID11063] of MODULETIME 
 (moduleid  ID1106)
@@ -9385,6 +10725,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeID11120] of MODULETIME 
 (moduleid  ID1112)
@@ -9392,6 +10733,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID11210] of MODULETIME 
 (moduleid  ID1121)
@@ -9399,6 +10741,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID21060] of MODULETIME 
 (moduleid  ID2106)
@@ -9406,6 +10749,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID21061] of MODULETIME 
 (moduleid  ID2106)
@@ -9413,6 +10757,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID21062] of MODULETIME 
 (moduleid  ID2106)
@@ -9420,6 +10765,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 10)
 )
 ([timeID21063] of MODULETIME 
 (moduleid  ID2106)
@@ -9427,6 +10773,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 11)
 )
 ([timeID21064] of MODULETIME 
 (moduleid  ID2106)
@@ -9434,6 +10781,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 11)
 )
 ([timeID21065] of MODULETIME 
 (moduleid  ID2106)
@@ -9441,6 +10789,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 12)
 )
 ([timeID21066] of MODULETIME 
 (moduleid  ID2106)
@@ -9448,6 +10797,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 12)
 )
 ([timeID21067] of MODULETIME 
 (moduleid  ID2106)
@@ -9455,6 +10805,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 13)
 )
 ([timeID21068] of MODULETIME 
 (moduleid  ID2106)
@@ -9462,6 +10813,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 13)
 )
 ([timeID21069] of MODULETIME 
 (moduleid  ID2106)
@@ -9469,6 +10821,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 14)
 )
 ([timeID210610] of MODULETIME 
 (moduleid  ID2106)
@@ -9476,6 +10829,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 14)
 )
 ([timeID210611] of MODULETIME 
 (moduleid  ID2106)
@@ -9483,6 +10837,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 15)
 )
 ([timeID210612] of MODULETIME 
 (moduleid  ID2106)
@@ -9490,6 +10845,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 15)
 )
 ([timeID210613] of MODULETIME 
 (moduleid  ID2106)
@@ -9497,6 +10853,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 16)
 )
 ([timeID210614] of MODULETIME 
 (moduleid  ID2106)
@@ -9504,6 +10861,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 16)
 )
 ([timeID210615] of MODULETIME 
 (moduleid  ID2106)
@@ -9511,6 +10869,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 17)
 )
 ([timeID210616] of MODULETIME 
 (moduleid  ID2106)
@@ -9518,6 +10877,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 17)
 )
 ([timeID210617] of MODULETIME 
 (moduleid  ID2106)
@@ -9525,6 +10885,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 18)
 )
 ([timeID210618] of MODULETIME 
 (moduleid  ID2106)
@@ -9532,6 +10893,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 18)
 )
 ([timeID210619] of MODULETIME 
 (moduleid  ID2106)
@@ -9539,6 +10901,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 19)
 )
 ([timeID210620] of MODULETIME 
 (moduleid  ID2106)
@@ -9546,6 +10909,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 19)
 )
 ([timeID210621] of MODULETIME 
 (moduleid  ID2106)
@@ -9553,6 +10917,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeID210622] of MODULETIME 
 (moduleid  ID2106)
@@ -9560,6 +10925,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeID210623] of MODULETIME 
 (moduleid  ID2106)
@@ -9567,6 +10933,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 20)
 )
 ([timeID210624] of MODULETIME 
 (moduleid  ID2106)
@@ -9574,6 +10941,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 20)
 )
 ([timeID210625] of MODULETIME 
 (moduleid  ID2106)
@@ -9581,6 +10949,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 21)
 )
 ([timeID210626] of MODULETIME 
 (moduleid  ID2106)
@@ -9588,6 +10957,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 21)
 )
 ([timeID210627] of MODULETIME 
 (moduleid  ID2106)
@@ -9595,6 +10965,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 22)
 )
 ([timeID210628] of MODULETIME 
 (moduleid  ID2106)
@@ -9602,6 +10973,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 22)
 )
 ([timeID210629] of MODULETIME 
 (moduleid  ID2106)
@@ -9609,6 +10981,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 23)
 )
 ([timeID210630] of MODULETIME 
 (moduleid  ID2106)
@@ -9616,6 +10989,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 23)
 )
 ([timeID210631] of MODULETIME 
 (moduleid  ID2106)
@@ -9623,6 +10997,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 24)
 )
 ([timeID210632] of MODULETIME 
 (moduleid  ID2106)
@@ -9630,6 +11005,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 24)
 )
 ([timeID210633] of MODULETIME 
 (moduleid  ID2106)
@@ -9637,6 +11013,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 25)
 )
 ([timeID210634] of MODULETIME 
 (moduleid  ID2106)
@@ -9644,6 +11021,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 25)
 )
 ([timeID210635] of MODULETIME 
 (moduleid  ID2106)
@@ -9651,6 +11029,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 26)
 )
 ([timeID210636] of MODULETIME 
 (moduleid  ID2106)
@@ -9658,6 +11037,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 26)
 )
 ([timeID210637] of MODULETIME 
 (moduleid  ID2106)
@@ -9665,6 +11045,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 27)
 )
 ([timeID210638] of MODULETIME 
 (moduleid  ID2106)
@@ -9672,6 +11053,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 27)
 )
 ([timeID210639] of MODULETIME 
 (moduleid  ID2106)
@@ -9679,6 +11061,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 28)
 )
 ([timeID210640] of MODULETIME 
 (moduleid  ID2106)
@@ -9686,6 +11069,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 28)
 )
 ([timeID210641] of MODULETIME 
 (moduleid  ID2106)
@@ -9693,6 +11077,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeID210642] of MODULETIME 
 (moduleid  ID2106)
@@ -9700,6 +11085,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeID210643] of MODULETIME 
 (moduleid  ID2106)
@@ -9707,6 +11093,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 4)
 )
 ([timeID210644] of MODULETIME 
 (moduleid  ID2106)
@@ -9714,6 +11101,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 4)
 )
 ([timeID210645] of MODULETIME 
 (moduleid  ID2106)
@@ -9721,6 +11109,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 5)
 )
 ([timeID210646] of MODULETIME 
 (moduleid  ID2106)
@@ -9728,6 +11117,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 5)
 )
 ([timeID210647] of MODULETIME 
 (moduleid  ID2106)
@@ -9735,6 +11125,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 6)
 )
 ([timeID210648] of MODULETIME 
 (moduleid  ID2106)
@@ -9742,6 +11133,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 6)
 )
 ([timeID210649] of MODULETIME 
 (moduleid  ID2106)
@@ -9749,6 +11141,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 7)
 )
 ([timeID210650] of MODULETIME 
 (moduleid  ID2106)
@@ -9756,6 +11149,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 7)
 )
 ([timeID210651] of MODULETIME 
 (moduleid  ID2106)
@@ -9763,6 +11157,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 8)
 )
 ([timeID210652] of MODULETIME 
 (moduleid  ID2106)
@@ -9770,6 +11165,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 8)
 )
 ([timeID210653] of MODULETIME 
 (moduleid  ID2106)
@@ -9777,6 +11173,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 9)
 )
 ([timeID210654] of MODULETIME 
 (moduleid  ID2106)
@@ -9784,6 +11181,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 9)
 )
 ([timeID21120] of MODULETIME 
 (moduleid  ID2112)
@@ -9791,6 +11189,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID21220] of MODULETIME 
 (moduleid  ID2122)
@@ -9798,6 +11197,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID23240] of MODULETIME 
 (moduleid  ID2324)
@@ -9805,6 +11205,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID30410] of MODULETIME 
 (moduleid  ID3041)
@@ -9812,6 +11213,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID31060] of MODULETIME 
 (moduleid  ID3106)
@@ -9819,6 +11221,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID31061] of MODULETIME 
 (moduleid  ID3106)
@@ -9826,6 +11229,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID31062] of MODULETIME 
 (moduleid  ID3106)
@@ -9833,6 +11237,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 10)
 )
 ([timeID31063] of MODULETIME 
 (moduleid  ID3106)
@@ -9840,6 +11245,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 10)
 )
 ([timeID31064] of MODULETIME 
 (moduleid  ID3106)
@@ -9847,6 +11253,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 11)
 )
 ([timeID31065] of MODULETIME 
 (moduleid  ID3106)
@@ -9854,6 +11261,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 11)
 )
 ([timeID31066] of MODULETIME 
 (moduleid  ID3106)
@@ -9861,6 +11269,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 12)
 )
 ([timeID31067] of MODULETIME 
 (moduleid  ID3106)
@@ -9868,6 +11277,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 12)
 )
 ([timeID31068] of MODULETIME 
 (moduleid  ID3106)
@@ -9875,6 +11285,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 13)
 )
 ([timeID31069] of MODULETIME 
 (moduleid  ID3106)
@@ -9882,6 +11293,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 13)
 )
 ([timeID310610] of MODULETIME 
 (moduleid  ID3106)
@@ -9889,6 +11301,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 14)
 )
 ([timeID310611] of MODULETIME 
 (moduleid  ID3106)
@@ -9896,6 +11309,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 14)
 )
 ([timeID310612] of MODULETIME 
 (moduleid  ID3106)
@@ -9903,6 +11317,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 15)
 )
 ([timeID310613] of MODULETIME 
 (moduleid  ID3106)
@@ -9910,6 +11325,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 15)
 )
 ([timeID310614] of MODULETIME 
 (moduleid  ID3106)
@@ -9917,6 +11333,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 16)
 )
 ([timeID310615] of MODULETIME 
 (moduleid  ID3106)
@@ -9924,6 +11341,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 16)
 )
 ([timeID310616] of MODULETIME 
 (moduleid  ID3106)
@@ -9931,6 +11349,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 17)
 )
 ([timeID310617] of MODULETIME 
 (moduleid  ID3106)
@@ -9938,6 +11357,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 17)
 )
 ([timeID310618] of MODULETIME 
 (moduleid  ID3106)
@@ -9945,6 +11365,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 18)
 )
 ([timeID310619] of MODULETIME 
 (moduleid  ID3106)
@@ -9952,6 +11373,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 18)
 )
 ([timeID310620] of MODULETIME 
 (moduleid  ID3106)
@@ -9959,6 +11381,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 19)
 )
 ([timeID310621] of MODULETIME 
 (moduleid  ID3106)
@@ -9966,6 +11389,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 19)
 )
 ([timeID310622] of MODULETIME 
 (moduleid  ID3106)
@@ -9973,6 +11397,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeID310623] of MODULETIME 
 (moduleid  ID3106)
@@ -9980,6 +11405,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeID310624] of MODULETIME 
 (moduleid  ID3106)
@@ -9987,6 +11413,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 20)
 )
 ([timeID310625] of MODULETIME 
 (moduleid  ID3106)
@@ -9994,6 +11421,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 20)
 )
 ([timeID310626] of MODULETIME 
 (moduleid  ID3106)
@@ -10001,6 +11429,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 21)
 )
 ([timeID310627] of MODULETIME 
 (moduleid  ID3106)
@@ -10008,6 +11437,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 21)
 )
 ([timeID310628] of MODULETIME 
 (moduleid  ID3106)
@@ -10015,6 +11445,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 22)
 )
 ([timeID310629] of MODULETIME 
 (moduleid  ID3106)
@@ -10022,6 +11453,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 22)
 )
 ([timeID310630] of MODULETIME 
 (moduleid  ID3106)
@@ -10029,6 +11461,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 23)
 )
 ([timeID310631] of MODULETIME 
 (moduleid  ID3106)
@@ -10036,6 +11469,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 23)
 )
 ([timeID310632] of MODULETIME 
 (moduleid  ID3106)
@@ -10043,6 +11477,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 24)
 )
 ([timeID310633] of MODULETIME 
 (moduleid  ID3106)
@@ -10050,6 +11485,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 24)
 )
 ([timeID310634] of MODULETIME 
 (moduleid  ID3106)
@@ -10057,6 +11493,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 25)
 )
 ([timeID310635] of MODULETIME 
 (moduleid  ID3106)
@@ -10064,6 +11501,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 25)
 )
 ([timeID310636] of MODULETIME 
 (moduleid  ID3106)
@@ -10071,6 +11509,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 26)
 )
 ([timeID310637] of MODULETIME 
 (moduleid  ID3106)
@@ -10078,6 +11517,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 26)
 )
 ([timeID310638] of MODULETIME 
 (moduleid  ID3106)
@@ -10085,6 +11525,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 27)
 )
 ([timeID310639] of MODULETIME 
 (moduleid  ID3106)
@@ -10092,6 +11533,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 27)
 )
 ([timeID310640] of MODULETIME 
 (moduleid  ID3106)
@@ -10099,6 +11541,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 28)
 )
 ([timeID310641] of MODULETIME 
 (moduleid  ID3106)
@@ -10106,6 +11549,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 28)
 )
 ([timeID310642] of MODULETIME 
 (moduleid  ID3106)
@@ -10113,6 +11557,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeID310643] of MODULETIME 
 (moduleid  ID3106)
@@ -10120,6 +11565,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeID310644] of MODULETIME 
 (moduleid  ID3106)
@@ -10127,6 +11573,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 4)
 )
 ([timeID310645] of MODULETIME 
 (moduleid  ID3106)
@@ -10134,6 +11581,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 4)
 )
 ([timeID310646] of MODULETIME 
 (moduleid  ID3106)
@@ -10141,6 +11589,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 5)
 )
 ([timeID310647] of MODULETIME 
 (moduleid  ID3106)
@@ -10148,6 +11597,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 5)
 )
 ([timeID310648] of MODULETIME 
 (moduleid  ID3106)
@@ -10155,6 +11605,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 6)
 )
 ([timeID310649] of MODULETIME 
 (moduleid  ID3106)
@@ -10162,6 +11613,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 6)
 )
 ([timeID310650] of MODULETIME 
 (moduleid  ID3106)
@@ -10169,6 +11621,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 7)
 )
 ([timeID310651] of MODULETIME 
 (moduleid  ID3106)
@@ -10176,6 +11629,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 7)
 )
 ([timeID310652] of MODULETIME 
 (moduleid  ID3106)
@@ -10183,6 +11637,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 8)
 )
 ([timeID310653] of MODULETIME 
 (moduleid  ID3106)
@@ -10190,6 +11645,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 8)
 )
 ([timeID310654] of MODULETIME 
 (moduleid  ID3106)
@@ -10197,6 +11653,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 9)
 )
 ([timeID310655] of MODULETIME 
 (moduleid  ID3106)
@@ -10204,6 +11661,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 9)
 )
 ([timeID31240] of MODULETIME 
 (moduleid  ID3124)
@@ -10211,6 +11669,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID41060] of MODULETIME 
 (moduleid  ID4106)
@@ -10218,6 +11677,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID41061] of MODULETIME 
 (moduleid  ID4106)
@@ -10225,6 +11685,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID41062] of MODULETIME 
 (moduleid  ID4106)
@@ -10232,6 +11693,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 10)
 )
 ([timeID41063] of MODULETIME 
 (moduleid  ID4106)
@@ -10239,6 +11701,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 10)
 )
 ([timeID41064] of MODULETIME 
 (moduleid  ID4106)
@@ -10246,6 +11709,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 11)
 )
 ([timeID41065] of MODULETIME 
 (moduleid  ID4106)
@@ -10253,6 +11717,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 11)
 )
 ([timeID41066] of MODULETIME 
 (moduleid  ID4106)
@@ -10260,6 +11725,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 12)
 )
 ([timeID41067] of MODULETIME 
 (moduleid  ID4106)
@@ -10267,6 +11733,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 12)
 )
 ([timeID41068] of MODULETIME 
 (moduleid  ID4106)
@@ -10274,6 +11741,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 13)
 )
 ([timeID41069] of MODULETIME 
 (moduleid  ID4106)
@@ -10281,6 +11749,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 13)
 )
 ([timeID410610] of MODULETIME 
 (moduleid  ID4106)
@@ -10288,6 +11757,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 14)
 )
 ([timeID410611] of MODULETIME 
 (moduleid  ID4106)
@@ -10295,6 +11765,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 14)
 )
 ([timeID410612] of MODULETIME 
 (moduleid  ID4106)
@@ -10302,6 +11773,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 15)
 )
 ([timeID410613] of MODULETIME 
 (moduleid  ID4106)
@@ -10309,6 +11781,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 15)
 )
 ([timeID410614] of MODULETIME 
 (moduleid  ID4106)
@@ -10316,6 +11789,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 16)
 )
 ([timeID410615] of MODULETIME 
 (moduleid  ID4106)
@@ -10323,6 +11797,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 16)
 )
 ([timeID410616] of MODULETIME 
 (moduleid  ID4106)
@@ -10330,6 +11805,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 17)
 )
 ([timeID410617] of MODULETIME 
 (moduleid  ID4106)
@@ -10337,6 +11813,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 17)
 )
 ([timeID410618] of MODULETIME 
 (moduleid  ID4106)
@@ -10344,6 +11821,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 18)
 )
 ([timeID410619] of MODULETIME 
 (moduleid  ID4106)
@@ -10351,6 +11829,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 18)
 )
 ([timeID410620] of MODULETIME 
 (moduleid  ID4106)
@@ -10358,6 +11837,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 19)
 )
 ([timeID410621] of MODULETIME 
 (moduleid  ID4106)
@@ -10365,6 +11845,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 19)
 )
 ([timeID410622] of MODULETIME 
 (moduleid  ID4106)
@@ -10372,6 +11853,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeID410623] of MODULETIME 
 (moduleid  ID4106)
@@ -10379,6 +11861,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeID410624] of MODULETIME 
 (moduleid  ID4106)
@@ -10386,6 +11869,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 20)
 )
 ([timeID410625] of MODULETIME 
 (moduleid  ID4106)
@@ -10393,6 +11877,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 20)
 )
 ([timeID410626] of MODULETIME 
 (moduleid  ID4106)
@@ -10400,6 +11885,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 21)
 )
 ([timeID410627] of MODULETIME 
 (moduleid  ID4106)
@@ -10407,6 +11893,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 21)
 )
 ([timeID410628] of MODULETIME 
 (moduleid  ID4106)
@@ -10414,6 +11901,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 22)
 )
 ([timeID410629] of MODULETIME 
 (moduleid  ID4106)
@@ -10421,6 +11909,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 22)
 )
 ([timeID410630] of MODULETIME 
 (moduleid  ID4106)
@@ -10428,6 +11917,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 23)
 )
 ([timeID410631] of MODULETIME 
 (moduleid  ID4106)
@@ -10435,6 +11925,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 23)
 )
 ([timeID410632] of MODULETIME 
 (moduleid  ID4106)
@@ -10442,6 +11933,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 24)
 )
 ([timeID410633] of MODULETIME 
 (moduleid  ID4106)
@@ -10449,6 +11941,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 24)
 )
 ([timeID410634] of MODULETIME 
 (moduleid  ID4106)
@@ -10456,6 +11949,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 25)
 )
 ([timeID410635] of MODULETIME 
 (moduleid  ID4106)
@@ -10463,6 +11957,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 25)
 )
 ([timeID410636] of MODULETIME 
 (moduleid  ID4106)
@@ -10470,6 +11965,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 26)
 )
 ([timeID410637] of MODULETIME 
 (moduleid  ID4106)
@@ -10477,6 +11973,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 26)
 )
 ([timeID410638] of MODULETIME 
 (moduleid  ID4106)
@@ -10484,6 +11981,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 27)
 )
 ([timeID410639] of MODULETIME 
 (moduleid  ID4106)
@@ -10491,6 +11989,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 27)
 )
 ([timeID410640] of MODULETIME 
 (moduleid  ID4106)
@@ -10498,6 +11997,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 28)
 )
 ([timeID410641] of MODULETIME 
 (moduleid  ID4106)
@@ -10505,6 +12005,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 28)
 )
 ([timeID410642] of MODULETIME 
 (moduleid  ID4106)
@@ -10512,6 +12013,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeID410643] of MODULETIME 
 (moduleid  ID4106)
@@ -10519,6 +12021,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeID410644] of MODULETIME 
 (moduleid  ID4106)
@@ -10526,6 +12029,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 4)
 )
 ([timeID410645] of MODULETIME 
 (moduleid  ID4106)
@@ -10533,6 +12037,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 4)
 )
 ([timeID410646] of MODULETIME 
 (moduleid  ID4106)
@@ -10540,6 +12045,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 5)
 )
 ([timeID410647] of MODULETIME 
 (moduleid  ID4106)
@@ -10547,6 +12053,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 5)
 )
 ([timeID410648] of MODULETIME 
 (moduleid  ID4106)
@@ -10554,6 +12061,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 6)
 )
 ([timeID410649] of MODULETIME 
 (moduleid  ID4106)
@@ -10561,6 +12069,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 6)
 )
 ([timeID410650] of MODULETIME 
 (moduleid  ID4106)
@@ -10568,6 +12077,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 7)
 )
 ([timeID410651] of MODULETIME 
 (moduleid  ID4106)
@@ -10575,6 +12085,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 7)
 )
 ([timeID410652] of MODULETIME 
 (moduleid  ID4106)
@@ -10582,6 +12093,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 8)
 )
 ([timeID410653] of MODULETIME 
 (moduleid  ID4106)
@@ -10589,6 +12101,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 8)
 )
 ([timeID410654] of MODULETIME 
 (moduleid  ID4106)
@@ -10596,6 +12109,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 9)
 )
 ([timeID410655] of MODULETIME 
 (moduleid  ID4106)
@@ -10603,6 +12117,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 9)
 )
 ([timeID51510] of MODULETIME 
 (moduleid  ID5151)
@@ -10610,6 +12125,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeID51511] of MODULETIME 
 (moduleid  ID5151)
@@ -10617,6 +12133,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 2)
 )
 ([timeID51512] of MODULETIME 
 (moduleid  ID5151)
@@ -10624,6 +12141,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIE21000] of MODULETIME 
 (moduleid  IE2100)
@@ -10631,6 +12149,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE21001] of MODULETIME 
 (moduleid  IE2100)
@@ -10638,6 +12157,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE2100E0] of MODULETIME 
 (moduleid  IE2100E)
@@ -10645,6 +12165,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE21300] of MODULETIME 
 (moduleid  IE2130)
@@ -10652,6 +12173,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE21301] of MODULETIME 
 (moduleid  IE2130)
@@ -10659,6 +12181,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE2130E0] of MODULETIME 
 (moduleid  IE2130E)
@@ -10666,6 +12189,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE21400] of MODULETIME 
 (moduleid  IE2140)
@@ -10673,6 +12197,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE21401] of MODULETIME 
 (moduleid  IE2140)
@@ -10680,6 +12205,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE2140E0] of MODULETIME 
 (moduleid  IE2140E)
@@ -10687,6 +12213,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE21500] of MODULETIME 
 (moduleid  IE2150)
@@ -10694,6 +12221,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE21501] of MODULETIME 
 (moduleid  IE2150)
@@ -10701,6 +12229,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE2150E0] of MODULETIME 
 (moduleid  IE2150E)
@@ -10708,6 +12237,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE3010E0] of MODULETIME 
 (moduleid  IE3010E)
@@ -10715,6 +12245,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE3100E0] of MODULETIME 
 (moduleid  IE3100E)
@@ -10722,6 +12253,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE3100R0] of MODULETIME 
 (moduleid  IE3100R)
@@ -10729,6 +12261,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE41000] of MODULETIME 
 (moduleid  IE4100)
@@ -10736,6 +12269,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE4100E0] of MODULETIME 
 (moduleid  IE4100E)
@@ -10743,6 +12277,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE42200] of MODULETIME 
 (moduleid  IE4220)
@@ -10750,6 +12285,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE42201] of MODULETIME 
 (moduleid  IE4220)
@@ -10757,6 +12293,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE4220E0] of MODULETIME 
 (moduleid  IE4220E)
@@ -10764,6 +12301,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE42300] of MODULETIME 
 (moduleid  IE4230)
@@ -10771,6 +12309,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE4230E0] of MODULETIME 
 (moduleid  IE4230E)
@@ -10778,6 +12317,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE51080] of MODULETIME 
 (moduleid  IE5108)
@@ -10785,6 +12325,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIE52110] of MODULETIME 
 (moduleid  IE5211)
@@ -10792,6 +12333,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201M0] of MODULETIME 
 (moduleid  IEM1201M)
@@ -10799,6 +12341,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201M1] of MODULETIME 
 (moduleid  IEM1201M)
@@ -10806,6 +12349,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201M2] of MODULETIME 
 (moduleid  IEM1201M)
@@ -10813,6 +12357,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201M3] of MODULETIME 
 (moduleid  IEM1201M)
@@ -10820,6 +12365,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201M4] of MODULETIME 
 (moduleid  IEM1201M)
@@ -10827,6 +12373,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM1201M5] of MODULETIME 
 (moduleid  IEM1201M)
@@ -10834,6 +12381,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM1201N0] of MODULETIME 
 (moduleid  IEM1201N)
@@ -10841,6 +12389,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201N1] of MODULETIME 
 (moduleid  IEM1201N)
@@ -10848,6 +12397,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201N2] of MODULETIME 
 (moduleid  IEM1201N)
@@ -10855,6 +12405,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201N3] of MODULETIME 
 (moduleid  IEM1201N)
@@ -10862,6 +12413,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201P0] of MODULETIME 
 (moduleid  IEM1201P)
@@ -10869,6 +12421,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201P1] of MODULETIME 
 (moduleid  IEM1201P)
@@ -10876,6 +12429,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201P2] of MODULETIME 
 (moduleid  IEM1201P)
@@ -10883,6 +12437,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201P3] of MODULETIME 
 (moduleid  IEM1201P)
@@ -10890,6 +12445,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201P4] of MODULETIME 
 (moduleid  IEM1201P)
@@ -10897,6 +12453,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM1201P5] of MODULETIME 
 (moduleid  IEM1201P)
@@ -10904,6 +12461,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM1201P6] of MODULETIME 
 (moduleid  IEM1201P)
@@ -10911,6 +12469,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 4)
 )
 ([timeIEM1201P7] of MODULETIME 
 (moduleid  IEM1201P)
@@ -10918,6 +12477,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 4)
 )
 ([timeIEM1201Q0] of MODULETIME 
 (moduleid  IEM1201Q)
@@ -10925,6 +12485,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201Q1] of MODULETIME 
 (moduleid  IEM1201Q)
@@ -10932,6 +12493,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201Q2] of MODULETIME 
 (moduleid  IEM1201Q)
@@ -10939,6 +12501,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201Q3] of MODULETIME 
 (moduleid  IEM1201Q)
@@ -10946,6 +12509,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201R0] of MODULETIME 
 (moduleid  IEM1201R)
@@ -10953,6 +12517,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201R1] of MODULETIME 
 (moduleid  IEM1201R)
@@ -10960,6 +12525,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201R2] of MODULETIME 
 (moduleid  IEM1201R)
@@ -10967,6 +12533,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201R3] of MODULETIME 
 (moduleid  IEM1201R)
@@ -10974,6 +12541,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201R4] of MODULETIME 
 (moduleid  IEM1201R)
@@ -10981,6 +12549,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM1201R5] of MODULETIME 
 (moduleid  IEM1201R)
@@ -10988,6 +12557,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM1201S0] of MODULETIME 
 (moduleid  IEM1201S)
@@ -10995,6 +12565,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201S1] of MODULETIME 
 (moduleid  IEM1201S)
@@ -11002,6 +12573,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201S2] of MODULETIME 
 (moduleid  IEM1201S)
@@ -11009,6 +12581,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201S3] of MODULETIME 
 (moduleid  IEM1201S)
@@ -11016,6 +12589,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201S4] of MODULETIME 
 (moduleid  IEM1201S)
@@ -11023,6 +12597,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM1201S5] of MODULETIME 
 (moduleid  IEM1201S)
@@ -11030,6 +12605,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM1201T0] of MODULETIME 
 (moduleid  IEM1201T)
@@ -11037,6 +12613,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201T1] of MODULETIME 
 (moduleid  IEM1201T)
@@ -11044,6 +12621,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM1201T2] of MODULETIME 
 (moduleid  IEM1201T)
@@ -11051,6 +12629,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201T3] of MODULETIME 
 (moduleid  IEM1201T)
@@ -11058,6 +12637,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM1201T4] of MODULETIME 
 (moduleid  IEM1201T)
@@ -11065,6 +12645,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM1201T5] of MODULETIME 
 (moduleid  IEM1201T)
@@ -11072,6 +12653,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM2201E0] of MODULETIME 
 (moduleid  IEM2201E)
@@ -11079,6 +12661,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM2201E1] of MODULETIME 
 (moduleid  IEM2201E)
@@ -11086,6 +12669,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM2201E2] of MODULETIME 
 (moduleid  IEM2201E)
@@ -11093,6 +12677,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM2201E3] of MODULETIME 
 (moduleid  IEM2201E)
@@ -11100,6 +12685,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM2201E4] of MODULETIME 
 (moduleid  IEM2201E)
@@ -11107,6 +12693,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM2201E5] of MODULETIME 
 (moduleid  IEM2201E)
@@ -11114,6 +12701,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM2201H0] of MODULETIME 
 (moduleid  IEM2201H)
@@ -11121,6 +12709,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM2201H1] of MODULETIME 
 (moduleid  IEM2201H)
@@ -11128,6 +12717,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM2201H2] of MODULETIME 
 (moduleid  IEM2201H)
@@ -11135,6 +12725,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM2201H3] of MODULETIME 
 (moduleid  IEM2201H)
@@ -11142,6 +12733,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM2201H4] of MODULETIME 
 (moduleid  IEM2201H)
@@ -11149,6 +12741,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM2201H5] of MODULETIME 
 (moduleid  IEM2201H)
@@ -11156,6 +12749,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM2201J0] of MODULETIME 
 (moduleid  IEM2201J)
@@ -11163,6 +12757,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM2201J1] of MODULETIME 
 (moduleid  IEM2201J)
@@ -11170,6 +12765,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM2201J2] of MODULETIME 
 (moduleid  IEM2201J)
@@ -11177,6 +12773,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM2201J3] of MODULETIME 
 (moduleid  IEM2201J)
@@ -11184,6 +12781,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM2201J4] of MODULETIME 
 (moduleid  IEM2201J)
@@ -11191,6 +12789,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM2201J5] of MODULETIME 
 (moduleid  IEM2201J)
@@ -11198,6 +12797,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM2201K0] of MODULETIME 
 (moduleid  IEM2201K)
@@ -11205,6 +12805,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM2201K1] of MODULETIME 
 (moduleid  IEM2201K)
@@ -11212,6 +12813,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM2201K2] of MODULETIME 
 (moduleid  IEM2201K)
@@ -11219,6 +12821,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM2201K3] of MODULETIME 
 (moduleid  IEM2201K)
@@ -11226,6 +12829,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM2201K4] of MODULETIME 
 (moduleid  IEM2201K)
@@ -11233,6 +12837,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM2201K5] of MODULETIME 
 (moduleid  IEM2201K)
@@ -11240,6 +12845,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM2201L0] of MODULETIME 
 (moduleid  IEM2201L)
@@ -11247,6 +12853,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM2201L1] of MODULETIME 
 (moduleid  IEM2201L)
@@ -11254,6 +12861,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIEM2201L2] of MODULETIME 
 (moduleid  IEM2201L)
@@ -11261,6 +12869,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM2201L3] of MODULETIME 
 (moduleid  IEM2201L)
@@ -11268,6 +12877,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIEM2201L4] of MODULETIME 
 (moduleid  IEM2201L)
@@ -11275,6 +12885,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIEM2201L5] of MODULETIME 
 (moduleid  IEM2201L)
@@ -11282,6 +12893,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIS11030] of MODULETIME 
 (moduleid  IS1103)
@@ -11289,6 +12901,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS11031] of MODULETIME 
 (moduleid  IS1103)
@@ -11296,6 +12909,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 11)
 )
 ([timeIS11032] of MODULETIME 
 (moduleid  IS1103)
@@ -11303,6 +12917,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeIS11033] of MODULETIME 
 (moduleid  IS1103)
@@ -11310,6 +12925,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 21)
 )
 ([timeIS11034] of MODULETIME 
 (moduleid  IS1103)
@@ -11317,6 +12933,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 3)
 )
 ([timeIS11035] of MODULETIME 
 (moduleid  IS1103)
@@ -11324,6 +12941,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 31)
 )
 ([timeIS11050] of MODULETIME 
 (moduleid  IS1105)
@@ -11331,6 +12949,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS11120] of MODULETIME 
 (moduleid  IS1112)
@@ -11338,6 +12957,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS21010] of MODULETIME 
 (moduleid  IS2101)
@@ -11345,6 +12965,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS21020] of MODULETIME 
 (moduleid  IS2102)
@@ -11352,6 +12973,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS21030] of MODULETIME 
 (moduleid  IS2103)
@@ -11359,6 +12981,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS21040] of MODULETIME 
 (moduleid  IS2104)
@@ -11366,6 +12989,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS21500] of MODULETIME 
 (moduleid  IS2150)
@@ -11373,6 +12997,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS31010] of MODULETIME 
 (moduleid  IS3101)
@@ -11380,6 +13005,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS31500] of MODULETIME 
 (moduleid  IS3150)
@@ -11387,6 +13013,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS32200] of MODULETIME 
 (moduleid  IS3220)
@@ -11394,6 +13021,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS32210] of MODULETIME 
 (moduleid  IS3221)
@@ -11401,6 +13029,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS32220] of MODULETIME 
 (moduleid  IS3222)
@@ -11408,6 +13037,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS32230] of MODULETIME 
 (moduleid  IS3223)
@@ -11415,6 +13045,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS32300] of MODULETIME 
 (moduleid  IS3230)
@@ -11422,6 +13053,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS32400] of MODULETIME 
 (moduleid  IS3240)
@@ -11429,6 +13061,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS32410] of MODULETIME 
 (moduleid  IS3241)
@@ -11436,6 +13069,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS32420] of MODULETIME 
 (moduleid  IS3242)
@@ -11443,6 +13077,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS32430] of MODULETIME 
 (moduleid  IS3243)
@@ -11450,6 +13085,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS32500] of MODULETIME 
 (moduleid  IS3250)
@@ -11457,6 +13093,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS32600] of MODULETIME 
 (moduleid  IS3260)
@@ -11464,6 +13101,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS41000] of MODULETIME 
 (moduleid  IS4100)
@@ -11471,6 +13109,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS41500] of MODULETIME 
 (moduleid  IS4150)
@@ -11478,6 +13117,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS42030] of MODULETIME 
 (moduleid  IS4203)
@@ -11485,6 +13125,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS42240] of MODULETIME 
 (moduleid  IS4224)
@@ -11492,6 +13133,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS42260] of MODULETIME 
 (moduleid  IS4226)
@@ -11499,6 +13141,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS42270] of MODULETIME 
 (moduleid  IS4227)
@@ -11506,6 +13149,7 @@
 (starttime 1930)
 (endtime 1930)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS42400] of MODULETIME 
 (moduleid  IS4240)
@@ -11513,6 +13157,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS42430] of MODULETIME 
 (moduleid  IS4243)
@@ -11520,6 +13165,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIS42600] of MODULETIME 
 (moduleid  IS4260)
@@ -11527,6 +13173,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIT10010] of MODULETIME 
 (moduleid  IT1001)
@@ -11534,6 +13181,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIT10060] of MODULETIME 
 (moduleid  IT1006)
@@ -11541,6 +13189,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIT20010] of MODULETIME 
 (moduleid  IT2001)
@@ -11548,6 +13197,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeIT20020] of MODULETIME 
 (moduleid  IT2002)
@@ -11555,6 +13205,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS1101E0] of MODULETIME 
 (moduleid  JS1101E)
@@ -11562,6 +13213,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS21010] of MODULETIME 
 (moduleid  JS2101)
@@ -11569,6 +13221,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS22130] of MODULETIME 
 (moduleid  JS2213)
@@ -11576,6 +13229,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS22240] of MODULETIME 
 (moduleid  JS2224)
@@ -11583,6 +13237,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS22260] of MODULETIME 
 (moduleid  JS2226)
@@ -11590,6 +13245,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS22300] of MODULETIME 
 (moduleid  JS2230)
@@ -11597,6 +13253,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS31010] of MODULETIME 
 (moduleid  JS3101)
@@ -11604,6 +13261,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS32080] of MODULETIME 
 (moduleid  JS3208)
@@ -11611,6 +13269,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS32100] of MODULETIME 
 (moduleid  JS3210)
@@ -11618,6 +13277,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS32110] of MODULETIME 
 (moduleid  JS3211)
@@ -11625,6 +13285,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS32300] of MODULETIME 
 (moduleid  JS3230)
@@ -11632,6 +13293,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS42090] of MODULETIME 
 (moduleid  JS4209)
@@ -11639,6 +13301,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS42140] of MODULETIME 
 (moduleid  JS4214)
@@ -11646,6 +13309,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS42160] of MODULETIME 
 (moduleid  JS4216)
@@ -11653,6 +13317,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS42170] of MODULETIME 
 (moduleid  JS4217)
@@ -11660,6 +13325,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS42270] of MODULETIME 
 (moduleid  JS4227)
@@ -11667,6 +13333,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeJS5201R0] of MODULETIME 
 (moduleid  JS5201R)
@@ -11674,6 +13341,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLA42020] of MODULETIME 
 (moduleid  LA4202)
@@ -11681,6 +13349,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLA42120] of MODULETIME 
 (moduleid  LA4212)
@@ -11688,6 +13357,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLA47020] of MODULETIME 
 (moduleid  LA4702)
@@ -11695,6 +13365,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLA47021] of MODULETIME 
 (moduleid  LA4702)
@@ -11702,6 +13373,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLA52220] of MODULETIME 
 (moduleid  LA5222)
@@ -11709,6 +13381,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAB12010] of MODULETIME 
 (moduleid  LAB1201)
@@ -11716,6 +13389,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAB12011] of MODULETIME 
 (moduleid  LAB1201)
@@ -11723,6 +13397,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAB12012] of MODULETIME 
 (moduleid  LAB1201)
@@ -11730,6 +13405,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAB12013] of MODULETIME 
 (moduleid  LAB1201)
@@ -11737,6 +13413,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAB12014] of MODULETIME 
 (moduleid  LAB1201)
@@ -11744,6 +13421,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 5)
 )
 ([timeLAB12015] of MODULETIME 
 (moduleid  LAB1201)
@@ -11751,6 +13429,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 6)
 )
 ([timeLAB12016] of MODULETIME 
 (moduleid  LAB1201)
@@ -11758,6 +13437,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 7)
 )
 ([timeLAB32020] of MODULETIME 
 (moduleid  LAB3202)
@@ -11765,6 +13445,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAC12010] of MODULETIME 
 (moduleid  LAC1201)
@@ -11772,6 +13453,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAC12011] of MODULETIME 
 (moduleid  LAC1201)
@@ -11779,6 +13461,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAC12012] of MODULETIME 
 (moduleid  LAC1201)
@@ -11786,6 +13469,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAC12013] of MODULETIME 
 (moduleid  LAC1201)
@@ -11793,6 +13477,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAC12014] of MODULETIME 
 (moduleid  LAC1201)
@@ -11800,6 +13485,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAC12015] of MODULETIME 
 (moduleid  LAC1201)
@@ -11807,6 +13493,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAC12016] of MODULETIME 
 (moduleid  LAC1201)
@@ -11814,6 +13501,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 5)
 )
 ([timeLAC12017] of MODULETIME 
 (moduleid  LAC1201)
@@ -11821,6 +13509,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 5)
 )
 ([timeLAC12018] of MODULETIME 
 (moduleid  LAC1201)
@@ -11828,6 +13517,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 6)
 )
 ([timeLAC12019] of MODULETIME 
 (moduleid  LAC1201)
@@ -11835,6 +13525,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 6)
 )
 ([timeLAC120110] of MODULETIME 
 (moduleid  LAC1201)
@@ -11842,6 +13533,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 7)
 )
 ([timeLAC120111] of MODULETIME 
 (moduleid  LAC1201)
@@ -11849,6 +13541,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 7)
 )
 ([timeLAC22010] of MODULETIME 
 (moduleid  LAC2201)
@@ -11856,6 +13549,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAC22011] of MODULETIME 
 (moduleid  LAC2201)
@@ -11863,6 +13557,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAC22012] of MODULETIME 
 (moduleid  LAC2201)
@@ -11870,6 +13565,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAC22013] of MODULETIME 
 (moduleid  LAC2201)
@@ -11877,6 +13573,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAC22014] of MODULETIME 
 (moduleid  LAC2201)
@@ -11884,6 +13581,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAC22015] of MODULETIME 
 (moduleid  LAC2201)
@@ -11891,6 +13589,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAC32010] of MODULETIME 
 (moduleid  LAC3201)
@@ -11898,6 +13597,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAC32020] of MODULETIME 
 (moduleid  LAC3202)
@@ -11905,6 +13605,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAC32040] of MODULETIME 
 (moduleid  LAC3204)
@@ -11912,6 +13613,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAC42020] of MODULETIME 
 (moduleid  LAC4202)
@@ -11919,6 +13621,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAF12010] of MODULETIME 
 (moduleid  LAF1201)
@@ -11926,6 +13629,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAF12011] of MODULETIME 
 (moduleid  LAF1201)
@@ -11933,6 +13637,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAF12012] of MODULETIME 
 (moduleid  LAF1201)
@@ -11940,6 +13645,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAF12013] of MODULETIME 
 (moduleid  LAF1201)
@@ -11947,6 +13653,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAF12014] of MODULETIME 
 (moduleid  LAF1201)
@@ -11954,6 +13661,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAF12015] of MODULETIME 
 (moduleid  LAF1201)
@@ -11961,6 +13669,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAF12016] of MODULETIME 
 (moduleid  LAF1201)
@@ -11968,6 +13677,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAF12017] of MODULETIME 
 (moduleid  LAF1201)
@@ -11975,6 +13685,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAF22010] of MODULETIME 
 (moduleid  LAF2201)
@@ -11982,6 +13693,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAF22011] of MODULETIME 
 (moduleid  LAF2201)
@@ -11989,6 +13701,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAF22012] of MODULETIME 
 (moduleid  LAF2201)
@@ -11996,6 +13709,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAF22013] of MODULETIME 
 (moduleid  LAF2201)
@@ -12003,6 +13717,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAF22014] of MODULETIME 
 (moduleid  LAF2201)
@@ -12010,6 +13725,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAF22015] of MODULETIME 
 (moduleid  LAF2201)
@@ -12017,6 +13733,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAF22016] of MODULETIME 
 (moduleid  LAF2201)
@@ -12024,6 +13741,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAF22017] of MODULETIME 
 (moduleid  LAF2201)
@@ -12031,6 +13749,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAF22018] of MODULETIME 
 (moduleid  LAF2201)
@@ -12038,6 +13757,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 5)
 )
 ([timeLAF22019] of MODULETIME 
 (moduleid  LAF2201)
@@ -12045,6 +13765,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 5)
 )
 ([timeLAF220110] of MODULETIME 
 (moduleid  LAF2201)
@@ -12052,6 +13773,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 6)
 )
 ([timeLAF220111] of MODULETIME 
 (moduleid  LAF2201)
@@ -12059,6 +13781,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 6)
 )
 ([timeLAF32020] of MODULETIME 
 (moduleid  LAF3202)
@@ -12066,6 +13789,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAF32021] of MODULETIME 
 (moduleid  LAF3202)
@@ -12073,6 +13797,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAF32030] of MODULETIME 
 (moduleid  LAF3203)
@@ -12080,6 +13805,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAF32031] of MODULETIME 
 (moduleid  LAF3203)
@@ -12087,6 +13813,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAF32032] of MODULETIME 
 (moduleid  LAF3203)
@@ -12094,6 +13821,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAF32033] of MODULETIME 
 (moduleid  LAF3203)
@@ -12101,6 +13829,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAF42020] of MODULETIME 
 (moduleid  LAF4202)
@@ -12108,6 +13837,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAF42021] of MODULETIME 
 (moduleid  LAF4202)
@@ -12115,6 +13845,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAG12010] of MODULETIME 
 (moduleid  LAG1201)
@@ -12122,6 +13853,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAG12011] of MODULETIME 
 (moduleid  LAG1201)
@@ -12129,6 +13861,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAG12012] of MODULETIME 
 (moduleid  LAG1201)
@@ -12136,6 +13869,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAG12013] of MODULETIME 
 (moduleid  LAG1201)
@@ -12143,6 +13877,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAG12014] of MODULETIME 
 (moduleid  LAG1201)
@@ -12150,6 +13885,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAG12015] of MODULETIME 
 (moduleid  LAG1201)
@@ -12157,6 +13893,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAG12016] of MODULETIME 
 (moduleid  LAG1201)
@@ -12164,6 +13901,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAG12017] of MODULETIME 
 (moduleid  LAG1201)
@@ -12171,6 +13909,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAG12018] of MODULETIME 
 (moduleid  LAG1201)
@@ -12178,6 +13917,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 5)
 )
 ([timeLAG12019] of MODULETIME 
 (moduleid  LAG1201)
@@ -12185,6 +13925,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 5)
 )
 ([timeLAG22010] of MODULETIME 
 (moduleid  LAG2201)
@@ -12192,6 +13933,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAG22011] of MODULETIME 
 (moduleid  LAG2201)
@@ -12199,6 +13941,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAG22012] of MODULETIME 
 (moduleid  LAG2201)
@@ -12206,6 +13949,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAG22013] of MODULETIME 
 (moduleid  LAG2201)
@@ -12213,6 +13957,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAG22014] of MODULETIME 
 (moduleid  LAG2201)
@@ -12220,6 +13965,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAG22015] of MODULETIME 
 (moduleid  LAG2201)
@@ -12227,6 +13973,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAG22016] of MODULETIME 
 (moduleid  LAG2201)
@@ -12234,6 +13981,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAG22017] of MODULETIME 
 (moduleid  LAG2201)
@@ -12241,6 +13989,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAG22018] of MODULETIME 
 (moduleid  LAG2201)
@@ -12248,6 +13997,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 6)
 )
 ([timeLAG22019] of MODULETIME 
 (moduleid  LAG2201)
@@ -12255,6 +14005,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 6)
 )
 ([timeLAG220110] of MODULETIME 
 (moduleid  LAG2201)
@@ -12262,6 +14013,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 7)
 )
 ([timeLAG220111] of MODULETIME 
 (moduleid  LAG2201)
@@ -12269,6 +14021,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 7)
 )
 ([timeLAG32020] of MODULETIME 
 (moduleid  LAG3202)
@@ -12276,6 +14029,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAG32021] of MODULETIME 
 (moduleid  LAG3202)
@@ -12283,6 +14037,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAG32030] of MODULETIME 
 (moduleid  LAG3203)
@@ -12290,6 +14045,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAG32031] of MODULETIME 
 (moduleid  LAG3203)
@@ -12297,6 +14053,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAG32032] of MODULETIME 
 (moduleid  LAG3203)
@@ -12304,6 +14061,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAG32033] of MODULETIME 
 (moduleid  LAG3203)
@@ -12311,6 +14069,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAG42020] of MODULETIME 
 (moduleid  LAG4202)
@@ -12318,6 +14077,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAH12010] of MODULETIME 
 (moduleid  LAH1201)
@@ -12325,6 +14085,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAH12011] of MODULETIME 
 (moduleid  LAH1201)
@@ -12332,6 +14093,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAH12012] of MODULETIME 
 (moduleid  LAH1201)
@@ -12339,6 +14101,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAH12013] of MODULETIME 
 (moduleid  LAH1201)
@@ -12346,6 +14109,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAH22010] of MODULETIME 
 (moduleid  LAH2201)
@@ -12353,6 +14117,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAH22011] of MODULETIME 
 (moduleid  LAH2201)
@@ -12360,6 +14125,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAH32020] of MODULETIME 
 (moduleid  LAH3202)
@@ -12367,6 +14133,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAH32021] of MODULETIME 
 (moduleid  LAH3202)
@@ -12374,6 +14141,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAI17320] of MODULETIME 
 (moduleid  LAI1732)
@@ -12381,6 +14149,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAI17321] of MODULETIME 
 (moduleid  LAI1732)
@@ -12388,6 +14157,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAJ12010] of MODULETIME 
 (moduleid  LAJ1201)
@@ -12395,6 +14165,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAJ12011] of MODULETIME 
 (moduleid  LAJ1201)
@@ -12402,6 +14173,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAJ22010] of MODULETIME 
 (moduleid  LAJ2201)
@@ -12409,6 +14181,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAJ22011] of MODULETIME 
 (moduleid  LAJ2201)
@@ -12416,6 +14189,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAJ22020] of MODULETIME 
 (moduleid  LAJ2202)
@@ -12423,6 +14197,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAJ22030] of MODULETIME 
 (moduleid  LAJ2203)
@@ -12430,6 +14205,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAJ32010] of MODULETIME 
 (moduleid  LAJ3201)
@@ -12437,6 +14213,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAJ32020] of MODULETIME 
 (moduleid  LAJ3202)
@@ -12444,6 +14221,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAK12010] of MODULETIME 
 (moduleid  LAK1201)
@@ -12451,6 +14229,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAK12011] of MODULETIME 
 (moduleid  LAK1201)
@@ -12458,6 +14237,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAK12012] of MODULETIME 
 (moduleid  LAK1201)
@@ -12465,6 +14245,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAK12013] of MODULETIME 
 (moduleid  LAK1201)
@@ -12472,6 +14253,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAK12014] of MODULETIME 
 (moduleid  LAK1201)
@@ -12479,6 +14261,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAK12015] of MODULETIME 
 (moduleid  LAK1201)
@@ -12486,6 +14269,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAK12016] of MODULETIME 
 (moduleid  LAK1201)
@@ -12493,6 +14277,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAK12017] of MODULETIME 
 (moduleid  LAK1201)
@@ -12500,6 +14285,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAK12018] of MODULETIME 
 (moduleid  LAK1201)
@@ -12507,6 +14293,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 5)
 )
 ([timeLAK12019] of MODULETIME 
 (moduleid  LAK1201)
@@ -12514,6 +14301,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 5)
 )
 ([timeLAK22010] of MODULETIME 
 (moduleid  LAK2201)
@@ -12521,6 +14309,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAK22011] of MODULETIME 
 (moduleid  LAK2201)
@@ -12528,6 +14317,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAK22012] of MODULETIME 
 (moduleid  LAK2201)
@@ -12535,6 +14325,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAK22013] of MODULETIME 
 (moduleid  LAK2201)
@@ -12542,6 +14333,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAK22014] of MODULETIME 
 (moduleid  LAK2201)
@@ -12549,6 +14341,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAK22015] of MODULETIME 
 (moduleid  LAK2201)
@@ -12556,6 +14349,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAK22016] of MODULETIME 
 (moduleid  LAK2201)
@@ -12563,6 +14357,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAK22017] of MODULETIME 
 (moduleid  LAK2201)
@@ -12570,6 +14365,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 4)
 )
 ([timeLAK32020] of MODULETIME 
 (moduleid  LAK3202)
@@ -12577,6 +14373,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAK32021] of MODULETIME 
 (moduleid  LAK3202)
@@ -12584,6 +14381,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAK32022] of MODULETIME 
 (moduleid  LAK3202)
@@ -12591,6 +14389,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAK32023] of MODULETIME 
 (moduleid  LAK3202)
@@ -12598,6 +14397,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAK32030] of MODULETIME 
 (moduleid  LAK3203)
@@ -12605,6 +14405,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAK32031] of MODULETIME 
 (moduleid  LAK3203)
@@ -12612,6 +14413,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAK42020] of MODULETIME 
 (moduleid  LAK4202)
@@ -12619,6 +14421,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAK42021] of MODULETIME 
 (moduleid  LAK4202)
@@ -12626,6 +14429,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAL12010] of MODULETIME 
 (moduleid  LAL1201)
@@ -12633,6 +14437,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAL22010] of MODULETIME 
 (moduleid  LAL2201)
@@ -12640,6 +14445,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAM12010] of MODULETIME 
 (moduleid  LAM1201)
@@ -12647,6 +14453,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAM12011] of MODULETIME 
 (moduleid  LAM1201)
@@ -12654,6 +14461,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAM22010] of MODULETIME 
 (moduleid  LAM2201)
@@ -12661,6 +14469,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAM32010] of MODULETIME 
 (moduleid  LAM3201)
@@ -12668,6 +14477,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAM32020] of MODULETIME 
 (moduleid  LAM3202)
@@ -12675,6 +14485,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAR12010] of MODULETIME 
 (moduleid  LAR1201)
@@ -12682,6 +14493,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAR12011] of MODULETIME 
 (moduleid  LAR1201)
@@ -12689,6 +14501,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAR12012] of MODULETIME 
 (moduleid  LAR1201)
@@ -12696,6 +14509,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAR12013] of MODULETIME 
 (moduleid  LAR1201)
@@ -12703,6 +14517,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAR12014] of MODULETIME 
 (moduleid  LAR1201)
@@ -12710,6 +14525,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAR12015] of MODULETIME 
 (moduleid  LAR1201)
@@ -12717,6 +14533,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAR22010] of MODULETIME 
 (moduleid  LAR2201)
@@ -12724,6 +14541,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAR22011] of MODULETIME 
 (moduleid  LAR2201)
@@ -12731,6 +14549,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAR22012] of MODULETIME 
 (moduleid  LAR2201)
@@ -12738,6 +14557,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAR22013] of MODULETIME 
 (moduleid  LAR2201)
@@ -12745,6 +14565,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAR32020] of MODULETIME 
 (moduleid  LAR3202)
@@ -12752,6 +14573,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAR32021] of MODULETIME 
 (moduleid  LAR3202)
@@ -12759,6 +14581,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAR42020] of MODULETIME 
 (moduleid  LAR4202)
@@ -12766,6 +14589,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAR42021] of MODULETIME 
 (moduleid  LAR4202)
@@ -12773,6 +14597,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAT12010] of MODULETIME 
 (moduleid  LAT1201)
@@ -12780,6 +14605,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAT12011] of MODULETIME 
 (moduleid  LAT1201)
@@ -12787,6 +14613,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAT12012] of MODULETIME 
 (moduleid  LAT1201)
@@ -12794,6 +14621,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeLAT22010] of MODULETIME 
 (moduleid  LAT2201)
@@ -12801,6 +14629,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAT22011] of MODULETIME 
 (moduleid  LAT2201)
@@ -12808,6 +14637,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAT32010] of MODULETIME 
 (moduleid  LAT3201)
@@ -12815,6 +14645,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAT32011] of MODULETIME 
 (moduleid  LAT3201)
@@ -12822,6 +14653,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAT32020] of MODULETIME 
 (moduleid  LAT3202)
@@ -12829,6 +14661,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAT32021] of MODULETIME 
 (moduleid  LAT3202)
@@ -12836,6 +14669,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAT42010] of MODULETIME 
 (moduleid  LAT4201)
@@ -12843,6 +14677,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAT42020] of MODULETIME 
 (moduleid  LAT4202)
@@ -12850,6 +14685,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAV12010] of MODULETIME 
 (moduleid  LAV1201)
@@ -12857,6 +14693,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAV12011] of MODULETIME 
 (moduleid  LAV1201)
@@ -12864,6 +14701,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAV12012] of MODULETIME 
 (moduleid  LAV1201)
@@ -12871,6 +14709,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAV12013] of MODULETIME 
 (moduleid  LAV1201)
@@ -12878,6 +14717,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeLAV22010] of MODULETIME 
 (moduleid  LAV2201)
@@ -12885,6 +14725,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAV22011] of MODULETIME 
 (moduleid  LAV2201)
@@ -12892,6 +14733,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAV32010] of MODULETIME 
 (moduleid  LAV3201)
@@ -12899,6 +14741,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLAV32011] of MODULETIME 
 (moduleid  LAV3201)
@@ -12906,6 +14749,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLL40610] of MODULETIME 
 (moduleid  LL4061)
@@ -12913,6 +14757,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLL40820] of MODULETIME 
 (moduleid  LL4082)
@@ -12920,6 +14765,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLL41330] of MODULETIME 
 (moduleid  LL4133)
@@ -12927,6 +14773,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLL41340] of MODULETIME 
 (moduleid  LL4134)
@@ -12934,6 +14781,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLL42020] of MODULETIME 
 (moduleid  LL4202)
@@ -12941,6 +14789,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLL42021] of MODULETIME 
 (moduleid  LL4202)
@@ -12948,6 +14797,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLL42022] of MODULETIME 
 (moduleid  LL4202)
@@ -12955,6 +14805,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLL42340] of MODULETIME 
 (moduleid  LL4234)
@@ -12962,6 +14813,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeLSM11010] of MODULETIME 
 (moduleid  LSM1101)
@@ -12969,6 +14821,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM11020] of MODULETIME 
 (moduleid  LSM1102)
@@ -12976,6 +14829,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM11030] of MODULETIME 
 (moduleid  LSM1103)
@@ -12983,6 +14837,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM11040] of MODULETIME 
 (moduleid  LSM1104)
@@ -12990,6 +14845,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM12020] of MODULETIME 
 (moduleid  LSM1202)
@@ -12997,6 +14853,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM13010] of MODULETIME 
 (moduleid  LSM1301)
@@ -13004,6 +14861,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM13011] of MODULETIME 
 (moduleid  LSM1301)
@@ -13011,6 +14869,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeLSM13020] of MODULETIME 
 (moduleid  LSM1302)
@@ -13018,6 +14877,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM13021] of MODULETIME 
 (moduleid  LSM1302)
@@ -13025,6 +14885,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM13022] of MODULETIME 
 (moduleid  LSM1302)
@@ -13032,6 +14893,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeLSM13023] of MODULETIME 
 (moduleid  LSM1302)
@@ -13039,6 +14901,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeLSM13030] of MODULETIME 
 (moduleid  LSM1303)
@@ -13046,6 +14909,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM14010] of MODULETIME 
 (moduleid  LSM1401)
@@ -13053,6 +14917,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM14011] of MODULETIME 
 (moduleid  LSM1401)
@@ -13060,6 +14925,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM21010] of MODULETIME 
 (moduleid  LSM2101)
@@ -13067,6 +14933,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM21011] of MODULETIME 
 (moduleid  LSM2101)
@@ -13074,6 +14941,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM21020] of MODULETIME 
 (moduleid  LSM2102)
@@ -13081,6 +14949,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM21021] of MODULETIME 
 (moduleid  LSM2102)
@@ -13088,6 +14957,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM21030] of MODULETIME 
 (moduleid  LSM2103)
@@ -13095,6 +14965,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM21031] of MODULETIME 
 (moduleid  LSM2103)
@@ -13102,6 +14973,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM2201A0] of MODULETIME 
 (moduleid  LSM2201A)
@@ -13109,6 +14981,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM2202A0] of MODULETIME 
 (moduleid  LSM2202A)
@@ -13116,6 +14989,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM22030] of MODULETIME 
 (moduleid  LSM2203)
@@ -13123,6 +14997,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM22410] of MODULETIME 
 (moduleid  LSM2241)
@@ -13130,6 +15005,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM22510] of MODULETIME 
 (moduleid  LSM2251)
@@ -13137,6 +15013,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32110] of MODULETIME 
 (moduleid  LSM3211)
@@ -13144,6 +15021,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32120] of MODULETIME 
 (moduleid  LSM3212)
@@ -13151,6 +15029,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32130] of MODULETIME 
 (moduleid  LSM3213)
@@ -13158,6 +15037,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32140] of MODULETIME 
 (moduleid  LSM3214)
@@ -13165,6 +15045,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32141] of MODULETIME 
 (moduleid  LSM3214)
@@ -13172,6 +15053,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32210] of MODULETIME 
 (moduleid  LSM3221)
@@ -13179,6 +15061,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32230] of MODULETIME 
 (moduleid  LSM3223)
@@ -13186,6 +15069,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32240] of MODULETIME 
 (moduleid  LSM3224)
@@ -13193,6 +15077,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32250] of MODULETIME 
 (moduleid  LSM3225)
@@ -13200,6 +15085,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32320] of MODULETIME 
 (moduleid  LSM3232)
@@ -13207,6 +15093,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32410] of MODULETIME 
 (moduleid  LSM3241)
@@ -13214,6 +15101,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32420] of MODULETIME 
 (moduleid  LSM3242)
@@ -13221,6 +15109,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32430] of MODULETIME 
 (moduleid  LSM3243)
@@ -13228,6 +15117,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32431] of MODULETIME 
 (moduleid  LSM3243)
@@ -13235,6 +15125,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32440] of MODULETIME 
 (moduleid  LSM3244)
@@ -13242,6 +15133,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32550] of MODULETIME 
 (moduleid  LSM3255)
@@ -13249,6 +15141,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32560] of MODULETIME 
 (moduleid  LSM3256)
@@ -13256,6 +15149,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32570] of MODULETIME 
 (moduleid  LSM3257)
@@ -13263,6 +15157,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32620] of MODULETIME 
 (moduleid  LSM3262)
@@ -13270,6 +15165,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32640] of MODULETIME 
 (moduleid  LSM3264)
@@ -13277,6 +15173,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32641] of MODULETIME 
 (moduleid  LSM3264)
@@ -13284,6 +15181,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32660] of MODULETIME 
 (moduleid  LSM3266)
@@ -13291,6 +15189,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM32720] of MODULETIME 
 (moduleid  LSM3272)
@@ -13298,6 +15197,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42140] of MODULETIME 
 (moduleid  LSM4214)
@@ -13305,6 +15205,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42141] of MODULETIME 
 (moduleid  LSM4214)
@@ -13312,6 +15213,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42150] of MODULETIME 
 (moduleid  LSM4215)
@@ -13319,6 +15221,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42210] of MODULETIME 
 (moduleid  LSM4221)
@@ -13326,6 +15229,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42211] of MODULETIME 
 (moduleid  LSM4221)
@@ -13333,6 +15237,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42220] of MODULETIME 
 (moduleid  LSM4222)
@@ -13340,6 +15245,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42221] of MODULETIME 
 (moduleid  LSM4222)
@@ -13347,6 +15253,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42230] of MODULETIME 
 (moduleid  LSM4223)
@@ -13354,6 +15261,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42250] of MODULETIME 
 (moduleid  LSM4225)
@@ -13361,6 +15269,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42251] of MODULETIME 
 (moduleid  LSM4225)
@@ -13368,6 +15277,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42310] of MODULETIME 
 (moduleid  LSM4231)
@@ -13375,6 +15285,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42311] of MODULETIME 
 (moduleid  LSM4231)
@@ -13382,6 +15293,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42340] of MODULETIME 
 (moduleid  LSM4234)
@@ -13389,6 +15301,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42341] of MODULETIME 
 (moduleid  LSM4234)
@@ -13396,6 +15309,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42410] of MODULETIME 
 (moduleid  LSM4241)
@@ -13403,6 +15317,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42411] of MODULETIME 
 (moduleid  LSM4241)
@@ -13410,6 +15325,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42430] of MODULETIME 
 (moduleid  LSM4243)
@@ -13417,6 +15333,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42431] of MODULETIME 
 (moduleid  LSM4243)
@@ -13424,6 +15341,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42440] of MODULETIME 
 (moduleid  LSM4244)
@@ -13431,6 +15349,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42441] of MODULETIME 
 (moduleid  LSM4244)
@@ -13438,6 +15357,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42530] of MODULETIME 
 (moduleid  LSM4253)
@@ -13445,6 +15365,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42531] of MODULETIME 
 (moduleid  LSM4253)
@@ -13452,6 +15373,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42550] of MODULETIME 
 (moduleid  LSM4255)
@@ -13459,6 +15381,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42620] of MODULETIME 
 (moduleid  LSM4262)
@@ -13466,6 +15389,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42621] of MODULETIME 
 (moduleid  LSM4262)
@@ -13473,6 +15397,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42640] of MODULETIME 
 (moduleid  LSM4264)
@@ -13480,6 +15405,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeLSM42650] of MODULETIME 
 (moduleid  LSM4265)
@@ -13487,6 +15413,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA1101R0] of MODULETIME 
 (moduleid  MA1101R)
@@ -13494,6 +15421,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA1101R1] of MODULETIME 
 (moduleid  MA1101R)
@@ -13501,6 +15429,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA1102R0] of MODULETIME 
 (moduleid  MA1102R)
@@ -13508,6 +15437,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA1102R1] of MODULETIME 
 (moduleid  MA1102R)
@@ -13515,6 +15445,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA11040] of MODULETIME 
 (moduleid  MA1104)
@@ -13522,6 +15453,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA11041] of MODULETIME 
 (moduleid  MA1104)
@@ -13529,6 +15461,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA13010] of MODULETIME 
 (moduleid  MA1301)
@@ -13536,6 +15469,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA13011] of MODULETIME 
 (moduleid  MA1301)
@@ -13543,6 +15477,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA13120] of MODULETIME 
 (moduleid  MA1312)
@@ -13550,6 +15485,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA13121] of MODULETIME 
 (moduleid  MA1312)
@@ -13557,6 +15493,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA15050] of MODULETIME 
 (moduleid  MA1505)
@@ -13564,6 +15501,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA15051] of MODULETIME 
 (moduleid  MA1505)
@@ -13571,6 +15509,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA15060] of MODULETIME 
 (moduleid  MA1506)
@@ -13578,6 +15517,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A)
 )
 ([timeMA15061] of MODULETIME 
 (moduleid  MA1506)
@@ -13585,6 +15525,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption A)
 )
 ([timeMA15062] of MODULETIME 
 (moduleid  MA1506)
@@ -13592,6 +15533,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B)
 )
 ([timeMA15063] of MODULETIME 
 (moduleid  MA1506)
@@ -13599,6 +15541,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B)
 )
 ([timeMA15064] of MODULETIME 
 (moduleid  MA1506)
@@ -13606,6 +15549,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption C)
 )
 ([timeMA15065] of MODULETIME 
 (moduleid  MA1506)
@@ -13613,6 +15557,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption C)
 )
 ([timeMA15066] of MODULETIME 
 (moduleid  MA1506)
@@ -13620,6 +15565,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption D)
 )
 ([timeMA15067] of MODULETIME 
 (moduleid  MA1506)
@@ -13627,6 +15573,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption D)
 )
 ([timeMA15080] of MODULETIME 
 (moduleid  MA1508)
@@ -13634,6 +15581,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMA15081] of MODULETIME 
 (moduleid  MA1508)
@@ -13641,6 +15589,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMA15210] of MODULETIME 
 (moduleid  MA1521)
@@ -13648,6 +15597,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA15211] of MODULETIME 
 (moduleid  MA1521)
@@ -13655,6 +15605,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA21010] of MODULETIME 
 (moduleid  MA2101)
@@ -13662,6 +15613,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA21011] of MODULETIME 
 (moduleid  MA2101)
@@ -13669,6 +15621,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA21080] of MODULETIME 
 (moduleid  MA2108)
@@ -13676,6 +15629,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA21081] of MODULETIME 
 (moduleid  MA2108)
@@ -13683,6 +15637,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA2108S0] of MODULETIME 
 (moduleid  MA2108S)
@@ -13690,6 +15645,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA2108S1] of MODULETIME 
 (moduleid  MA2108S)
@@ -13697,6 +15653,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA22130] of MODULETIME 
 (moduleid  MA2213)
@@ -13704,6 +15661,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA22131] of MODULETIME 
 (moduleid  MA2213)
@@ -13711,6 +15669,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA22160] of MODULETIME 
 (moduleid  MA2216)
@@ -13718,6 +15677,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA22161] of MODULETIME 
 (moduleid  MA2216)
@@ -13725,6 +15685,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA22162] of MODULETIME 
 (moduleid  MA2216)
@@ -13732,6 +15693,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeMA22163] of MODULETIME 
 (moduleid  MA2216)
@@ -13739,6 +15701,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeMA22164] of MODULETIME 
 (moduleid  MA2216)
@@ -13746,6 +15709,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL3)
 )
 ([timeMA22165] of MODULETIME 
 (moduleid  MA2216)
@@ -13753,6 +15717,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL3)
 )
 ([timeMA22190] of MODULETIME 
 (moduleid  MA2219)
@@ -13760,6 +15725,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA22191] of MODULETIME 
 (moduleid  MA2219)
@@ -13767,6 +15733,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA31100] of MODULETIME 
 (moduleid  MA3110)
@@ -13774,6 +15741,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA31101] of MODULETIME 
 (moduleid  MA3110)
@@ -13781,6 +15749,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA3110S0] of MODULETIME 
 (moduleid  MA3110S)
@@ -13788,6 +15757,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA3110S1] of MODULETIME 
 (moduleid  MA3110S)
@@ -13795,6 +15765,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA31110] of MODULETIME 
 (moduleid  MA3111)
@@ -13802,6 +15773,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA31111] of MODULETIME 
 (moduleid  MA3111)
@@ -13809,6 +15781,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA3111S0] of MODULETIME 
 (moduleid  MA3111S)
@@ -13816,6 +15789,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA3111S1] of MODULETIME 
 (moduleid  MA3111S)
@@ -13823,6 +15797,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32010] of MODULETIME 
 (moduleid  MA3201)
@@ -13830,6 +15805,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32011] of MODULETIME 
 (moduleid  MA3201)
@@ -13837,6 +15813,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32150] of MODULETIME 
 (moduleid  MA3215)
@@ -13844,6 +15821,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32151] of MODULETIME 
 (moduleid  MA3215)
@@ -13851,6 +15829,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32180] of MODULETIME 
 (moduleid  MA3218)
@@ -13858,6 +15837,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32181] of MODULETIME 
 (moduleid  MA3218)
@@ -13865,6 +15845,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32270] of MODULETIME 
 (moduleid  MA3227)
@@ -13872,6 +15853,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32271] of MODULETIME 
 (moduleid  MA3227)
@@ -13879,6 +15861,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32330] of MODULETIME 
 (moduleid  MA3233)
@@ -13886,6 +15869,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32331] of MODULETIME 
 (moduleid  MA3233)
@@ -13893,6 +15877,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32380] of MODULETIME 
 (moduleid  MA3238)
@@ -13900,6 +15885,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32381] of MODULETIME 
 (moduleid  MA3238)
@@ -13907,6 +15893,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32520] of MODULETIME 
 (moduleid  MA3252)
@@ -13914,6 +15901,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32590] of MODULETIME 
 (moduleid  MA3259)
@@ -13921,6 +15909,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32591] of MODULETIME 
 (moduleid  MA3259)
@@ -13928,6 +15917,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32660] of MODULETIME 
 (moduleid  MA3266)
@@ -13935,6 +15925,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA32661] of MODULETIME 
 (moduleid  MA3266)
@@ -13942,6 +15933,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA33120] of MODULETIME 
 (moduleid  MA3312)
@@ -13949,6 +15941,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeMA33121] of MODULETIME 
 (moduleid  MA3312)
@@ -13956,6 +15949,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeMA33122] of MODULETIME 
 (moduleid  MA3312)
@@ -13963,6 +15957,7 @@
 (starttime 600)
 (endtime 600)
 (semester 2)
+(moduleoption L1)
 )
 ([timeMA33123] of MODULETIME 
 (moduleid  MA3312)
@@ -13970,6 +15965,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeMA33124] of MODULETIME 
 (moduleid  MA3312)
@@ -13977,6 +15973,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeMA33125] of MODULETIME 
 (moduleid  MA3312)
@@ -13984,6 +15981,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeMA42070] of MODULETIME 
 (moduleid  MA4207)
@@ -13991,6 +15989,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42071] of MODULETIME 
 (moduleid  MA4207)
@@ -13998,6 +15997,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42110] of MODULETIME 
 (moduleid  MA4211)
@@ -14005,6 +16005,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42111] of MODULETIME 
 (moduleid  MA4211)
@@ -14012,6 +16013,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42290] of MODULETIME 
 (moduleid  MA4229)
@@ -14019,6 +16021,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42291] of MODULETIME 
 (moduleid  MA4229)
@@ -14026,6 +16029,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42510] of MODULETIME 
 (moduleid  MA4251)
@@ -14033,6 +16037,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42511] of MODULETIME 
 (moduleid  MA4251)
@@ -14040,6 +16045,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42520] of MODULETIME 
 (moduleid  MA4252)
@@ -14047,6 +16053,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42521] of MODULETIME 
 (moduleid  MA4252)
@@ -14054,6 +16061,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42540] of MODULETIME 
 (moduleid  MA4254)
@@ -14061,6 +16069,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42550] of MODULETIME 
 (moduleid  MA4255)
@@ -14068,6 +16077,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42630] of MODULETIME 
 (moduleid  MA4263)
@@ -14075,6 +16085,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42631] of MODULETIME 
 (moduleid  MA4263)
@@ -14082,6 +16093,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42660] of MODULETIME 
 (moduleid  MA4266)
@@ -14089,6 +16101,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42661] of MODULETIME 
 (moduleid  MA4266)
@@ -14096,6 +16109,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42690] of MODULETIME 
 (moduleid  MA4269)
@@ -14103,6 +16117,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42910] of MODULETIME 
 (moduleid  MA4291)
@@ -14110,6 +16125,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42911] of MODULETIME 
 (moduleid  MA4291)
@@ -14117,6 +16133,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42920] of MODULETIME 
 (moduleid  MA4292)
@@ -14124,6 +16141,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA42921] of MODULETIME 
 (moduleid  MA4292)
@@ -14131,6 +16149,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52040] of MODULETIME 
 (moduleid  MA5204)
@@ -14138,6 +16157,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52041] of MODULETIME 
 (moduleid  MA5204)
@@ -14145,6 +16165,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52060] of MODULETIME 
 (moduleid  MA5206)
@@ -14152,6 +16173,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52061] of MODULETIME 
 (moduleid  MA5206)
@@ -14159,6 +16181,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52100] of MODULETIME 
 (moduleid  MA5210)
@@ -14166,6 +16189,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52101] of MODULETIME 
 (moduleid  MA5210)
@@ -14173,6 +16197,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52160] of MODULETIME 
 (moduleid  MA5216)
@@ -14180,6 +16205,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52161] of MODULETIME 
 (moduleid  MA5216)
@@ -14187,6 +16213,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52170] of MODULETIME 
 (moduleid  MA5217)
@@ -14194,6 +16221,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52171] of MODULETIME 
 (moduleid  MA5217)
@@ -14201,6 +16229,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52200] of MODULETIME 
 (moduleid  MA5220)
@@ -14208,6 +16237,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52201] of MODULETIME 
 (moduleid  MA5220)
@@ -14215,6 +16245,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52320] of MODULETIME 
 (moduleid  MA5232)
@@ -14222,6 +16253,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52410] of MODULETIME 
 (moduleid  MA5241)
@@ -14229,6 +16261,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52411] of MODULETIME 
 (moduleid  MA5241)
@@ -14236,6 +16269,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52480] of MODULETIME 
 (moduleid  MA5248)
@@ -14243,6 +16277,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52500] of MODULETIME 
 (moduleid  MA5250)
@@ -14250,6 +16285,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52501] of MODULETIME 
 (moduleid  MA5250)
@@ -14257,6 +16293,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA52600] of MODULETIME 
 (moduleid  MA5260)
@@ -14264,6 +16301,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA62350] of MODULETIME 
 (moduleid  MA6235)
@@ -14271,6 +16309,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA62520] of MODULETIME 
 (moduleid  MA6252)
@@ -14278,6 +16317,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeMA62920] of MODULETIME 
 (moduleid  MA6292)
@@ -14285,6 +16325,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeME21010] of MODULETIME 
 (moduleid  ME2101)
@@ -14292,6 +16333,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME21011] of MODULETIME 
 (moduleid  ME2101)
@@ -14299,6 +16341,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME2101E0] of MODULETIME 
 (moduleid  ME2101E)
@@ -14306,6 +16349,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME21140] of MODULETIME 
 (moduleid  ME2114)
@@ -14313,6 +16357,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME2114E0] of MODULETIME 
 (moduleid  ME2114E)
@@ -14320,6 +16365,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME21350] of MODULETIME 
 (moduleid  ME2135)
@@ -14327,6 +16373,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME21351] of MODULETIME 
 (moduleid  ME2135)
@@ -14334,6 +16381,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME2135E0] of MODULETIME 
 (moduleid  ME2135E)
@@ -14341,6 +16389,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME21430] of MODULETIME 
 (moduleid  ME2143)
@@ -14348,6 +16397,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME21431] of MODULETIME 
 (moduleid  ME2143)
@@ -14355,6 +16405,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME2143E0] of MODULETIME 
 (moduleid  ME2143E)
@@ -14362,6 +16413,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME31020] of MODULETIME 
 (moduleid  ME3102)
@@ -14369,6 +16421,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32210] of MODULETIME 
 (moduleid  ME3221)
@@ -14376,6 +16429,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32211] of MODULETIME 
 (moduleid  ME3221)
@@ -14383,6 +16437,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32320] of MODULETIME 
 (moduleid  ME3232)
@@ -14390,6 +16445,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32321] of MODULETIME 
 (moduleid  ME3232)
@@ -14397,6 +16453,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32330] of MODULETIME 
 (moduleid  ME3233)
@@ -14404,6 +16461,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32331] of MODULETIME 
 (moduleid  ME3233)
@@ -14411,6 +16469,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32410] of MODULETIME 
 (moduleid  ME3241)
@@ -14418,6 +16477,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32411] of MODULETIME 
 (moduleid  ME3241)
@@ -14425,6 +16485,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME3241E0] of MODULETIME 
 (moduleid  ME3241E)
@@ -14432,6 +16493,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32510] of MODULETIME 
 (moduleid  ME3251)
@@ -14439,6 +16501,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32511] of MODULETIME 
 (moduleid  ME3251)
@@ -14446,6 +16509,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME3251E0] of MODULETIME 
 (moduleid  ME3251E)
@@ -14453,6 +16517,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32810] of MODULETIME 
 (moduleid  ME3281)
@@ -14460,6 +16525,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32811] of MODULETIME 
 (moduleid  ME3281)
@@ -14467,6 +16533,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32910] of MODULETIME 
 (moduleid  ME3291)
@@ -14474,6 +16541,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME32911] of MODULETIME 
 (moduleid  ME3291)
@@ -14481,6 +16549,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42120] of MODULETIME 
 (moduleid  ME4212)
@@ -14488,6 +16557,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42121] of MODULETIME 
 (moduleid  ME4212)
@@ -14495,6 +16565,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42130] of MODULETIME 
 (moduleid  ME4213)
@@ -14502,6 +16573,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42131] of MODULETIME 
 (moduleid  ME4213)
@@ -14509,6 +16581,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42250] of MODULETIME 
 (moduleid  ME4225)
@@ -14516,6 +16589,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42251] of MODULETIME 
 (moduleid  ME4225)
@@ -14523,6 +16597,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME4225E0] of MODULETIME 
 (moduleid  ME4225E)
@@ -14530,6 +16605,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42270] of MODULETIME 
 (moduleid  ME4227)
@@ -14537,6 +16613,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42271] of MODULETIME 
 (moduleid  ME4227)
@@ -14544,6 +16621,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42310] of MODULETIME 
 (moduleid  ME4231)
@@ -14551,6 +16629,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42311] of MODULETIME 
 (moduleid  ME4231)
@@ -14558,6 +16637,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42410] of MODULETIME 
 (moduleid  ME4241)
@@ -14565,6 +16645,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42411] of MODULETIME 
 (moduleid  ME4241)
@@ -14572,6 +16653,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42460] of MODULETIME 
 (moduleid  ME4246)
@@ -14579,6 +16661,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42461] of MODULETIME 
 (moduleid  ME4246)
@@ -14586,6 +16669,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42530] of MODULETIME 
 (moduleid  ME4253)
@@ -14593,6 +16677,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42531] of MODULETIME 
 (moduleid  ME4253)
@@ -14600,6 +16685,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42550] of MODULETIME 
 (moduleid  ME4255)
@@ -14607,6 +16693,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42551] of MODULETIME 
 (moduleid  ME4255)
@@ -14614,6 +16701,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42610] of MODULETIME 
 (moduleid  ME4261)
@@ -14621,6 +16709,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42611] of MODULETIME 
 (moduleid  ME4261)
@@ -14628,6 +16717,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME4261E0] of MODULETIME 
 (moduleid  ME4261E)
@@ -14635,6 +16725,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42620] of MODULETIME 
 (moduleid  ME4262)
@@ -14642,6 +16733,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42621] of MODULETIME 
 (moduleid  ME4262)
@@ -14649,6 +16741,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME4262E0] of MODULETIME 
 (moduleid  ME4262E)
@@ -14656,6 +16749,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42650] of MODULETIME 
 (moduleid  ME4265)
@@ -14663,6 +16757,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42651] of MODULETIME 
 (moduleid  ME4265)
@@ -14670,6 +16765,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42840] of MODULETIME 
 (moduleid  ME4284)
@@ -14677,6 +16773,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME42841] of MODULETIME 
 (moduleid  ME4284)
@@ -14684,6 +16781,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME55060] of MODULETIME 
 (moduleid  ME5506)
@@ -14691,6 +16789,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeME56090] of MODULETIME 
 (moduleid  ME5609)
@@ -14698,6 +16797,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMIC10000] of MODULETIME 
 (moduleid  MIC1000)
@@ -14705,6 +16805,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMIC10001] of MODULETIME 
 (moduleid  MIC1000)
@@ -14712,6 +16813,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMKT10030] of MODULETIME 
 (moduleid  MKT1003)
@@ -14719,6 +16821,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B1)
 )
 ([timeMKT10031] of MODULETIME 
 (moduleid  MKT1003)
@@ -14726,6 +16829,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B2)
 )
 ([timeMKT10032] of MODULETIME 
 (moduleid  MKT1003)
@@ -14733,6 +16837,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption B3)
 )
 ([timeMKT10033] of MODULETIME 
 (moduleid  MKT1003)
@@ -14740,6 +16845,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption B4)
 )
 ([timeMKT10034] of MODULETIME 
 (moduleid  MKT1003)
@@ -14747,6 +16853,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B5)
 )
 ([timeMKT10035] of MODULETIME 
 (moduleid  MKT1003)
@@ -14754,6 +16861,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption B6)
 )
 ([timeMKT10036] of MODULETIME 
 (moduleid  MKT1003)
@@ -14761,6 +16869,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption B7)
 )
 ([timeMKT10037] of MODULETIME 
 (moduleid  MKT1003)
@@ -14768,6 +16877,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption B8)
 )
 ([timeMKT1003X0] of MODULETIME 
 (moduleid  MKT1003X)
@@ -14775,6 +16885,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption W1)
 )
 ([timeMKT1003X1] of MODULETIME 
 (moduleid  MKT1003X)
@@ -14782,6 +16893,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption W2)
 )
 ([timeMKT2401A0] of MODULETIME 
 (moduleid  MKT2401A)
@@ -14789,6 +16901,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A1)
 )
 ([timeMKT2401A1] of MODULETIME 
 (moduleid  MKT2401A)
@@ -14796,6 +16909,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption A2)
 )
 ([timeMKT2401B0] of MODULETIME 
 (moduleid  MKT2401B)
@@ -14803,6 +16917,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption B3)
 )
 ([timeMKT2401C0] of MODULETIME 
 (moduleid  MKT2401C)
@@ -14810,6 +16925,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption C4)
 )
 ([timeMKT24120] of MODULETIME 
 (moduleid  MKT2412)
@@ -14817,6 +16933,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeMKT24121] of MODULETIME 
 (moduleid  MKT2412)
@@ -14824,6 +16941,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption L2)
 )
 ([timeMKT24130] of MODULETIME 
 (moduleid  MKT2413)
@@ -14831,6 +16949,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption M1)
 )
 ([timeMKT3402A0] of MODULETIME 
 (moduleid  MKT3402A)
@@ -14838,6 +16957,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption A1)
 )
 ([timeMKT3402A1] of MODULETIME 
 (moduleid  MKT3402A)
@@ -14845,6 +16965,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption A2)
 )
 ([timeMKT3402A2] of MODULETIME 
 (moduleid  MKT3402A)
@@ -14852,6 +16973,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption A3)
 )
 ([timeMKT3402B0] of MODULETIME 
 (moduleid  MKT3402B)
@@ -14859,6 +16981,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption B4)
 )
 ([timeMKT34120] of MODULETIME 
 (moduleid  MKT3412)
@@ -14866,6 +16989,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption E1)
 )
 ([timeMKT34121] of MODULETIME 
 (moduleid  MKT3412)
@@ -14873,6 +16997,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption E2)
 )
 ([timeMKT34130] of MODULETIME 
 (moduleid  MKT3413)
@@ -14880,6 +17005,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G1)
 )
 ([timeMKT34150] of MODULETIME 
 (moduleid  MKT3415)
@@ -14887,6 +17013,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption P01)
 )
 ([timeMKT3418A0] of MODULETIME 
 (moduleid  MKT3418A)
@@ -14894,6 +17021,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption A1)
 )
 ([timeMKT3418A1] of MODULETIME 
 (moduleid  MKT3418A)
@@ -14901,6 +17029,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption A2)
 )
 ([timeMKT3418A2] of MODULETIME 
 (moduleid  MKT3418A)
@@ -14908,6 +17037,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption A3)
 )
 ([timeMKT3418B0] of MODULETIME 
 (moduleid  MKT3418B)
@@ -14915,6 +17045,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption B4)
 )
 ([timeMKT34240] of MODULETIME 
 (moduleid  MKT3424)
@@ -14922,6 +17053,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption X1)
 )
 ([timeMKT35130] of MODULETIME 
 (moduleid  MKT3513)
@@ -14929,6 +17061,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption K1)
 )
 ([timeMKT44110] of MODULETIME 
 (moduleid  MKT4411)
@@ -14936,6 +17069,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption N1)
 )
 ([timeMKT44111] of MODULETIME 
 (moduleid  MKT4411)
@@ -14943,6 +17077,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption N2)
 )
 ([timeMKT44130] of MODULETIME 
 (moduleid  MKT4413)
@@ -14950,6 +17085,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption Q1)
 )
 ([timeMKT44131] of MODULETIME 
 (moduleid  MKT4413)
@@ -14957,6 +17093,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption Q2)
 )
 ([timeMLE11010] of MODULETIME 
 (moduleid  MLE1101)
@@ -14964,6 +17101,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMLE11011] of MODULETIME 
 (moduleid  MLE1101)
@@ -14971,6 +17109,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMLE11012] of MODULETIME 
 (moduleid  MLE1101)
@@ -14978,6 +17117,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMLE11013] of MODULETIME 
 (moduleid  MLE1101)
@@ -14985,6 +17125,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMLE21030] of MODULETIME 
 (moduleid  MLE2103)
@@ -14992,6 +17133,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMLE21040] of MODULETIME 
 (moduleid  MLE2104)
@@ -14999,6 +17141,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMLE21050] of MODULETIME 
 (moduleid  MLE2105)
@@ -15006,6 +17149,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMLE31010] of MODULETIME 
 (moduleid  MLE3101)
@@ -15013,6 +17157,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMLE42020] of MODULETIME 
 (moduleid  MLE4202)
@@ -15020,6 +17165,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMLE42030] of MODULETIME 
 (moduleid  MLE4203)
@@ -15027,6 +17173,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMLE42060] of MODULETIME 
 (moduleid  MLE4206)
@@ -15034,6 +17181,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMLE42070] of MODULETIME 
 (moduleid  MLE4207)
@@ -15041,6 +17189,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMLE42080] of MODULETIME 
 (moduleid  MLE4208)
@@ -15048,6 +17197,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMNO10010] of MODULETIME 
 (moduleid  MNO1001)
@@ -15055,6 +17205,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A1)
 )
 ([timeMNO10011] of MODULETIME 
 (moduleid  MNO1001)
@@ -15062,6 +17213,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption A2)
 )
 ([timeMNO10012] of MODULETIME 
 (moduleid  MNO1001)
@@ -15069,6 +17221,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A3)
 )
 ([timeMNO10013] of MODULETIME 
 (moduleid  MNO1001)
@@ -15076,6 +17229,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption A4)
 )
 ([timeMNO10014] of MODULETIME 
 (moduleid  MNO1001)
@@ -15083,6 +17237,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A5)
 )
 ([timeMNO10015] of MODULETIME 
 (moduleid  MNO1001)
@@ -15090,6 +17245,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption A6)
 )
 ([timeMNO10016] of MODULETIME 
 (moduleid  MNO1001)
@@ -15097,6 +17253,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A7)
 )
 ([timeMNO10017] of MODULETIME 
 (moduleid  MNO1001)
@@ -15104,6 +17261,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption A8)
 )
 ([timeMNO1001X0] of MODULETIME 
 (moduleid  MNO1001X)
@@ -15111,6 +17269,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption Z1)
 )
 ([timeMNO20070] of MODULETIME 
 (moduleid  MNO2007)
@@ -15118,6 +17277,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G01)
 )
 ([timeMNO20071] of MODULETIME 
 (moduleid  MNO2007)
@@ -15125,6 +17285,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption G02)
 )
 ([timeMNO20072] of MODULETIME 
 (moduleid  MNO2007)
@@ -15132,6 +17293,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G03)
 )
 ([timeMNO20073] of MODULETIME 
 (moduleid  MNO2007)
@@ -15139,6 +17301,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption G04)
 )
 ([timeMNO20074] of MODULETIME 
 (moduleid  MNO2007)
@@ -15146,6 +17309,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G05)
 )
 ([timeMNO20075] of MODULETIME 
 (moduleid  MNO2007)
@@ -15153,6 +17317,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption G06)
 )
 ([timeMNO20076] of MODULETIME 
 (moduleid  MNO2007)
@@ -15160,6 +17325,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption G07)
 )
 ([timeMNO20077] of MODULETIME 
 (moduleid  MNO2007)
@@ -15167,6 +17333,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G08)
 )
 ([timeMNO20090] of MODULETIME 
 (moduleid  MNO2009)
@@ -15174,6 +17341,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption H1)
 )
 ([timeMNO23020] of MODULETIME 
 (moduleid  MNO2302)
@@ -15181,6 +17349,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption M1)
 )
 ([timeMNO23021] of MODULETIME 
 (moduleid  MNO2302)
@@ -15188,6 +17357,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption M2)
 )
 ([timeMNO33010] of MODULETIME 
 (moduleid  MNO3301)
@@ -15195,6 +17365,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption C1)
 )
 ([timeMNO33011] of MODULETIME 
 (moduleid  MNO3301)
@@ -15202,6 +17373,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption C2)
 )
 ([timeMNO33030] of MODULETIME 
 (moduleid  MNO3303)
@@ -15209,6 +17381,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption D1)
 )
 ([timeMNO33031] of MODULETIME 
 (moduleid  MNO3303)
@@ -15216,6 +17389,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption D2)
 )
 ([timeMNO3313J0] of MODULETIME 
 (moduleid  MNO3313J)
@@ -15223,6 +17397,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption M1)
 )
 ([timeMNO33220] of MODULETIME 
 (moduleid  MNO3322)
@@ -15230,6 +17405,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption M1)
 )
 ([timeMNO33230] of MODULETIME 
 (moduleid  MNO3323)
@@ -15237,6 +17413,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption P1)
 )
 ([timeMNO33300] of MODULETIME 
 (moduleid  MNO3330)
@@ -15244,6 +17421,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption E1)
 )
 ([timeMNO4313C0] of MODULETIME 
 (moduleid  MNO4313C)
@@ -15251,6 +17429,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption C1)
 )
 ([timeMNO43150] of MODULETIME 
 (moduleid  MNO4315)
@@ -15258,6 +17437,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption N1)
 )
 ([timeMNO43190] of MODULETIME 
 (moduleid  MNO4319)
@@ -15265,6 +17445,7 @@
 (starttime 600)
 (endtime 600)
 (semester 2)
+(moduleoption A2)
 )
 ([timeMNO43191] of MODULETIME 
 (moduleid  MNO4319)
@@ -15272,6 +17453,7 @@
 (starttime 730)
 (endtime 730)
 (semester 2)
+(moduleoption A3)
 )
 ([timeMNO43192] of MODULETIME 
 (moduleid  MNO4319)
@@ -15279,6 +17461,7 @@
 (starttime 630)
 (endtime 630)
 (semester 2)
+(moduleoption A4)
 )
 ([timeMNO43193] of MODULETIME 
 (moduleid  MNO4319)
@@ -15286,6 +17469,7 @@
 (starttime 700)
 (endtime 700)
 (semester 2)
+(moduleoption A5)
 )
 ([timeMNO43194] of MODULETIME 
 (moduleid  MNO4319)
@@ -15293,6 +17477,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption A6)
 )
 ([timeMS1102E0] of MODULETIME 
 (moduleid  MS1102E)
@@ -15300,6 +17485,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMS22110] of MODULETIME 
 (moduleid  MS2211)
@@ -15307,6 +17493,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMS22130] of MODULETIME 
 (moduleid  MS2213)
@@ -15314,6 +17501,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMS32090] of MODULETIME 
 (moduleid  MS3209)
@@ -15321,6 +17509,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMS32120] of MODULETIME 
 (moduleid  MS3212)
@@ -15328,6 +17517,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMS32150] of MODULETIME 
 (moduleid  MS3215)
@@ -15335,6 +17525,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMS32160] of MODULETIME 
 (moduleid  MS3216)
@@ -15342,6 +17533,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMS32180] of MODULETIME 
 (moduleid  MS3218)
@@ -15349,6 +17541,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMS42010] of MODULETIME 
 (moduleid  MS4201)
@@ -15356,6 +17549,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMS4880A0] of MODULETIME 
 (moduleid  MS4880A)
@@ -15363,6 +17557,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMS52010] of MODULETIME 
 (moduleid  MS5201)
@@ -15370,6 +17565,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT40030] of MODULETIME 
 (moduleid  MT4003)
@@ -15377,6 +17573,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT50020] of MODULETIME 
 (moduleid  MT5002)
@@ -15384,6 +17581,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT50040] of MODULETIME 
 (moduleid  MT5004)
@@ -15391,6 +17589,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT50070] of MODULETIME 
 (moduleid  MT5007)
@@ -15398,6 +17597,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT50090] of MODULETIME 
 (moduleid  MT5009)
@@ -15405,6 +17605,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT50100] of MODULETIME 
 (moduleid  MT5010)
@@ -15412,6 +17613,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT50101] of MODULETIME 
 (moduleid  MT5010)
@@ -15419,6 +17621,7 @@
 (starttime 1330)
 (endtime 1330)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT50110] of MODULETIME 
 (moduleid  MT5011)
@@ -15426,6 +17629,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT50120] of MODULETIME 
 (moduleid  MT5012)
@@ -15433,6 +17637,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT50160] of MODULETIME 
 (moduleid  MT5016)
@@ -15440,6 +17645,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT5880B0] of MODULETIME 
 (moduleid  MT5880B)
@@ -15447,6 +17653,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT59010] of MODULETIME 
 (moduleid  MT5901)
@@ -15454,6 +17661,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT59011] of MODULETIME 
 (moduleid  MT5901)
@@ -15461,6 +17669,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT59110] of MODULETIME 
 (moduleid  MT5911)
@@ -15468,6 +17677,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT59120] of MODULETIME 
 (moduleid  MT5912)
@@ -15475,6 +17685,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMT59130] of MODULETIME 
 (moduleid  MT5913)
@@ -15482,6 +17693,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11080] of MODULETIME 
 (moduleid  MUA1108)
@@ -15489,6 +17701,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11081] of MODULETIME 
 (moduleid  MUA1108)
@@ -15496,6 +17709,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11082] of MODULETIME 
 (moduleid  MUA1108)
@@ -15503,6 +17717,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA11083] of MODULETIME 
 (moduleid  MUA1108)
@@ -15510,6 +17725,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA11090] of MODULETIME 
 (moduleid  MUA1109)
@@ -15517,6 +17733,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11091] of MODULETIME 
 (moduleid  MUA1109)
@@ -15524,6 +17741,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 23)
 )
 ([timeMUA11100] of MODULETIME 
 (moduleid  MUA1110)
@@ -15531,6 +17749,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11101] of MODULETIME 
 (moduleid  MUA1110)
@@ -15538,6 +17757,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 23)
 )
 ([timeMUA11102] of MODULETIME 
 (moduleid  MUA1110)
@@ -15545,6 +17765,7 @@
 (starttime 600)
 (endtime 600)
 (semester 2)
+(moduleoption 6)
 )
 ([timeMUA11103] of MODULETIME 
 (moduleid  MUA1110)
@@ -15552,6 +17773,7 @@
 (starttime 630)
 (endtime 630)
 (semester 2)
+(moduleoption 9)
 )
 ([timeMUA11120] of MODULETIME 
 (moduleid  MUA1112)
@@ -15559,6 +17781,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11140] of MODULETIME 
 (moduleid  MUA1114)
@@ -15566,6 +17789,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11141] of MODULETIME 
 (moduleid  MUA1114)
@@ -15573,6 +17797,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11160] of MODULETIME 
 (moduleid  MUA1116)
@@ -15580,6 +17805,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11540] of MODULETIME 
 (moduleid  MUA1154)
@@ -15587,6 +17813,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11610] of MODULETIME 
 (moduleid  MUA1161)
@@ -15594,6 +17821,7 @@
 (starttime 700)
 (endtime 700)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11611] of MODULETIME 
 (moduleid  MUA1161)
@@ -15601,6 +17829,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 12)
 )
 ([timeMUA11620] of MODULETIME 
 (moduleid  MUA1162)
@@ -15608,6 +17837,7 @@
 (starttime 730)
 (endtime 730)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11621] of MODULETIME 
 (moduleid  MUA1162)
@@ -15615,6 +17845,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 10)
 )
 ([timeMUA11622] of MODULETIME 
 (moduleid  MUA1162)
@@ -15622,6 +17853,7 @@
 (starttime 830)
 (endtime 830)
 (semester 2)
+(moduleoption 11)
 )
 ([timeMUA11623] of MODULETIME 
 (moduleid  MUA1162)
@@ -15629,6 +17861,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 12)
 )
 ([timeMUA11624] of MODULETIME 
 (moduleid  MUA1162)
@@ -15636,6 +17869,7 @@
 (starttime 930)
 (endtime 930)
 (semester 2)
+(moduleoption 13)
 )
 ([timeMUA11625] of MODULETIME 
 (moduleid  MUA1162)
@@ -15643,6 +17877,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 14)
 )
 ([timeMUA11626] of MODULETIME 
 (moduleid  MUA1162)
@@ -15650,6 +17885,7 @@
 (starttime 1030)
 (endtime 1030)
 (semester 2)
+(moduleoption 15)
 )
 ([timeMUA11627] of MODULETIME 
 (moduleid  MUA1162)
@@ -15657,6 +17893,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 17)
 )
 ([timeMUA11628] of MODULETIME 
 (moduleid  MUA1162)
@@ -15664,6 +17901,7 @@
 (starttime 1130)
 (endtime 1130)
 (semester 2)
+(moduleoption 18)
 )
 ([timeMUA11629] of MODULETIME 
 (moduleid  MUA1162)
@@ -15671,6 +17909,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 19)
 )
 ([timeMUA116210] of MODULETIME 
 (moduleid  MUA1162)
@@ -15678,6 +17917,7 @@
 (starttime 1230)
 (endtime 1230)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA116211] of MODULETIME 
 (moduleid  MUA1162)
@@ -15685,6 +17925,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 20)
 )
 ([timeMUA116212] of MODULETIME 
 (moduleid  MUA1162)
@@ -15692,6 +17933,7 @@
 (starttime 1330)
 (endtime 1330)
 (semester 2)
+(moduleoption 21)
 )
 ([timeMUA116213] of MODULETIME 
 (moduleid  MUA1162)
@@ -15699,6 +17941,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 22)
 )
 ([timeMUA116214] of MODULETIME 
 (moduleid  MUA1162)
@@ -15706,6 +17949,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 23)
 )
 ([timeMUA116215] of MODULETIME 
 (moduleid  MUA1162)
@@ -15713,6 +17957,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 26)
 )
 ([timeMUA116216] of MODULETIME 
 (moduleid  MUA1162)
@@ -15720,6 +17965,7 @@
 (starttime 1530)
 (endtime 1530)
 (semester 2)
+(moduleoption 27)
 )
 ([timeMUA116217] of MODULETIME 
 (moduleid  MUA1162)
@@ -15727,6 +17973,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 29)
 )
 ([timeMUA116218] of MODULETIME 
 (moduleid  MUA1162)
@@ -15734,6 +17981,7 @@
 (starttime 1630)
 (endtime 1630)
 (semester 2)
+(moduleoption 3)
 )
 ([timeMUA116219] of MODULETIME 
 (moduleid  MUA1162)
@@ -15741,6 +17989,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption 30)
 )
 ([timeMUA116220] of MODULETIME 
 (moduleid  MUA1162)
@@ -15748,6 +17997,7 @@
 (starttime 1730)
 (endtime 1730)
 (semester 2)
+(moduleoption 4)
 )
 ([timeMUA116221] of MODULETIME 
 (moduleid  MUA1162)
@@ -15755,6 +18005,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 47)
 )
 ([timeMUA116222] of MODULETIME 
 (moduleid  MUA1162)
@@ -15762,6 +18013,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 48)
 )
 ([timeMUA116223] of MODULETIME 
 (moduleid  MUA1162)
@@ -15769,6 +18021,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 57)
 )
 ([timeMUA116224] of MODULETIME 
 (moduleid  MUA1162)
@@ -15776,6 +18029,7 @@
 (starttime 1930)
 (endtime 1930)
 (semester 2)
+(moduleoption 6)
 )
 ([timeMUA116225] of MODULETIME 
 (moduleid  MUA1162)
@@ -15783,6 +18037,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 66)
 )
 ([timeMUA116226] of MODULETIME 
 (moduleid  MUA1162)
@@ -15790,6 +18045,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 67)
 )
 ([timeMUA116227] of MODULETIME 
 (moduleid  MUA1162)
@@ -15797,6 +18053,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 7)
 )
 ([timeMUA116228] of MODULETIME 
 (moduleid  MUA1162)
@@ -15804,6 +18061,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 74)
 )
 ([timeMUA116229] of MODULETIME 
 (moduleid  MUA1162)
@@ -15811,6 +18069,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 9)
 )
 ([timeMUA11630] of MODULETIME 
 (moduleid  MUA1163)
@@ -15818,6 +18077,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11631] of MODULETIME 
 (moduleid  MUA1163)
@@ -15825,6 +18085,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA11632] of MODULETIME 
 (moduleid  MUA1163)
@@ -15832,6 +18093,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeMUA11710] of MODULETIME 
 (moduleid  MUA1171)
@@ -15839,6 +18101,7 @@
 (starttime 1330)
 (endtime 1330)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11810] of MODULETIME 
 (moduleid  MUA1181)
@@ -15846,6 +18109,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11930] of MODULETIME 
 (moduleid  MUA1193)
@@ -15853,6 +18117,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA11931] of MODULETIME 
 (moduleid  MUA1193)
@@ -15860,6 +18125,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21060] of MODULETIME 
 (moduleid  MUA2106)
@@ -15867,6 +18133,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21061] of MODULETIME 
 (moduleid  MUA2106)
@@ -15874,6 +18141,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21070] of MODULETIME 
 (moduleid  MUA2107)
@@ -15881,6 +18149,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21071] of MODULETIME 
 (moduleid  MUA2107)
@@ -15888,6 +18157,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21072] of MODULETIME 
 (moduleid  MUA2107)
@@ -15895,6 +18165,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA21073] of MODULETIME 
 (moduleid  MUA2107)
@@ -15902,6 +18173,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA21080] of MODULETIME 
 (moduleid  MUA2108)
@@ -15909,6 +18181,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21081] of MODULETIME 
 (moduleid  MUA2108)
@@ -15916,6 +18189,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21082] of MODULETIME 
 (moduleid  MUA2108)
@@ -15923,6 +18197,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA21083] of MODULETIME 
 (moduleid  MUA2108)
@@ -15930,6 +18205,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA21090] of MODULETIME 
 (moduleid  MUA2109)
@@ -15937,6 +18213,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21091] of MODULETIME 
 (moduleid  MUA2109)
@@ -15944,6 +18221,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 10)
 )
 ([timeMUA21092] of MODULETIME 
 (moduleid  MUA2109)
@@ -15951,6 +18229,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 11)
 )
 ([timeMUA21093] of MODULETIME 
 (moduleid  MUA2109)
@@ -15958,6 +18237,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 12)
 )
 ([timeMUA21094] of MODULETIME 
 (moduleid  MUA2109)
@@ -15965,6 +18245,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 23)
 )
 ([timeMUA21100] of MODULETIME 
 (moduleid  MUA2110)
@@ -15972,6 +18253,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21101] of MODULETIME 
 (moduleid  MUA2110)
@@ -15979,6 +18261,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 23)
 )
 ([timeMUA21120] of MODULETIME 
 (moduleid  MUA2112)
@@ -15986,6 +18269,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21530] of MODULETIME 
 (moduleid  MUA2153)
@@ -15993,6 +18277,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21540] of MODULETIME 
 (moduleid  MUA2154)
@@ -16000,6 +18285,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21550] of MODULETIME 
 (moduleid  MUA2155)
@@ -16007,6 +18293,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21551] of MODULETIME 
 (moduleid  MUA2155)
@@ -16014,6 +18301,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 39)
 )
 ([timeMUA21552] of MODULETIME 
 (moduleid  MUA2155)
@@ -16021,6 +18309,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 56)
 )
 ([timeMUA21553] of MODULETIME 
 (moduleid  MUA2155)
@@ -16028,6 +18317,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 80)
 )
 ([timeMUA21560] of MODULETIME 
 (moduleid  MUA2156)
@@ -16035,6 +18325,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21561] of MODULETIME 
 (moduleid  MUA2156)
@@ -16042,6 +18333,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 56)
 )
 ([timeMUA21562] of MODULETIME 
 (moduleid  MUA2156)
@@ -16049,6 +18341,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 80)
 )
 ([timeMUA21610] of MODULETIME 
 (moduleid  MUA2161)
@@ -16056,6 +18349,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 21)
 )
 ([timeMUA21710] of MODULETIME 
 (moduleid  MUA2171)
@@ -16063,6 +18357,7 @@
 (starttime 1330)
 (endtime 1330)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21740] of MODULETIME 
 (moduleid  MUA2174)
@@ -16070,6 +18365,7 @@
 (starttime 1330)
 (endtime 1330)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21750] of MODULETIME 
 (moduleid  MUA2175)
@@ -16077,6 +18373,7 @@
 (starttime 830)
 (endtime 830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21760] of MODULETIME 
 (moduleid  MUA2176)
@@ -16084,6 +18381,7 @@
 (starttime 700)
 (endtime 700)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21810] of MODULETIME 
 (moduleid  MUA2181)
@@ -16091,6 +18389,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21930] of MODULETIME 
 (moduleid  MUA2193)
@@ -16098,6 +18397,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21931] of MODULETIME 
 (moduleid  MUA2193)
@@ -16105,6 +18405,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21960] of MODULETIME 
 (moduleid  MUA2196)
@@ -16112,6 +18413,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA21961] of MODULETIME 
 (moduleid  MUA2196)
@@ -16119,6 +18421,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA22550] of MODULETIME 
 (moduleid  MUA2255)
@@ -16126,6 +18429,7 @@
 (starttime 600)
 (endtime 600)
 (semester 2)
+(moduleoption 25)
 )
 ([timeMUA22551] of MODULETIME 
 (moduleid  MUA2255)
@@ -16133,6 +18437,7 @@
 (starttime 630)
 (endtime 630)
 (semester 2)
+(moduleoption 44)
 )
 ([timeMUA22552] of MODULETIME 
 (moduleid  MUA2255)
@@ -16140,6 +18445,7 @@
 (starttime 700)
 (endtime 700)
 (semester 2)
+(moduleoption 58)
 )
 ([timeMUA22560] of MODULETIME 
 (moduleid  MUA2256)
@@ -16147,6 +18453,7 @@
 (starttime 730)
 (endtime 730)
 (semester 2)
+(moduleoption 25)
 )
 ([timeMUA22561] of MODULETIME 
 (moduleid  MUA2256)
@@ -16154,6 +18461,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 44)
 )
 ([timeMUA22562] of MODULETIME 
 (moduleid  MUA2256)
@@ -16161,6 +18469,7 @@
 (starttime 830)
 (endtime 830)
 (semester 2)
+(moduleoption 58)
 )
 ([timeMUA31050] of MODULETIME 
 (moduleid  MUA3105)
@@ -16168,6 +18477,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31051] of MODULETIME 
 (moduleid  MUA3105)
@@ -16175,6 +18485,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA31052] of MODULETIME 
 (moduleid  MUA3105)
@@ -16182,6 +18493,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeMUA31070] of MODULETIME 
 (moduleid  MUA3107)
@@ -16189,6 +18501,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31071] of MODULETIME 
 (moduleid  MUA3107)
@@ -16196,6 +18509,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31072] of MODULETIME 
 (moduleid  MUA3107)
@@ -16203,6 +18517,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA31073] of MODULETIME 
 (moduleid  MUA3107)
@@ -16210,6 +18525,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA31080] of MODULETIME 
 (moduleid  MUA3108)
@@ -16217,6 +18533,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31081] of MODULETIME 
 (moduleid  MUA3108)
@@ -16224,6 +18541,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31082] of MODULETIME 
 (moduleid  MUA3108)
@@ -16231,6 +18549,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA31083] of MODULETIME 
 (moduleid  MUA3108)
@@ -16238,6 +18557,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA31090] of MODULETIME 
 (moduleid  MUA3109)
@@ -16245,6 +18565,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31091] of MODULETIME 
 (moduleid  MUA3109)
@@ -16252,6 +18573,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 10)
 )
 ([timeMUA31092] of MODULETIME 
 (moduleid  MUA3109)
@@ -16259,6 +18581,7 @@
 (starttime 1030)
 (endtime 1030)
 (semester 2)
+(moduleoption 11)
 )
 ([timeMUA31093] of MODULETIME 
 (moduleid  MUA3109)
@@ -16266,6 +18589,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 12)
 )
 ([timeMUA31094] of MODULETIME 
 (moduleid  MUA3109)
@@ -16273,6 +18597,7 @@
 (starttime 1130)
 (endtime 1130)
 (semester 2)
+(moduleoption 13)
 )
 ([timeMUA31095] of MODULETIME 
 (moduleid  MUA3109)
@@ -16280,6 +18605,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 14)
 )
 ([timeMUA31096] of MODULETIME 
 (moduleid  MUA3109)
@@ -16287,6 +18613,7 @@
 (starttime 1230)
 (endtime 1230)
 (semester 2)
+(moduleoption 15)
 )
 ([timeMUA31097] of MODULETIME 
 (moduleid  MUA3109)
@@ -16294,6 +18621,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 17)
 )
 ([timeMUA31098] of MODULETIME 
 (moduleid  MUA3109)
@@ -16301,6 +18629,7 @@
 (starttime 1330)
 (endtime 1330)
 (semester 2)
+(moduleoption 18)
 )
 ([timeMUA31099] of MODULETIME 
 (moduleid  MUA3109)
@@ -16308,6 +18637,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 19)
 )
 ([timeMUA310910] of MODULETIME 
 (moduleid  MUA3109)
@@ -16315,6 +18645,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 20)
 )
 ([timeMUA310911] of MODULETIME 
 (moduleid  MUA3109)
@@ -16322,6 +18653,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 21)
 )
 ([timeMUA310912] of MODULETIME 
 (moduleid  MUA3109)
@@ -16329,6 +18661,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 23)
 )
 ([timeMUA310913] of MODULETIME 
 (moduleid  MUA3109)
@@ -16336,6 +18669,7 @@
 (starttime 1530)
 (endtime 1530)
 (semester 2)
+(moduleoption 29)
 )
 ([timeMUA310914] of MODULETIME 
 (moduleid  MUA3109)
@@ -16343,6 +18677,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 30)
 )
 ([timeMUA310915] of MODULETIME 
 (moduleid  MUA3109)
@@ -16350,6 +18685,7 @@
 (starttime 1630)
 (endtime 1630)
 (semester 2)
+(moduleoption 31)
 )
 ([timeMUA310916] of MODULETIME 
 (moduleid  MUA3109)
@@ -16357,6 +18693,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption 47)
 )
 ([timeMUA310917] of MODULETIME 
 (moduleid  MUA3109)
@@ -16364,6 +18701,7 @@
 (starttime 1730)
 (endtime 1730)
 (semester 2)
+(moduleoption 48)
 )
 ([timeMUA310918] of MODULETIME 
 (moduleid  MUA3109)
@@ -16371,6 +18709,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 59)
 )
 ([timeMUA310919] of MODULETIME 
 (moduleid  MUA3109)
@@ -16378,6 +18717,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 6)
 )
 ([timeMUA310920] of MODULETIME 
 (moduleid  MUA3109)
@@ -16385,6 +18725,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 9)
 )
 ([timeMUA31100] of MODULETIME 
 (moduleid  MUA3110)
@@ -16392,6 +18733,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31101] of MODULETIME 
 (moduleid  MUA3110)
@@ -16399,6 +18741,7 @@
 (starttime 1930)
 (endtime 1930)
 (semester 2)
+(moduleoption 10)
 )
 ([timeMUA31102] of MODULETIME 
 (moduleid  MUA3110)
@@ -16406,6 +18749,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 11)
 )
 ([timeMUA31103] of MODULETIME 
 (moduleid  MUA3110)
@@ -16413,6 +18757,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 12)
 )
 ([timeMUA31104] of MODULETIME 
 (moduleid  MUA3110)
@@ -16420,6 +18765,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 13)
 )
 ([timeMUA31105] of MODULETIME 
 (moduleid  MUA3110)
@@ -16427,6 +18773,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 14)
 )
 ([timeMUA31106] of MODULETIME 
 (moduleid  MUA3110)
@@ -16434,6 +18781,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 15)
 )
 ([timeMUA31107] of MODULETIME 
 (moduleid  MUA3110)
@@ -16441,6 +18789,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 17)
 )
 ([timeMUA31108] of MODULETIME 
 (moduleid  MUA3110)
@@ -16448,6 +18797,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 18)
 )
 ([timeMUA31109] of MODULETIME 
 (moduleid  MUA3110)
@@ -16455,6 +18805,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 19)
 )
 ([timeMUA311010] of MODULETIME 
 (moduleid  MUA3110)
@@ -16462,6 +18813,7 @@
 (starttime 930)
 (endtime 930)
 (semester 2)
+(moduleoption 20)
 )
 ([timeMUA311011] of MODULETIME 
 (moduleid  MUA3110)
@@ -16469,6 +18821,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 21)
 )
 ([timeMUA311012] of MODULETIME 
 (moduleid  MUA3110)
@@ -16476,6 +18829,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 23)
 )
 ([timeMUA311013] of MODULETIME 
 (moduleid  MUA3110)
@@ -16483,6 +18837,7 @@
 (starttime 830)
 (endtime 830)
 (semester 2)
+(moduleoption 29)
 )
 ([timeMUA311014] of MODULETIME 
 (moduleid  MUA3110)
@@ -16490,6 +18845,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 30)
 )
 ([timeMUA311015] of MODULETIME 
 (moduleid  MUA3110)
@@ -16497,6 +18853,7 @@
 (starttime 730)
 (endtime 730)
 (semester 2)
+(moduleoption 31)
 )
 ([timeMUA311016] of MODULETIME 
 (moduleid  MUA3110)
@@ -16504,6 +18861,7 @@
 (starttime 700)
 (endtime 700)
 (semester 2)
+(moduleoption 47)
 )
 ([timeMUA311017] of MODULETIME 
 (moduleid  MUA3110)
@@ -16511,6 +18869,7 @@
 (starttime 630)
 (endtime 630)
 (semester 2)
+(moduleoption 48)
 )
 ([timeMUA311018] of MODULETIME 
 (moduleid  MUA3110)
@@ -16518,6 +18877,7 @@
 (starttime 600)
 (endtime 600)
 (semester 2)
+(moduleoption 59)
 )
 ([timeMUA311019] of MODULETIME 
 (moduleid  MUA3110)
@@ -16525,6 +18885,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 6)
 )
 ([timeMUA311020] of MODULETIME 
 (moduleid  MUA3110)
@@ -16532,6 +18893,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 9)
 )
 ([timeMUA31120] of MODULETIME 
 (moduleid  MUA3112)
@@ -16539,6 +18901,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31140] of MODULETIME 
 (moduleid  MUA3114)
@@ -16546,6 +18909,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31141] of MODULETIME 
 (moduleid  MUA3114)
@@ -16553,6 +18917,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31530] of MODULETIME 
 (moduleid  MUA3153)
@@ -16560,6 +18925,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31540] of MODULETIME 
 (moduleid  MUA3154)
@@ -16567,6 +18933,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31560] of MODULETIME 
 (moduleid  MUA3156)
@@ -16574,6 +18941,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31561] of MODULETIME 
 (moduleid  MUA3156)
@@ -16581,6 +18949,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 56)
 )
 ([timeMUA31620] of MODULETIME 
 (moduleid  MUA3162)
@@ -16588,6 +18957,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31621] of MODULETIME 
 (moduleid  MUA3162)
@@ -16595,6 +18965,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 10)
 )
 ([timeMUA31622] of MODULETIME 
 (moduleid  MUA3162)
@@ -16602,6 +18973,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 11)
 )
 ([timeMUA31623] of MODULETIME 
 (moduleid  MUA3162)
@@ -16609,6 +18981,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 12)
 )
 ([timeMUA31624] of MODULETIME 
 (moduleid  MUA3162)
@@ -16616,6 +18989,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 13)
 )
 ([timeMUA31625] of MODULETIME 
 (moduleid  MUA3162)
@@ -16623,6 +18997,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 14)
 )
 ([timeMUA31626] of MODULETIME 
 (moduleid  MUA3162)
@@ -16630,6 +19005,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 15)
 )
 ([timeMUA31627] of MODULETIME 
 (moduleid  MUA3162)
@@ -16637,6 +19013,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 17)
 )
 ([timeMUA31628] of MODULETIME 
 (moduleid  MUA3162)
@@ -16644,6 +19021,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 18)
 )
 ([timeMUA31629] of MODULETIME 
 (moduleid  MUA3162)
@@ -16651,6 +19029,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 19)
 )
 ([timeMUA316210] of MODULETIME 
 (moduleid  MUA3162)
@@ -16658,6 +19037,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA316211] of MODULETIME 
 (moduleid  MUA3162)
@@ -16665,6 +19045,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 20)
 )
 ([timeMUA316212] of MODULETIME 
 (moduleid  MUA3162)
@@ -16672,6 +19053,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 21)
 )
 ([timeMUA316213] of MODULETIME 
 (moduleid  MUA3162)
@@ -16679,6 +19061,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 22)
 )
 ([timeMUA316214] of MODULETIME 
 (moduleid  MUA3162)
@@ -16686,6 +19069,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 23)
 )
 ([timeMUA316215] of MODULETIME 
 (moduleid  MUA3162)
@@ -16693,6 +19077,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 26)
 )
 ([timeMUA316216] of MODULETIME 
 (moduleid  MUA3162)
@@ -16700,6 +19085,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 27)
 )
 ([timeMUA316217] of MODULETIME 
 (moduleid  MUA3162)
@@ -16707,6 +19093,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 29)
 )
 ([timeMUA316218] of MODULETIME 
 (moduleid  MUA3162)
@@ -16714,6 +19101,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 3)
 )
 ([timeMUA316219] of MODULETIME 
 (moduleid  MUA3162)
@@ -16721,6 +19109,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 30)
 )
 ([timeMUA316220] of MODULETIME 
 (moduleid  MUA3162)
@@ -16728,6 +19117,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 4)
 )
 ([timeMUA316221] of MODULETIME 
 (moduleid  MUA3162)
@@ -16735,6 +19125,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 47)
 )
 ([timeMUA316222] of MODULETIME 
 (moduleid  MUA3162)
@@ -16742,6 +19133,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 48)
 )
 ([timeMUA316223] of MODULETIME 
 (moduleid  MUA3162)
@@ -16749,6 +19141,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 57)
 )
 ([timeMUA316224] of MODULETIME 
 (moduleid  MUA3162)
@@ -16756,6 +19149,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 6)
 )
 ([timeMUA316225] of MODULETIME 
 (moduleid  MUA3162)
@@ -16763,6 +19157,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 66)
 )
 ([timeMUA316226] of MODULETIME 
 (moduleid  MUA3162)
@@ -16770,6 +19165,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 67)
 )
 ([timeMUA316227] of MODULETIME 
 (moduleid  MUA3162)
@@ -16777,6 +19173,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 7)
 )
 ([timeMUA316228] of MODULETIME 
 (moduleid  MUA3162)
@@ -16784,6 +19181,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 74)
 )
 ([timeMUA316229] of MODULETIME 
 (moduleid  MUA3162)
@@ -16791,6 +19189,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 9)
 )
 ([timeMUA31730] of MODULETIME 
 (moduleid  MUA3173)
@@ -16798,6 +19197,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31750] of MODULETIME 
 (moduleid  MUA3175)
@@ -16805,6 +19205,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31760] of MODULETIME 
 (moduleid  MUA3176)
@@ -16812,6 +19213,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31870] of MODULETIME 
 (moduleid  MUA3187)
@@ -16819,6 +19221,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 47)
 )
 ([timeMUA31910] of MODULETIME 
 (moduleid  MUA3191)
@@ -16826,6 +19229,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31950] of MODULETIME 
 (moduleid  MUA3195)
@@ -16833,6 +19237,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA31951] of MODULETIME 
 (moduleid  MUA3195)
@@ -16840,6 +19245,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32060] of MODULETIME 
 (moduleid  MUA3206)
@@ -16847,6 +19253,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32061] of MODULETIME 
 (moduleid  MUA3206)
@@ -16854,6 +19261,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA32090] of MODULETIME 
 (moduleid  MUA3209)
@@ -16861,6 +19269,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32100] of MODULETIME 
 (moduleid  MUA3210)
@@ -16868,6 +19277,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32101] of MODULETIME 
 (moduleid  MUA3210)
@@ -16875,6 +19285,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32110] of MODULETIME 
 (moduleid  MUA3211)
@@ -16882,6 +19293,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32111] of MODULETIME 
 (moduleid  MUA3211)
@@ -16889,6 +19301,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32120] of MODULETIME 
 (moduleid  MUA3212)
@@ -16896,6 +19309,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32140] of MODULETIME 
 (moduleid  MUA3214)
@@ -16903,6 +19317,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32141] of MODULETIME 
 (moduleid  MUA3214)
@@ -16910,6 +19325,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32142] of MODULETIME 
 (moduleid  MUA3214)
@@ -16917,6 +19333,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA32143] of MODULETIME 
 (moduleid  MUA3214)
@@ -16924,6 +19341,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA32190] of MODULETIME 
 (moduleid  MUA3219)
@@ -16931,6 +19349,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32191] of MODULETIME 
 (moduleid  MUA3219)
@@ -16938,6 +19357,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32200] of MODULETIME 
 (moduleid  MUA3220)
@@ -16945,6 +19365,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32201] of MODULETIME 
 (moduleid  MUA3220)
@@ -16952,6 +19373,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32550] of MODULETIME 
 (moduleid  MUA3255)
@@ -16959,6 +19381,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 25)
 )
 ([timeMUA32551] of MODULETIME 
 (moduleid  MUA3255)
@@ -16966,6 +19389,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 44)
 )
 ([timeMUA32552] of MODULETIME 
 (moduleid  MUA3255)
@@ -16973,6 +19397,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 58)
 )
 ([timeMUA32560] of MODULETIME 
 (moduleid  MUA3256)
@@ -16980,6 +19405,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 25)
 )
 ([timeMUA32561] of MODULETIME 
 (moduleid  MUA3256)
@@ -16987,6 +19413,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 44)
 )
 ([timeMUA32562] of MODULETIME 
 (moduleid  MUA3256)
@@ -16994,6 +19421,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 58)
 )
 ([timeMUA32750] of MODULETIME 
 (moduleid  MUA3275)
@@ -17001,6 +19429,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA32751] of MODULETIME 
 (moduleid  MUA3275)
@@ -17008,6 +19437,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA41070] of MODULETIME 
 (moduleid  MUA4107)
@@ -17015,6 +19445,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA41071] of MODULETIME 
 (moduleid  MUA4107)
@@ -17022,6 +19453,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA41072] of MODULETIME 
 (moduleid  MUA4107)
@@ -17029,6 +19461,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA41073] of MODULETIME 
 (moduleid  MUA4107)
@@ -17036,6 +19469,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA41080] of MODULETIME 
 (moduleid  MUA4108)
@@ -17043,6 +19477,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA41081] of MODULETIME 
 (moduleid  MUA4108)
@@ -17050,6 +19485,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA41082] of MODULETIME 
 (moduleid  MUA4108)
@@ -17057,6 +19493,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA41083] of MODULETIME 
 (moduleid  MUA4108)
@@ -17064,6 +19501,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUA41530] of MODULETIME 
 (moduleid  MUA4153)
@@ -17071,6 +19509,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA41540] of MODULETIME 
 (moduleid  MUA4154)
@@ -17078,6 +19517,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA41610] of MODULETIME 
 (moduleid  MUA4161)
@@ -17085,6 +19525,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 26)
 )
 ([timeMUA41740] of MODULETIME 
 (moduleid  MUA4174)
@@ -17092,6 +19533,7 @@
 (starttime 1530)
 (endtime 1530)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA41750] of MODULETIME 
 (moduleid  MUA4175)
@@ -17099,6 +19541,7 @@
 (starttime 930)
 (endtime 930)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA41760] of MODULETIME 
 (moduleid  MUA4176)
@@ -17106,6 +19549,7 @@
 (starttime 1530)
 (endtime 1530)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA41910] of MODULETIME 
 (moduleid  MUA4191)
@@ -17113,6 +19557,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA42050] of MODULETIME 
 (moduleid  MUA4205)
@@ -17120,6 +19565,7 @@
 (starttime 1330)
 (endtime 1330)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA42190] of MODULETIME 
 (moduleid  MUA4219)
@@ -17127,6 +19573,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA42191] of MODULETIME 
 (moduleid  MUA4219)
@@ -17134,6 +19581,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 10)
 )
 ([timeMUA42192] of MODULETIME 
 (moduleid  MUA4219)
@@ -17141,6 +19589,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 11)
 )
 ([timeMUA42193] of MODULETIME 
 (moduleid  MUA4219)
@@ -17148,6 +19597,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 12)
 )
 ([timeMUA42194] of MODULETIME 
 (moduleid  MUA4219)
@@ -17155,6 +19605,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 13)
 )
 ([timeMUA42195] of MODULETIME 
 (moduleid  MUA4219)
@@ -17162,6 +19613,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 14)
 )
 ([timeMUA42196] of MODULETIME 
 (moduleid  MUA4219)
@@ -17169,6 +19621,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 15)
 )
 ([timeMUA42197] of MODULETIME 
 (moduleid  MUA4219)
@@ -17176,6 +19629,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 17)
 )
 ([timeMUA42198] of MODULETIME 
 (moduleid  MUA4219)
@@ -17183,6 +19637,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 18)
 )
 ([timeMUA42199] of MODULETIME 
 (moduleid  MUA4219)
@@ -17190,6 +19645,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 19)
 )
 ([timeMUA421910] of MODULETIME 
 (moduleid  MUA4219)
@@ -17197,6 +19653,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 20)
 )
 ([timeMUA421911] of MODULETIME 
 (moduleid  MUA4219)
@@ -17204,6 +19661,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 21)
 )
 ([timeMUA421912] of MODULETIME 
 (moduleid  MUA4219)
@@ -17211,6 +19669,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 23)
 )
 ([timeMUA421913] of MODULETIME 
 (moduleid  MUA4219)
@@ -17218,6 +19677,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 29)
 )
 ([timeMUA421914] of MODULETIME 
 (moduleid  MUA4219)
@@ -17225,6 +19685,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 30)
 )
 ([timeMUA421915] of MODULETIME 
 (moduleid  MUA4219)
@@ -17232,6 +19693,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 31)
 )
 ([timeMUA421916] of MODULETIME 
 (moduleid  MUA4219)
@@ -17239,6 +19701,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 39)
 )
 ([timeMUA421917] of MODULETIME 
 (moduleid  MUA4219)
@@ -17246,6 +19709,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 47)
 )
 ([timeMUA421918] of MODULETIME 
 (moduleid  MUA4219)
@@ -17253,6 +19717,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 48)
 )
 ([timeMUA421919] of MODULETIME 
 (moduleid  MUA4219)
@@ -17260,6 +19725,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 59)
 )
 ([timeMUA421920] of MODULETIME 
 (moduleid  MUA4219)
@@ -17267,6 +19733,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 6)
 )
 ([timeMUA421921] of MODULETIME 
 (moduleid  MUA4219)
@@ -17274,6 +19741,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 9)
 )
 ([timeMUA42200] of MODULETIME 
 (moduleid  MUA4220)
@@ -17281,6 +19749,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA42201] of MODULETIME 
 (moduleid  MUA4220)
@@ -17288,6 +19757,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 10)
 )
 ([timeMUA42202] of MODULETIME 
 (moduleid  MUA4220)
@@ -17295,6 +19765,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 11)
 )
 ([timeMUA42203] of MODULETIME 
 (moduleid  MUA4220)
@@ -17302,6 +19773,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 12)
 )
 ([timeMUA42204] of MODULETIME 
 (moduleid  MUA4220)
@@ -17309,6 +19781,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 13)
 )
 ([timeMUA42205] of MODULETIME 
 (moduleid  MUA4220)
@@ -17316,6 +19789,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 14)
 )
 ([timeMUA42206] of MODULETIME 
 (moduleid  MUA4220)
@@ -17323,6 +19797,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 15)
 )
 ([timeMUA42207] of MODULETIME 
 (moduleid  MUA4220)
@@ -17330,6 +19805,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 17)
 )
 ([timeMUA42208] of MODULETIME 
 (moduleid  MUA4220)
@@ -17337,6 +19813,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 18)
 )
 ([timeMUA42209] of MODULETIME 
 (moduleid  MUA4220)
@@ -17344,6 +19821,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 19)
 )
 ([timeMUA422010] of MODULETIME 
 (moduleid  MUA4220)
@@ -17351,6 +19829,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 20)
 )
 ([timeMUA422011] of MODULETIME 
 (moduleid  MUA4220)
@@ -17358,6 +19837,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 21)
 )
 ([timeMUA422012] of MODULETIME 
 (moduleid  MUA4220)
@@ -17365,6 +19845,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 23)
 )
 ([timeMUA422013] of MODULETIME 
 (moduleid  MUA4220)
@@ -17372,6 +19853,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 29)
 )
 ([timeMUA422014] of MODULETIME 
 (moduleid  MUA4220)
@@ -17379,6 +19861,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 30)
 )
 ([timeMUA422015] of MODULETIME 
 (moduleid  MUA4220)
@@ -17386,6 +19869,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 31)
 )
 ([timeMUA422016] of MODULETIME 
 (moduleid  MUA4220)
@@ -17393,6 +19877,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 39)
 )
 ([timeMUA422017] of MODULETIME 
 (moduleid  MUA4220)
@@ -17400,6 +19885,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 47)
 )
 ([timeMUA422018] of MODULETIME 
 (moduleid  MUA4220)
@@ -17407,6 +19893,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 48)
 )
 ([timeMUA422019] of MODULETIME 
 (moduleid  MUA4220)
@@ -17414,6 +19901,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 59)
 )
 ([timeMUA422020] of MODULETIME 
 (moduleid  MUA4220)
@@ -17421,6 +19909,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 6)
 )
 ([timeMUA422021] of MODULETIME 
 (moduleid  MUA4220)
@@ -17428,6 +19917,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 72)
 )
 ([timeMUA422022] of MODULETIME 
 (moduleid  MUA4220)
@@ -17435,6 +19925,7 @@
 (starttime 700)
 (endtime 700)
 (semester 2)
+(moduleoption 9)
 )
 ([timeMUA42280] of MODULETIME 
 (moduleid  MUA4228)
@@ -17442,6 +19933,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA42281] of MODULETIME 
 (moduleid  MUA4228)
@@ -17449,6 +19941,7 @@
 (starttime 730)
 (endtime 730)
 (semester 2)
+(moduleoption 10)
 )
 ([timeMUA42282] of MODULETIME 
 (moduleid  MUA4228)
@@ -17456,6 +19949,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 11)
 )
 ([timeMUA42283] of MODULETIME 
 (moduleid  MUA4228)
@@ -17463,6 +19957,7 @@
 (starttime 830)
 (endtime 830)
 (semester 2)
+(moduleoption 12)
 )
 ([timeMUA42284] of MODULETIME 
 (moduleid  MUA4228)
@@ -17470,6 +19965,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 13)
 )
 ([timeMUA42285] of MODULETIME 
 (moduleid  MUA4228)
@@ -17477,6 +19973,7 @@
 (starttime 930)
 (endtime 930)
 (semester 2)
+(moduleoption 14)
 )
 ([timeMUA42286] of MODULETIME 
 (moduleid  MUA4228)
@@ -17484,6 +19981,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 15)
 )
 ([timeMUA42287] of MODULETIME 
 (moduleid  MUA4228)
@@ -17491,6 +19989,7 @@
 (starttime 1030)
 (endtime 1030)
 (semester 2)
+(moduleoption 17)
 )
 ([timeMUA42288] of MODULETIME 
 (moduleid  MUA4228)
@@ -17498,6 +19997,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 18)
 )
 ([timeMUA42289] of MODULETIME 
 (moduleid  MUA4228)
@@ -17505,6 +20005,7 @@
 (starttime 1130)
 (endtime 1130)
 (semester 2)
+(moduleoption 19)
 )
 ([timeMUA422810] of MODULETIME 
 (moduleid  MUA4228)
@@ -17512,6 +20013,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 20)
 )
 ([timeMUA422811] of MODULETIME 
 (moduleid  MUA4228)
@@ -17519,6 +20021,7 @@
 (starttime 1230)
 (endtime 1230)
 (semester 2)
+(moduleoption 21)
 )
 ([timeMUA422812] of MODULETIME 
 (moduleid  MUA4228)
@@ -17526,6 +20029,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 23)
 )
 ([timeMUA422813] of MODULETIME 
 (moduleid  MUA4228)
@@ -17533,6 +20037,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 29)
 )
 ([timeMUA422814] of MODULETIME 
 (moduleid  MUA4228)
@@ -17540,6 +20045,7 @@
 (starttime 1330)
 (endtime 1330)
 (semester 2)
+(moduleoption 30)
 )
 ([timeMUA422815] of MODULETIME 
 (moduleid  MUA4228)
@@ -17547,6 +20053,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 31)
 )
 ([timeMUA422816] of MODULETIME 
 (moduleid  MUA4228)
@@ -17554,6 +20061,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 47)
 )
 ([timeMUA422817] of MODULETIME 
 (moduleid  MUA4228)
@@ -17561,6 +20069,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 48)
 )
 ([timeMUA422818] of MODULETIME 
 (moduleid  MUA4228)
@@ -17568,6 +20077,7 @@
 (starttime 1530)
 (endtime 1530)
 (semester 2)
+(moduleoption 59)
 )
 ([timeMUA422819] of MODULETIME 
 (moduleid  MUA4228)
@@ -17575,6 +20085,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 6)
 )
 ([timeMUA422820] of MODULETIME 
 (moduleid  MUA4228)
@@ -17582,6 +20093,7 @@
 (starttime 1630)
 (endtime 1630)
 (semester 2)
+(moduleoption 9)
 )
 ([timeMUA42290] of MODULETIME 
 (moduleid  MUA4229)
@@ -17589,6 +20101,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA42291] of MODULETIME 
 (moduleid  MUA4229)
@@ -17596,6 +20109,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption 10)
 )
 ([timeMUA42292] of MODULETIME 
 (moduleid  MUA4229)
@@ -17603,6 +20117,7 @@
 (starttime 1730)
 (endtime 1730)
 (semester 2)
+(moduleoption 11)
 )
 ([timeMUA42293] of MODULETIME 
 (moduleid  MUA4229)
@@ -17610,6 +20125,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 12)
 )
 ([timeMUA42294] of MODULETIME 
 (moduleid  MUA4229)
@@ -17617,6 +20133,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 13)
 )
 ([timeMUA42295] of MODULETIME 
 (moduleid  MUA4229)
@@ -17624,6 +20141,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 14)
 )
 ([timeMUA42296] of MODULETIME 
 (moduleid  MUA4229)
@@ -17631,6 +20149,7 @@
 (starttime 1930)
 (endtime 1930)
 (semester 2)
+(moduleoption 15)
 )
 ([timeMUA42297] of MODULETIME 
 (moduleid  MUA4229)
@@ -17638,6 +20157,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 17)
 )
 ([timeMUA42298] of MODULETIME 
 (moduleid  MUA4229)
@@ -17645,6 +20165,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 18)
 )
 ([timeMUA42299] of MODULETIME 
 (moduleid  MUA4229)
@@ -17652,6 +20173,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 19)
 )
 ([timeMUA422910] of MODULETIME 
 (moduleid  MUA4229)
@@ -17659,6 +20181,7 @@
 (starttime 2130)
 (endtime 2130)
 (semester 2)
+(moduleoption 20)
 )
 ([timeMUA422911] of MODULETIME 
 (moduleid  MUA4229)
@@ -17666,6 +20189,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 21)
 )
 ([timeMUA422912] of MODULETIME 
 (moduleid  MUA4229)
@@ -17673,6 +20197,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 23)
 )
 ([timeMUA422913] of MODULETIME 
 (moduleid  MUA4229)
@@ -17680,6 +20205,7 @@
 (starttime 2230)
 (endtime 2230)
 (semester 2)
+(moduleoption 29)
 )
 ([timeMUA422914] of MODULETIME 
 (moduleid  MUA4229)
@@ -17687,6 +20213,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 30)
 )
 ([timeMUA422915] of MODULETIME 
 (moduleid  MUA4229)
@@ -17694,6 +20221,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 31)
 )
 ([timeMUA42310] of MODULETIME 
 (moduleid  MUA4231)
@@ -17701,6 +20229,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 4)
 )
 ([timeMUA42320] of MODULETIME 
 (moduleid  MUA4232)
@@ -17708,6 +20237,7 @@
 (starttime 930)
 (endtime 930)
 (semester 2)
+(moduleoption 4)
 )
 ([timeMUA51080] of MODULETIME 
 (moduleid  MUA5108)
@@ -17715,6 +20245,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA51081] of MODULETIME 
 (moduleid  MUA5108)
@@ -17722,6 +20253,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA51120] of MODULETIME 
 (moduleid  MUA5112)
@@ -17729,6 +20261,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUA51121] of MODULETIME 
 (moduleid  MUA5112)
@@ -17736,6 +20269,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUH11160] of MODULETIME 
 (moduleid  MUH1116)
@@ -17743,6 +20277,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUH11161] of MODULETIME 
 (moduleid  MUH1116)
@@ -17750,6 +20285,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUH11162] of MODULETIME 
 (moduleid  MUH1116)
@@ -17757,6 +20293,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeMUH11163] of MODULETIME 
 (moduleid  MUH1116)
@@ -17764,6 +20301,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 4)
 )
 ([timeMUH11164] of MODULETIME 
 (moduleid  MUH1116)
@@ -17771,6 +20309,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 5)
 )
 ([timeMUH11165] of MODULETIME 
 (moduleid  MUH1116)
@@ -17778,6 +20317,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 6)
 )
 ([timeMUH11166] of MODULETIME 
 (moduleid  MUH1116)
@@ -17785,6 +20325,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 7)
 )
 ([timeMUH11167] of MODULETIME 
 (moduleid  MUH1116)
@@ -17792,6 +20333,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 8)
 )
 ([timeMUH21160] of MODULETIME 
 (moduleid  MUH2116)
@@ -17799,6 +20341,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUH32030] of MODULETIME 
 (moduleid  MUH3203)
@@ -17806,6 +20349,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUH32031] of MODULETIME 
 (moduleid  MUH3203)
@@ -17813,6 +20357,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUH42020] of MODULETIME 
 (moduleid  MUH4202)
@@ -17820,6 +20365,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUL32030] of MODULETIME 
 (moduleid  MUL3203)
@@ -17827,6 +20373,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUL32031] of MODULETIME 
 (moduleid  MUL3203)
@@ -17834,6 +20381,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUL32032] of MODULETIME 
 (moduleid  MUL3203)
@@ -17841,6 +20389,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUL32033] of MODULETIME 
 (moduleid  MUL3203)
@@ -17848,6 +20397,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUL32034] of MODULETIME 
 (moduleid  MUL3203)
@@ -17855,6 +20405,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 3)
 )
 ([timeMUL32035] of MODULETIME 
 (moduleid  MUL3203)
@@ -17862,6 +20413,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 3)
 )
 ([timeMUT11220] of MODULETIME 
 (moduleid  MUT1122)
@@ -17869,6 +20421,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUT21180] of MODULETIME 
 (moduleid  MUT2118)
@@ -17876,6 +20429,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUT31140] of MODULETIME 
 (moduleid  MUT3114)
@@ -17883,6 +20437,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUT32040] of MODULETIME 
 (moduleid  MUT3204)
@@ -17890,6 +20445,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUT32050] of MODULETIME 
 (moduleid  MUT3205)
@@ -17897,6 +20453,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUT32051] of MODULETIME 
 (moduleid  MUT3205)
@@ -17904,6 +20461,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeMUT32060] of MODULETIME 
 (moduleid  MUT3206)
@@ -17911,6 +20469,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUT32061] of MODULETIME 
 (moduleid  MUT3206)
@@ -17918,6 +20477,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeMUT32070] of MODULETIME 
 (moduleid  MUT3207)
@@ -17925,6 +20485,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM1101E0] of MODULETIME 
 (moduleid  NM1101E)
@@ -17932,6 +20493,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM21010] of MODULETIME 
 (moduleid  NM2101)
@@ -17939,6 +20501,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM21030] of MODULETIME 
 (moduleid  NM2103)
@@ -17946,6 +20509,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM21040] of MODULETIME 
 (moduleid  NM2104)
@@ -17953,6 +20517,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM22010] of MODULETIME 
 (moduleid  NM2201)
@@ -17960,6 +20525,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM22030] of MODULETIME 
 (moduleid  NM2203)
@@ -17967,6 +20533,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM22120] of MODULETIME 
 (moduleid  NM2212)
@@ -17974,6 +20541,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM22130] of MODULETIME 
 (moduleid  NM2213)
@@ -17981,6 +20549,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM22190] of MODULETIME 
 (moduleid  NM2219)
@@ -17988,6 +20557,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM22200] of MODULETIME 
 (moduleid  NM2220)
@@ -17995,6 +20565,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32020] of MODULETIME 
 (moduleid  NM3202)
@@ -18002,6 +20573,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32030] of MODULETIME 
 (moduleid  NM3203)
@@ -18009,6 +20581,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32040] of MODULETIME 
 (moduleid  NM3204)
@@ -18016,6 +20589,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32050] of MODULETIME 
 (moduleid  NM3205)
@@ -18023,6 +20597,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32110] of MODULETIME 
 (moduleid  NM3211)
@@ -18030,6 +20605,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32140] of MODULETIME 
 (moduleid  NM3214)
@@ -18037,6 +20613,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32150] of MODULETIME 
 (moduleid  NM3215)
@@ -18044,6 +20621,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32170] of MODULETIME 
 (moduleid  NM3217)
@@ -18051,6 +20629,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32190] of MODULETIME 
 (moduleid  NM3219)
@@ -18058,6 +20637,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32210] of MODULETIME 
 (moduleid  NM3221)
@@ -18065,6 +20645,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32230] of MODULETIME 
 (moduleid  NM3223)
@@ -18072,6 +20653,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32240] of MODULETIME 
 (moduleid  NM3224)
@@ -18079,6 +20661,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32270] of MODULETIME 
 (moduleid  NM3227)
@@ -18086,6 +20669,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32290] of MODULETIME 
 (moduleid  NM3229)
@@ -18093,6 +20677,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32330] of MODULETIME 
 (moduleid  NM3233)
@@ -18100,6 +20685,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32350] of MODULETIME 
 (moduleid  NM3235)
@@ -18107,6 +20693,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32360] of MODULETIME 
 (moduleid  NM3236)
@@ -18114,6 +20701,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM32370] of MODULETIME 
 (moduleid  NM3237)
@@ -18121,6 +20709,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM41020] of MODULETIME 
 (moduleid  NM4102)
@@ -18128,6 +20717,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM42020] of MODULETIME 
 (moduleid  NM4202)
@@ -18135,6 +20725,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM42070] of MODULETIME 
 (moduleid  NM4207)
@@ -18142,6 +20733,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM42080] of MODULETIME 
 (moduleid  NM4208)
@@ -18149,6 +20741,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM42090] of MODULETIME 
 (moduleid  NM4209)
@@ -18156,6 +20749,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM42100] of MODULETIME 
 (moduleid  NM4210)
@@ -18163,6 +20757,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM42120] of MODULETIME 
 (moduleid  NM4212)
@@ -18170,6 +20765,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM42180] of MODULETIME 
 (moduleid  NM4218)
@@ -18177,6 +20773,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM42210] of MODULETIME 
 (moduleid  NM4221)
@@ -18184,6 +20781,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM42260] of MODULETIME 
 (moduleid  NM4226)
@@ -18191,6 +20789,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM42290] of MODULETIME 
 (moduleid  NM4229)
@@ -18198,6 +20797,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM4883B0] of MODULETIME 
 (moduleid  NM4883B)
@@ -18205,6 +20805,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM5205R0] of MODULETIME 
 (moduleid  NM5205R)
@@ -18212,6 +20813,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM5212R0] of MODULETIME 
 (moduleid  NM5212R)
@@ -18219,6 +20821,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM5214R0] of MODULETIME 
 (moduleid  NM5214R)
@@ -18226,6 +20829,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM61020] of MODULETIME 
 (moduleid  NM6102)
@@ -18233,6 +20837,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM62030] of MODULETIME 
 (moduleid  NM6203)
@@ -18240,6 +20845,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNM62110] of MODULETIME 
 (moduleid  NM6211)
@@ -18247,6 +20853,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR11080] of MODULETIME 
 (moduleid  NUR1108)
@@ -18254,6 +20861,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR11090] of MODULETIME 
 (moduleid  NUR1109)
@@ -18261,6 +20869,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR11150] of MODULETIME 
 (moduleid  NUR1115)
@@ -18268,6 +20877,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR11160] of MODULETIME 
 (moduleid  NUR1116)
@@ -18275,6 +20885,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR11180] of MODULETIME 
 (moduleid  NUR1118)
@@ -18282,6 +20893,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR11181] of MODULETIME 
 (moduleid  NUR1118)
@@ -18289,6 +20901,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR21070] of MODULETIME 
 (moduleid  NUR2107)
@@ -18296,6 +20909,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR21160] of MODULETIME 
 (moduleid  NUR2116)
@@ -18303,6 +20917,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR21180] of MODULETIME 
 (moduleid  NUR2118)
@@ -18310,6 +20925,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR21181] of MODULETIME 
 (moduleid  NUR2118)
@@ -18317,6 +20933,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR31140] of MODULETIME 
 (moduleid  NUR3114)
@@ -18324,6 +20941,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR31141] of MODULETIME 
 (moduleid  NUR3114)
@@ -18331,6 +20949,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR31150] of MODULETIME 
 (moduleid  NUR3115)
@@ -18338,6 +20957,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR31151] of MODULETIME 
 (moduleid  NUR3115)
@@ -18345,6 +20965,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR31160] of MODULETIME 
 (moduleid  NUR3116)
@@ -18352,6 +20973,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR41010] of MODULETIME 
 (moduleid  NUR4101)
@@ -18359,6 +20981,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeNUR41040] of MODULETIME 
 (moduleid  NUR4104)
@@ -18366,6 +20989,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeOT52030] of MODULETIME 
 (moduleid  OT5203)
@@ -18373,6 +20997,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeOT52040] of MODULETIME 
 (moduleid  OT5204)
@@ -18380,6 +21005,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeOT52050] of MODULETIME 
 (moduleid  OT5205)
@@ -18387,6 +21013,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeOT52060] of MODULETIME 
 (moduleid  OT5206)
@@ -18394,6 +21021,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeOT53010] of MODULETIME 
 (moduleid  OT5301)
@@ -18401,6 +21029,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePA21060] of MODULETIME 
 (moduleid  PA2106)
@@ -18408,6 +21037,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePA21061] of MODULETIME 
 (moduleid  PA2106)
@@ -18415,6 +21045,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePA21062] of MODULETIME 
 (moduleid  PA2106)
@@ -18422,6 +21053,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePA2106A0] of MODULETIME 
 (moduleid  PA2106A)
@@ -18429,6 +21061,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePA2106A1] of MODULETIME 
 (moduleid  PA2106A)
@@ -18436,6 +21069,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePA2106A2] of MODULETIME 
 (moduleid  PA2106A)
@@ -18443,6 +21077,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC11430] of MODULETIME 
 (moduleid  PC1143)
@@ -18450,6 +21085,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC11431] of MODULETIME 
 (moduleid  PC1143)
@@ -18457,6 +21093,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC11440] of MODULETIME 
 (moduleid  PC1144)
@@ -18464,6 +21101,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC11441] of MODULETIME 
 (moduleid  PC1144)
@@ -18471,6 +21109,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC12210] of MODULETIME 
 (moduleid  PC1221)
@@ -18478,6 +21117,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC12211] of MODULETIME 
 (moduleid  PC1221)
@@ -18485,6 +21125,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC12220] of MODULETIME 
 (moduleid  PC1222)
@@ -18492,6 +21133,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC12221] of MODULETIME 
 (moduleid  PC1222)
@@ -18499,6 +21141,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC13220] of MODULETIME 
 (moduleid  PC1322)
@@ -18506,6 +21149,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC13221] of MODULETIME 
 (moduleid  PC1322)
@@ -18513,6 +21157,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC13230] of MODULETIME 
 (moduleid  PC1323)
@@ -18520,6 +21165,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC13231] of MODULETIME 
 (moduleid  PC1323)
@@ -18527,6 +21173,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC13250] of MODULETIME 
 (moduleid  PC1325)
@@ -18534,6 +21181,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC13251] of MODULETIME 
 (moduleid  PC1325)
@@ -18541,6 +21189,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC13270] of MODULETIME 
 (moduleid  PC1327)
@@ -18548,6 +21197,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC13271] of MODULETIME 
 (moduleid  PC1327)
@@ -18555,6 +21205,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC14310] of MODULETIME 
 (moduleid  PC1431)
@@ -18562,6 +21213,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption 1)
 )
 ([timePC14311] of MODULETIME 
 (moduleid  PC1431)
@@ -18569,6 +21221,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePC14320] of MODULETIME 
 (moduleid  PC1432)
@@ -18576,6 +21229,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePC14321] of MODULETIME 
 (moduleid  PC1432)
@@ -18583,6 +21237,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePC14322] of MODULETIME 
 (moduleid  PC1432)
@@ -18590,6 +21245,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timePC14323] of MODULETIME 
 (moduleid  PC1432)
@@ -18597,6 +21253,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 2)
 )
 ([timePC21300] of MODULETIME 
 (moduleid  PC2130)
@@ -18604,6 +21261,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC21301] of MODULETIME 
 (moduleid  PC2130)
@@ -18611,6 +21269,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC2130B0] of MODULETIME 
 (moduleid  PC2130B)
@@ -18618,6 +21277,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePC2130B1] of MODULETIME 
 (moduleid  PC2130B)
@@ -18625,6 +21285,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePC21310] of MODULETIME 
 (moduleid  PC2131)
@@ -18632,6 +21293,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC21311] of MODULETIME 
 (moduleid  PC2131)
@@ -18639,6 +21301,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC21330] of MODULETIME 
 (moduleid  PC2133)
@@ -18646,6 +21309,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePC21331] of MODULETIME 
 (moduleid  PC2133)
@@ -18653,6 +21317,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePC22300] of MODULETIME 
 (moduleid  PC2230)
@@ -18660,6 +21325,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC22301] of MODULETIME 
 (moduleid  PC2230)
@@ -18667,6 +21333,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC22320] of MODULETIME 
 (moduleid  PC2232)
@@ -18674,6 +21341,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption ALL)
 )
 ([timePC22321] of MODULETIME 
 (moduleid  PC2232)
@@ -18681,6 +21349,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption ALL)
 )
 ([timePC31300] of MODULETIME 
 (moduleid  PC3130)
@@ -18688,6 +21357,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC31301] of MODULETIME 
 (moduleid  PC3130)
@@ -18695,6 +21365,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC32330] of MODULETIME 
 (moduleid  PC3233)
@@ -18702,6 +21373,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC32331] of MODULETIME 
 (moduleid  PC3233)
@@ -18709,6 +21381,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC32360] of MODULETIME 
 (moduleid  PC3236)
@@ -18716,6 +21389,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC32361] of MODULETIME 
 (moduleid  PC3236)
@@ -18723,6 +21397,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC32410] of MODULETIME 
 (moduleid  PC3241)
@@ -18730,6 +21405,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC32430] of MODULETIME 
 (moduleid  PC3243)
@@ -18737,6 +21413,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC32431] of MODULETIME 
 (moduleid  PC3243)
@@ -18744,6 +21421,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC32460] of MODULETIME 
 (moduleid  PC3246)
@@ -18751,6 +21429,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC32461] of MODULETIME 
 (moduleid  PC3246)
@@ -18758,6 +21437,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC32510] of MODULETIME 
 (moduleid  PC3251)
@@ -18765,6 +21445,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC32511] of MODULETIME 
 (moduleid  PC3251)
@@ -18772,6 +21453,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC32670] of MODULETIME 
 (moduleid  PC3267)
@@ -18779,6 +21461,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC32671] of MODULETIME 
 (moduleid  PC3267)
@@ -18786,6 +21469,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC33120] of MODULETIME 
 (moduleid  PC3312)
@@ -18793,6 +21477,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timePC33121] of MODULETIME 
 (moduleid  PC3312)
@@ -18800,6 +21485,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timePC33122] of MODULETIME 
 (moduleid  PC3312)
@@ -18807,6 +21493,7 @@
 (starttime 600)
 (endtime 600)
 (semester 2)
+(moduleoption L1)
 )
 ([timePC33123] of MODULETIME 
 (moduleid  PC3312)
@@ -18814,6 +21501,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timePC33124] of MODULETIME 
 (moduleid  PC3312)
@@ -18821,6 +21509,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timePC33125] of MODULETIME 
 (moduleid  PC3312)
@@ -18828,6 +21517,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timePC42320] of MODULETIME 
 (moduleid  PC4232)
@@ -18835,6 +21525,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42321] of MODULETIME 
 (moduleid  PC4232)
@@ -18842,6 +21533,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42400] of MODULETIME 
 (moduleid  PC4240)
@@ -18849,6 +21541,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42401] of MODULETIME 
 (moduleid  PC4240)
@@ -18856,6 +21549,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42420] of MODULETIME 
 (moduleid  PC4242)
@@ -18863,6 +21557,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42421] of MODULETIME 
 (moduleid  PC4242)
@@ -18870,6 +21565,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42430] of MODULETIME 
 (moduleid  PC4243)
@@ -18877,6 +21573,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42431] of MODULETIME 
 (moduleid  PC4243)
@@ -18884,6 +21581,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42450] of MODULETIME 
 (moduleid  PC4245)
@@ -18891,6 +21589,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42451] of MODULETIME 
 (moduleid  PC4245)
@@ -18898,6 +21597,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42530] of MODULETIME 
 (moduleid  PC4253)
@@ -18905,6 +21605,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42531] of MODULETIME 
 (moduleid  PC4253)
@@ -18912,6 +21613,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42620] of MODULETIME 
 (moduleid  PC4262)
@@ -18919,6 +21621,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42621] of MODULETIME 
 (moduleid  PC4262)
@@ -18926,6 +21629,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42640] of MODULETIME 
 (moduleid  PC4264)
@@ -18933,6 +21637,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42641] of MODULETIME 
 (moduleid  PC4264)
@@ -18940,6 +21645,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42740] of MODULETIME 
 (moduleid  PC4274)
@@ -18947,6 +21653,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC42741] of MODULETIME 
 (moduleid  PC4274)
@@ -18954,6 +21661,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC51980] of MODULETIME 
 (moduleid  PC5198)
@@ -18961,6 +21669,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC51981] of MODULETIME 
 (moduleid  PC5198)
@@ -18968,6 +21677,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52020] of MODULETIME 
 (moduleid  PC5202)
@@ -18975,6 +21685,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52021] of MODULETIME 
 (moduleid  PC5202)
@@ -18982,6 +21693,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52030] of MODULETIME 
 (moduleid  PC5203)
@@ -18989,6 +21701,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52031] of MODULETIME 
 (moduleid  PC5203)
@@ -18996,6 +21709,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52060] of MODULETIME 
 (moduleid  PC5206)
@@ -19003,6 +21717,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52061] of MODULETIME 
 (moduleid  PC5206)
@@ -19010,6 +21725,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52070] of MODULETIME 
 (moduleid  PC5207)
@@ -19017,6 +21733,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52071] of MODULETIME 
 (moduleid  PC5207)
@@ -19024,6 +21741,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52100] of MODULETIME 
 (moduleid  PC5210)
@@ -19031,6 +21749,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52101] of MODULETIME 
 (moduleid  PC5210)
@@ -19038,6 +21757,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52120] of MODULETIME 
 (moduleid  PC5212)
@@ -19045,6 +21765,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52121] of MODULETIME 
 (moduleid  PC5212)
@@ -19052,6 +21773,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52130] of MODULETIME 
 (moduleid  PC5213)
@@ -19059,6 +21781,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52131] of MODULETIME 
 (moduleid  PC5213)
@@ -19066,6 +21789,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52280] of MODULETIME 
 (moduleid  PC5228)
@@ -19073,6 +21797,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52281] of MODULETIME 
 (moduleid  PC5228)
@@ -19080,6 +21805,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52390] of MODULETIME 
 (moduleid  PC5239)
@@ -19087,6 +21813,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePC52391] of MODULETIME 
 (moduleid  PC5239)
@@ -19094,6 +21821,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePF11030] of MODULETIME 
 (moduleid  PF1103)
@@ -19101,6 +21829,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF11040] of MODULETIME 
 (moduleid  PF1104)
@@ -19108,6 +21837,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF11050] of MODULETIME 
 (moduleid  PF1105)
@@ -19115,6 +21845,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF21030] of MODULETIME 
 (moduleid  PF2103)
@@ -19122,6 +21853,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF21040] of MODULETIME 
 (moduleid  PF2104)
@@ -19129,6 +21861,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF21050] of MODULETIME 
 (moduleid  PF2105)
@@ -19136,6 +21869,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF21080] of MODULETIME 
 (moduleid  PF2108)
@@ -19143,6 +21877,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF22030] of MODULETIME 
 (moduleid  PF2203)
@@ -19150,6 +21885,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF23030] of MODULETIME 
 (moduleid  PF2303)
@@ -19157,6 +21893,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF31020] of MODULETIME 
 (moduleid  PF3102)
@@ -19164,6 +21901,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF31030] of MODULETIME 
 (moduleid  PF3103)
@@ -19171,6 +21909,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF32010] of MODULETIME 
 (moduleid  PF3201)
@@ -19178,6 +21917,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF32040] of MODULETIME 
 (moduleid  PF3204)
@@ -19185,6 +21925,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF33030] of MODULETIME 
 (moduleid  PF3303)
@@ -19192,6 +21933,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF41030] of MODULETIME 
 (moduleid  PF4103)
@@ -19199,6 +21941,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF42030] of MODULETIME 
 (moduleid  PF4203)
@@ -19206,6 +21949,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF43040] of MODULETIME 
 (moduleid  PF4304)
@@ -19213,6 +21957,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF43050] of MODULETIME 
 (moduleid  PF4305)
@@ -19220,6 +21965,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePF43070] of MODULETIME 
 (moduleid  PF4307)
@@ -19227,6 +21973,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH1102E0] of MODULETIME 
 (moduleid  PH1102E)
@@ -19234,6 +21981,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH21100] of MODULETIME 
 (moduleid  PH2110)
@@ -19241,6 +21989,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH22020] of MODULETIME 
 (moduleid  PH2202)
@@ -19248,6 +21997,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH22120] of MODULETIME 
 (moduleid  PH2212)
@@ -19255,6 +22005,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH22220] of MODULETIME 
 (moduleid  PH2222)
@@ -19262,6 +22013,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH22230] of MODULETIME 
 (moduleid  PH2223)
@@ -19269,6 +22021,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH22410] of MODULETIME 
 (moduleid  PH2241)
@@ -19276,6 +22029,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH23020] of MODULETIME 
 (moduleid  PH2302)
@@ -19283,6 +22037,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH32020] of MODULETIME 
 (moduleid  PH3202)
@@ -19290,6 +22045,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH32030] of MODULETIME 
 (moduleid  PH3203)
@@ -19297,6 +22053,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH32040] of MODULETIME 
 (moduleid  PH3204)
@@ -19304,6 +22061,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH32060] of MODULETIME 
 (moduleid  PH3206)
@@ -19311,6 +22069,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH42010] of MODULETIME 
 (moduleid  PH4201)
@@ -19318,6 +22077,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH42050] of MODULETIME 
 (moduleid  PH4205)
@@ -19325,6 +22085,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH42060] of MODULETIME 
 (moduleid  PH4206)
@@ -19332,6 +22093,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH42160] of MODULETIME 
 (moduleid  PH4216)
@@ -19339,6 +22101,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH42410] of MODULETIME 
 (moduleid  PH4241)
@@ -19346,6 +22109,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH54300] of MODULETIME 
 (moduleid  PH5430)
@@ -19353,6 +22117,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH5430R0] of MODULETIME 
 (moduleid  PH5430R)
@@ -19360,6 +22125,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH63200] of MODULETIME 
 (moduleid  PH6320)
@@ -19367,6 +22133,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH67600] of MODULETIME 
 (moduleid  PH6760)
@@ -19374,6 +22141,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePH67700] of MODULETIME 
 (moduleid  PH6770)
@@ -19381,6 +22149,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL1101E0] of MODULETIME 
 (moduleid  PL1101E)
@@ -19388,6 +22157,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL1101E1] of MODULETIME 
 (moduleid  PL1101E)
@@ -19395,6 +22165,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timePL21310] of MODULETIME 
 (moduleid  PL2131)
@@ -19402,6 +22173,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL21320] of MODULETIME 
 (moduleid  PL2132)
@@ -19409,6 +22181,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32320] of MODULETIME 
 (moduleid  PL3232)
@@ -19416,6 +22189,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32330] of MODULETIME 
 (moduleid  PL3233)
@@ -19423,6 +22197,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32340] of MODULETIME 
 (moduleid  PL3234)
@@ -19430,6 +22205,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32350] of MODULETIME 
 (moduleid  PL3235)
@@ -19437,6 +22213,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32360] of MODULETIME 
 (moduleid  PL3236)
@@ -19444,6 +22221,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32370] of MODULETIME 
 (moduleid  PL3237)
@@ -19451,6 +22229,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32380] of MODULETIME 
 (moduleid  PL3238)
@@ -19458,6 +22237,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32410] of MODULETIME 
 (moduleid  PL3241)
@@ -19465,6 +22245,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32430] of MODULETIME 
 (moduleid  PL3243)
@@ -19472,6 +22253,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32490] of MODULETIME 
 (moduleid  PL3249)
@@ -19479,6 +22261,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32500] of MODULETIME 
 (moduleid  PL3250)
@@ -19486,6 +22269,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32510] of MODULETIME 
 (moduleid  PL3251)
@@ -19493,6 +22277,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32560] of MODULETIME 
 (moduleid  PL3256)
@@ -19500,6 +22285,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL3281D0] of MODULETIME 
 (moduleid  PL3281D)
@@ -19507,6 +22293,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32820] of MODULETIME 
 (moduleid  PL3282)
@@ -19514,6 +22301,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL3282C0] of MODULETIME 
 (moduleid  PL3282C)
@@ -19521,6 +22309,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32840] of MODULETIME 
 (moduleid  PL3284)
@@ -19528,6 +22317,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32850] of MODULETIME 
 (moduleid  PL3285)
@@ -19535,6 +22325,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32860] of MODULETIME 
 (moduleid  PL3286)
@@ -19542,6 +22333,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL32880] of MODULETIME 
 (moduleid  PL3288)
@@ -19549,6 +22341,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42020] of MODULETIME 
 (moduleid  PL4202)
@@ -19556,6 +22349,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42050] of MODULETIME 
 (moduleid  PL4205)
@@ -19563,6 +22357,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42070] of MODULETIME 
 (moduleid  PL4207)
@@ -19570,6 +22365,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42080] of MODULETIME 
 (moduleid  PL4208)
@@ -19577,6 +22373,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42180] of MODULETIME 
 (moduleid  PL4218)
@@ -19584,6 +22381,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42190] of MODULETIME 
 (moduleid  PL4219)
@@ -19591,6 +22389,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42210] of MODULETIME 
 (moduleid  PL4221)
@@ -19598,6 +22397,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42220] of MODULETIME 
 (moduleid  PL4222)
@@ -19605,6 +22405,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42240] of MODULETIME 
 (moduleid  PL4224)
@@ -19612,6 +22413,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42260] of MODULETIME 
 (moduleid  PL4226)
@@ -19619,6 +22421,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42280] of MODULETIME 
 (moduleid  PL4228)
@@ -19626,6 +22429,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42290] of MODULETIME 
 (moduleid  PL4229)
@@ -19633,6 +22437,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42310] of MODULETIME 
 (moduleid  PL4231)
@@ -19640,6 +22445,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42340] of MODULETIME 
 (moduleid  PL4234)
@@ -19647,6 +22453,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL42350] of MODULETIME 
 (moduleid  PL4235)
@@ -19654,6 +22461,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL4880I0] of MODULETIME 
 (moduleid  PL4880I)
@@ -19661,6 +22469,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL4880J0] of MODULETIME 
 (moduleid  PL4880J)
@@ -19668,6 +22477,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL5222R0] of MODULETIME 
 (moduleid  PL5222R)
@@ -19675,6 +22485,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption 1)
 )
 ([timePL5225R0] of MODULETIME 
 (moduleid  PL5225R)
@@ -19682,6 +22493,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP51380] of MODULETIME 
 (moduleid  PP5138)
@@ -19689,6 +22501,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP51410] of MODULETIME 
 (moduleid  PP5141)
@@ -19696,6 +22509,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP51420] of MODULETIME 
 (moduleid  PP5142)
@@ -19703,6 +22517,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP52090] of MODULETIME 
 (moduleid  PP5209)
@@ -19710,6 +22525,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP52230] of MODULETIME 
 (moduleid  PP5223)
@@ -19717,6 +22533,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP5241J0] of MODULETIME 
 (moduleid  PP5241J)
@@ -19724,6 +22541,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP5241K0] of MODULETIME 
 (moduleid  PP5241K)
@@ -19731,6 +22549,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP5242K0] of MODULETIME 
 (moduleid  PP5242K)
@@ -19738,6 +22557,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP52460] of MODULETIME 
 (moduleid  PP5246)
@@ -19745,6 +22565,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP52550] of MODULETIME 
 (moduleid  PP5255)
@@ -19752,6 +22573,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP52940] of MODULETIME 
 (moduleid  PP5294)
@@ -19759,6 +22581,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP54110] of MODULETIME 
 (moduleid  PP5411)
@@ -19766,6 +22589,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP54120] of MODULETIME 
 (moduleid  PP5412)
@@ -19773,6 +22597,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP54130] of MODULETIME 
 (moduleid  PP5413)
@@ -19780,6 +22605,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePP54140] of MODULETIME 
 (moduleid  PP5414)
@@ -19787,6 +22613,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timePR11020] of MODULETIME 
 (moduleid  PR1102)
@@ -19794,6 +22621,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR11021] of MODULETIME 
 (moduleid  PR1102)
@@ -19801,6 +22629,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR21020] of MODULETIME 
 (moduleid  PR2102)
@@ -19808,6 +22637,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR21021] of MODULETIME 
 (moduleid  PR2102)
@@ -19815,6 +22645,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR21050] of MODULETIME 
 (moduleid  PR2105)
@@ -19822,6 +22653,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR21051] of MODULETIME 
 (moduleid  PR2105)
@@ -19829,6 +22661,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR22020] of MODULETIME 
 (moduleid  PR2202)
@@ -19836,6 +22669,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR22021] of MODULETIME 
 (moduleid  PR2202)
@@ -19843,6 +22677,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR31030] of MODULETIME 
 (moduleid  PR3103)
@@ -19850,6 +22685,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR31031] of MODULETIME 
 (moduleid  PR3103)
@@ -19857,6 +22693,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR31040] of MODULETIME 
 (moduleid  PR3104)
@@ -19864,6 +22701,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR31041] of MODULETIME 
 (moduleid  PR3104)
@@ -19871,6 +22709,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR31050] of MODULETIME 
 (moduleid  PR3105)
@@ -19878,6 +22717,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR31051] of MODULETIME 
 (moduleid  PR3105)
@@ -19885,6 +22725,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR31060] of MODULETIME 
 (moduleid  PR3106)
@@ -19892,6 +22733,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR31061] of MODULETIME 
 (moduleid  PR3106)
@@ -19899,6 +22741,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR31070] of MODULETIME 
 (moduleid  PR3107)
@@ -19906,6 +22749,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR31071] of MODULETIME 
 (moduleid  PR3107)
@@ -19913,6 +22757,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR33010] of MODULETIME 
 (moduleid  PR3301)
@@ -19920,6 +22765,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR41020] of MODULETIME 
 (moduleid  PR4102)
@@ -19927,6 +22773,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR41021] of MODULETIME 
 (moduleid  PR4102)
@@ -19934,6 +22781,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR41040] of MODULETIME 
 (moduleid  PR4104)
@@ -19941,6 +22789,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR41050] of MODULETIME 
 (moduleid  PR4105)
@@ -19948,6 +22797,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR41051] of MODULETIME 
 (moduleid  PR4105)
@@ -19955,6 +22805,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR41060] of MODULETIME 
 (moduleid  PR4106)
@@ -19962,6 +22813,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR41061] of MODULETIME 
 (moduleid  PR4106)
@@ -19969,6 +22821,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR42010] of MODULETIME 
 (moduleid  PR4201)
@@ -19976,6 +22829,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR42011] of MODULETIME 
 (moduleid  PR4201)
@@ -19983,6 +22837,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR42060] of MODULETIME 
 (moduleid  PR4206)
@@ -19990,6 +22845,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR42061] of MODULETIME 
 (moduleid  PR4206)
@@ -19997,6 +22853,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR51130] of MODULETIME 
 (moduleid  PR5113)
@@ -20004,6 +22861,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR51131] of MODULETIME 
 (moduleid  PR5113)
@@ -20011,6 +22869,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR51300] of MODULETIME 
 (moduleid  PR5130)
@@ -20018,6 +22877,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR51301] of MODULETIME 
 (moduleid  PR5130)
@@ -20025,6 +22885,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR51330] of MODULETIME 
 (moduleid  PR5133)
@@ -20032,6 +22893,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR51360] of MODULETIME 
 (moduleid  PR5136)
@@ -20039,6 +22901,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR52120] of MODULETIME 
 (moduleid  PR5212)
@@ -20046,6 +22909,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR52160] of MODULETIME 
 (moduleid  PR5216)
@@ -20053,6 +22917,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR52170] of MODULETIME 
 (moduleid  PR5217)
@@ -20060,6 +22925,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR52200] of MODULETIME 
 (moduleid  PR5220)
@@ -20067,6 +22933,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR52300] of MODULETIME 
 (moduleid  PR5230)
@@ -20074,6 +22941,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR52301] of MODULETIME 
 (moduleid  PR5230)
@@ -20081,6 +22949,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePR53020] of MODULETIME 
 (moduleid  PR5302)
@@ -20088,6 +22957,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePS1101E0] of MODULETIME 
 (moduleid  PS1101E)
@@ -20095,6 +22965,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS22030] of MODULETIME 
 (moduleid  PS2203)
@@ -20102,6 +22973,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS22330] of MODULETIME 
 (moduleid  PS2233)
@@ -20109,6 +22981,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS22340] of MODULETIME 
 (moduleid  PS2234)
@@ -20116,6 +22989,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS22370] of MODULETIME 
 (moduleid  PS2237)
@@ -20123,6 +22997,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS22390] of MODULETIME 
 (moduleid  PS2239)
@@ -20130,6 +23005,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS22400] of MODULETIME 
 (moduleid  PS2240)
@@ -20137,6 +23013,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS22440] of MODULETIME 
 (moduleid  PS2244)
@@ -20144,6 +23021,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS22450] of MODULETIME 
 (moduleid  PS2245)
@@ -20151,6 +23029,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS22480] of MODULETIME 
 (moduleid  PS2248)
@@ -20158,6 +23037,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS22490] of MODULETIME 
 (moduleid  PS2249)
@@ -20165,6 +23045,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS32320] of MODULETIME 
 (moduleid  PS3232)
@@ -20172,6 +23053,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS32490] of MODULETIME 
 (moduleid  PS3249)
@@ -20179,6 +23061,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS32570] of MODULETIME 
 (moduleid  PS3257)
@@ -20186,6 +23069,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS32580] of MODULETIME 
 (moduleid  PS3258)
@@ -20193,6 +23077,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS32620] of MODULETIME 
 (moduleid  PS3262)
@@ -20200,6 +23085,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS32630] of MODULETIME 
 (moduleid  PS3263)
@@ -20207,6 +23093,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS32650] of MODULETIME 
 (moduleid  PS3265)
@@ -20214,6 +23101,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS32660] of MODULETIME 
 (moduleid  PS3266)
@@ -20221,6 +23109,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS3880B0] of MODULETIME 
 (moduleid  PS3880B)
@@ -20228,6 +23117,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS3880H0] of MODULETIME 
 (moduleid  PS3880H)
@@ -20235,6 +23125,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS42020] of MODULETIME 
 (moduleid  PS4202)
@@ -20242,6 +23133,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS42030] of MODULETIME 
 (moduleid  PS4203)
@@ -20249,6 +23141,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS42090] of MODULETIME 
 (moduleid  PS4209)
@@ -20256,6 +23149,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS42180] of MODULETIME 
 (moduleid  PS4218)
@@ -20263,6 +23157,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS42200] of MODULETIME 
 (moduleid  PS4220)
@@ -20270,6 +23165,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS42250] of MODULETIME 
 (moduleid  PS4225)
@@ -20277,6 +23173,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS42270] of MODULETIME 
 (moduleid  PS4227)
@@ -20284,6 +23181,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS4882D0] of MODULETIME 
 (moduleid  PS4882D)
@@ -20291,6 +23189,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS4882H0] of MODULETIME 
 (moduleid  PS4882H)
@@ -20298,6 +23197,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS4883A0] of MODULETIME 
 (moduleid  PS4883A)
@@ -20305,6 +23205,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS4883B0] of MODULETIME 
 (moduleid  PS4883B)
@@ -20312,6 +23213,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS5312R0] of MODULETIME 
 (moduleid  PS5312R)
@@ -20319,6 +23221,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS5314R0] of MODULETIME 
 (moduleid  PS5314R)
@@ -20326,6 +23229,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS5316R0] of MODULETIME 
 (moduleid  PS5316R)
@@ -20333,6 +23237,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timePS5603R0] of MODULETIME 
 (moduleid  PS5603R)
@@ -20340,6 +23245,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timePY11060] of MODULETIME 
 (moduleid  PY1106)
@@ -20347,6 +23253,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timePY11061] of MODULETIME 
 (moduleid  PY1106)
@@ -20354,6 +23261,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeQF31010] of MODULETIME 
 (moduleid  QF3101)
@@ -20361,6 +23269,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeQF31011] of MODULETIME 
 (moduleid  QF3101)
@@ -20368,6 +23277,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeQF33120] of MODULETIME 
 (moduleid  QF3312)
@@ -20375,6 +23285,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeQF33121] of MODULETIME 
 (moduleid  QF3312)
@@ -20382,6 +23293,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeQF33122] of MODULETIME 
 (moduleid  QF3312)
@@ -20389,6 +23301,7 @@
 (starttime 600)
 (endtime 600)
 (semester 2)
+(moduleoption L1)
 )
 ([timeQF33123] of MODULETIME 
 (moduleid  QF3312)
@@ -20396,6 +23309,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeQF33124] of MODULETIME 
 (moduleid  QF3312)
@@ -20403,6 +23317,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeQF33125] of MODULETIME 
 (moduleid  QF3312)
@@ -20410,6 +23325,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeQF52020] of MODULETIME 
 (moduleid  QF5202)
@@ -20417,6 +23333,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeQF52060] of MODULETIME 
 (moduleid  QF5206)
@@ -20424,6 +23341,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeQF52100] of MODULETIME 
 (moduleid  QF5210)
@@ -20431,6 +23349,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeRE11030] of MODULETIME 
 (moduleid  RE1103)
@@ -20438,6 +23357,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE11040] of MODULETIME 
 (moduleid  RE1104)
@@ -20445,6 +23365,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE21040] of MODULETIME 
 (moduleid  RE2104)
@@ -20452,6 +23373,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE21050] of MODULETIME 
 (moduleid  RE2105)
@@ -20459,6 +23381,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE21060] of MODULETIME 
 (moduleid  RE2106)
@@ -20466,6 +23389,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE21070] of MODULETIME 
 (moduleid  RE2107)
@@ -20473,6 +23397,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE22010] of MODULETIME 
 (moduleid  RE2201)
@@ -20480,6 +23405,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE23010] of MODULETIME 
 (moduleid  RE2301)
@@ -20487,6 +23413,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE31050] of MODULETIME 
 (moduleid  RE3105)
@@ -20494,6 +23421,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE31060] of MODULETIME 
 (moduleid  RE3106)
@@ -20501,6 +23429,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE32010] of MODULETIME 
 (moduleid  RE3201)
@@ -20508,6 +23437,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE32110] of MODULETIME 
 (moduleid  RE3211)
@@ -20515,6 +23445,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE32120] of MODULETIME 
 (moduleid  RE3212)
@@ -20522,6 +23453,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE32210] of MODULETIME 
 (moduleid  RE3221)
@@ -20529,6 +23461,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE32220] of MODULETIME 
 (moduleid  RE3222)
@@ -20536,6 +23469,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE33010] of MODULETIME 
 (moduleid  RE3301)
@@ -20543,6 +23477,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE42100] of MODULETIME 
 (moduleid  RE4210)
@@ -20550,6 +23485,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE42130] of MODULETIME 
 (moduleid  RE4213)
@@ -20557,6 +23493,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE42200] of MODULETIME 
 (moduleid  RE4220)
@@ -20564,6 +23501,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE42230] of MODULETIME 
 (moduleid  RE4223)
@@ -20571,6 +23509,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeRE43020] of MODULETIME 
 (moduleid  RE4302)
@@ -20578,6 +23517,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC1101E0] of MODULETIME 
 (moduleid  SC1101E)
@@ -20585,6 +23525,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC21010] of MODULETIME 
 (moduleid  SC2101)
@@ -20592,6 +23533,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC22020] of MODULETIME 
 (moduleid  SC2202)
@@ -20599,6 +23541,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC22040] of MODULETIME 
 (moduleid  SC2204)
@@ -20606,6 +23549,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC22090] of MODULETIME 
 (moduleid  SC2209)
@@ -20613,6 +23557,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC22110] of MODULETIME 
 (moduleid  SC2211)
@@ -20620,6 +23565,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC22120] of MODULETIME 
 (moduleid  SC2212)
@@ -20627,6 +23573,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC22140] of MODULETIME 
 (moduleid  SC2214)
@@ -20634,6 +23581,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC22150] of MODULETIME 
 (moduleid  SC2215)
@@ -20641,6 +23589,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC22200] of MODULETIME 
 (moduleid  SC2220)
@@ -20648,6 +23597,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC22210] of MODULETIME 
 (moduleid  SC2221)
@@ -20655,6 +23605,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC31010] of MODULETIME 
 (moduleid  SC3101)
@@ -20662,6 +23613,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC32030] of MODULETIME 
 (moduleid  SC3203)
@@ -20669,6 +23621,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC32060] of MODULETIME 
 (moduleid  SC3206)
@@ -20676,6 +23629,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC32080] of MODULETIME 
 (moduleid  SC3208)
@@ -20683,6 +23637,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC32110] of MODULETIME 
 (moduleid  SC3211)
@@ -20690,6 +23645,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC32130] of MODULETIME 
 (moduleid  SC3213)
@@ -20697,6 +23653,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC32140] of MODULETIME 
 (moduleid  SC3214)
@@ -20704,6 +23661,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC32160] of MODULETIME 
 (moduleid  SC3216)
@@ -20711,6 +23669,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC32190] of MODULETIME 
 (moduleid  SC3219)
@@ -20718,6 +23677,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC32220] of MODULETIME 
 (moduleid  SC3222)
@@ -20725,6 +23685,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC32270] of MODULETIME 
 (moduleid  SC3227)
@@ -20732,6 +23693,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC41010] of MODULETIME 
 (moduleid  SC4101)
@@ -20739,6 +23701,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC42100] of MODULETIME 
 (moduleid  SC4210)
@@ -20746,6 +23709,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC42180] of MODULETIME 
 (moduleid  SC4218)
@@ -20753,6 +23717,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC42200] of MODULETIME 
 (moduleid  SC4220)
@@ -20760,6 +23725,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC42210] of MODULETIME 
 (moduleid  SC4221)
@@ -20767,6 +23733,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC42220] of MODULETIME 
 (moduleid  SC4222)
@@ -20774,6 +23741,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC42230] of MODULETIME 
 (moduleid  SC4223)
@@ -20781,6 +23749,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC42250] of MODULETIME 
 (moduleid  SC4225)
@@ -20788,6 +23757,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC4882B0] of MODULETIME 
 (moduleid  SC4882B)
@@ -20795,6 +23765,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC5102R0] of MODULETIME 
 (moduleid  SC5102R)
@@ -20802,6 +23773,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSC5215R0] of MODULETIME 
 (moduleid  SC5215R)
@@ -20809,6 +23781,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSDM50020] of MODULETIME 
 (moduleid  SDM5002)
@@ -20816,6 +23789,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSDM50030] of MODULETIME 
 (moduleid  SDM5003)
@@ -20823,6 +23797,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSDM50040] of MODULETIME 
 (moduleid  SDM5004)
@@ -20830,6 +23805,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE1101E0] of MODULETIME 
 (moduleid  SE1101E)
@@ -20837,6 +23813,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE22100] of MODULETIME 
 (moduleid  SE2210)
@@ -20844,6 +23821,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE22170] of MODULETIME 
 (moduleid  SE2217)
@@ -20851,6 +23829,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE2218T0] of MODULETIME 
 (moduleid  SE2218T)
@@ -20858,6 +23837,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE22230] of MODULETIME 
 (moduleid  SE2223)
@@ -20865,6 +23845,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE22260] of MODULETIME 
 (moduleid  SE2226)
@@ -20872,6 +23853,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE32110] of MODULETIME 
 (moduleid  SE3211)
@@ -20879,6 +23861,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE32160] of MODULETIME 
 (moduleid  SE3216)
@@ -20886,6 +23869,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE32180] of MODULETIME 
 (moduleid  SE3218)
@@ -20893,6 +23877,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE32200] of MODULETIME 
 (moduleid  SE3220)
@@ -20900,6 +23885,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE32240] of MODULETIME 
 (moduleid  SE3224)
@@ -20907,6 +23893,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE32260] of MODULETIME 
 (moduleid  SE3226)
@@ -20914,6 +23901,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE5221R0] of MODULETIME 
 (moduleid  SE5221R)
@@ -20921,6 +23909,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE5223R0] of MODULETIME 
 (moduleid  SE5223R)
@@ -20928,6 +23917,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE5229R0] of MODULETIME 
 (moduleid  SE5229R)
@@ -20935,6 +23925,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE5233R0] of MODULETIME 
 (moduleid  SE5233R)
@@ -20942,6 +23933,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSE5241R0] of MODULETIME 
 (moduleid  SE5241R)
@@ -20949,6 +23941,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSN1101E0] of MODULETIME 
 (moduleid  SN1101E)
@@ -20956,6 +23949,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSN22320] of MODULETIME 
 (moduleid  SN2232)
@@ -20963,6 +23957,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSN22330] of MODULETIME 
 (moduleid  SN2233)
@@ -20970,6 +23965,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSN22710] of MODULETIME 
 (moduleid  SN2271)
@@ -20977,6 +23973,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSN22770] of MODULETIME 
 (moduleid  SN2277)
@@ -20984,6 +23981,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSN32620] of MODULETIME 
 (moduleid  SN3262)
@@ -20991,6 +23989,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSN32720] of MODULETIME 
 (moduleid  SN3272)
@@ -20998,6 +23997,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSN32740] of MODULETIME 
 (moduleid  SN3274)
@@ -21005,6 +24005,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSN32750] of MODULETIME 
 (moduleid  SN3275)
@@ -21012,6 +24013,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSP21710] of MODULETIME 
 (moduleid  SP2171)
@@ -21019,6 +24021,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeSP21740] of MODULETIME 
 (moduleid  SP2174)
@@ -21026,6 +24029,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeSP22510] of MODULETIME 
 (moduleid  SP2251)
@@ -21033,6 +24037,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeSP22511] of MODULETIME 
 (moduleid  SP2251)
@@ -21040,6 +24045,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeSP31760] of MODULETIME 
 (moduleid  SP3176)
@@ -21047,6 +24053,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeSP32020] of MODULETIME 
 (moduleid  SP3202)
@@ -21054,6 +24061,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeSPH21040] of MODULETIME 
 (moduleid  SPH2104)
@@ -21061,6 +24069,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSPH31020] of MODULETIME 
 (moduleid  SPH3102)
@@ -21068,6 +24077,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSPH31030] of MODULETIME 
 (moduleid  SPH3103)
@@ -21075,6 +24085,7 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA12010] of MODULETIME 
 (moduleid  SSA1201)
@@ -21082,6 +24093,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA12020] of MODULETIME 
 (moduleid  SSA1202)
@@ -21089,6 +24101,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA12070] of MODULETIME 
 (moduleid  SSA1207)
@@ -21096,6 +24109,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA12080] of MODULETIME 
 (moduleid  SSA1208)
@@ -21103,6 +24117,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA22020] of MODULETIME 
 (moduleid  SSA2202)
@@ -21110,6 +24125,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA22030] of MODULETIME 
 (moduleid  SSA2203)
@@ -21117,6 +24133,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA22040] of MODULETIME 
 (moduleid  SSA2204)
@@ -21124,6 +24141,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA22050] of MODULETIME 
 (moduleid  SSA2205)
@@ -21131,6 +24149,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA22080] of MODULETIME 
 (moduleid  SSA2208)
@@ -21138,6 +24157,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA22081] of MODULETIME 
 (moduleid  SSA2208)
@@ -21145,6 +24165,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA22090] of MODULETIME 
 (moduleid  SSA2209)
@@ -21152,6 +24173,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA22140] of MODULETIME 
 (moduleid  SSA2214)
@@ -21159,6 +24181,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA22150] of MODULETIME 
 (moduleid  SSA2215)
@@ -21166,6 +24189,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA22200] of MODULETIME 
 (moduleid  SSA2220)
@@ -21173,6 +24197,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA22210] of MODULETIME 
 (moduleid  SSA2221)
@@ -21180,6 +24205,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA22220] of MODULETIME 
 (moduleid  SSA2222)
@@ -21187,6 +24213,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA32010] of MODULETIME 
 (moduleid  SSA3201)
@@ -21194,6 +24221,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA32030] of MODULETIME 
 (moduleid  SSA3203)
@@ -21201,6 +24229,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSA32050] of MODULETIME 
 (moduleid  SSA3205)
@@ -21208,6 +24237,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSB12040] of MODULETIME 
 (moduleid  SSB1204)
@@ -21215,6 +24245,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G1)
 )
 ([timeSSB12041] of MODULETIME 
 (moduleid  SSB1204)
@@ -21222,6 +24253,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption G2)
 )
 ([timeSSB1204T0] of MODULETIME 
 (moduleid  SSB1204T)
@@ -21229,6 +24261,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSB22170] of MODULETIME 
 (moduleid  SSB2217)
@@ -21236,6 +24269,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption P1)
 )
 ([timeSSD22130] of MODULETIME 
 (moduleid  SSD2213)
@@ -21243,6 +24277,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSS12070] of MODULETIME 
 (moduleid  SSS1207)
@@ -21250,6 +24285,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeSSS12071] of MODULETIME 
 (moduleid  SSS1207)
@@ -21257,6 +24293,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeSSU20000] of MODULETIME 
 (moduleid  SSU2000)
@@ -21264,6 +24301,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSU20001] of MODULETIME 
 (moduleid  SSU2000)
@@ -21271,6 +24309,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeSSU20002] of MODULETIME 
 (moduleid  SSU2000)
@@ -21278,6 +24317,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 3)
 )
 ([timeSSU20003] of MODULETIME 
 (moduleid  SSU2000)
@@ -21285,6 +24325,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 4)
 )
 ([timeSSU20004] of MODULETIME 
 (moduleid  SSU2000)
@@ -21292,6 +24333,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 5)
 )
 ([timeSSU20005] of MODULETIME 
 (moduleid  SSU2000)
@@ -21299,6 +24341,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 6)
 )
 ([timeSSU20006] of MODULETIME 
 (moduleid  SSU2000)
@@ -21306,6 +24349,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 7)
 )
 ([timeSSU20007] of MODULETIME 
 (moduleid  SSU2000)
@@ -21313,6 +24357,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 8)
 )
 ([timeSSU20008] of MODULETIME 
 (moduleid  SSU2000)
@@ -21320,6 +24365,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 9)
 )
 ([timeSSU20030] of MODULETIME 
 (moduleid  SSU2003)
@@ -21327,6 +24373,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSU20031] of MODULETIME 
 (moduleid  SSU2003)
@@ -21334,6 +24381,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSU20032] of MODULETIME 
 (moduleid  SSU2003)
@@ -21341,6 +24389,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 2)
 )
 ([timeSSU20033] of MODULETIME 
 (moduleid  SSU2003)
@@ -21348,6 +24397,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 2)
 )
 ([timeSSU20034] of MODULETIME 
 (moduleid  SSU2003)
@@ -21355,6 +24405,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 3)
 )
 ([timeSSU20035] of MODULETIME 
 (moduleid  SSU2003)
@@ -21362,6 +24413,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeSSU20036] of MODULETIME 
 (moduleid  SSU2003)
@@ -21369,6 +24421,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 4)
 )
 ([timeSSU20037] of MODULETIME 
 (moduleid  SSU2003)
@@ -21376,6 +24429,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 4)
 )
 ([timeSSU20038] of MODULETIME 
 (moduleid  SSU2003)
@@ -21383,6 +24437,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 5)
 )
 ([timeSSU20039] of MODULETIME 
 (moduleid  SSU2003)
@@ -21390,6 +24445,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 5)
 )
 ([timeSSU200310] of MODULETIME 
 (moduleid  SSU2003)
@@ -21397,6 +24453,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 6)
 )
 ([timeSSU200311] of MODULETIME 
 (moduleid  SSU2003)
@@ -21404,6 +24461,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 6)
 )
 ([timeSSU20040] of MODULETIME 
 (moduleid  SSU2004)
@@ -21411,6 +24469,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSSU20041] of MODULETIME 
 (moduleid  SSU2004)
@@ -21418,6 +24477,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeSSU20042] of MODULETIME 
 (moduleid  SSU2004)
@@ -21425,6 +24485,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 3)
 )
 ([timeSSU20043] of MODULETIME 
 (moduleid  SSU2004)
@@ -21432,6 +24493,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 4)
 )
 ([timeSSU20044] of MODULETIME 
 (moduleid  SSU2004)
@@ -21439,6 +24501,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 5)
 )
 ([timeST11310] of MODULETIME 
 (moduleid  ST1131)
@@ -21446,6 +24509,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST11311] of MODULETIME 
 (moduleid  ST1131)
@@ -21453,6 +24517,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST12320] of MODULETIME 
 (moduleid  ST1232)
@@ -21460,6 +24525,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST12321] of MODULETIME 
 (moduleid  ST1232)
@@ -21467,6 +24533,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST21310] of MODULETIME 
 (moduleid  ST2131)
@@ -21474,6 +24541,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST21311] of MODULETIME 
 (moduleid  ST2131)
@@ -21481,6 +24549,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST21312] of MODULETIME 
 (moduleid  ST2131)
@@ -21488,6 +24557,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeST21313] of MODULETIME 
 (moduleid  ST2131)
@@ -21495,6 +24565,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeST21314] of MODULETIME 
 (moduleid  ST2131)
@@ -21502,6 +24573,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL3)
 )
 ([timeST21315] of MODULETIME 
 (moduleid  ST2131)
@@ -21509,6 +24581,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL3)
 )
 ([timeST21320] of MODULETIME 
 (moduleid  ST2132)
@@ -21516,6 +24589,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST21321] of MODULETIME 
 (moduleid  ST2132)
@@ -21523,6 +24597,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST23340] of MODULETIME 
 (moduleid  ST2334)
@@ -21530,6 +24605,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST23341] of MODULETIME 
 (moduleid  ST2334)
@@ -21537,6 +24613,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST23342] of MODULETIME 
 (moduleid  ST2334)
@@ -21544,6 +24621,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeST23343] of MODULETIME 
 (moduleid  ST2334)
@@ -21551,6 +24629,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption SL2)
 )
 ([timeST31310] of MODULETIME 
 (moduleid  ST3131)
@@ -21558,6 +24637,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST31311] of MODULETIME 
 (moduleid  ST3131)
@@ -21565,6 +24645,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST32320] of MODULETIME 
 (moduleid  ST3232)
@@ -21572,6 +24653,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST32321] of MODULETIME 
 (moduleid  ST3232)
@@ -21579,6 +24661,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST32360] of MODULETIME 
 (moduleid  ST3236)
@@ -21586,6 +24669,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST32361] of MODULETIME 
 (moduleid  ST3236)
@@ -21593,6 +24677,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST32400] of MODULETIME 
 (moduleid  ST3240)
@@ -21600,6 +24685,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST32401] of MODULETIME 
 (moduleid  ST3240)
@@ -21607,6 +24693,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST32410] of MODULETIME 
 (moduleid  ST3241)
@@ -21614,6 +24701,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST32411] of MODULETIME 
 (moduleid  ST3241)
@@ -21621,6 +24709,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST32470] of MODULETIME 
 (moduleid  ST3247)
@@ -21628,6 +24717,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST32471] of MODULETIME 
 (moduleid  ST3247)
@@ -21635,6 +24725,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST33120] of MODULETIME 
 (moduleid  ST3312)
@@ -21642,6 +24733,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeST33121] of MODULETIME 
 (moduleid  ST3312)
@@ -21649,6 +24741,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeST33122] of MODULETIME 
 (moduleid  ST3312)
@@ -21656,6 +24749,7 @@
 (starttime 600)
 (endtime 600)
 (semester 2)
+(moduleoption L1)
 )
 ([timeST33123] of MODULETIME 
 (moduleid  ST3312)
@@ -21663,6 +24757,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeST33124] of MODULETIME 
 (moduleid  ST3312)
@@ -21670,6 +24765,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeST33125] of MODULETIME 
 (moduleid  ST3312)
@@ -21677,6 +24773,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption L1)
 )
 ([timeST42380] of MODULETIME 
 (moduleid  ST4238)
@@ -21684,6 +24781,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST42381] of MODULETIME 
 (moduleid  ST4238)
@@ -21691,6 +24789,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST42400] of MODULETIME 
 (moduleid  ST4240)
@@ -21698,6 +24797,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST42401] of MODULETIME 
 (moduleid  ST4240)
@@ -21705,6 +24805,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST42420] of MODULETIME 
 (moduleid  ST4242)
@@ -21712,6 +24813,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST42421] of MODULETIME 
 (moduleid  ST4242)
@@ -21719,6 +24821,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST42450] of MODULETIME 
 (moduleid  ST4245)
@@ -21726,6 +24829,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST42451] of MODULETIME 
 (moduleid  ST4245)
@@ -21733,6 +24837,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeST52170] of MODULETIME 
 (moduleid  ST5217)
@@ -21740,6 +24845,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption SL1)
 )
 ([timeSW1101E0] of MODULETIME 
 (moduleid  SW1101E)
@@ -21747,6 +24853,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW21010] of MODULETIME 
 (moduleid  SW2101)
@@ -21754,6 +24861,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW21040] of MODULETIME 
 (moduleid  SW2104)
@@ -21761,6 +24869,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW21050] of MODULETIME 
 (moduleid  SW2105)
@@ -21768,6 +24877,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW21060] of MODULETIME 
 (moduleid  SW2106)
@@ -21775,6 +24885,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW31010] of MODULETIME 
 (moduleid  SW3101)
@@ -21782,6 +24893,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW32130] of MODULETIME 
 (moduleid  SW3213)
@@ -21789,6 +24901,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW32160] of MODULETIME 
 (moduleid  SW3216)
@@ -21796,6 +24909,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW32170] of MODULETIME 
 (moduleid  SW3217)
@@ -21803,6 +24917,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW32190] of MODULETIME 
 (moduleid  SW3219)
@@ -21810,6 +24925,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW42130] of MODULETIME 
 (moduleid  SW4213)
@@ -21817,6 +24933,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW42140] of MODULETIME 
 (moduleid  SW4214)
@@ -21824,6 +24941,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW42160] of MODULETIME 
 (moduleid  SW4216)
@@ -21831,6 +24949,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW5213R0] of MODULETIME 
 (moduleid  SW5213R)
@@ -21838,6 +24957,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeSW5253R0] of MODULETIME 
 (moduleid  SW5253R)
@@ -21845,6 +24965,7 @@
 (starttime 1830)
 (endtime 1830)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTC14010] of MODULETIME 
 (moduleid  TC1401)
@@ -21852,6 +24973,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTC14220] of MODULETIME 
 (moduleid  TC1422)
@@ -21859,6 +24981,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTC24010] of MODULETIME 
 (moduleid  TC2401)
@@ -21866,6 +24989,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTE20020] of MODULETIME 
 (moduleid  TE2002)
@@ -21873,6 +24997,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTE20030] of MODULETIME 
 (moduleid  TE2003)
@@ -21880,6 +25005,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTE21010] of MODULETIME 
 (moduleid  TE2101)
@@ -21887,6 +25013,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTE32010] of MODULETIME 
 (moduleid  TE3201)
@@ -21894,6 +25021,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTE38010] of MODULETIME 
 (moduleid  TE3801)
@@ -21901,6 +25029,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTE40010] of MODULETIME 
 (moduleid  TE4001)
@@ -21908,6 +25037,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTG14010] of MODULETIME 
 (moduleid  TG1401)
@@ -21915,6 +25045,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTG24150] of MODULETIME 
 (moduleid  TG2415)
@@ -21922,6 +25053,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTG30010] of MODULETIME 
 (moduleid  TG3001)
@@ -21929,6 +25061,7 @@
 (starttime 2330)
 (endtime 2330)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTG3101A0] of MODULETIME 
 (moduleid  TG3101A)
@@ -21936,6 +25069,7 @@
 (starttime 600)
 (endtime 600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTG3101B0] of MODULETIME 
 (moduleid  TG3101B)
@@ -21943,6 +25077,7 @@
 (starttime 630)
 (endtime 630)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTM24010] of MODULETIME 
 (moduleid  TM2401)
@@ -21950,6 +25085,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTM31010] of MODULETIME 
 (moduleid  TM3101)
@@ -21957,6 +25093,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTM41010] of MODULETIME 
 (moduleid  TM4101)
@@ -21964,6 +25101,7 @@
 (starttime 2300)
 (endtime 2300)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTM42090] of MODULETIME 
 (moduleid  TM4209)
@@ -21971,6 +25109,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTM42640] of MODULETIME 
 (moduleid  TM4264)
@@ -21978,6 +25117,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTP50260] of MODULETIME 
 (moduleid  TP5026)
@@ -21985,6 +25125,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTP50280] of MODULETIME 
 (moduleid  TP5028)
@@ -21992,6 +25133,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTR22010] of MODULETIME 
 (moduleid  TR2201)
@@ -21999,6 +25141,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption W1)
 )
 ([timeTR22011] of MODULETIME 
 (moduleid  TR2201)
@@ -22006,6 +25149,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption W2)
 )
 ([timeTR22012] of MODULETIME 
 (moduleid  TR2201)
@@ -22013,6 +25157,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption W3)
 )
 ([timeTR22020] of MODULETIME 
 (moduleid  TR2202)
@@ -22020,6 +25165,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption R1)
 )
 ([timeTR22021] of MODULETIME 
 (moduleid  TR2202)
@@ -22027,6 +25173,7 @@
 (starttime 1700)
 (endtime 1700)
 (semester 2)
+(moduleoption R2)
 )
 ([timeTR30010] of MODULETIME 
 (moduleid  TR3001)
@@ -22034,6 +25181,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption X1)
 )
 ([timeTR30011] of MODULETIME 
 (moduleid  TR3001)
@@ -22041,6 +25189,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption X1)
 )
 ([timeTR30012] of MODULETIME 
 (moduleid  TR3001)
@@ -22048,6 +25197,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption X1)
 )
 ([timeTR30020] of MODULETIME 
 (moduleid  TR3002)
@@ -22055,6 +25205,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption D1)
 )
 ([timeTS1101E0] of MODULETIME 
 (moduleid  TS1101E)
@@ -22062,6 +25213,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS22170] of MODULETIME 
 (moduleid  TS2217)
@@ -22069,6 +25221,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS22360] of MODULETIME 
 (moduleid  TS2236)
@@ -22076,6 +25229,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS22400] of MODULETIME 
 (moduleid  TS2240)
@@ -22083,6 +25237,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS31030] of MODULETIME 
 (moduleid  TS3103)
@@ -22090,6 +25245,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS31031] of MODULETIME 
 (moduleid  TS3103)
@@ -22097,6 +25253,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS32330] of MODULETIME 
 (moduleid  TS3233)
@@ -22104,6 +25261,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS32340] of MODULETIME 
 (moduleid  TS3234)
@@ -22111,6 +25269,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS32350] of MODULETIME 
 (moduleid  TS3235)
@@ -22118,6 +25277,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS32400] of MODULETIME 
 (moduleid  TS3240)
@@ -22125,6 +25285,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS32430] of MODULETIME 
 (moduleid  TS3243)
@@ -22132,6 +25293,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS32460] of MODULETIME 
 (moduleid  TS3246)
@@ -22139,6 +25301,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS32470] of MODULETIME 
 (moduleid  TS3247)
@@ -22146,6 +25309,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS42130] of MODULETIME 
 (moduleid  TS4213)
@@ -22153,6 +25317,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS42170] of MODULETIME 
 (moduleid  TS4217)
@@ -22160,6 +25325,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS4880B0] of MODULETIME 
 (moduleid  TS4880B)
@@ -22167,6 +25333,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeTS5212R0] of MODULETIME 
 (moduleid  TS5212R)
@@ -22174,6 +25341,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUAR22010] of MODULETIME 
 (moduleid  UAR2201)
@@ -22181,6 +25349,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUD56280] of MODULETIME 
 (moduleid  UD5628)
@@ -22188,6 +25357,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUIS49320] of MODULETIME 
 (moduleid  UIS4932)
@@ -22195,6 +25365,7 @@
 (starttime 2030)
 (endtime 2030)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUIS49330] of MODULETIME 
 (moduleid  UIS4933)
@@ -22202,6 +25373,7 @@
 (starttime 2000)
 (endtime 2000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUIT22060] of MODULETIME 
 (moduleid  UIT2206)
@@ -22209,6 +25381,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUIT22061] of MODULETIME 
 (moduleid  UIT2206)
@@ -22216,6 +25389,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUIT22062] of MODULETIME 
 (moduleid  UIT2206)
@@ -22223,6 +25397,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeUIT22063] of MODULETIME 
 (moduleid  UIT2206)
@@ -22230,6 +25405,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 2)
 )
 ([timeULS22020] of MODULETIME 
 (moduleid  ULS2202)
@@ -22237,6 +25413,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeULS22021] of MODULETIME 
 (moduleid  ULS2202)
@@ -22244,6 +25421,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeULT2299E0] of MODULETIME 
 (moduleid  ULT2299E)
@@ -22251,6 +25429,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeULT2299E1] of MODULETIME 
 (moduleid  ULT2299E)
@@ -22258,6 +25437,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUNL22010] of MODULETIME 
 (moduleid  UNL2201)
@@ -22265,6 +25445,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUNL22011] of MODULETIME 
 (moduleid  UNL2201)
@@ -22272,6 +25453,7 @@
 (starttime 1900)
 (endtime 1900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUNL22060] of MODULETIME 
 (moduleid  UNL2206)
@@ -22279,6 +25461,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUNL22061] of MODULETIME 
 (moduleid  UNL2206)
@@ -22286,6 +25469,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUNL22062] of MODULETIME 
 (moduleid  UNL2206)
@@ -22293,6 +25477,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeUNL22063] of MODULETIME 
 (moduleid  UNL2206)
@@ -22300,6 +25485,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 2)
 )
 ([timeUPC22060] of MODULETIME 
 (moduleid  UPC2206)
@@ -22307,6 +25493,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUPC22061] of MODULETIME 
 (moduleid  UPC2206)
@@ -22314,6 +25501,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUPC22070] of MODULETIME 
 (moduleid  UPC2207)
@@ -22321,6 +25509,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUPC22071] of MODULETIME 
 (moduleid  UPC2207)
@@ -22328,6 +25517,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUPI22060] of MODULETIME 
 (moduleid  UPI2206)
@@ -22335,6 +25525,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUQF2101B0] of MODULETIME 
 (moduleid  UQF2101B)
@@ -22342,6 +25533,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUQF2101B1] of MODULETIME 
 (moduleid  UQF2101B)
@@ -22349,6 +25541,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUQF2101F0] of MODULETIME 
 (moduleid  UQF2101F)
@@ -22356,6 +25549,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUQF2101F1] of MODULETIME 
 (moduleid  UQF2101F)
@@ -22363,6 +25557,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUQF2101G0] of MODULETIME 
 (moduleid  UQF2101G)
@@ -22370,6 +25565,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUQF2101G1] of MODULETIME 
 (moduleid  UQF2101G)
@@ -22377,6 +25573,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUQF2101G2] of MODULETIME 
 (moduleid  UQF2101G)
@@ -22384,6 +25581,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeUQF2101G3] of MODULETIME 
 (moduleid  UQF2101G)
@@ -22391,6 +25589,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeUQF2101G4] of MODULETIME 
 (moduleid  UQF2101G)
@@ -22398,6 +25597,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeUQF2101G5] of MODULETIME 
 (moduleid  UQF2101G)
@@ -22405,6 +25605,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 3)
 )
 ([timeUQF2101H0] of MODULETIME 
 (moduleid  UQF2101H)
@@ -22412,6 +25613,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUQF2101H1] of MODULETIME 
 (moduleid  UQF2101H)
@@ -22419,6 +25621,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUQR22110] of MODULETIME 
 (moduleid  UQR2211)
@@ -22426,6 +25629,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUQR22111] of MODULETIME 
 (moduleid  UQR2211)
@@ -22433,6 +25637,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSE22090] of MODULETIME 
 (moduleid  USE2209)
@@ -22440,6 +25645,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSE22091] of MODULETIME 
 (moduleid  USE2209)
@@ -22447,6 +25653,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSE23040] of MODULETIME 
 (moduleid  USE2304)
@@ -22454,6 +25661,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSE23041] of MODULETIME 
 (moduleid  USE2304)
@@ -22461,6 +25669,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSE23042] of MODULETIME 
 (moduleid  USE2304)
@@ -22468,6 +25677,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeUSE23043] of MODULETIME 
 (moduleid  USE2304)
@@ -22475,6 +25685,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 2)
 )
 ([timeUSE23070] of MODULETIME 
 (moduleid  USE2307)
@@ -22482,6 +25693,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSE23071] of MODULETIME 
 (moduleid  USE2307)
@@ -22489,6 +25701,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSE23130] of MODULETIME 
 (moduleid  USE2313)
@@ -22496,6 +25709,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSE23160] of MODULETIME 
 (moduleid  USE2316)
@@ -22503,6 +25717,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSE23161] of MODULETIME 
 (moduleid  USE2316)
@@ -22510,6 +25725,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSE23170] of MODULETIME 
 (moduleid  USE2317)
@@ -22517,6 +25733,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSE23171] of MODULETIME 
 (moduleid  USE2317)
@@ -22524,6 +25741,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSE23180] of MODULETIME 
 (moduleid  USE2318)
@@ -22531,6 +25749,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSE23181] of MODULETIME 
 (moduleid  USE2318)
@@ -22538,6 +25757,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSP35010] of MODULETIME 
 (moduleid  USP3501)
@@ -22545,6 +25765,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSP35011] of MODULETIME 
 (moduleid  USP3501)
@@ -22552,6 +25773,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSP35060] of MODULETIME 
 (moduleid  USP3506)
@@ -22559,6 +25781,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUSP35061] of MODULETIME 
 (moduleid  USP3506)
@@ -22566,6 +25789,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2101A0] of MODULETIME 
 (moduleid  UWC2101A)
@@ -22573,6 +25797,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2101A1] of MODULETIME 
 (moduleid  UWC2101A)
@@ -22580,6 +25805,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2101B0] of MODULETIME 
 (moduleid  UWC2101B)
@@ -22587,6 +25813,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2101B1] of MODULETIME 
 (moduleid  UWC2101B)
@@ -22594,6 +25821,7 @@
 (starttime 1200)
 (endtime 1200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2101C0] of MODULETIME 
 (moduleid  UWC2101C)
@@ -22601,6 +25829,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2101C1] of MODULETIME 
 (moduleid  UWC2101C)
@@ -22608,6 +25837,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2101H0] of MODULETIME 
 (moduleid  UWC2101H)
@@ -22615,6 +25845,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2101H1] of MODULETIME 
 (moduleid  UWC2101H)
@@ -22622,6 +25853,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2101S0] of MODULETIME 
 (moduleid  UWC2101S)
@@ -22629,6 +25861,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2101S1] of MODULETIME 
 (moduleid  UWC2101S)
@@ -22636,6 +25869,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2101S2] of MODULETIME 
 (moduleid  UWC2101S)
@@ -22643,6 +25877,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeUWC2101S3] of MODULETIME 
 (moduleid  UWC2101S)
@@ -22650,6 +25885,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 2)
 )
 ([timeUWC2101Y0] of MODULETIME 
 (moduleid  UWC2101Y)
@@ -22657,6 +25893,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2101Y1] of MODULETIME 
 (moduleid  UWC2101Y)
@@ -22664,6 +25901,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2102E0] of MODULETIME 
 (moduleid  UWC2102E)
@@ -22671,6 +25909,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeUWC2102E1] of MODULETIME 
 (moduleid  UWC2102E)
@@ -22678,6 +25917,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYCC11120] of MODULETIME 
 (moduleid  YCC1112)
@@ -22685,6 +25925,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYCC11121] of MODULETIME 
 (moduleid  YCC1112)
@@ -22692,6 +25933,7 @@
 (starttime 1800)
 (endtime 1800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYCC11140] of MODULETIME 
 (moduleid  YCC1114)
@@ -22699,6 +25941,7 @@
 (starttime 800)
 (endtime 800)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYCC11220] of MODULETIME 
 (moduleid  YCC1122)
@@ -22706,6 +25949,7 @@
 (starttime 1100)
 (endtime 1100)
 (semester 2)
+(moduleoption A1)
 )
 ([timeYCC11221] of MODULETIME 
 (moduleid  YCC1122)
@@ -22713,6 +25957,7 @@
 (starttime 1000)
 (endtime 1000)
 (semester 2)
+(moduleoption A1)
 )
 ([timeYCC11222] of MODULETIME 
 (moduleid  YCC1122)
@@ -22720,6 +25965,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption A2)
 )
 ([timeYCC11223] of MODULETIME 
 (moduleid  YCC1122)
@@ -22727,6 +25973,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption A2)
 )
 ([timeYCC11224] of MODULETIME 
 (moduleid  YCC1122)
@@ -22734,6 +25981,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption B1)
 )
 ([timeYCC11225] of MODULETIME 
 (moduleid  YCC1122)
@@ -22741,6 +25989,7 @@
 (starttime 1230)
 (endtime 1230)
 (semester 2)
+(moduleoption B1)
 )
 ([timeYCC11226] of MODULETIME 
 (moduleid  YCC1122)
@@ -22748,6 +25997,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption B2)
 )
 ([timeYCC11227] of MODULETIME 
 (moduleid  YCC1122)
@@ -22755,6 +26005,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption B2)
 )
 ([timeYCC11320] of MODULETIME 
 (moduleid  YCC1132)
@@ -22762,6 +26013,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYCC11321] of MODULETIME 
 (moduleid  YCC1132)
@@ -22769,6 +26021,7 @@
 (starttime 1400)
 (endtime 1400)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYCC11322] of MODULETIME 
 (moduleid  YCC1132)
@@ -22776,6 +26029,7 @@
 (starttime 900)
 (endtime 900)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYHU12010] of MODULETIME 
 (moduleid  YHU1201)
@@ -22783,6 +26037,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYHU12020] of MODULETIME 
 (moduleid  YHU1202)
@@ -22790,6 +26045,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYHU12021] of MODULETIME 
 (moduleid  YHU1202)
@@ -22797,6 +26053,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYHU12030] of MODULETIME 
 (moduleid  YHU1203)
@@ -22804,6 +26061,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYHU12031] of MODULETIME 
 (moduleid  YHU1203)
@@ -22811,6 +26069,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYHU12040] of MODULETIME 
 (moduleid  YHU1204)
@@ -22818,6 +26077,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYHU12050] of MODULETIME 
 (moduleid  YHU1205)
@@ -22825,6 +26085,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYHU12060] of MODULETIME 
 (moduleid  YHU1206)
@@ -22832,6 +26093,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYID12010] of MODULETIME 
 (moduleid  YID1201)
@@ -22839,6 +26101,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYID12011] of MODULETIME 
 (moduleid  YID1201)
@@ -22846,6 +26109,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYIR13210] of MODULETIME 
 (moduleid  YIR1321)
@@ -22853,6 +26117,7 @@
 (starttime 2200)
 (endtime 2200)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYIR13220] of MODULETIME 
 (moduleid  YIR1322)
@@ -22860,6 +26125,7 @@
 (starttime 2100)
 (endtime 2100)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYLF12110] of MODULETIME 
 (moduleid  YLF1211)
@@ -22867,6 +26133,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYLF12111] of MODULETIME 
 (moduleid  YLF1211)
@@ -22874,6 +26141,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 2)
 )
 ([timeYLF12112] of MODULETIME 
 (moduleid  YLF1211)
@@ -22881,6 +26149,7 @@
 (starttime 1500)
 (endtime 1500)
 (semester 2)
+(moduleoption 3)
 )
 ([timeYLS12010] of MODULETIME 
 (moduleid  YLS1201)
@@ -22888,6 +26157,7 @@
 (starttime 1230)
 (endtime 1230)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYLS12011] of MODULETIME 
 (moduleid  YLS1201)
@@ -22895,6 +26165,7 @@
 (starttime 1230)
 (endtime 1230)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYLS12012] of MODULETIME 
 (moduleid  YLS1201)
@@ -22902,6 +26173,7 @@
 (starttime 1230)
 (endtime 1230)
 (semester 2)
+(moduleoption 2)
 )
 ([timeYLS12013] of MODULETIME 
 (moduleid  YLS1201)
@@ -22909,6 +26181,7 @@
 (starttime 1230)
 (endtime 1230)
 (semester 2)
+(moduleoption 2)
 )
 ([timeYSS12010] of MODULETIME 
 (moduleid  YSS1201)
@@ -22916,6 +26189,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYSS12011] of MODULETIME 
 (moduleid  YSS1201)
@@ -22923,6 +26197,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYSS12020] of MODULETIME 
 (moduleid  YSS1202)
@@ -22930,6 +26205,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYSS12021] of MODULETIME 
 (moduleid  YSS1202)
@@ -22937,6 +26213,7 @@
 (starttime 1430)
 (endtime 1430)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYSS12030] of MODULETIME 
 (moduleid  YSS1203)
@@ -22944,6 +26221,7 @@
 (starttime 1600)
 (endtime 1600)
 (semester 2)
+(moduleoption 1)
 )
 ([timeYSS12031] of MODULETIME 
 (moduleid  YSS1203)
@@ -22951,5 +26229,6 @@
 (starttime 1300)
 (endtime 1300)
 (semester 2)
+(moduleoption 1)
 )
 )
