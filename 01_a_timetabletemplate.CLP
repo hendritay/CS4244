@@ -30,3 +30,6 @@
   (is-a USER)
   (slot option))
 
+(defclass TIMETABLE::FINALCHOSEN
+  (is-a USER)
+  (slot moduleid))

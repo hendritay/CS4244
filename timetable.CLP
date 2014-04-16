@@ -218,7 +218,7 @@ then
 
 ; generate the URL string for timetable display ;
 
-(defrule generate-url
+(defrule TIMETABLE::generate-url
 ?current-data <- (object (is-a CURRENTDATA) (current-stage -1))
 ?selected <- (object (is-a CURRENTSELECTION) (moduleid ?selected-id) (moduleoption ?selected-moduleoption))
 ?selected-time <- (object (is-a MODULETIME)(moduleid ?selected-id)(moduleoption ?selected-moduleoption)(lecturetype ?ltype))
@@ -234,9 +234,11 @@ then (send ?current-data put-url (sym-cat (send ?current-data get-url) ?selected
 (if (eq ?ltype DESIGNLECTURE)
 then (send ?current-data put-url (sym-cat (send ?current-data get-url) ?selected-id "=0" ?selected-moduleoption)))
 (send ?current-data put-current-stage -2)
+; we convert the module from SELECTEDMODULE to FINALCHOSEN ;
+(make-instance (sym-cat FC- ?selected-id) of FINALCHOSEN (moduleid ?selected-id))
 (unmake-instance ?selected))
 
-(defrule generate-and (declare (salience 1))
+(defrule TIMETABLE::generate-and (declare (salience 1))
 ?current-data <- (object (is-a CURRENTDATA) (current-stage -2))
 ?selected <- (object (is-a CURRENTSELECTION))
 =>
