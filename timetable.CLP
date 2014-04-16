@@ -11,11 +11,9 @@
 (test
   (>= ?mc 18))
 =>
-(printout t "success, we have " ?mc "MC, exit!" crlf)
 (send ?current-data put-current-stage -1))
 
 (defglobal ?*final-url* = "")
-
 
 ; step 1: filter to get candidate modules who don't have unmet prereqs ;
 
@@ -108,7 +106,6 @@
     (>= 20 (+ ?mc ?mod-mc)))
 then
 ; if successful then add module to selection ;
-  (printout t "step 2: successfully added module " ?probable-id crlf)
   (make-instance (sym-cat CS- ?probable-id) of CURRENTSELECTION
     (moduleid ?probable-id)
     (moduletagtotalscore ?max)
@@ -217,7 +214,6 @@ then
 (test
   (> 18 ?mc))
 =>
-(printout t "failure, we have " ?mc "MC, exit!" crlf)
 (send ?current-data put-current-stage 5)
 (halt))
 
