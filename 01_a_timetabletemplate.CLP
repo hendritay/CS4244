@@ -3,7 +3,8 @@
   (slot current-sem (type NUMBER))
   (slot current-mc (type NUMBER))
   (slot current-stage (type NUMBER))
-  (slot current-max (type NUMBER)))
+  (slot current-max (type NUMBER))
+  (slot url (type STRING) (default "http://nusmods.com/2013-2014/sem2/v1/#")))
 
 (defclass TIMETABLE::SINGLESEM
   (is-a USER)
