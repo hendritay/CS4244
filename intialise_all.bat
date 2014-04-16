@@ -14,6 +14,11 @@
 (load "ModuleTag_Fact.clp")
 (load "ModulePrereq_Fact.clp")
 (load "ModulePreclude_Fact.clp")
+(load "ModuleTime_Fact.clp")
+(load "ModuleExam_Fact.clp")
+
+(load "timetable.clp")
+
 (load "99_testcase1.txt")
 (reset)
 (focus INITIALIZE)
@@ -22,3 +27,4 @@
 (run)
 (focus MODULESELECTION)
 (run)
+
