@@ -11,10 +11,9 @@
 (test
   (>= ?mc 18))
 =>
-(printout t "success, we have " ?mc "MC, exit!" crlf)
-(send ?current-data put-current-stage -1)
-(halt))
+(send ?current-data put-current-stage -1))
 
+(defglobal ?*final-url* = "")
 
 ; step 1: filter to get candidate modules who don't have unmet prereqs ;
 
@@ -107,7 +106,6 @@
     (>= 20 (+ ?mc ?mod-mc)))
 then
 ; if successful then add module to selection ;
-  (printout t "step 2: successfully added module " ?probable-id crlf)
   (make-instance (sym-cat CS- ?probable-id) of CURRENTSELECTION
     (moduleid ?probable-id)
     (moduletagtotalscore ?max)
@@ -216,6 +214,43 @@ then
 (test
   (> 18 ?mc))
 =>
-(printout t "failure, we have " ?mc "MC, exit!" crlf)
-(send ?current-data put-current-stage -1)
+(send ?current-data put-current-stage 5)
 (halt))
+
+; generate the URL string for timetable display ;
+
+(defrule generate-url
+?current-data <- (object (is-a CURRENTDATA) (current-stage -1))
+?selected <- (object (is-a CURRENTSELECTION) (moduleid ?selected-id) (moduleoption ?selected-moduleoption))
+?selected-time <- (object (is-a MODULETIME)(moduleid ?selected-id)(moduleoption ?selected-moduleoption)(lecturetype ?ltype))
+=>
+(if (eq ?ltype LECTURE)
+then (send ?current-data put-url (sym-cat (send ?current-data get-url) ?selected-id "=2" ?selected-moduleoption)))
+(if (eq ?ltype SEMINAR-STYLEMODULECLASS)
+then (send ?current-data put-url (sym-cat (send ?current-data get-url) ?selected-id "=7" ?selected-moduleoption)))
+(if (eq ?ltype SECTIONALTEACHING)
+then (send ?current-data put-url (sym-cat (send ?current-data get-url) ?selected-id "=6" ?selected-moduleoption)))
+(if (eq ?ltype PACKAGEDLECTURE)
+then (send ?current-data put-url (sym-cat (send ?current-data get-url) ?selected-id "=3" ?selected-moduleoption)))
+(if (eq ?ltype DESIGNLECTURE)
+then (send ?current-data put-url (sym-cat (send ?current-data get-url) ?selected-id "=0" ?selected-moduleoption)))
+(send ?current-data put-current-stage -2)
+(unmake-instance ?selected))
+
+(defrule generate-and (declare (salience 1))
+?current-data <- (object (is-a CURRENTDATA) (current-stage -2))
+?selected <- (object (is-a CURRENTSELECTION))
+=>
+(send ?current-data put-url (sym-cat (send ?current-data get-url) "&"))
+(send ?current-data put-current-stage -1))
+
+(defrule TIMETABLE::generate-finished
+?current-data <- (object (is-a CURRENTDATA) (current-stage -2)(url ?current-url))
+=>
+(bind ?*final-url* ?current-url)
+(halt))
+
+(deffunction TIMETABLE::print-out-url ()
+(printout t ?*final-url* crlf))
+  
+  
