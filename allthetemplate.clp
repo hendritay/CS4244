@@ -16,12 +16,12 @@
 (defmodule INITIALIZE
   (export defclass MODULE)
   (export defclass MODULEPREQ)
-  
+  (export defclass MODULETAKEN)
  )
 
 (defmodule MODULESELECTION
    (import INITIALIZE defclass ?ALL)
-   (export defclass CANDIDATEMODULE)
+   (export defclass CANDIDATEMODULE)  
 )
  
 (defmodule TIMETABLE
@@ -80,6 +80,7 @@
     (is-a USER)
 	(slot moduleid )
 	(slot moduletagtotalscore (type NUMBER))
+	(slot location)
 	
  )
  
