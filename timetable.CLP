@@ -1,47 +1,24 @@
-(defclass CURRENTDATA
-  (is-a USER)
-  (slot current-sem (type NUMBER))
-  (slot current-mc (type NUMBER))
-  (slot current-stage (type NUMBER))
-  (slot current-max (type NUMBER)))
-
-(defclass SINGLESEM
-  (is-a USER)
-  (slot moduleid (type SYMBOL)))
-
-(defclass CURRENTSELECTION
-  (is-a USER)
-  (slot moduleid)
-  (slot moduletagtotalscore (type NUMBER))
-  (slot day)
-  (slot starttime (type NUMBER))
-  (slot endtime (type NUMBER))
-  (slot semester (type NUMBER)))
-
-(defclass PROBABLEMODULE
-  (is-a USER)
-  (slot moduleid)
-  (slot moduletagtotalscore (type NUMBER))
-  (slot mc (type NUMBER))
-  (slot is-checked (default unchecked)))
-
-(definstances INITIALISEDATA
+(definstances TIMETABLE::INITIALISEDATA
   (currentdata of CURRENTDATA (current-mc 0) (current-stage 1) (current-sem 2)))
+  
+(deffacts TIMETABLE::the-facts
+  (focus TIMETABLE))
 
 ; step 0: if at any time we have a min of 18MC, we exit successfully ;
 
-(defrule satisfied-mc-requirements
+(defrule TIMETABLE::satisfied-mc-requirements (declare (salience 2))
 ?current-data <- (object (is-a CURRENTDATA)(current-mc ?mc))
 (test
   (>= ?mc 18))
 =>
 (printout t "success, we have " ?mc "MC, exit!" crlf)
-(send ?current-data put-current-stage -1))
+(send ?current-data put-current-stage -1)
+(halt))
 
 
 ; step 1: filter to get candidate modules who don't have unmet prereqs ;
 
-(defrule filter-by-prereqs
+(defrule TIMETABLE::filter-by-prereqs
 ?current-data <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-stage 1))
 =>
 (delayed-do-for-all-instances
@@ -65,7 +42,7 @@
 
 ; step 2: get max score module ;
 
-(defrule update-max-score 
+(defrule TIMETABLE::update-max-score 
 ?current-data <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-stage 2)(current-max ?max))
 ?probable <- (object (is-a PROBABLEMODULE) (moduletagtotalscore ?score)(is-checked unchecked))
 (test
@@ -81,15 +58,17 @@
 
 ; step 3: try to add max score module ;
 
-(defrule check-max-score-module (declare (salience 1))
+(defrule TIMETABLE::check-max-score-module (declare (salience 1))
 ?current-data <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-stage 3)(current-max ?max)(current-mc ?mc))
 ?probable <- (object (is-a PROBABLEMODULE) (moduleid ?probable-id) (moduletagtotalscore ?max)(is-checked unchecked)(mc ?mod-mc))
-?probable-time <- (object (is-a MODULETIME) (moduleid ?probable-id) (semester ?sem) (day ?probable-day) (starttime ?probable-start) (endtime ?probable-end))
+?probable-exam <- (object (is-a EXAM) (moduleid ?probable-id) (exam-date ?probable-exam-date)(exam-time ?probable-exam-time))
+?probable-option-test <- (object (is-a MODULETIME)(moduleid ?probable-id)(moduleoption ?probable-module-option))
+?probable-option <- (object (is-a MODULEOPTION)(option ?probable-module-option))
 (test
   (not
     (any-instancep
       ((?selected CURRENTSELECTION))
-      (eq ?selected:moduleid ?probable-id)))) 
+      (eq ?selected:moduleid ?probable-id))))
 =>
 ; check against selected modules for exam and schedule clashes ;
 (if 
@@ -97,27 +76,33 @@
 ; no exam clash ;
     (not
       (any-instancep
-        ((?selected CURRENTSELECTION)(?probable-exam EXAM)(?selected-exam EXAM))
+        ((?selected CURRENTSELECTION))
         (and
-          (eq ?probable-exam:moduleid ?probable-id)
-          (eq ?selected-exam:moduleid ?selected:moduleid)
-          (eq ?selected-exam:exam-date ?probable-exam:exam-date)
-          (eq ?selected-exam:exam-time ?probable-exam:exam-time))))
-; no schedule clash ;
+          (eq ?selected:exam-date ?probable-exam-date)
+          (eq ?selected:exam-time ?probable-exam-time))))
+; moduleoption chosen doesn't clash with anything ;
     (not
       (any-instancep
         ((?selected CURRENTSELECTION))
+        (any-instancep
+          ((?selected-time MODULETIME))
           (and
-            (neq ?selected:moduleid ?probable-id)
-            (eq ?selected:day ?probable-day)
-            (not
-              (or
-                (and 
-                    (< ?probable-start ?selected:starttime)
-                    (<= ?selected:starttime ?probable-end))
-                (and 
-                    (< ?selected:starttime ?probable-start)
-                    (<= ?probable-start ?selected:endtime)))))))
+            (eq ?selected:moduleid ?selected-time:moduleid)
+            (eq ?selected:moduleoption ?selected-time:moduleoption)
+            (any-instancep
+              ((?probable-time1 MODULETIME))
+              (and
+                (eq ?probable-time1:moduleid ?probable-id)
+                (eq ?probable-time1:moduleoption ?probable-module-option)
+                (eq ?probable-time1:day ?selected-time:day)
+                (not
+                  (or
+                    (and 
+                      (< ?probable-time1:starttime ?selected-time:starttime)
+                      (<= ?selected-time:starttime ?probable-time1:endtime))
+                    (and 
+                        (< ?selected-time:starttime ?probable-time1:starttime)
+                        (<= ?probable-time1:starttime ?selected-time:endtime))))))))))
 ; not over mc limit (currently set to 20);
     (>= 20 (+ ?mc ?mod-mc)))
 then
@@ -126,10 +111,10 @@ then
   (make-instance (sym-cat CS- ?probable-id) of CURRENTSELECTION
     (moduleid ?probable-id)
     (moduletagtotalscore ?max)
-    (day ?probable-day)
-    (starttime ?probable-start)
-    (endtime ?probable-end)
-    (semester ?sem))
+    (semester ?sem)
+    (exam-date ?probable-exam-date)
+    (exam-time ?probable-exam-time)
+    (moduleoption ?probable-module-option))
   (send ?current-data put-current-max 0)
   (send ?probable put-is-checked checked)
   (send ?current-data put-current-stage 2)
@@ -137,7 +122,7 @@ then
 
 ; if all matches for one module were unsuccessful, we set it as checked and move back to step 2 ;
 
-(defrule no-matches
+(defrule TIMETABLE::no-matches
 ?current-data <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-stage 3)(current-max ?max))
 ?probable <- (object (is-a PROBABLEMODULE) (moduleid ?probable-id) (moduletagtotalscore ?max)(is-checked unchecked))
 =>
@@ -147,7 +132,7 @@ then
   
 ; if all modules have been checked and we still can't assign enough modules we move to stage 4 ;
 
-(defrule stage-two-to-four
+(defrule TIMETABLE::stage-two-to-four
 ?current-data <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-stage 2)(current-max ?max))
 (test
   (not
@@ -159,12 +144,13 @@ then
 
 ; step 4: we try to find a selected module which, when removed, will allow at least one module to be added ;
 
-(defrule remove-selected-module (declare (salience 1))
+(defrule TIMETABLE::remove-selected-module (declare (salience 1))
 ?current-data <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-stage 4)(current-max ?max)(current-mc ?mc))
 ?removalcandidate <- (object (is-a CURRENTSELECTION)(moduleid ?candidate-id))
 ?candidate <- (object (is-a PROBABLEMODULE)(moduleid ?candidate-id)(mc ?mod-mc))
 ?probable1 <- (object (is-a PROBABLEMODULE)(moduleid ?probable1-id)(mc ?mod1-mc)(is-checked ?probable1-is-checked))
-?probable1-time <- (object (is-a MODULETIME) (moduleid ?probable1-id) (semester ?sem) (day ?probable1-day) (starttime ?probable1-start) (endtime ?probable1-end))
+?probable1-exam <- (object (is-a EXAM) (moduleid ?probable1-id) (exam-date ?probable1-exam-date)(exam-time ?probable1-exam-time))
+?probable-option-test <- (object (is-a MODULETIME)(moduleid ?probable1-id)(moduleoption ?probable1-module-option))
 (test
   (and
     (neq ?candidate-id ?probable1-id)
@@ -175,30 +161,36 @@ then
 ; no exam clash ;
     (not
       (any-instancep
-        ((?selected CURRENTSELECTION)(?probable1-exam EXAM)(?selected-exam EXAM))
+        ((?selected CURRENTSELECTION))
         (and
           (neq ?selected:moduleid ?candidate-id)
-          (eq ?probable1-exam:moduleid ?probable1-id)
-          (eq ?selected-exam:moduleid ?selected:moduleid)
-          (and
-            (eq ?selected-exam:exam-date ?probable1-exam:exam-date)
-            (eq ?selected-exam:exam-time ?probable1-exam:exam-time)))))
-; no schedule clash ;
+          (eq ?selected:exam-date ?probable1-exam-date)
+          (eq ?selected:exam-time ?probable1-exam-time))))
+; moduleoption chosen doesn't clash with anything ;
     (not
       (any-instancep
         ((?selected CURRENTSELECTION))
-          (and
-            (eq ?selected:semester ?sem)
-            (neq ?selected:moduleid ?candidate-id)
-            (not
-              (or 
-                (neq ?probable1-day ?selected:day)
-                (and 
-                    (< ?probable1-start ?selected:starttime)
-                    (<= ?selected:starttime ?probable1-end))
-                (and 
-                    (< ?selected:starttime ?probable1-start)
-                    (<= ?probable1-start ?selected:endtime)))))))
+        (and
+          (neq ?selected:moduleid ?candidate-id)
+          (any-instancep
+            ((?selected-time MODULETIME))
+            (and
+              (eq ?selected:moduleid ?selected-time:moduleid)
+              (eq ?selected:moduleoption ?selected-time:moduleoption)
+              (any-instancep
+                ((?probable-time1 MODULETIME))
+                (and
+                  (eq ?probable-time1:moduleid ?probable1-id)
+                  (eq ?probable-time1:moduleoption ?probable1-module-option)
+                  (eq ?probable-time1:day ?selected-time:day)
+                  (not
+                    (or
+                      (and 
+                        (< ?probable-time1:starttime ?selected-time:starttime)
+                        (<= ?selected-time:starttime ?probable-time1:endtime))
+                      (and 
+                          (< ?selected-time:starttime ?probable-time1:starttime)
+                          (<= ?probable-time1:starttime ?selected-time:endtime)))))))))))
 ; not over mc limit (currently set to 20);
     (>= 20 (- (+ ?mc ?mod1-mc) ?mod-mc)))
 then
@@ -216,15 +208,14 @@ then
   (send ?candidate put-is-checked removed)
   (send ?current-data put-current-stage 2)
   (send ?current-data put-current-mc (- ?mc ?mod-mc))))
-  
-; if still cannot assign fully, we try to remove lowest scoring selected module and try again ;
 
 ; if all fails, display fail message and exit ;
 
-(defrule unsatisfied-mc-requirements
+(defrule TIMETABLE::unsatisfied-mc-requirements
 ?current-data <- (object (is-a CURRENTDATA)(current-mc ?mc)(current-stage 4))
 (test
   (> 18 ?mc))
 =>
 (printout t "failure, we have " ?mc "MC, exit!" crlf)
-(send ?current-data put-current-stage -1))
+(send ?current-data put-current-stage -1)
+(halt))

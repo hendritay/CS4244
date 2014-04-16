@@ -1,3 +1,4 @@
+(focus TIMETABLE)
 (make-instance [CM-CS1010] of CANDIDATEMODULE (moduleid CS1010) (moduletagtotalscore 100))
 (make-instance [CM-CS1020] of CANDIDATEMODULE (moduleid CS1020) (moduletagtotalscore 200))
 (make-instance [CM-CS3230] of CANDIDATEMODULE (moduleid CS3230) (moduletagtotalscore 300))
@@ -15,5 +16,6 @@
 (make-instance [CM-PC1221] of CANDIDATEMODULE (moduleid PC1221) (moduletagtotalscore 200))
 (make-instance [CM-MA1101R] of CANDIDATEMODULE (moduleid MA1101R) (moduletagtotalscore 100))
 (make-instance [CM-MA1102R] of CANDIDATEMODULE (moduleid MA1102R) (moduletagtotalscore 300))
-(make-instance [CM-MA1301] of CANDIDATEMODULE (moduleid MA1301) (moduletagtotalscore 100))
 (make-instance [CM-MA1104] of CANDIDATEMODULE (moduleid MA1104) (moduletagtotalscore 2))
+(make-instance [MT-O_level_Physics] of MODULETAKEN (moduleid O_level_Physics))
+(make-instance [MT-A_level_Mathematics] of MODULETAKEN (moduleid A_level_Mathematics))

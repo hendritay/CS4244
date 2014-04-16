@@ -1,9 +1,22 @@
-(find-all-instances
+
+      (find-instance
         ((?selected CURRENTSELECTION))
-        (and
-          (eq
-            [EX-CS1231]:get-exam-date
-            (sym-cat [EX- ?selected:moduleid ]):get-exam-date)
-          (eq
-            (send (sym-cat [EX- CS1231]) get-exam-time)
-            (send (sym-cat [EX- ?selected:moduleid ]) get-exam-time))))
+        (any-instancep
+          ((?selected-time MODULETIME))
+          (and
+            (eq ?selected:moduleid ?selected-time:moduleid)
+            (eq ?selected:moduleoption ?selected-time:moduleoption)
+            (any-instancep
+              ((?probable-time1 MODULETIME))
+              (and
+                (eq ?probable-time1:moduleid PC1221)
+                (eq ?probable-time1:moduleoption SL1)
+                (eq ?probable-time1:day THURSDAY)
+                (not
+                  (or
+                    (and 
+                      (< ?probable-time1:starttime ?selected-time:starttime)
+                      (<= ?selected-time:starttime ?probable-time1:endtime))
+                    (and 
+                        (< ?selected-time:starttime ?probable-time1:starttime)
+                        (<= ?probable-time1:starttime ?selected-time:endtime)))))))))

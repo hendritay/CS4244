@@ -1,9 +1,10 @@
+(focus TIMETABLE)
 (make-instance [CM-CS1010] of CANDIDATEMODULE (moduleid CS1010) (moduletagtotalscore 100))
 (make-instance [CM-CS1020] of CANDIDATEMODULE (moduleid CS1020) (moduletagtotalscore 200))
 (make-instance [CM-CS3230] of CANDIDATEMODULE (moduleid CS3230) (moduletagtotalscore 300))
 (make-instance [CM-CS3243] of CANDIDATEMODULE (moduleid CS3243) (moduletagtotalscore 330))
 (make-instance [CM-CS4244] of CANDIDATEMODULE (moduleid CS4244) (moduletagtotalscore 444))
-; (make-instance [CM-ACC1002] of CANDIDATEMODULE (moduleid ACC1002) (moduletagtotalscore 299)) ;
+(make-instance [CM-ACC1002] of CANDIDATEMODULE (moduleid ACC1002) (moduletagtotalscore 299))
 (make-instance [CM-LSM1301] of CANDIDATEMODULE (moduleid LSM1301) (moduletagtotalscore 23))
 (make-instance [CM-LSM1302] of CANDIDATEMODULE (moduleid LSM1302) (moduletagtotalscore 23))
 (make-instance [SS-CS3230] of SINGLESEM (moduleid CS3230))
