@@ -734,11 +734,5 @@ namespace CS4244
             else
                 pictureBox7.Visible = false;
         }
-
-        
-
-        
-
-        
     }
 }

@@ -39,9 +39,7 @@
             this.webBrowser1.Name = "webBrowser1";
             this.webBrowser1.Size = new System.Drawing.Size(1059, 632);
             this.webBrowser1.TabIndex = 0;
-            this.webBrowser1.Url = new System.Uri("http://nusmods.com/2013-2014/sem2/v1/#MA2213=1B01&CS4244=81&CS2102=87&CS5232=21&M" +
-                    "A2213=8T01&MA2213=2SL1&ST2334=8T1&ST2334=2SL2&CS4244=21&CS2102=21&MA2213=2SL1&ST" +
-                    "2334=2SL2", System.UriKind.Absolute);
+            this.webBrowser1.Url = new System.Uri("", System.UriKind.Relative);
             // 
             // Form2
             // 
