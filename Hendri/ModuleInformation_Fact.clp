@@ -1,4 +1,4 @@
-(definstances MODULEINFOLIST 
+(definstances INITIALIZE::MODULEINFOLIST 
 ([modACC1002] of MODULE 
 (moduleid  ACC1002)
 (mc 4)

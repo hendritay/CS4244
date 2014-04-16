@@ -1,5 +1,5 @@
 ; Initializing rule
-; Only run cipai(one time)
+; Only run one time
 
 ; If the module is not taken, move it to candidate module
 ; The copy from modulecandidate will move it to ALLMODULE
@@ -84,8 +84,8 @@
   (object (is-a SCORE) (focussecondary ?score))
   ?module <- (object (is-a MODULE) (moduleid ?moduleid))
   =>
-   (bind ?currentscore (send ?module get-modulescore))   
-   (send ?module put-modulescore (+ ?currentscore ?score))
+   (bind ?currentscore (send ?module get-moduletagscore))   
+   (send ?module put-moduletagscore (+ ?currentscore ?score))
 )
 
 

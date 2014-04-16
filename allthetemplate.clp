@@ -1,16 +1,31 @@
+
 (deffacts MAIN::control-execution
-	(phase-sequence INITIALIZE MODULESELECTION TIMETABLE))
+	(phase-sequence INITIALIZE MODULESELECTION TIMETABLE)
+)
+
+(defrule MAIN::change-phase
+	?list <- (phase-sequence1  ?next-phase  $?other-phases)
+=>
+	(focus ?next-phase)
+	(retract ?list)
+	(assert (phase-sequence  ?other-phases  ?next-phase))
+
+)
 
 
 (defmodule INITIALIZE
   (export defclass MODULE)
+  (export defclass MODULEPREQ)
  )
 
 (defmodule MODULESELECTION
    (import INITIALIZE defclass ?ALL)
 )
  
-(defmodule TIMETABLE)
+(defmodule TIMETABLE
+  (import INITIALIZE defclass ?ALL)
+)
+
 
 
 (defclass INITIALIZE::INTERESTEDTAG

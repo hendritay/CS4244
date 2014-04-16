@@ -1,4 +1,4 @@
-(definstances MODULETIMELIST
+(definstances TIMETABLE::MODULETIMELIST
 ([timeACC10020] of MODULETIME 
 (moduleid  ACC1002)
 (day WEDNESDAY)

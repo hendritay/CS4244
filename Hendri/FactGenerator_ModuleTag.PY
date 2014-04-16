@@ -7,7 +7,7 @@ c = db.cursor()
 c.execute("SELECT * FROM ModuleTag order by modulecode")
 table = c.fetchall()
 
-print "(definstances MODULETAGLIST "
+print "(definstances INITIALIZE::MODULETAGLIST "
 i = 0;
 OldModuleCode = ""
 for row in table:

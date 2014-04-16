@@ -1,4 +1,4 @@
-(definstances MODULETAGLIST 
+(definstances INITIALIZE::MODULETAGLIST 
 ([tagACC10020] of MODULETAG 
 (moduleid  ACC1002)
 (moduletag ACCOUNTING)

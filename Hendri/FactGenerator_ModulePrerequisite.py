@@ -7,7 +7,7 @@ c = db.cursor()
 c.execute("SELECT * FROM ModulePrereq ORDER BY ModuleCode")
 table = c.fetchall()
 
-print "(definstances MODULEPREQUISITELIST "
+print "(definstances INITIALIZE::MODULEPREQUISITELIST "
 i = 0;
 OldModuleCode = ""
 

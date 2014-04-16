@@ -13,7 +13,7 @@ ScienceModule = ['CM1121', 'CM1131', 'CM1417', 'LSM1301', 'LSM1302', 'PC1141', '
 'MA1104','MA2101','MA2108','MA2501','ST2132','ST2137']
 
  
-print "(definstances MODULEINFOLIST "
+print "(definstances INITIALIZE::MODULEINFOLIST "
 i = 0;
 OldModuleCode = ""
 for row in table:
