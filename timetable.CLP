@@ -189,8 +189,8 @@ then
                       (and 
                           (< ?selected-time:starttime ?probable-time1:starttime)
                           (<= ?probable-time1:starttime ?selected-time:endtime)))))))))))
-; not over mc limit (currently set to 20);
-    (>= 20 (- (+ ?mc ?mod1-mc) ?mod-mc)))
+; not over mc limit (currently set to 22);
+    (>= 22 (- (+ ?mc ?mod1-mc) ?mod-mc)))
 then
 ; if successful, we remove this module, reset is-checked for all non-chosen non-removed modules and go back to step 2 ;
   (delayed-do-for-all-instances
@@ -207,15 +207,14 @@ then
   (send ?current-data put-current-stage 2)
   (send ?current-data put-current-mc (- ?mc ?mod-mc))))
 
-; if all fails, display fail message and exit ;
+; if all fails, move on to generate url for what has been selected ;
 
 (defrule TIMETABLE::unsatisfied-mc-requirements
 ?current-data <- (object (is-a CURRENTDATA)(current-mc ?mc)(current-stage 4))
 (test
   (> 18 ?mc))
 =>
-(send ?current-data put-current-stage 5)
-(halt))
+(send ?current-data put-current-stage -1))
 
 ; generate the URL string for timetable display ;
 
