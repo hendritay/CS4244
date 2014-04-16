@@ -36,6 +36,7 @@ for row in table:
 	print "(endtime " + EndTime +")"
 	print "(semester " + row["Semester"] +")"
 	print "(moduleoption " + row["ModuleOption"] +")"
+	print "(lecturetype" + row["LectureType"].strip().replace(" ", "") +")"
 	print ")"
 	
 

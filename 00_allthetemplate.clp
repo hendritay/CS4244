@@ -20,16 +20,19 @@
   (export defclass REQUIREMENT)
   (export defclass ELIGIBLEMODULE)
   (export defclass ALLMODULE)
+  (export defclass CANDIDATEMODULE)  
+  (export defglobal requirement)
+  (export defclass FOCUSAREA) 
  )
 
 (defmodule MODULESELECTION
-   (import INITIALIZE defclass ?ALL)
-   (export defclass CANDIDATEMODULE)  
+   (import INITIALIZE defclass ?ALL)  
+   (import INITIALIZE defglobal ?ALL)  
 )
  
 (defmodule TIMETABLE
   (import INITIALIZE defclass ?ALL)
-  (import MODULESELECTION defclass ?ALL)
+  
 )
 
 
@@ -69,7 +72,7 @@
  )
  
  ; pre-requisite that cannot be done using normal rule matching
- (defclass INITIALIZE::SPECIALPREREQMODULE
+ (defclass MODULESELECTION::SPECIALPREREQMODULE
    (is-a USER)
    (slot moduleid)
    )
@@ -79,7 +82,7 @@
    (slot moduleid (create-accessor read-write))
  )
  
- (defclass MODULESELECTION::CANDIDATEMODULE
+ (defclass INITIALIZE::CANDIDATEMODULE
     (is-a USER)
 	(slot moduleid )
 	(slot moduletagtotalscore (type NUMBER))
@@ -113,7 +116,7 @@
 )
 
 ; to store preclude list so that it won't be taken during eligible module
-(defclass INITIALIZE::ALREADYPRECLUDE
+(defclass MODULESELECTION::ALREADYPRECLUDE
   (is-a USER)
   (slot moduleid)
  )
@@ -133,6 +136,7 @@
   (slot endtime (type NUMBER))
   (slot semester (type NUMBER))
   (slot moduleoption )
+  (slot lecturetype )
  )
  
  (defclass INITIALIZE::REQUIREMENT
@@ -174,13 +178,12 @@
    (slot level3additionalscore (default 10))   
   )
      
-  
- (defglobal ?*requirement* = (make-instance [john] of REQUIREMENT (level1mc 0) (SS 8)))
-
-
 (defclass TIMETABLE::EXAM
   (is-a USER)
   (slot moduleid)
   (slot exam-date)
   (slot exam-time)
   )
+
+  (defglobal INITIALIZE
+  ?*requirement* = (make-instance [john] of REQUIREMENT (level1mc 0) (SS 8)))

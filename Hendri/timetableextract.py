@@ -4,7 +4,7 @@ f = open('corsRaw.json', 'r')
 data = json.load(f)
 
 tableName ='ModuleTime'
-column = ['ModuleCode', 'Day', 'StartTime', 'EndTime', 'Venue', 'Semester',  'ModuleOption'];
+column = ['ModuleCode', 'Day', 'StartTime', 'EndTime', 'Venue', 'Semester',  'ModuleOption', 'LectureType'];
 appro  = [0, 1, 2, 3, 4,6];
 
 start = 'Insert Into ' + tableName + '( ' +  ', '.join(column) + ') VALUES '
@@ -41,6 +41,7 @@ for item in data:
 				
 				ArrayList.append('2');
 				ArrayList.append("'" + element[u'ClassNo'] +"'");
+				ArrayList.append("'" + LessonType +"'");
 				
 				print start +  "(" + ', '.join(ArrayList) + "); "
 		

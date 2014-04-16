@@ -1,11 +1,7 @@
 ; Main Rule for Module selection
-
-
 ; For every satisfied in the preq, remove it from the modulepreqlist
 ; if that's the last one, means that it already satisfy the requirement
-
 ; the not exists is to guard any modules that's not catered by this rule 
-
 ; The alreadyprecludelist means that we can not take already. 
 
 (defrule MODULESELECTION::RemoveAndCreateEligibleModuleFromPrereqModule
@@ -22,10 +18,9 @@
 		(unmake-instance ?objmodule)
 				
 		(if (and (eq ?total 1) 
-		        (not (any-instancep ((?preclude ALREADYPRECLUDE)) (eq ?preclude:moduleid ?moduleid))
+		        (not (any-instancep ((?preclude ALREADYPRECLUDE)) (eq ?preclude:moduleid ?moduleid)))
 				(not (any-instancep ((?taken MODULETAKEN)) (eq ?taken:moduleid ?moduleid)))
 			) then		   
 		   (make-instance ?instancename of ELIGIBLEMODULE (moduleid ?moduleid))
 		) 
-	)
-	 
+)
