@@ -634,9 +634,7 @@ namespace CS4244
                 MessageBox.Show("Please fill in the required fields:\r\n" + field);
                 tabControl1.SelectTab(0);
             }
-
             u.OutputEverything();
-
         }
 
         private void nameTextBox_TextChanged(object sender, EventArgs e)
