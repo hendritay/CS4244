@@ -131,7 +131,7 @@
   (slot day)
   (slot starttime (type NUMBER))
   (slot endtime (type NUMBER))
-  (slot semester (type NUMBER)
+  (slot semester (type NUMBER))
   (slot moduleoption )
  )
  
