@@ -284,8 +284,7 @@ then (send ?current-data put-url (sym-cat (send ?current-data get-url) ?selected
 ?current-data <- (object (is-a CURRENTDATA) (current-stage -3)(module-list ?current-module-list))
 =>
 (send ?current-data put-current-stage -5)
-(bind ?*final-module-list* ?current-module-list)
-(halt))
+(bind ?*final-module-list* ?current-module-list))
 
 (deffunction TIMETABLE::print-out-url ()
 (printout t ?*final-url* crlf))
