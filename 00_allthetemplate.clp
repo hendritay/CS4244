@@ -1,6 +1,6 @@
 
 (deffacts MAIN::control-execution
-	(phase-sequence INITIALIZE MODULESELECTION TIMETABLE)
+	(phase-sequence1 INITIALIZE CLEANING MODULESELECTION TIMETABLE)
 )
 
 (defrule MAIN::change-phase
@@ -13,6 +13,7 @@
 )
 
 
+
 (defmodule INITIALIZE
   (export defclass MODULE)
   (export defclass MODULEPREQ)
@@ -21,13 +22,17 @@
   (export defclass ELIGIBLEMODULE)
   (export defclass ALLMODULE)
   (export defclass CANDIDATEMODULE)  
-  (export defglobal requirement)
+  
   (export defclass FOCUSAREA) 
+  (export defclass SPECIALPREREQMODULE) 
+  
  )
 
+ (defmodule CLEANING
+   (import INITIALIZE defclass ?ALL) 
+  )
 (defmodule MODULESELECTION
    (import INITIALIZE defclass ?ALL)  
-   (import INITIALIZE defglobal ?ALL)  
 )
  
 (defmodule TIMETABLE
@@ -72,7 +77,7 @@
  )
  
  ; pre-requisite that cannot be done using normal rule matching
- (defclass MODULESELECTION::SPECIALPREREQMODULE
+ (defclass INITIALIZE::SPECIALPREREQMODULE
    (is-a USER)
    (slot moduleid)
    )
@@ -109,7 +114,7 @@
   (multislot modulepreq)
  )
 
-(defclass INITIALIZE::MODULEPRECLUDE
+(defclass MODULESELECTION::MODULEPRECLUDE
   (is-a USER)
   (slot moduleid)
   (slot moduleidpreclusion)
@@ -156,7 +161,7 @@
 	(slot science (default 12)(create-accessor read-write))
 	(slot takeFYP (create-accessor read-write))	
 	(slot takeFYPlevel4 (default 3) (create-accessor read-write))	
-	(slot level1mc (create-accessor read-write))
+	(slot level1mc (create-accessor read-write) (default 60) )
   )
   
   (defclass INITIALIZE::FOCUSAREA
@@ -185,5 +190,3 @@
   (slot exam-time)
   )
 
-  (defglobal INITIALIZE
-  ?*requirement* = (make-instance [john] of REQUIREMENT (level1mc 0) (SS 8)))

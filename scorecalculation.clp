@@ -1,8 +1,4 @@
 (definstances INITIALIZE::abc
-([CustomScore] of SCORE 
-   (interestedmodule 10)
-   (focussecondary 15)   
-)
 ([InterestedCS3230] of INTERESTEDMODULE 
    (moduleid CS3230)
 )

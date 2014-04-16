@@ -1,4 +1,4 @@
-(definstances INITIALIZE::MODULEPRECLUDELIST 
+(definstances MODULESELECTION::MODULEPRECLUDELIST 
 ([precACC10020] of MODULEPRECLUDE 
 (moduleid  ACC1002)
 (moduleidpreclusion FNA1002)

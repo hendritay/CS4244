@@ -4,6 +4,14 @@
 ; If the module is not taken, move it to candidate module
 ; The copy from modulecandidate will move it to ALLMODULE
 
+; Copy from moduletaken to all module list 
+(defrule MODULESELECTION::CopyFromModuleTaken
+   (object (is-a MODULETAKEN) (moduleid ?moduleid))
+ => 
+  (bind ?instancename (symbol-to-instance-name (sym-cat allmodule ?moduleid)))
+  (make-instance ?instancename of ALLMODULE (moduleid ?moduleid))
+ )
+ 
 (defrule INITIALIZE::moveRequiredCoreModuleToCandidateModule 
     (object (is-a REQUIREDCOREMODULE) (moduleid ?moduleid))
 	(not (exists (object (is-a MODULETAKEN) (moduleid ?moduleid))))
@@ -12,38 +20,23 @@
 	(make-instance ?instancename of CANDIDATEMODULE (moduleid ?moduleid))	
 )
 
+
+  
 ; Get those module who has no pre req, and it suddenly becomes eligible module 
 (defrule INITIALIZE::getNoPreqModule
   (object (is-a MODULE) (moduleid ?moduleid))
-  (not (exists (object (is-a SPECIALPREREQMODULE) (moduleid ?moduleid))))
+;  (not (exists (object (is-a SPECIALPREREQMODULE) (moduleid ?moduleid))))
   (not (exists (object (is-a MODULEPREQ) (moduleid ?moduleid))))
-  (not (exists (object (is-a MODULETAKEN) (moduleid ?moduleid))))  
-  (not (exists (object (is-a CANDIDATEMODULE) (moduleid ?moduleid))))  
-=>   
+;  (not (exists (object (is-a MODULETAKEN) (moduleid ?moduleid))))
+;  (not (exists (object (is-a CANDIDATEMODULE) (moduleid ?moduleid))))
+=>
    (bind ?instancename (symbol-to-instance-name (sym-cat eligiblemodule ?moduleid)))
-   (make-instance ?instancename of ELIGIBLEMODULE (moduleid ?moduleid))   
+   (make-instance ?instancename of ELIGIBLEMODULE (moduleid ?moduleid))
 )
 
 
-(defrule INITIALIZE::ScoreCalculationForLevel123 
-   (object (is-a SCORE) (level1additionalscore ?level1score) (level2additionalscore ?level2score) (level3additionalscore ?level3score))
-   ?moduleinfo <- (object (is-a MODULE) (moduleid ?module)  (modulelevel ?level&:(<= ?level  3)))
-   
-  =>
-    (bind ?score (send ?moduleinfo get-moduletagscore))
-	
-	(bind ?newscore (+ ?score ?level3score))
-    (if (eq ?level 1) then
-	     (bind ?newscore (+ ?score  ?level1score))
-	 else 
-	     (if (eq ?level 2) then
-	        (bind ?newscore (+ ?score  ?level2score))
-		 )
-	)
-	
-	(send ?moduleinfo put-moduletagscore ?newscore)
-		     
- )
+
+
  
 ; Rule that matches only based on the module taken 
 ; ---------------------------------------------------------------
@@ -92,11 +85,30 @@
 (defrule INITIALIZE::CheckForFocusArea
    (object (is-a MODULETAKEN) (moduleid ?moduleid))   
    (object (is-a FOCUSAREA) (type PRIMARY) (moduleid ?moduleid))
+   ?require <- (is-a REQUIREMENT)
  =>
-   (bind ?totalmodule (send ?*requirement* get-focusareamodule))
+   (bind ?totalmodule (send ?require get-focusareamodule))
    (bind ?newmodule (- ?totalmodule 1))
-   (send ?*requirement* put-focusareamodule ?newmodule)
+   (send ?require put-focusareamodule ?newmodule)
 )
 
 
+(defrule INITIALIZE::ScoreCalculationForLevel123
+   (object (is-a SCORE) (level1additionalscore ?level1score) (level2additionalscore ?level2score) (level3additionalscore ?level3score))
+   ?moduleinfo <- (object (is-a MODULE) (moduleid ?module) (modulelevel ?level&:(<= ?level 3)))
+   
+  =>
+    (bind ?score (send ?moduleinfo get-moduletagscore))
 
+(bind ?newscore (+ ?score ?level3score))
+    (if (eq ?level 1) then
+(bind ?newscore (+ ?score ?level1score))
+else
+(if (eq ?level 2) then
+(bind ?newscore (+ ?score ?level2score))
+)
+)
+
+(send ?moduleinfo put-moduletagscore ?newscore)
+
+ )
