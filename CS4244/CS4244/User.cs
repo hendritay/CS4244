@@ -23,6 +23,7 @@ namespace CS4244
         private List<string> _ue = new List<string>();
         private List<string> _scienceMods = new List<string>();
         private List<string> _ss = new List<string>();
+        private List<string> _others = new List<string>();
 
         private List<string> _personalPreference = new List<string>();
         private List<string> _moduleLike = new List<string>();
@@ -197,6 +198,16 @@ namespace CS4244
         public List<string> getSS()
         {
             return _ss;
+        }
+
+        public void setOthers(string others)
+        {
+            _others.Add(others);
+        }
+
+        public List<string> getOthers()
+        {
+            return _others;
         }
 
         public void setPersonalPref(string personalPref)
@@ -412,6 +423,9 @@ namespace CS4244
             string gemMC = "8";
             string ssMC = "4";
             string breadthMC = "8";
+            string focusAreaMC = "";
+            string focusAreaLevel4 = "";
+            int count = 0;
 
             // Handle JC exemptions
             if (_jcPoly.Equals("JC"))
@@ -447,8 +461,6 @@ namespace CS4244
                         breadthMC = (8 - _breadth.Count() * 4).ToString();
                     }
                 }
-
-                _requirementInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")");
             }
             else if (_jcPoly.Equals("Poly")) // Handle Poly exemptions
             {
@@ -488,13 +500,22 @@ namespace CS4244
                         breadthMC = (4 - _breadth.Count() * 4).ToString();
                     }
                 }
-
-                _requirementInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")");
             }
-            else // Neither JC nor Poly
+            
+            // FocusAreaMC Calculation
+            focusAreaMC = (24 - _focusAreas.Count() * 4).ToString();
+            // FocusAreaLevel4 Calculation
+            for (int i = 0; i < _focusAreas.Count(); i++)
             {
-                _requirementInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")");
+                if (_focusAreas[i].ElementAt(2).Equals('4') || _focusAreas[i].ElementAt(2).Equals('5') || _focusAreas[i].ElementAt(2).Equals('6'))
+                {
+                    count++;
+                }
             }
+
+            focusAreaLevel4 = (3 - count).ToString();
+
+            _requirementInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")(focusareamc " + focusAreaMC + ")(focusarealevel4 " + focusAreaLevel4 + "))");
         }
 
         public List<string> getRequirementInstance()
@@ -504,43 +525,43 @@ namespace CS4244
 
         public void createRequiredModulesInstance()
         {
-            _requiredModulesInstance.Add("(make-instance [RequiredModule CS1010] of REQUIREDCOREMODULE (moduleid CS1010)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule CS1020] of REQUIREDCOREMODULE (moduleid CS1020)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2010] of REQUIREDCOREMODULE (moduleid CS2010)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule CS1231] of REQUIREDCOREMODULE (moduleid CS1231)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2100] of REQUIREDCOREMODULE (moduleid CS2100)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2103T] of REQUIREDCOREMODULE (moduleid CS2103T)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2105] of REQUIREDCOREMODULE (moduleid CS2105)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2106] of REQUIREDCOREMODULE (moduleid CS2106)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule CS3230] of REQUIREDCOREMODULE (moduleid CS3230)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule IS1103] of REQUIREDCOREMODULE (moduleid IS1103)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2101] of REQUIREDCOREMODULE (moduleid CS2101)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS1010] of REQUIREDCOREMODULE (moduleid CS1010))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS1020] of REQUIREDCOREMODULE (moduleid CS1020))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2010] of REQUIREDCOREMODULE (moduleid CS2010))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS1231] of REQUIREDCOREMODULE (moduleid CS1231))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2100] of REQUIREDCOREMODULE (moduleid CS2100))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2103T] of REQUIREDCOREMODULE (moduleid CS2103T))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2105] of REQUIREDCOREMODULE (moduleid CS2105))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2106] of REQUIREDCOREMODULE (moduleid CS2106))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS3230] of REQUIREDCOREMODULE (moduleid CS3230))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule IS1103] of REQUIREDCOREMODULE (moduleid IS1103))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule CS2101] of REQUIREDCOREMODULE (moduleid CS2101))");
             // should have rules to take care of MA1301 in clips for JC students
-            _requiredModulesInstance.Add("(make-instance [RequiredModule MA1301] of REQUIREDCOREMODULE (moduleid MA1301)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule MA1521] of REQUIREDCOREMODULE (moduleid MA1521)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule MA1101R] of REQUIREDCOREMODULE (moduleid MA1101R)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule ST2334] of REQUIREDCOREMODULE (moduleid ST2334)");
-            _requiredModulesInstance.Add("(make-instance [RequiredModule PC1222] of REQUIREDCOREMODULE (moduleid PC1222)");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule MA1301] of REQUIREDCOREMODULE (moduleid MA1301))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule MA1521] of REQUIREDCOREMODULE (moduleid MA1521))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule MA1101R] of REQUIREDCOREMODULE (moduleid MA1101R))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule ST2334] of REQUIREDCOREMODULE (moduleid ST2334))");
+            _requiredModulesInstance.Add("(make-instance [RequiredModule PC1222] of REQUIREDCOREMODULE (moduleid PC1222))");
 
             if (_fyp.Equals("Yes"))
             {
-                _requiredModulesInstance.Add("(make-instance [RequiredModule CP4101] of REQUIREDCOREMODULE (moduleid CP4101)");
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CP4101] of REQUIREDCOREMODULE (moduleid CP4101))");
             }
 
             if (_projectType.Contains("CS3201"))
             {
-                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3201] of REQUIREDCOREMODULE (moduleid CS3201)");
-                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3202] of REQUIREDCOREMODULE (moduleid CS3202)");
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3201] of REQUIREDCOREMODULE (moduleid CS3201))");
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3202] of REQUIREDCOREMODULE (moduleid CS3202))");
             }
             else if (_projectType.Contains("CS3281"))
             {
-                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3281] of REQUIREDCOREMODULE (moduleid CS3281)");
-                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3282] of REQUIREDCOREMODULE (moduleid CS3282)");
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3281] of REQUIREDCOREMODULE (moduleid CS3281))");
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3282] of REQUIREDCOREMODULE (moduleid CS3282))");
             }
             else
             {
-                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3283] of REQUIREDCOREMODULE (moduleid CS3283)");
-                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3284] of REQUIREDCOREMODULE (moduleid CS3284)");
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3283] of REQUIREDCOREMODULE (moduleid CS3283))");
+                _requiredModulesInstance.Add("(make-instance [RequiredModule CS3284] of REQUIREDCOREMODULE (moduleid CS3284))");
             }
         }
 

@@ -61,6 +61,19 @@
             this.nameLabel = new System.Windows.Forms.Label();
             this.welcomeLabel = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.listBox6 = new System.Windows.Forms.ListBox();
+            this.button16 = new System.Windows.Forms.Button();
+            this.button17 = new System.Windows.Forms.Button();
+            this.comboBox10 = new System.Windows.Forms.ComboBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.panel11 = new System.Windows.Forms.Panel();
+            this.listBox7 = new System.Windows.Forms.ListBox();
+            this.button18 = new System.Windows.Forms.Button();
+            this.button19 = new System.Windows.Forms.Button();
+            this.comboBox11 = new System.Windows.Forms.ComboBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
             this.button13 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.panel9 = new System.Windows.Forms.Panel();
@@ -123,19 +136,6 @@
             this.addButton4 = new System.Windows.Forms.Button();
             this.preferenceBox = new System.Windows.Forms.ComboBox();
             this.preferenceLabel = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.panel10 = new System.Windows.Forms.Panel();
-            this.listBox6 = new System.Windows.Forms.ListBox();
-            this.button16 = new System.Windows.Forms.Button();
-            this.button17 = new System.Windows.Forms.Button();
-            this.comboBox10 = new System.Windows.Forms.ComboBox();
-            this.label11 = new System.Windows.Forms.Label();
-            this.panel11 = new System.Windows.Forms.Panel();
-            this.listBox7 = new System.Windows.Forms.ListBox();
-            this.button18 = new System.Windows.Forms.Button();
-            this.button19 = new System.Windows.Forms.Button();
-            this.comboBox11 = new System.Windows.Forms.ComboBox();
-            this.label12 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.JCPolyPanel.SuspendLayout();
@@ -153,6 +153,8 @@
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.tabPage2.SuspendLayout();
+            this.panel10.SuspendLayout();
+            this.panel11.SuspendLayout();
             this.panel9.SuspendLayout();
             this.panel8.SuspendLayout();
             this.panel7.SuspendLayout();
@@ -166,8 +168,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
-            this.panel10.SuspendLayout();
-            this.panel11.SuspendLayout();
             this.SuspendLayout();
             // 
             // button1
@@ -558,6 +558,145 @@
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Modules Taken";
             this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // panel10
+            // 
+            this.panel10.Controls.Add(this.listBox6);
+            this.panel10.Controls.Add(this.button16);
+            this.panel10.Controls.Add(this.button17);
+            this.panel10.Controls.Add(this.comboBox10);
+            this.panel10.Controls.Add(this.label11);
+            this.panel10.Location = new System.Drawing.Point(508, 402);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(500, 135);
+            this.panel10.TabIndex = 15;
+            // 
+            // listBox6
+            // 
+            this.listBox6.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox6.FormattingEnabled = true;
+            this.listBox6.ItemHeight = 17;
+            this.listBox6.Location = new System.Drawing.Point(2, 62);
+            this.listBox6.Name = "listBox6";
+            this.listBox6.Size = new System.Drawing.Size(444, 72);
+            this.listBox6.TabIndex = 8;
+            // 
+            // button16
+            // 
+            this.button16.Location = new System.Drawing.Point(406, 33);
+            this.button16.Name = "button16";
+            this.button16.Size = new System.Drawing.Size(40, 23);
+            this.button16.TabIndex = 8;
+            this.button16.Text = "Del";
+            this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.button16_Click);
+            // 
+            // button17
+            // 
+            this.button17.Location = new System.Drawing.Point(365, 33);
+            this.button17.Name = "button17";
+            this.button17.Size = new System.Drawing.Size(40, 23);
+            this.button17.TabIndex = 5;
+            this.button17.Text = "Add";
+            this.button17.UseVisualStyleBackColor = true;
+            this.button17.Click += new System.EventHandler(this.button17_Click);
+            // 
+            // comboBox10
+            // 
+            this.comboBox10.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.comboBox10.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.comboBox10.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboBox10.FormattingEnabled = true;
+            this.comboBox10.ItemHeight = 15;
+            this.comboBox10.Location = new System.Drawing.Point(2, 34);
+            this.comboBox10.Name = "comboBox10";
+            this.comboBox10.Size = new System.Drawing.Size(360, 23);
+            this.comboBox10.TabIndex = 4;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(-3, 1);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(75, 30);
+            this.label11.TabIndex = 0;
+            this.label11.Text = "Others";
+            // 
+            // panel11
+            // 
+            this.panel11.Controls.Add(this.listBox7);
+            this.panel11.Controls.Add(this.button18);
+            this.panel11.Controls.Add(this.button19);
+            this.panel11.Controls.Add(this.comboBox11);
+            this.panel11.Controls.Add(this.label12);
+            this.panel11.Location = new System.Drawing.Point(8, 402);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(500, 135);
+            this.panel11.TabIndex = 14;
+            // 
+            // listBox7
+            // 
+            this.listBox7.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox7.FormattingEnabled = true;
+            this.listBox7.ItemHeight = 17;
+            this.listBox7.Location = new System.Drawing.Point(2, 62);
+            this.listBox7.Name = "listBox7";
+            this.listBox7.Size = new System.Drawing.Size(444, 72);
+            this.listBox7.TabIndex = 8;
+            // 
+            // button18
+            // 
+            this.button18.Location = new System.Drawing.Point(406, 33);
+            this.button18.Name = "button18";
+            this.button18.Size = new System.Drawing.Size(40, 23);
+            this.button18.TabIndex = 8;
+            this.button18.Text = "Del";
+            this.button18.UseVisualStyleBackColor = true;
+            this.button18.Click += new System.EventHandler(this.button18_Click);
+            // 
+            // button19
+            // 
+            this.button19.Location = new System.Drawing.Point(365, 33);
+            this.button19.Name = "button19";
+            this.button19.Size = new System.Drawing.Size(40, 23);
+            this.button19.TabIndex = 5;
+            this.button19.Text = "Add";
+            this.button19.UseVisualStyleBackColor = true;
+            this.button19.Click += new System.EventHandler(this.button19_Click);
+            // 
+            // comboBox11
+            // 
+            this.comboBox11.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.comboBox11.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.comboBox11.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboBox11.FormattingEnabled = true;
+            this.comboBox11.ItemHeight = 15;
+            this.comboBox11.Location = new System.Drawing.Point(2, 34);
+            this.comboBox11.Name = "comboBox11";
+            this.comboBox11.Size = new System.Drawing.Size(360, 23);
+            this.comboBox11.TabIndex = 4;
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Location = new System.Drawing.Point(-3, 1);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(35, 30);
+            this.label12.TabIndex = 0;
+            this.label12.Text = "SS";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.ForeColor = System.Drawing.Color.Red;
+            this.label10.Location = new System.Drawing.Point(6, 554);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(531, 30);
+            this.label10.TabIndex = 13;
+            this.label10.Text = "Please skip this page if you have not taken any modules";
             // 
             // button13
             // 
@@ -1223,141 +1362,6 @@
             this.preferenceLabel.TabIndex = 0;
             this.preferenceLabel.Text = "Personal Preference:";
             // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.ForeColor = System.Drawing.Color.Red;
-            this.label10.Location = new System.Drawing.Point(6, 554);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(531, 30);
-            this.label10.TabIndex = 13;
-            this.label10.Text = "Please skip this page if you have not taken any modules";
-            // 
-            // panel10
-            // 
-            this.panel10.Controls.Add(this.listBox6);
-            this.panel10.Controls.Add(this.button16);
-            this.panel10.Controls.Add(this.button17);
-            this.panel10.Controls.Add(this.comboBox10);
-            this.panel10.Controls.Add(this.label11);
-            this.panel10.Location = new System.Drawing.Point(508, 402);
-            this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(500, 135);
-            this.panel10.TabIndex = 15;
-            // 
-            // listBox6
-            // 
-            this.listBox6.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox6.FormattingEnabled = true;
-            this.listBox6.ItemHeight = 17;
-            this.listBox6.Location = new System.Drawing.Point(2, 62);
-            this.listBox6.Name = "listBox6";
-            this.listBox6.Size = new System.Drawing.Size(444, 72);
-            this.listBox6.TabIndex = 8;
-            // 
-            // button16
-            // 
-            this.button16.Location = new System.Drawing.Point(406, 33);
-            this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(40, 23);
-            this.button16.TabIndex = 8;
-            this.button16.Text = "Del";
-            this.button16.UseVisualStyleBackColor = true;
-            // 
-            // button17
-            // 
-            this.button17.Location = new System.Drawing.Point(365, 33);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(40, 23);
-            this.button17.TabIndex = 5;
-            this.button17.Text = "Add";
-            this.button17.UseVisualStyleBackColor = true;
-            // 
-            // comboBox10
-            // 
-            this.comboBox10.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
-            this.comboBox10.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
-            this.comboBox10.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboBox10.FormattingEnabled = true;
-            this.comboBox10.ItemHeight = 15;
-            this.comboBox10.Location = new System.Drawing.Point(2, 34);
-            this.comboBox10.Name = "comboBox10";
-            this.comboBox10.Size = new System.Drawing.Size(360, 23);
-            this.comboBox10.TabIndex = 4;
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(-3, 1);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(75, 30);
-            this.label11.TabIndex = 0;
-            this.label11.Text = "Others";
-            // 
-            // panel11
-            // 
-            this.panel11.Controls.Add(this.listBox7);
-            this.panel11.Controls.Add(this.button18);
-            this.panel11.Controls.Add(this.button19);
-            this.panel11.Controls.Add(this.comboBox11);
-            this.panel11.Controls.Add(this.label12);
-            this.panel11.Location = new System.Drawing.Point(8, 402);
-            this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(500, 135);
-            this.panel11.TabIndex = 14;
-            // 
-            // listBox7
-            // 
-            this.listBox7.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox7.FormattingEnabled = true;
-            this.listBox7.ItemHeight = 17;
-            this.listBox7.Location = new System.Drawing.Point(2, 62);
-            this.listBox7.Name = "listBox7";
-            this.listBox7.Size = new System.Drawing.Size(444, 72);
-            this.listBox7.TabIndex = 8;
-            // 
-            // button18
-            // 
-            this.button18.Location = new System.Drawing.Point(406, 33);
-            this.button18.Name = "button18";
-            this.button18.Size = new System.Drawing.Size(40, 23);
-            this.button18.TabIndex = 8;
-            this.button18.Text = "Del";
-            this.button18.UseVisualStyleBackColor = true;
-            // 
-            // button19
-            // 
-            this.button19.Location = new System.Drawing.Point(365, 33);
-            this.button19.Name = "button19";
-            this.button19.Size = new System.Drawing.Size(40, 23);
-            this.button19.TabIndex = 5;
-            this.button19.Text = "Add";
-            this.button19.UseVisualStyleBackColor = true;
-            // 
-            // comboBox11
-            // 
-            this.comboBox11.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
-            this.comboBox11.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
-            this.comboBox11.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboBox11.FormattingEnabled = true;
-            this.comboBox11.ItemHeight = 15;
-            this.comboBox11.Location = new System.Drawing.Point(2, 34);
-            this.comboBox11.Name = "comboBox11";
-            this.comboBox11.Size = new System.Drawing.Size(360, 23);
-            this.comboBox11.TabIndex = 4;
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(-3, 1);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(35, 30);
-            this.label12.TabIndex = 0;
-            this.label12.Text = "SS";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1394,6 +1398,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.tabPage2.ResumeLayout(false);
             this.tabPage2.PerformLayout();
+            this.panel10.ResumeLayout(false);
+            this.panel10.PerformLayout();
+            this.panel11.ResumeLayout(false);
+            this.panel11.PerformLayout();
             this.panel9.ResumeLayout(false);
             this.panel9.PerformLayout();
             this.panel8.ResumeLayout(false);
@@ -1416,10 +1424,6 @@
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
-            this.panel10.ResumeLayout(false);
-            this.panel10.PerformLayout();
-            this.panel11.ResumeLayout(false);
-            this.panel11.PerformLayout();
             this.ResumeLayout(false);
 
         }

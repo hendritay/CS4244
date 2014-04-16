@@ -108,7 +108,7 @@ namespace CS4244
                 }
 
                 // Init Others
-                query = "Select ModuleCode, ModuleName from ModuleInformation where ModuleCode like 'CS4%'";
+                query = "Select ModuleCode, ModuleName from ModuleInformation where ModuleCode like 'CS4%' or ModuleCode like 'CS5%' or ModuleCode like 'CS6%'";
                 command = new SQLiteCommand(query, con);
                 reader = command.ExecuteReader();
 
@@ -299,7 +299,7 @@ namespace CS4244
                 comboBox9.Items.Add(value);
             }
         }
-        // Breadth/SS
+        // Breadth
         private void button10_Click(object sender, EventArgs e)
         {
             int index = comboBox8.SelectedIndex;
@@ -389,6 +389,71 @@ namespace CS4244
                 comboBox9.Items.Add(value);
             }
         }
+        // SS
+        private void button19_Click(object sender, EventArgs e)
+        {
+            int index = comboBox11.SelectedIndex;
+            if (index > -1)
+            {
+                string value = comboBox11.SelectedItem.ToString();
+                listBox7.Items.Add(value);
+                modulesTakenBox.Items.Remove(value);
+                comboBox6.Items.Remove(value);
+                comboBox7.Items.Remove(value);
+                comboBox8.Items.Remove(value);
+                comboBox9.Items.Remove(value);
+                comboBox11.Items.Remove(value);
+            }
+        }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+            int index = listBox7.SelectedIndex;
+            if (index > -1)
+            {
+                string value = listBox7.SelectedItem.ToString();
+                listBox7.Items.RemoveAt(index);
+                modulesTakenBox.Items.Add(value);
+                comboBox6.Items.Add(value);
+                comboBox7.Items.Add(value);
+                comboBox8.Items.Add(value);
+                comboBox9.Items.Add(value);
+                comboBox11.Items.Add(value);
+            }
+        }
+        // Others
+        private void button17_Click(object sender, EventArgs e)
+        {
+            int index = comboBox10.SelectedIndex;
+            if (index > -1)
+            {
+                string value = comboBox10.SelectedItem.ToString();
+                listBox6.Items.Add(value);
+                modulesTakenBox.Items.Remove(value);
+                comboBox6.Items.Remove(value);
+                comboBox7.Items.Remove(value);
+                comboBox8.Items.Remove(value);
+                comboBox9.Items.Remove(value);
+                comboBox10.Items.Remove(value);
+            }
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            int index = listBox6.SelectedIndex;
+            if (index > -1)
+            {
+                string value = listBox6.SelectedItem.ToString();
+                listBox6.Items.RemoveAt(index);
+                modulesTakenBox.Items.Add(value);
+                comboBox6.Items.Add(value);
+                comboBox7.Items.Add(value);
+                comboBox8.Items.Add(value);
+                comboBox9.Items.Add(value);
+                comboBox10.Items.Add(value);
+            }
+        }
+
         // Tab1 Next
         private void button1_Click(object sender, EventArgs e)
         {
@@ -455,10 +520,6 @@ namespace CS4244
                     u.setCore(modulesTakenLBox.Items[i].ToString());
                 }
             }
-            //else
-            //{
-            //    u.setCore("");
-            //}
             // Focus Areas
             if (listBox1.Items.Count != 0)
             {
@@ -467,10 +528,6 @@ namespace CS4244
                     u.setFocusAreas(listBox1.Items[i].ToString());
                 }
             }
-            //else
-            //{
-            //    u.setFocusAreas("");
-            //}
             // GEM
             if (listBox2.Items.Count != 0)
             {
@@ -479,10 +536,6 @@ namespace CS4244
                     u.setGem(listBox2.Items[i].ToString());
                 }
             }
-            //else
-            //{
-            //    u.setGem("");
-            //}
             // Breadth
             if (listBox4.Items.Count != 0)
             {
@@ -491,10 +544,6 @@ namespace CS4244
                     u.setBreadth(listBox4.Items[i].ToString());
                 }
             }
-            //else
-            //{
-            //    u.setBreadth("");
-            //}
             // UE
             if (listBox3.Items.Count != 0)
             {
@@ -503,10 +552,6 @@ namespace CS4244
                     u.setUe(listBox3.Items[i].ToString());
                 }
             }
-            //else
-            //{
-            //    u.setUe("");
-            //}
             // Science Modules
             if (listBox5.Items.Count != 0)
             {
@@ -515,19 +560,26 @@ namespace CS4244
                     u.setScienceMods(listBox5.Items[i].ToString());
                 }
             }
-            //else
-            //{
-            //    u.setScienceMods("");
-            //}
+            // SS
+            if (listBox7.Items.Count != 0)
+            {
+                for (int i = 0; i < listBox7.Items.Count; i++)
+                {
+                    u.setSS(listBox7.Items[i].ToString());
+                }
+            }
+            // Others
+            if (listBox6.Items.Count != 0)
+            {
+                for (int i = 0; i < listBox6.Items.Count; i++)
+                {
+                    u.setOthers(listBox6.Items[i].ToString());
+                }
+            }
+
             // Tab3 info
             if (preferenceLBox.Items.Count == 0)
                 fields.Add("Personal Preference");
-
-            //if (modulesInterestLBox.Items.Count == 0)
-            //    fields.Add("Modules you are interested in");
-
-            //if (modulesDislikeLBox.Items.Count == 0)
-            //    fields.Add("Modules you dislike");
 
             // Checking all required fields
             if (fields.Count == 0)
@@ -684,5 +736,11 @@ namespace CS4244
             else
                 pictureBox7.Visible = false;
         }
+
+        
+
+        
+
+        
     }
 }
