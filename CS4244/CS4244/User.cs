@@ -515,7 +515,7 @@ namespace CS4244
 
             focusAreaLevel4 = (3 - count).ToString();
 
-            _requirementInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(Breadth " + breadthMC + ")(focusareamc " + focusAreaMC + ")(focusarealevel4 " + focusAreaLevel4 + "))");
+            _requirementInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(breadth " + breadthMC + ")(focusareamc " + focusAreaMC + ")(focusarealevel4 " + focusAreaLevel4 + "))");
         }
 
         public List<string> getRequirementInstance()
@@ -568,6 +568,11 @@ namespace CS4244
         public List<string> getRequiredModulesInstance()
         {
             return _requiredModulesInstance;
+        }
+
+        public List<List<string>> getAllInstances()
+        {
+            return AllTheList;
         }
     }
 }

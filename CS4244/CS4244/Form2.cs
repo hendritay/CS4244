@@ -11,10 +11,19 @@ namespace CS4244
 {
     public partial class Form2 : Form
     {
-        public Form2()
+        public Form2(string url)
         {
             InitializeComponent();
-            webBrowser1.Navigate("http://nusmods.com/2013-2014/sem2/v1/#MA2213=1B01&CS4244=81&CS2102=87&CS5232=21&MA2213=8T01&MA2213=2SL1&ST2334=8T1&ST2334=2SL2&CS4244=21&CS2102=21&MA2213=2SL1&ST2334=2SL2");
+            webBrowser1.Navigate(url);
+        }
+
+        public void addElement(string value) {
+                modulesTakenLBox.Items.Add(value);
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

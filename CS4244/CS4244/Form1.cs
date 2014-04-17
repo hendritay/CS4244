@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Data.SQLite;
+using System.Diagnostics;
 
 namespace CS4244
 {
@@ -619,8 +620,91 @@ namespace CS4244
                 u.createModulesTakenInstance();
                 u.createRequirementInstance();
                 u.createRequiredModulesInstance();
+                u.OutputEverything();
 
-                Form2 form2 = new Form2();
+                Process p = new Process();
+                p.StartInfo.UseShellExecute = false;
+                p.StartInfo.CreateNoWindow = true;
+
+
+
+                p.StartInfo.RedirectStandardInput = true;
+                p.StartInfo.RedirectStandardOutput = true;
+                p.StartInfo.FileName = "C:\\Users\\User\\Documents\\GitHub\\CS4244\\Clips.exe";
+                p.Start();
+
+                System.IO.StreamWriter writer = p.StandardInput;
+                System.IO.StreamReader reader = p.StandardOutput;
+
+                writer.WriteLine("(batch C:/Users/User/Documents/GitHub/CS4244/initialiseAll.bat)");
+                
+                //writer.WriteLine("(reset)");
+                //writer.WriteLine("(focus INITIALIZE)");
+
+                List<List<string>> allInstances = u.getAllInstances();
+
+                System.IO.StreamWriter aaronwriter = new System.IO.StreamWriter("C:\\Users\\User\\Documents\\GitHub\\CS4244\\input.txt", false);
+                aaronwriter.WriteLine("(definstances INITIALIZE::aaronwong ");
+                aaronwriter.WriteLine("([CustomScore] of SCORE (interestedmodule 10) (focussecondary 15)  )");
+                foreach (List<string> element in allInstances)
+                {
+                    foreach (string output in element)
+                    {
+                        aaronwriter.WriteLine(output.Replace("make-instance", ""));
+                    }
+                }
+                aaronwriter.WriteLine(")");
+                aaronwriter.Close();
+
+
+                //writer.WriteLine("(make-instance [CustomScore] of SCORE (interestedmodule 10) (focussecondary 15))");
+                //writer.WriteLine("(run)");
+                //writer.WriteLine("(focus CLEANING)");
+                //writer.WriteLine("(run)");
+                //writer.WriteLine("(focus MODULESELECTION)");
+                //writer.WriteLine("(run)");
+                writer.WriteLine("(focus TIMETABLE)");
+                writer.WriteLine("(run)");
+                writer.WriteLine("(focus TIMETABLE)");
+
+                writer.WriteLine("(print-out-url)");
+                writer.WriteLine("");
+
+
+                string[] texts = null;
+
+                while (!reader.EndOfStream)
+                {
+                    string text = reader.ReadLine();
+                    Console.WriteLine("Output: " + text);
+
+                    if (text.Contains("http"))
+                    {
+                        texts = text.Split(' ');
+                        break;
+                    }
+                }
+
+                writer.WriteLine("(find-all-candidate-module)");
+                writer.WriteLine("");
+                string moduleList = reader.ReadLine();
+                string url = texts[1];
+
+                string[] yahoo = moduleList.Split(','); // (:
+
+
+               
+
+
+                p.Close();
+
+                Form2 form2 = new Form2(url);
+
+                foreach (string element in yahoo)
+                {
+                    if (!element.Equals(""))
+                        form2.addElement(element.Replace("CLIPS> ", ""));
+                }
                 form2.ShowDialog();
             }
             else
@@ -634,7 +718,6 @@ namespace CS4244
                 MessageBox.Show("Please fill in the required fields:\r\n" + field);
                 tabControl1.SelectTab(0);
             }
-            u.OutputEverything();
         }
 
         private void nameTextBox_TextChanged(object sender, EventArgs e)
