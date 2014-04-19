@@ -22,18 +22,6 @@
 
 
   
-; Get those module who has no pre req, and it suddenly becomes eligible module 
-(defrule INITIALIZE::getNoPreqModule
-  (object (is-a MODULE) (moduleid ?moduleid))
-;  (not (exists (object (is-a SPECIALPREREQMODULE) (moduleid ?moduleid))))
-  (not (exists (object (is-a MODULEPREQ) (moduleid ?moduleid))))
-;  (not (exists (object (is-a MODULETAKEN) (moduleid ?moduleid))))
-;  (not (exists (object (is-a CANDIDATEMODULE) (moduleid ?moduleid))))
-=>
-   (bind ?instancename (symbol-to-instance-name (sym-cat eligiblemodule ?moduleid)))
-   (make-instance ?instancename of ELIGIBLEMODULE (moduleid ?moduleid))
-)
-
 
 
 
@@ -90,6 +78,19 @@
    (bind ?totalmodule (send ?require get-focusareamodule))
    (bind ?newmodule (- ?totalmodule 1))
    (send ?require put-focusareamodule ?newmodule)
+)
+
+(defrule INITIALIZE::AssignFocusArea
+   ?focusarea <- (object (is-a FOCUSAREA) (moduleid ?moduleid) (type ?focustype) (check NO))   
+   ?objectmodule <- (object (is-a MODULE) (moduleid ?moduleid) (moduletype $?type))
+ =>
+   
+   (bind ?totaltype (insert$ ?type 1 ?focustype))
+   (send ?objectmodule put-moduletype ?totaltype)
+   (send ?focusarea put-check YES)
+   
+   (send ?objectmodule print)
+   
 )
 
 

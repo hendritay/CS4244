@@ -27,15 +27,20 @@ for row in table:
 	
 	if ModuleCode[0:2].upper() == "GE":
 		print "GEM"
-	
+		
 	if ModuleCode[0:2].upper() == "SS":
 	    print "SS"
+		
+	if ModuleCode[0:2].upper() != "SS" and ModuleCode[0:2].upper() != "GE":
+		print "UE"
+		if ModuleCode[0:2].upper() != "CS":
+			print "breadth"
 	
 	if ModuleCode[0:2].upper() == "CS":
-	    print "CS"
+		print "CS"
 		if row["ModuleLevel"] >= 4:
 			print "FYP"
-			print
+			print "FOCUSAREA"
 	else:
 		print "NONCS"
 	

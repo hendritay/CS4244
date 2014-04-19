@@ -3,11 +3,16 @@
 
 (defrule MODULESELECTION::ModulePreclusionRule
 	  (object (is-a ALLMODULE) (moduleid ?somemodule))
-	  ?objmodule <- (object (is-a MODULEPRECLUDE) (moduleidpreclusion ?somemodule))
+	  ?objmodule <- (object (is-a MODULEPRECLUDE)  (moduleidpreclusion ?somemodule))
+	  
 	=>   
+		
 		(bind ?moduleid (send ?objmodule get-moduleid))
-					
+		(printout t ?moduleid crlf)			
 		; include in alreadypreclude list 
+		
+		(unmake-instance ?objmodule)
+		
 		(bind ?precludeinstance (symbol-to-instance-name (sym-cat alreadypreclude ?moduleid)))
 		(make-instance ?precludeinstance of ALREADYPRECLUDE (moduleid ?moduleid))
 		
@@ -17,7 +22,7 @@
 		(make-instance ?instancename of ALLMODULE (moduleid ?moduleid))
 			 		
 		; if you've been precluded, so it cant be in the eligible module 
-		(do-for-instance ((?eligible ELIGIBLEMODULE)) (eq ?eligible:moduleid ?moduleid)
+		(do-for-all-instances ((?eligible ELIGIBLEMODULE)) (eq ?eligible:moduleid ?moduleid)
 		   (unmake-instance ?eligible)
 		)		
 	)

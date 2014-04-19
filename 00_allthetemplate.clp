@@ -9,7 +9,6 @@
 	(focus ?next-phase)
 	(retract ?list)
 	(assert (phase-sequence  ?other-phases  ?next-phase))
-
 )
 
 
@@ -20,6 +19,7 @@
   (export defclass MODULETAKEN)
   (export defclass REQUIREMENT)
   (export defclass ELIGIBLEMODULE)
+  (export defclass ELIGIBLEMODULESEMESTER2)
   (export defclass ALLMODULE)
   (export defclass CANDIDATEMODULE)  
   
@@ -27,6 +27,10 @@
   (export defclass SPECIALPREREQMODULE) 
   
  )
+ 
+ (defmodule AFTERINITIALIZE
+   (import INITIALIZE defclass ?ALL)
+  )
 
  (defmodule CLEANING
    (import INITIALIZE defclass ?ALL) 
@@ -72,8 +76,14 @@
 (defclass INITIALIZE::ELIGIBLEMODULE
     (is-a USER)
 	(slot moduleid )	
-	(slot moduletagtotalscore (type NUMBER))
+	(slot moduletagscore  (type NUMBER))
+	(multislot moduletype)
 	(slot sacrificable)
+ )
+ 
+ (defclass INITIALIZE::ELIGIBLEMODULESEMESTER2
+    (is-a USER)
+	(slot moduleid )		
  )
  
  ; pre-requisite that cannot be done using normal rule matching
@@ -90,7 +100,7 @@
  (defclass INITIALIZE::CANDIDATEMODULE
     (is-a USER)
 	(slot moduleid )
-	(slot moduletagtotalscore (type NUMBER))
+	(slot moduletagscore  (type NUMBER))
 	(slot location)
 	
  )
@@ -159,7 +169,7 @@
 	(slot graduatefrom (create-accessor read-write)) 
 	(slot cohort (create-accessor read-write))
 	(slot science (default 12)(create-accessor read-write))
-	(slot takeFYP (create-accessor read-write))	
+	(slot takeFYP (create-accessor read-write) (default NO))	
 	(slot takeFYPlevel4 (default 3) (create-accessor read-write))	
 	(slot level1mc (create-accessor read-write) (default 60) )
   )
@@ -168,6 +178,7 @@
       (is-a USER)
 	  (slot moduleid)
 	  (slot type)
+	  (slot check (default NO))
    )
    
   

@@ -5,8 +5,9 @@
 ; The alreadyprecludelist means that we can not take already. 
 
 (defrule MODULESELECTION::RemoveAndCreateEligibleModuleFromPrereqModule
-	  (object (is-a ALLMODULE) (moduleid ?somemodule))	  
+	  (object (is-a ALLMODULE) (moduleid ?somemodule) )	  
 	  ?objmodule <- (object (is-a MODULEPREQ) (modulepreq $? ?somemodule $?) (moduleid ?moduleid))
+	  (object (is-a MODULE) (moduleid ?somemodule) (moduletagscore ?score) (moduletype $?moduletype))
 	  
 	  (not (exists (object (is-a SPECIALPREREQMODULE) (moduleid ?moduleid)))) 
 	  
@@ -21,6 +22,7 @@
 		        (not (any-instancep ((?preclude ALREADYPRECLUDE)) (eq ?preclude:moduleid ?moduleid)))
 				(not (any-instancep ((?taken MODULETAKEN)) (eq ?taken:moduleid ?moduleid)))
 			) then		   
-		   (make-instance ?instancename of ELIGIBLEMODULE (moduleid ?moduleid))
+		   (make-instance ?instancename of ELIGIBLEMODULE (moduleid ?moduleid) (moduletagscore ?score) (moduletype $?moduletype) )
 		) 
+		(printout t ?moduleid)
 )

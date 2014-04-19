@@ -19,7 +19,7 @@
      (send ?require put-level1mc  ?newmc)
 	 
 	 (if (>= ?newmc 60) then
-	    (do-for-instance ((?indomie MODULE)) 
+	    (do-for-all-instances ((?indomie MODULE)) 
 		   (eq ?indomie:modulelevel 1)
 		   (send ?indomie put-desirable NO)
 		 )

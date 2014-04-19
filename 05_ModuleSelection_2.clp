@@ -2,18 +2,10 @@
  
 (defrule MODULESELECTION::SelectFocusAreaRule1_ThreePrimary
 	
-    ?requirement <- (object (is-a REQUIREMENT) (focusareamodule ?nomodule&:(> ?module 0)))
-	(object (is-a FOCUSAREA) (type PRIMARY) (moduleid ?moduleid))
-	?eligiblemodule <- (object (is-a ELIGIBLEMODULE) (moduleid ?moduleid))
-	
-	(object (is-a MODULE) (moduleid ?moduleid) (mc ?mc) (moduletagscore ?score)  (desirable YES) (modulelevel ?level))
-	
-	(forall (object (is-a FOCUSAREA) (type PRIMARY) (moduleid ?focusprimary&:(neq ?focusprimary)))
-			(object (is-a ELIGIBLEMODULE) (moduleid ?focusprimary))
-	        (object (is-a MODULE) (moduleid ?focusprimary) (moduletagscore ?anyscore&:(<= ?anyscore ?score)))
-	)
-		   
-	
+    ?requirement <- (object (is-a REQUIREMENT) (focusareamodule ?nomodule&:(> ?nomodule 0)))
+	?eligiblemodule <- (object (is-a ELIGIBLEMODULE) (moduletype $?a PRIMARY $?b) (moduleid ?moduleid) (moduletagscore ?score))
+	(object (is-a MODULE) (moduleid ?moduleid) (desirable YES) (mc ?mc) (modulelevel ?level))
+	(not (object (is-a ELIGIBLEMODULE) (moduletype $? PRIMARY $?) (moduletagscore ?anyscore&:(> ?anyscore ?score))))
  =>
     (bind ?instancename (symbol-to-instance-name (sym-cat allmodule ?moduleid)))	   
 	(make-instance ?instancename of ALLMODULE (moduleid ?moduleid))
@@ -32,34 +24,29 @@
 	
 	
 	(bind ?level4mc (send ?requirement get-focusarealevel4))
-	(bind ?newlevel4 10)
-	(if (>= ?level 4)	
+	(bind ?newlevel4 10) ; bind first for the use of below
+	(if (>= ?level 4)	 then
 		
 	    (send ?requirement put-focusarealevel4 ?newlevel4)
 	)
 	; If all the 3 modules satisfied and there is a requirement to take 4 modules 
-	(if (and (<= newnomdule 0 )
+	(if (and (<= ?newnomodule 0 )
              (and (> ?newlevel4 0) (> ?level4mc 0))
-		)	
-	    (assert (FOCUSAREA 3Level4))
-	   else 
-	   (
-	      (assert (FOCUSAREA remaining))
-	   )
-	   
-	)
-		
-	      
+		)	then
+	    (assert (FOCUSAREACOMMAND 3Level4))
+	   else 	   
+	      (assert (FOCUSAREACOMMAND remaining))	   	   
+	)		     
 )
 
 
 (defrule MODULESELECTION::SelectFocusArea_3Level4
-	(FOCUSAREA 3Level4)
+	(FOCUSAREACOMMAND 3Level4)
     ?requirement <- (object (is-a REQUIREMENT) (focusarealevel4 ?level4&:(> ?level4 0)))
-	?eligiblemodule <- (object (is-a ELIGIBLEMODULE) (moduleid ?moduleid))
-	(object (is-a MODULE) (moduleid ?moduleid) (moduletype $? FOCUSAREA $?) (mc ?mc) (moduletagscore ?score) (desirable YES))
+	?eligiblemodule <- (object (is-a ELIGIBLEMODULE) (moduleid ?moduleid) (moduletype $? FOCUSAREA $?) (moduletagscore ?score))
+	(object (is-a MODULE) (moduleid ?moduleid)  (mc ?mc) (desirable YES))
 	
-	(not (exists (object (is-a MODULE) (moduletype $? FOCUSAREA $?) (moduletagscore ?anyscore&:(> ?anyscore ?score)))))
+	(not (exists (object (is-a ELIGIBLEMODULE) (moduletype $? FOCUSAREA $?) (moduletagscore ?anyscore&:(> ?anyscore ?score)))))
 	
  =>
     (bind ?instancename (symbol-to-instance-name (sym-cat allmodule ?moduleid)))	   
@@ -86,7 +73,7 @@
  
 
  (defrule MODULESELECTION::SelectFocusAreaRemaining
-	(FOCUSAREA remaining)
+	(FOCUSAREACOMMAND remaining)
     ?requirement <- (object (is-a REQUIREMENT) (focusareamc  ?focusmc&:(> ?focusmc 0)))
 	?eligiblemodule <- (object (is-a ELIGIBLEMODULE) (moduleid ?moduleid))
 	(object (is-a MODULE) (moduleid ?moduleid) (moduletype $? CS $?) (mc ?mc) (moduletagscore ?score) (desirable YES))
