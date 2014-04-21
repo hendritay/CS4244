@@ -690,11 +690,7 @@ namespace CS4244
                 string moduleList = reader.ReadLine();
                 string url = texts[1];
 
-                string[] yahoo = moduleList.Split(','); // (:
-
-
-               
-
+                string[] yahoo = moduleList.Split('@'); // (:
 
                 p.Close();
 
