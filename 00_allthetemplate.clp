@@ -179,6 +179,7 @@
    (slot level1additionalscore (default 20))
    (slot level2additionalscore (default 15))
    (slot level3additionalscore (default 10))   
+   (slot csscore (default 30))
   )
      
 (defclass TIMETABLE::EXAM
