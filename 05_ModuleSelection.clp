@@ -104,7 +104,7 @@
    
     (unmake-instance ?eligiblemodule)
 	
-	(bind ?newcredit (- ?breadth 1))
+	(bind ?newcredit (- ?breadth ?mc))
 	(send ?requirement put-breadth ?newcredit)
 	(printout t "breadth")
  )
