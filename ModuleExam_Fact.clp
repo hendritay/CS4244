@@ -1,4 +1,4 @@
-(definstances MODULEEXAMLIST 
+(definstances TIMETABLE::MODULEEXAMLIST 
 ([examACC1002] of EXAM 
 (moduleid  ACC1002)
 (exam-time 900AM)
