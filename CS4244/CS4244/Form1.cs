@@ -650,9 +650,9 @@ namespace CS4244
                 string threeMulti = f3.numericUpDown5.Value.ToString();
                 string primaryMulti = f3.numericUpDown6.Value.ToString();
                 string electiveMulti = f3.numericUpDown7.Value.ToString();
-                string csMods = f3.numericUpDown8.Value.ToString();
+                string csMulti = f3.numericUpDown8.Value.ToString();
 
-                aaronwriter.WriteLine("([CustomScore] of SCORE (focusscoreprimary " + primaryMulti + ") (focussecondary " + electiveMulti + ") (interestedmodule " + interestMulti + ") (notinterestedmodule " + uninterestMulti + ") (level1additionalscore " + oneMulti + ") (level2additionalscore " + twoMulti + ") (level3additionalscore " + threeMulti + "))");
+                aaronwriter.WriteLine("([CustomScore] of SCORE (focusscoreprimary " + primaryMulti + ") (focussecondary " + electiveMulti + ") (interestedmodule " + interestMulti + ") (notinterestedmodule " + uninterestMulti + ") (level1additionalscore " + oneMulti + ") (level2additionalscore " + twoMulti + ") (level3additionalscore " + threeMulti + ") (csscore " + csMulti + "))");
                 foreach (List<string> element in allInstances)
                 {
                     foreach (string output in element)
