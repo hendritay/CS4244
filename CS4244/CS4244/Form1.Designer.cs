@@ -32,31 +32,24 @@
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.JCPolyPanel = new System.Windows.Forms.Panel();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.comboBox4 = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
             this.projectPanel = new System.Windows.Forms.Panel();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.comboBox3 = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
             this.FocusAreaPanel = new System.Windows.Forms.Panel();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
             this.FYPPanel = new System.Windows.Forms.Panel();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.miniMaxPanel = new System.Windows.Forms.Panel();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.modsBox = new System.Windows.Forms.ComboBox();
             this.minMaxLabel = new System.Windows.Forms.Label();
             this.degreePanel = new System.Windows.Forms.Panel();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.cohortLabel = new System.Windows.Forms.Label();
             this.matricBox = new System.Windows.Forms.ComboBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.nameTextBox = new System.Windows.Forms.TextBox();
             this.nameLabel = new System.Windows.Forms.Label();
             this.welcomeLabel = new System.Windows.Forms.Label();
@@ -116,42 +109,43 @@
             this.button15 = new System.Windows.Forms.Button();
             this.button14 = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.modulesDislikeLBox = new System.Windows.Forms.ListBox();
             this.delButton3 = new System.Windows.Forms.Button();
             this.addButton3 = new System.Windows.Forms.Button();
             this.modulesDislikeBox = new System.Windows.Forms.ComboBox();
             this.dislikeLabel = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.modulesInterestLBox = new System.Windows.Forms.ListBox();
             this.delButton2 = new System.Windows.Forms.Button();
             this.addButton2 = new System.Windows.Forms.Button();
             this.modulesInterestBox = new System.Windows.Forms.ComboBox();
             this.interestLabel = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.preferenceLBox = new System.Windows.Forms.ListBox();
             this.delButton4 = new System.Windows.Forms.Button();
             this.addButton4 = new System.Windows.Forms.Button();
             this.preferenceBox = new System.Windows.Forms.ComboBox();
             this.preferenceLabel = new System.Windows.Forms.Label();
+            this.button20 = new System.Windows.Forms.Button();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox10 = new System.Windows.Forms.PictureBox();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.JCPolyPanel.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             this.projectPanel.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             this.FocusAreaPanel.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             this.FYPPanel.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.miniMaxPanel.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.degreePanel.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.tabPage2.SuspendLayout();
             this.panel10.SuspendLayout();
             this.panel11.SuspendLayout();
@@ -163,10 +157,17 @@
             this.modulesPanel.SuspendLayout();
             this.tabPage3.SuspendLayout();
             this.panel3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             this.panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             this.SuspendLayout();
             // 
@@ -195,6 +196,7 @@
             // tabPage1
             // 
             this.tabPage1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.tabPage1.Controls.Add(this.button20);
             this.tabPage1.Controls.Add(this.JCPolyPanel);
             this.tabPage1.Controls.Add(this.projectPanel);
             this.tabPage1.Controls.Add(this.button1);
@@ -221,16 +223,6 @@
             this.JCPolyPanel.Name = "JCPolyPanel";
             this.JCPolyPanel.Size = new System.Drawing.Size(1000, 60);
             this.JCPolyPanel.TabIndex = 5;
-            // 
-            // pictureBox6
-            // 
-            this.pictureBox6.Image = global::CS4244.Properties.Resources.tick;
-            this.pictureBox6.Location = new System.Drawing.Point(357, 4);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(35, 35);
-            this.pictureBox6.TabIndex = 5;
-            this.pictureBox6.TabStop = false;
-            this.pictureBox6.Visible = false;
             // 
             // comboBox4
             // 
@@ -267,16 +259,6 @@
             this.projectPanel.Size = new System.Drawing.Size(1000, 60);
             this.projectPanel.TabIndex = 6;
             // 
-            // pictureBox7
-            // 
-            this.pictureBox7.Image = global::CS4244.Properties.Resources.tick;
-            this.pictureBox7.Location = new System.Drawing.Point(857, 4);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(35, 35);
-            this.pictureBox7.TabIndex = 6;
-            this.pictureBox7.TabStop = false;
-            this.pictureBox7.Visible = false;
-            // 
             // comboBox3
             // 
             this.comboBox3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
@@ -311,16 +293,6 @@
             this.FocusAreaPanel.Name = "FocusAreaPanel";
             this.FocusAreaPanel.Size = new System.Drawing.Size(1000, 60);
             this.FocusAreaPanel.TabIndex = 4;
-            // 
-            // pictureBox5
-            // 
-            this.pictureBox5.Image = global::CS4244.Properties.Resources.tick;
-            this.pictureBox5.Location = new System.Drawing.Point(457, 4);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(35, 35);
-            this.pictureBox5.TabIndex = 6;
-            this.pictureBox5.TabStop = false;
-            this.pictureBox5.Visible = false;
             // 
             // comboBox2
             // 
@@ -365,16 +337,6 @@
             this.FYPPanel.Size = new System.Drawing.Size(1000, 60);
             this.FYPPanel.TabIndex = 3;
             // 
-            // pictureBox4
-            // 
-            this.pictureBox4.Image = global::CS4244.Properties.Resources.tick;
-            this.pictureBox4.Location = new System.Drawing.Point(307, 4);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(35, 35);
-            this.pictureBox4.TabIndex = 5;
-            this.pictureBox4.TabStop = false;
-            this.pictureBox4.Visible = false;
-            // 
             // comboBox1
             // 
             this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
@@ -408,16 +370,6 @@
             this.miniMaxPanel.Name = "miniMaxPanel";
             this.miniMaxPanel.Size = new System.Drawing.Size(1000, 60);
             this.miniMaxPanel.TabIndex = 2;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Image = global::CS4244.Properties.Resources.tick;
-            this.pictureBox3.Location = new System.Drawing.Point(307, 4);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(35, 35);
-            this.pictureBox3.TabIndex = 5;
-            this.pictureBox3.TabStop = false;
-            this.pictureBox3.Visible = false;
             // 
             // modsBox
             // 
@@ -453,16 +405,6 @@
             this.degreePanel.Name = "degreePanel";
             this.degreePanel.Size = new System.Drawing.Size(1000, 60);
             this.degreePanel.TabIndex = 1;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = global::CS4244.Properties.Resources.tick;
-            this.pictureBox2.Location = new System.Drawing.Point(395, 0);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(35, 35);
-            this.pictureBox2.TabIndex = 4;
-            this.pictureBox2.TabStop = false;
-            this.pictureBox2.Visible = false;
             // 
             // cohortLabel
             // 
@@ -500,16 +442,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1000, 60);
             this.panel1.TabIndex = 0;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::CS4244.Properties.Resources.tick;
-            this.pictureBox1.Location = new System.Drawing.Point(395, 0);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(35, 35);
-            this.pictureBox1.TabIndex = 3;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Visible = false;
             // 
             // nameTextBox
             // 
@@ -1150,16 +1082,6 @@
             this.panel3.Size = new System.Drawing.Size(460, 350);
             this.panel3.TabIndex = 13;
             // 
-            // pictureBox10
-            // 
-            this.pictureBox10.Image = global::CS4244.Properties.Resources.tick;
-            this.pictureBox10.Location = new System.Drawing.Point(327, -1);
-            this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(35, 35);
-            this.pictureBox10.TabIndex = 18;
-            this.pictureBox10.TabStop = false;
-            this.pictureBox10.Visible = false;
-            // 
             // modulesDislikeLBox
             // 
             this.modulesDislikeLBox.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -1224,16 +1146,6 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(460, 350);
             this.panel2.TabIndex = 12;
-            // 
-            // pictureBox9
-            // 
-            this.pictureBox9.Image = global::CS4244.Properties.Resources.tick;
-            this.pictureBox9.Location = new System.Drawing.Point(327, -1);
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(35, 35);
-            this.pictureBox9.TabIndex = 17;
-            this.pictureBox9.TabStop = false;
-            this.pictureBox9.Visible = false;
             // 
             // modulesInterestLBox
             // 
@@ -1300,16 +1212,6 @@
             this.panel4.Size = new System.Drawing.Size(460, 176);
             this.panel4.TabIndex = 11;
             // 
-            // pictureBox8
-            // 
-            this.pictureBox8.Image = global::CS4244.Properties.Resources.tick;
-            this.pictureBox8.Location = new System.Drawing.Point(330, -4);
-            this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(35, 35);
-            this.pictureBox8.TabIndex = 16;
-            this.pictureBox8.TabStop = false;
-            this.pictureBox8.Visible = false;
-            // 
             // preferenceLBox
             // 
             this.preferenceLBox.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -1362,6 +1264,116 @@
             this.preferenceLabel.TabIndex = 0;
             this.preferenceLabel.Text = "Personal Preference:";
             // 
+            // button20
+            // 
+            this.button20.Location = new System.Drawing.Point(46, 545);
+            this.button20.Name = "button20";
+            this.button20.Size = new System.Drawing.Size(115, 40);
+            this.button20.TabIndex = 9;
+            this.button20.Text = "Advanced Settings";
+            this.button20.UseVisualStyleBackColor = true;
+            this.button20.Click += new System.EventHandler(this.button20_Click);
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox6.Location = new System.Drawing.Point(357, 4);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox6.TabIndex = 5;
+            this.pictureBox6.TabStop = false;
+            this.pictureBox6.Visible = false;
+            // 
+            // pictureBox7
+            // 
+            this.pictureBox7.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox7.Location = new System.Drawing.Point(857, 4);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox7.TabIndex = 6;
+            this.pictureBox7.TabStop = false;
+            this.pictureBox7.Visible = false;
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox5.Location = new System.Drawing.Point(457, 4);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox5.TabIndex = 6;
+            this.pictureBox5.TabStop = false;
+            this.pictureBox5.Visible = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox4.Location = new System.Drawing.Point(307, 4);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox4.TabIndex = 5;
+            this.pictureBox4.TabStop = false;
+            this.pictureBox4.Visible = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox3.Location = new System.Drawing.Point(307, 4);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox3.TabIndex = 5;
+            this.pictureBox3.TabStop = false;
+            this.pictureBox3.Visible = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox2.Location = new System.Drawing.Point(395, 0);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox2.TabIndex = 4;
+            this.pictureBox2.TabStop = false;
+            this.pictureBox2.Visible = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox1.Location = new System.Drawing.Point(395, 0);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox1.TabIndex = 3;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Visible = false;
+            // 
+            // pictureBox10
+            // 
+            this.pictureBox10.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox10.Location = new System.Drawing.Point(327, -1);
+            this.pictureBox10.Name = "pictureBox10";
+            this.pictureBox10.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox10.TabIndex = 18;
+            this.pictureBox10.TabStop = false;
+            this.pictureBox10.Visible = false;
+            // 
+            // pictureBox9
+            // 
+            this.pictureBox9.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox9.Location = new System.Drawing.Point(327, -1);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox9.TabIndex = 17;
+            this.pictureBox9.TabStop = false;
+            this.pictureBox9.Visible = false;
+            // 
+            // pictureBox8
+            // 
+            this.pictureBox8.Image = global::CS4244.Properties.Resources.tick;
+            this.pictureBox8.Location = new System.Drawing.Point(330, -4);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(35, 35);
+            this.pictureBox8.TabIndex = 16;
+            this.pictureBox8.TabStop = false;
+            this.pictureBox8.Visible = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1377,25 +1389,18 @@
             this.tabPage1.ResumeLayout(false);
             this.JCPolyPanel.ResumeLayout(false);
             this.JCPolyPanel.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             this.projectPanel.ResumeLayout(false);
             this.projectPanel.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             this.FocusAreaPanel.ResumeLayout(false);
             this.FocusAreaPanel.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             this.FYPPanel.ResumeLayout(false);
             this.FYPPanel.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.miniMaxPanel.ResumeLayout(false);
             this.miniMaxPanel.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.degreePanel.ResumeLayout(false);
             this.degreePanel.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.tabPage2.ResumeLayout(false);
             this.tabPage2.PerformLayout();
             this.panel10.ResumeLayout(false);
@@ -1417,12 +1422,19 @@
             this.tabPage3.ResumeLayout(false);
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
             this.ResumeLayout(false);
 
@@ -1538,6 +1550,7 @@
         private System.Windows.Forms.Button button19;
         private System.Windows.Forms.ComboBox comboBox11;
         private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Button button20;
 
 
     }

@@ -1,5 +1,5 @@
 (definstances INITIALIZE::aaronwong 
-([CustomScore] of SCORE (interestedmodule 10) (focussecondary 15)  )
+([CustomScore] of SCORE (focusscoreprimary 10) (focussecondary 11) (interestedmodule 5) (notinterestedmodule 6) (level1additionalscore 7) (level2additionalscore 8) (level3additionalscore 9))
 ( [TagARCHITECTURE] of INTERESTEDTAG (tag ARCHITECTURE))
 ( [FocusAreaCS3230] of FOCUSAREA (moduleid CS3230) (type PRIMARY))
 ( [FocusAreaCS3236] of FOCUSAREA (moduleid CS3236) (type PRIMARY))

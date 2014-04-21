@@ -13,6 +13,8 @@ namespace CS4244
 {
     public partial class Form1 : Form
     {
+        Form3 f3 = new Form3();
+
         public Form1()
         {
             InitializeComponent();
@@ -626,8 +628,6 @@ namespace CS4244
                 p.StartInfo.UseShellExecute = false;
                 p.StartInfo.CreateNoWindow = true;
 
-
-
                 p.StartInfo.RedirectStandardInput = true;
                 p.StartInfo.RedirectStandardOutput = true;
                 p.StartInfo.FileName = "C:\\Users\\User\\Documents\\GitHub\\CS4244\\Clips.exe";
@@ -637,15 +637,22 @@ namespace CS4244
                 System.IO.StreamReader reader = p.StandardOutput;
 
                 writer.WriteLine("(batch C:/Users/User/Documents/GitHub/CS4244/initialiseAll.bat)");
-                
-                //writer.WriteLine("(reset)");
-                //writer.WriteLine("(focus INITIALIZE)");
 
                 List<List<string>> allInstances = u.getAllInstances();
 
                 System.IO.StreamWriter aaronwriter = new System.IO.StreamWriter("C:\\Users\\User\\Documents\\GitHub\\CS4244\\input.txt", false);
                 aaronwriter.WriteLine("(definstances INITIALIZE::aaronwong ");
-                aaronwriter.WriteLine("([CustomScore] of SCORE (interestedmodule 10) (focussecondary 15)  )");
+
+                string interestMulti = f3.numericUpDown1.Value.ToString();
+                string uninterestMulti = f3.numericUpDown2.Value.ToString();
+                string oneMulti = f3.numericUpDown3.Value.ToString();
+                string twoMulti = f3.numericUpDown4.Value.ToString();
+                string threeMulti = f3.numericUpDown5.Value.ToString();
+                string primaryMulti = f3.numericUpDown6.Value.ToString();
+                string electiveMulti = f3.numericUpDown7.Value.ToString();
+                string csMods = f3.numericUpDown8.Value.ToString();
+
+                aaronwriter.WriteLine("([CustomScore] of SCORE (focusscoreprimary " + primaryMulti + ") (focussecondary " + electiveMulti + ") (interestedmodule " + interestMulti + ") (notinterestedmodule " + uninterestMulti + ") (level1additionalscore " + oneMulti + ") (level2additionalscore " + twoMulti + ") (level3additionalscore " + threeMulti + "))");
                 foreach (List<string> element in allInstances)
                 {
                     foreach (string output in element)
@@ -656,20 +663,11 @@ namespace CS4244
                 aaronwriter.WriteLine(")");
                 aaronwriter.Close();
 
-
-                //writer.WriteLine("(make-instance [CustomScore] of SCORE (interestedmodule 10) (focussecondary 15))");
-                //writer.WriteLine("(run)");
-                //writer.WriteLine("(focus CLEANING)");
-                //writer.WriteLine("(run)");
-                //writer.WriteLine("(focus MODULESELECTION)");
-                //writer.WriteLine("(run)");
                 writer.WriteLine("(focus TIMETABLE)");
                 writer.WriteLine("(run)");
                 writer.WriteLine("(focus TIMETABLE)");
-
                 writer.WriteLine("(print-out-url)");
                 writer.WriteLine("");
-
 
                 string[] texts = null;
 
@@ -690,9 +688,9 @@ namespace CS4244
                 string moduleList = reader.ReadLine();
                 string url = texts[1];
 
-                string[] yahoo = moduleList.Split('@'); // (:
+                string[] yahoo = moduleList.Split('@');
 
-                p.Close();
+                p.Kill();
 
                 Form2 form2 = new Form2(url);
 
@@ -812,6 +810,11 @@ namespace CS4244
                 pictureBox7.Visible = true;
             else
                 pictureBox7.Visible = false;
+        }
+
+        private void button20_Click(object sender, EventArgs e)
+        {
+            f3.ShowDialog();
         }
     }
 }

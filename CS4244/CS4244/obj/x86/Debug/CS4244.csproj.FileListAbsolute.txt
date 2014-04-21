@@ -22,3 +22,4 @@ C:\Users\User\Documents\GitHub\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.Form1.r
 C:\Users\User\Documents\GitHub\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.Form2.resources
 C:\Users\User\Documents\GitHub\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.Properties.Resources.resources
 C:\Users\User\Documents\GitHub\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.csproj.GenerateResource.Cache
+C:\Users\User\Documents\GitHub\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.Form3.resources
