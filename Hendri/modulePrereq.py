@@ -1,4 +1,4 @@
-f = open('tobeinserted_prereq.txt');
+f = open('03_prereq_tobehandled.txt');
 
 tableName ='ModulePrereq'
 column = ['ModuleCode', 'Prereqcode'];

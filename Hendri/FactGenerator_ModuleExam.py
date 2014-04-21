@@ -7,7 +7,7 @@ c = db.cursor()
 c.execute("SELECT * FROM ModuleExam")
 table = c.fetchall()
 
-print "(definstances MODULEEXAMLIST "
+print "(definstances TIMETABLE::MODULEEXAMLIST "
 i = 0;
 OldModuleCode = ""
 for row in table:

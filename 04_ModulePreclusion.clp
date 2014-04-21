@@ -2,6 +2,7 @@
 ; and there is 
 
 (defrule MODULESELECTION::ModulePreclusionRule
+      (declare (salience 3))
 	  (object (is-a ALLMODULE) (moduleid ?somemodule))
 	  ?objmodule <- (object (is-a MODULEPRECLUDE)  (moduleidpreclusion ?somemodule))
 	  

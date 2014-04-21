@@ -1,0 +1,44 @@
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3101', 'CS2250,IS1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3101', 'CS2250,IS1105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3220', 'CS2250,IS1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3220', 'CS2250,IS1105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3221', 'CS2250,IS1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3221', 'CS2250,IS1105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3222', 'CS2250,IS1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3222', 'CS2250,IS1105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3223', 'CS2250,IS1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3223', 'CS2250,IS1105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3241', 'CS2250,IS1103');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('IS3241', 'CS2250,IS1105');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE1101', 'A_Level_Physics,H1_Physics,H2_Physics,PC1221');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('MLE1101', 'A_Level_Physics,H1_Physics,H2_Physics,PC1222');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC1143', 'A_Level_Physics,H1_Physics,H2_Physics,PC1221');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC1143', 'A_Level_Physics,H1_Physics,H2_Physics,PC1222');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC1144', 'A_Level_Physics,H1_Physics,H2_Physics,PC1221');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC1144', 'A_Level_Physics,H1_Physics,H2_Physics,PC1222');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC1431', 'A_Level_Physics,H1_Physics,H2_Physics,PC1221');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC1431', 'A_Level_Physics,H1_Physics,H2_Physics,PC1222');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC1432', 'A_Level_Physics,H1_Physics,H2_Physics,PC1221');
+
+Insert Into ModulePrereq( ModuleCode, Prereqcode) VALUES ('PC1432', 'A_Level_Physics,H1_Physics,H2_Physics,PC1222');
+
