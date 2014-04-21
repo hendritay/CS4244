@@ -23,9 +23,9 @@
 		(make-instance ?instancename of ALLMODULE (moduleid ?moduleid))
 			 		
 		; if you've been precluded, so it cant be in the eligible module 
-		(do-for-all-instances ((?eligible ELIGIBLEMODULE)) (eq ?eligible:moduleid ?moduleid)
+		(do-for-instance ((?eligible ELIGIBLEMODULE)) (eq ?eligible:moduleid ?moduleid)
 		   (unmake-instance ?eligible)
-		)		
+		)
 	)
 
 	

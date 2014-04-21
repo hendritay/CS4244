@@ -239,26 +239,6 @@ breadth
 NONCS
 )
 )
-([modAR1102] of MODULE 
-(moduleid  AR1102)
-(mc 8)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modAR1326] of MODULE 
-(moduleid  AR1326)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modAR1327] of MODULE 
 (moduleid  AR1327)
 (mc 4)
@@ -291,16 +271,6 @@ NONCS
 )
 ([modAR2101] of MODULE 
 (moduleid  AR2101)
-(mc 8)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modAR2102] of MODULE 
-(moduleid  AR2102)
 (mc 8)
 (modulelevel 2)
 (moduletype 
@@ -439,26 +409,6 @@ breadth
 NONCS
 )
 )
-([modAR3102] of MODULE 
-(moduleid  AR3102)
-(mc 8)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modAR3102A] of MODULE 
-(moduleid  AR3102A)
-(mc 8)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modAR3151] of MODULE 
 (moduleid  AR3151)
 (mc 4)
@@ -509,28 +459,8 @@ breadth
 NONCS
 )
 )
-([modAR4102] of MODULE 
-(moduleid  AR4102)
-(mc 8)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modAR4103] of MODULE 
 (moduleid  AR4103)
-(mc 8)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modAR4104] of MODULE 
-(moduleid  AR4104)
 (mc 8)
 (modulelevel 4)
 (moduletype 
@@ -989,16 +919,6 @@ breadth
 NONCS
 )
 )
-([modAS4232] of MODULE 
-(moduleid  AS4232)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modASP1201] of MODULE 
 (moduleid  ASP1201)
 (mc 4)
@@ -1163,6 +1083,26 @@ NONCS
 (moduleid  AY1104)
 (mc 4)
 (modulelevel 1)
+(moduletype 
+UE
+breadth
+NONCS
+)
+)
+([modA_level_mathematics] of MODULE 
+(moduleid  A_level_mathematics)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+)
+([modA_level_Physics] of MODULE 
+(moduleid  A_level_Physics)
+(mc 0)
+(modulelevel 0)
 (moduletype 
 UE
 breadth
@@ -3069,38 +3009,8 @@ breadth
 NONCS
 )
 )
-([modBN2103] of MODULE 
-(moduleid  BN2103)
-(mc 2)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modBN2201] of MODULE 
-(moduleid  BN2201)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modBN2202] of MODULE 
 (moduleid  BN2202)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modBN2203] of MODULE 
-(moduleid  BN2203)
 (mc 4)
 (modulelevel 2)
 (moduletype 
@@ -3179,16 +3089,6 @@ breadth
 NONCS
 )
 )
-([modBN4101R] of MODULE 
-(moduleid  BN4101R)
-(mc 12)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modBN4201] of MODULE 
 (moduleid  BN4201)
 (mc 4)
@@ -3241,16 +3141,6 @@ NONCS
 )
 ([modBN4403] of MODULE 
 (moduleid  BN4403)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modBN4404] of MODULE 
-(moduleid  BN4404)
 (mc 4)
 (modulelevel 4)
 (moduletype 
@@ -3579,36 +3469,6 @@ breadth
 NONCS
 )
 )
-([modBSP3001A] of MODULE 
-(moduleid  BSP3001A)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modBSP3001B] of MODULE 
-(moduleid  BSP3001B)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modBSP3001C] of MODULE 
-(moduleid  BSP3001C)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modBSP3513] of MODULE 
 (moduleid  BSP3513)
 (mc 4)
@@ -3759,16 +3619,6 @@ breadth
 NONCS
 )
 )
-([modCE3101] of MODULE 
-(moduleid  CE3101)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modCE3102] of MODULE 
 (moduleid  CE3102)
 (mc 4)
@@ -3849,26 +3699,6 @@ breadth
 NONCS
 )
 )
-([modCE4103] of MODULE 
-(moduleid  CE4103)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCE4104] of MODULE 
-(moduleid  CE4104)
-(mc 8)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modCE4221] of MODULE 
 (moduleid  CE4221)
 (mc 4)
@@ -3881,16 +3711,6 @@ NONCS
 )
 ([modCE4231] of MODULE 
 (moduleid  CE4231)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCE4247] of MODULE 
-(moduleid  CE4247)
 (mc 4)
 (modulelevel 4)
 (moduletype 
@@ -3951,36 +3771,6 @@ NONCS
 )
 ([modCE5104] of MODULE 
 (moduleid  CE5104)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCE5105] of MODULE 
-(moduleid  CE5105)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCE5106] of MODULE 
-(moduleid  CE5106)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCE5107] of MODULE 
-(moduleid  CE5107)
 (mc 4)
 (modulelevel 5)
 (moduletype 
@@ -4169,28 +3959,8 @@ breadth
 NONCS
 )
 )
-([modCE5604] of MODULE 
-(moduleid  CE5604)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modCE5610] of MODULE 
 (moduleid  CE5610)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCE5611] of MODULE 
-(moduleid  CE5611)
 (mc 4)
 (modulelevel 5)
 (moduletype 
@@ -4231,16 +4001,6 @@ NONCS
 )
 ([modCE5881] of MODULE 
 (moduleid  CE5881)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCE5883A] of MODULE 
-(moduleid  CE5883A)
 (mc 4)
 (modulelevel 5)
 (moduletype 
@@ -4393,16 +4153,6 @@ NONCS
 (moduleid  CG3207)
 (mc 4)
 (modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCG4001] of MODULE 
-(moduleid  CG4001)
-(mc 12)
-(modulelevel 4)
 (moduletype 
 UE
 breadth
@@ -4669,58 +4419,8 @@ breadth
 NONCS
 )
 )
-([modCH4244] of MODULE 
-(moduleid  CH4244)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modCH4247] of MODULE 
 (moduleid  CH4247)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCH4261] of MODULE 
-(moduleid  CH4261)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCH4281] of MODULE 
-(moduleid  CH4281)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCH4401] of MODULE 
-(moduleid  CH4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCH4660] of MODULE 
-(moduleid  CH4660)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -4771,46 +4471,6 @@ NONCS
 )
 ([modCH5213R] of MODULE 
 (moduleid  CH5213R)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCH5225] of MODULE 
-(moduleid  CH5225)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCH5225R] of MODULE 
-(moduleid  CH5225R)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCH5242] of MODULE 
-(moduleid  CH5242)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCH5242R] of MODULE 
-(moduleid  CH5242R)
 (mc 5)
 (modulelevel 5)
 (moduletype 
@@ -4881,16 +4541,6 @@ NONCS
 )
 ([modCH6241] of MODULE 
 (moduleid  CH6241)
-(mc 4)
-(modulelevel 6)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCH6245] of MODULE 
-(moduleid  CH6245)
 (mc 4)
 (modulelevel 6)
 (moduletype 
@@ -5121,16 +4771,6 @@ NONCS
 )
 ([modCL3221] of MODULE 
 (moduleid  CL3221)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCL3281] of MODULE 
-(moduleid  CL3281)
 (mc 4)
 (modulelevel 3)
 (moduletype 
@@ -5639,16 +5279,6 @@ breadth
 NONCS
 )
 )
-([modCM3312] of MODULE 
-(moduleid  CM3312)
-(mc 8)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modCM4199A] of MODULE 
 (moduleid  CM4199A)
 (mc 16)
@@ -5711,16 +5341,6 @@ NONCS
 )
 ([modCM4227] of MODULE 
 (moduleid  CM4227)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCM4236] of MODULE 
-(moduleid  CM4236)
 (mc 4)
 (modulelevel 4)
 (moduletype 
@@ -6251,16 +5871,6 @@ NONCS
 )
 ([modCN4118E] of MODULE 
 (moduleid  CN4118E)
-(mc 10)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCN4118R] of MODULE 
-(moduleid  CN4118R)
 (mc 10)
 (modulelevel 4)
 (moduletype 
@@ -7049,16 +6659,6 @@ breadth
 NONCS
 )
 )
-([modCP3106] of MODULE 
-(moduleid  CP3106)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modCP3108A] of MODULE 
 (moduleid  CP3108A)
 (mc 2)
@@ -7123,26 +6723,6 @@ NONCS
 (moduleid  CP3209)
 (mc 4)
 (modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCP3880] of MODULE 
-(moduleid  CP3880)
-(mc 12)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modCP4101] of MODULE 
-(moduleid  CP4101)
-(mc 12)
-(modulelevel 4)
 (moduletype 
 UE
 breadth
@@ -8889,16 +8469,6 @@ breadth
 NONCS
 )
 )
-([modDSC3229] of MODULE 
-(moduleid  DSC3229)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modDSC4211C] of MODULE 
 (moduleid  DSC4211C)
 (mc 4)
@@ -8921,16 +8491,6 @@ NONCS
 )
 ([modDSC4213] of MODULE 
 (moduleid  DSC4213)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modDSC4219] of MODULE 
-(moduleid  DSC4219)
 (mc 4)
 (modulelevel 4)
 (moduletype 
@@ -9269,26 +8829,6 @@ breadth
 NONCS
 )
 )
-([modEC2104] of MODULE 
-(moduleid  EC2104)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC2303] of MODULE 
-(moduleid  EC2303)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEC2373] of MODULE 
 (moduleid  EC2373)
 (mc 4)
@@ -9329,28 +8869,8 @@ breadth
 NONCS
 )
 )
-([modEC3303] of MODULE 
-(moduleid  EC3303)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEC3304] of MODULE 
 (moduleid  EC3304)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC3312] of MODULE 
-(moduleid  EC3312)
 (mc 4)
 (modulelevel 3)
 (moduletype 
@@ -9411,16 +8931,6 @@ NONCS
 )
 ([modEC3351] of MODULE 
 (moduleid  EC3351)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC3352] of MODULE 
-(moduleid  EC3352)
 (mc 4)
 (modulelevel 3)
 (moduletype 
@@ -9559,26 +9069,6 @@ breadth
 NONCS
 )
 )
-([modEC3396] of MODULE 
-(moduleid  EC3396)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC3551] of MODULE 
-(moduleid  EC3551)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEC3880] of MODULE 
 (moduleid  EC3880)
 (mc 4)
@@ -9599,98 +9089,8 @@ breadth
 NONCS
 )
 )
-([modEC4101] of MODULE 
-(moduleid  EC4101)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC4102] of MODULE 
-(moduleid  EC4102)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEC4303] of MODULE 
 (moduleid  EC4303)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC4324] of MODULE 
-(moduleid  EC4324)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC4332] of MODULE 
-(moduleid  EC4332)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC4333] of MODULE 
-(moduleid  EC4333)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC4341] of MODULE 
-(moduleid  EC4341)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC4351] of MODULE 
-(moduleid  EC4351)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC4361] of MODULE 
-(moduleid  EC4361)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC4371] of MODULE 
-(moduleid  EC4371)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -9709,48 +9109,8 @@ breadth
 NONCS
 )
 )
-([modEC4394] of MODULE 
-(moduleid  EC4394)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEC4396] of MODULE 
 (moduleid  EC4396)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC4401] of MODULE 
-(moduleid  EC4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC4660] of MODULE 
-(moduleid  EC4660)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEC4880] of MODULE 
-(moduleid  EC4880)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -10431,16 +9791,6 @@ NONCS
 )
 ([modEE3031] of MODULE 
 (moduleid  EE3031)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEE3031E] of MODULE 
-(moduleid  EE3031E)
 (mc 4)
 (modulelevel 3)
 (moduletype 
@@ -12189,16 +11539,6 @@ breadth
 NONCS
 )
 )
-([modEL4216] of MODULE 
-(moduleid  EL4216)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEL4221] of MODULE 
 (moduleid  EL4221)
 (mc 5)
@@ -12221,56 +11561,6 @@ NONCS
 )
 ([modEL4253] of MODULE 
 (moduleid  EL4253)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEL4254] of MODULE 
-(moduleid  EL4254)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEL4255] of MODULE 
-(moduleid  EL4255)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEL4401] of MODULE 
-(moduleid  EL4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEL4660] of MODULE 
-(moduleid  EL4660)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEL4880A] of MODULE 
-(moduleid  EL4880A)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -12312,16 +11602,6 @@ NONCS
 ([modEL5250] of MODULE 
 (moduleid  EL5250)
 (mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEL5250R] of MODULE 
-(moduleid  EL5250R)
-(mc 5)
 (modulelevel 5)
 (moduletype 
 UE
@@ -12379,29 +11659,9 @@ breadth
 NONCS
 )
 )
-([modEL5253R] of MODULE 
-(moduleid  EL5253R)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEL5270] of MODULE 
 (moduleid  EL5270)
 (mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEL5270R] of MODULE 
-(moduleid  EL5270R)
-(mc 5)
 (modulelevel 5)
 (moduletype 
 UE
@@ -12422,16 +11682,6 @@ NONCS
 ([modEL5880B] of MODULE 
 (moduleid  EL5880B)
 (mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEL5880BR] of MODULE 
-(moduleid  EL5880BR)
-(mc 5)
 (modulelevel 5)
 (moduletype 
 UE
@@ -12559,26 +11809,6 @@ breadth
 NONCS
 )
 )
-([modEM1201] of MODULE 
-(moduleid  EM1201)
-(mc 0)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEM1202] of MODULE 
-(moduleid  EM1202)
-(mc 0)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEN1101E] of MODULE 
 (moduleid  EN1101E)
 (mc 4)
@@ -12591,16 +11821,6 @@ NONCS
 )
 ([modEN2201] of MODULE 
 (moduleid  EN2201)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEN2202] of MODULE 
-(moduleid  EN2202)
 (mc 4)
 (modulelevel 2)
 (moduletype 
@@ -12639,16 +11859,6 @@ breadth
 NONCS
 )
 )
-([modEN3222] of MODULE 
-(moduleid  EN3222)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEN3223] of MODULE 
 (moduleid  EN3223)
 (mc 4)
@@ -12671,26 +11881,6 @@ NONCS
 )
 ([modEN3225] of MODULE 
 (moduleid  EN3225)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEN3229] of MODULE 
-(moduleid  EN3229)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEN3241] of MODULE 
-(moduleid  EN3241)
 (mc 4)
 (modulelevel 3)
 (moduletype 
@@ -12729,38 +11919,8 @@ breadth
 NONCS
 )
 )
-([modEN3249] of MODULE 
-(moduleid  EN3249)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEN3261] of MODULE 
-(moduleid  EN3261)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEN3264] of MODULE 
 (moduleid  EN3264)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEN3265] of MODULE 
-(moduleid  EN3265)
 (mc 4)
 (modulelevel 3)
 (moduletype 
@@ -12799,38 +11959,8 @@ breadth
 NONCS
 )
 )
-([modEN4223] of MODULE 
-(moduleid  EN4223)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEN4224] of MODULE 
 (moduleid  EN4224)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEN4226] of MODULE 
-(moduleid  EN4226)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEN4232] of MODULE 
-(moduleid  EN4232)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -12869,48 +11999,8 @@ breadth
 NONCS
 )
 )
-([modEN4247] of MODULE 
-(moduleid  EN4247)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEN4262] of MODULE 
-(moduleid  EN4262)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEN4271] of MODULE 
 (moduleid  EN4271)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEN4401] of MODULE 
-(moduleid  EN4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEN4660] of MODULE 
-(moduleid  EN4660)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -12969,16 +12059,6 @@ breadth
 NONCS
 )
 )
-([modEN5242R] of MODULE 
-(moduleid  EN5242R)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEN5247] of MODULE 
 (moduleid  EN5247)
 (mc 4)
@@ -13029,16 +12109,6 @@ breadth
 NONCS
 )
 )
-([modEN5253R] of MODULE 
-(moduleid  EN5253R)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEN5660] of MODULE 
 (moduleid  EN5660)
 (mc 4)
@@ -13059,29 +12129,9 @@ breadth
 NONCS
 )
 )
-([modEN5880AR] of MODULE 
-(moduleid  EN5880AR)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEN5883] of MODULE 
 (moduleid  EN5883)
 (mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEN5883R] of MODULE 
-(moduleid  EN5883R)
-(mc 5)
 (modulelevel 5)
 (moduletype 
 UE
@@ -13179,16 +12229,6 @@ breadth
 NONCS
 )
 )
-([modENV2102] of MODULE 
-(moduleid  ENV2102)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modENV2103] of MODULE 
 (moduleid  ENV2103)
 (mc 4)
@@ -13249,16 +12289,6 @@ breadth
 NONCS
 )
 )
-([modES1501A] of MODULE 
-(moduleid  ES1501A)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modES1501B] of MODULE 
 (moduleid  ES1501B)
 (mc 4)
@@ -13279,16 +12309,6 @@ breadth
 NONCS
 )
 )
-([modES1501Q] of MODULE 
-(moduleid  ES1501Q)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modES1502] of MODULE 
 (moduleid  ES1502)
 (mc 0)
@@ -13299,58 +12319,8 @@ breadth
 NONCS
 )
 )
-([modES1531] of MODULE 
-(moduleid  ES1531)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modES1541] of MODULE 
-(moduleid  ES1541)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modES2002] of MODULE 
-(moduleid  ES2002)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modES2007D] of MODULE 
 (moduleid  ES2007D)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modES2007S] of MODULE 
-(moduleid  ES2007S)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modES2331] of MODULE 
-(moduleid  ES2331)
 (mc 4)
 (modulelevel 2)
 (moduletype 
@@ -13489,16 +12459,6 @@ breadth
 NONCS
 )
 )
-([modESE4403] of MODULE 
-(moduleid  ESE4403)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modESE4405] of MODULE 
 (moduleid  ESE4405)
 (mc 4)
@@ -13522,16 +12482,6 @@ NONCS
 ([modESE4501] of MODULE 
 (moduleid  ESE4501)
 (mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modESE4502] of MODULE 
-(moduleid  ESE4502)
-(mc 12)
 (modulelevel 4)
 (moduletype 
 UE
@@ -13589,28 +12539,8 @@ breadth
 NONCS
 )
 )
-([modESE5401] of MODULE 
-(moduleid  ESE5401)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modESE5402] of MODULE 
 (moduleid  ESE5402)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modESE5405] of MODULE 
-(moduleid  ESE5405)
 (mc 4)
 (modulelevel 5)
 (moduletype 
@@ -13631,16 +12561,6 @@ NONCS
 )
 ([modESE5601] of MODULE 
 (moduleid  ESE5601)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modESE5602] of MODULE 
-(moduleid  ESE5602)
 (mc 4)
 (modulelevel 5)
 (moduletype 
@@ -13819,16 +12739,6 @@ breadth
 NONCS
 )
 )
-([modESP4901] of MODULE 
-(moduleid  ESP4901)
-(mc 12)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modEU1101E] of MODULE 
 (moduleid  EU1101E)
 (mc 4)
@@ -13881,16 +12791,6 @@ NONCS
 )
 ([modEU3212] of MODULE 
 (moduleid  EU3212)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEU3217] of MODULE 
-(moduleid  EU3217)
 (mc 4)
 (modulelevel 3)
 (moduletype 
@@ -13962,36 +12862,6 @@ NONCS
 ([modEU4214] of MODULE 
 (moduleid  EU4214)
 (mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEU4224] of MODULE 
-(moduleid  EU4224)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEU4228] of MODULE 
-(moduleid  EU4228)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modEU4401] of MODULE 
-(moduleid  EU4401)
-(mc 15)
 (modulelevel 4)
 (moduletype 
 UE
@@ -14359,16 +13229,6 @@ breadth
 NONCS
 )
 )
-([modFIN3129] of MODULE 
-(moduleid  FIN3129)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modFIN3130] of MODULE 
 (moduleid  FIN3130)
 (mc 4)
@@ -14479,16 +13339,6 @@ breadth
 NONCS
 )
 )
-([modFIN4119] of MODULE 
-(moduleid  FIN4119)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modFIN4129] of MODULE 
 (moduleid  FIN4129)
 (mc 2)
@@ -14509,48 +13359,8 @@ breadth
 NONCS
 )
 )
-([modFMA1201J] of MODULE 
-(moduleid  FMA1201J)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modFMA1201L] of MODULE 
 (moduleid  FMA1201L)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modFMA1201P] of MODULE 
-(moduleid  FMA1201P)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modFMA1201Q] of MODULE 
-(moduleid  FMA1201Q)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modFMA1201R] of MODULE 
-(moduleid  FMA1201R)
 (mc 4)
 (modulelevel 1)
 (moduletype 
@@ -14589,26 +13399,6 @@ breadth
 NONCS
 )
 )
-([modFMA1203F] of MODULE 
-(moduleid  FMA1203F)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modFMA1203H] of MODULE 
-(moduleid  FMA1203H)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modFMA1203M] of MODULE 
 (moduleid  FMA1203M)
 (mc 4)
@@ -14631,16 +13421,6 @@ NONCS
 )
 ([modFMA1204H] of MODULE 
 (moduleid  FMA1204H)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modFMA1206M] of MODULE 
-(moduleid  FMA1206M)
 (mc 4)
 (modulelevel 1)
 (moduletype 
@@ -15079,26 +13859,6 @@ breadth
 NONCS
 )
 )
-([modFST3181] of MODULE 
-(moduleid  FST3181)
-(mc 8)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modFST3201] of MODULE 
-(moduleid  FST3201)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modFST3202] of MODULE 
 (moduleid  FST3202)
 (mc 4)
@@ -15152,16 +13912,6 @@ NONCS
 ([modFST4103] of MODULE 
 (moduleid  FST4103)
 (mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modFST4199] of MODULE 
-(moduleid  FST4199)
-(mc 16)
 (modulelevel 4)
 (moduletype 
 UE
@@ -15461,33 +14211,6 @@ GEM
 NONCS
 )
 )
-([modGE3550A] of MODULE 
-(moduleid  GE3550A)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGE3550B] of MODULE 
-(moduleid  GE3550B)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGE3551] of MODULE 
-(moduleid  GE3551)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-GEM
-NONCS
-)
-)
 ([modGE4101A] of MODULE 
 (moduleid  GE4101A)
 (mc 5)
@@ -15499,33 +14222,6 @@ NONCS
 )
 ([modGE4101B] of MODULE 
 (moduleid  GE4101B)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGE4202] of MODULE 
-(moduleid  GE4202)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGE4207] of MODULE 
-(moduleid  GE4207)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGE4211] of MODULE 
-(moduleid  GE4211)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -15551,35 +14247,8 @@ GEM
 NONCS
 )
 )
-([modGE4218] of MODULE 
-(moduleid  GE4218)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-GEM
-NONCS
-)
-)
 ([modGE4220] of MODULE 
 (moduleid  GE4220)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGE4401] of MODULE 
-(moduleid  GE4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGE4660] of MODULE 
-(moduleid  GE4660)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -15929,15 +14598,6 @@ GEM
 NONCS
 )
 )
-([modGEK1501] of MODULE 
-(moduleid  GEK1501)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-GEM
-NONCS
-)
-)
 ([modGEK1502] of MODULE 
 (moduleid  GEK1502)
 (mc 4)
@@ -15985,15 +14645,6 @@ NONCS
 )
 ([modGEK1510] of MODULE 
 (moduleid  GEK1510)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGEK1513] of MODULE 
-(moduleid  GEK1513)
 (mc 4)
 (modulelevel 1)
 (moduletype 
@@ -16237,15 +14888,6 @@ NONCS
 )
 ([modGEK2003] of MODULE 
 (moduleid  GEK2003)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGEK2005] of MODULE 
-(moduleid  GEK2005)
 (mc 4)
 (modulelevel 2)
 (moduletype 
@@ -16559,26 +15201,8 @@ GEM
 NONCS
 )
 )
-([modGEM1035] of MODULE 
-(moduleid  GEM1035)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-GEM
-NONCS
-)
-)
 ([modGEM1036] of MODULE 
 (moduleid  GEM1036)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGEM1501] of MODULE 
-(moduleid  GEM1501)
 (mc 4)
 (modulelevel 1)
 (moduletype 
@@ -16604,15 +15228,6 @@ GEM
 NONCS
 )
 )
-([modGEM1536] of MODULE 
-(moduleid  GEM1536)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-GEM
-NONCS
-)
-)
 ([modGEM1537] of MODULE 
 (moduleid  GEM1537)
 (mc 4)
@@ -16631,15 +15246,6 @@ GEM
 NONCS
 )
 )
-([modGEM1902A] of MODULE 
-(moduleid  GEM1902A)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-GEM
-NONCS
-)
-)
 ([modGEM1902B] of MODULE 
 (moduleid  GEM1902B)
 (mc 4)
@@ -16651,24 +15257,6 @@ NONCS
 )
 ([modGEM1902C] of MODULE 
 (moduleid  GEM1902C)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGEM1902E] of MODULE 
-(moduleid  GEM1902E)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGEM1902G] of MODULE 
-(moduleid  GEM1902G)
 (mc 4)
 (modulelevel 1)
 (moduletype 
@@ -16712,15 +15300,6 @@ GEM
 NONCS
 )
 )
-([modGEM1904] of MODULE 
-(moduleid  GEM1904)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-GEM
-NONCS
-)
-)
 ([modGEM1906] of MODULE 
 (moduleid  GEM1906)
 (mc 4)
@@ -16732,24 +15311,6 @@ NONCS
 )
 ([modGEM1907] of MODULE 
 (moduleid  GEM1907)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGEM1908] of MODULE 
-(moduleid  GEM1908)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGEM1909] of MODULE 
-(moduleid  GEM1909)
 (mc 4)
 (modulelevel 1)
 (moduletype 
@@ -16795,15 +15356,6 @@ NONCS
 )
 ([modGEM1914] of MODULE 
 (moduleid  GEM1914)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGEM1915FC] of MODULE 
-(moduleid  GEM1915FC)
 (mc 4)
 (modulelevel 1)
 (moduletype 
@@ -16910,33 +15462,6 @@ GEM
 NONCS
 )
 )
-([modGEM2903] of MODULE 
-(moduleid  GEM2903)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGEM2904] of MODULE 
-(moduleid  GEM2904)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGEM2905] of MODULE 
-(moduleid  GEM2905)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-GEM
-NONCS
-)
-)
 ([modGEM2906] of MODULE 
 (moduleid  GEM2906)
 (mc 4)
@@ -16948,24 +15473,6 @@ NONCS
 )
 ([modGEM3002] of MODULE 
 (moduleid  GEM3002)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGEM3901] of MODULE 
-(moduleid  GEM3901)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-GEM
-NONCS
-)
-)
-([modGEM3902] of MODULE 
-(moduleid  GEM3902)
 (mc 4)
 (modulelevel 3)
 (moduletype 
@@ -17192,6 +15699,56 @@ breadth
 NONCS
 )
 )
+([modH1_Biology] of MODULE 
+(moduleid  H1_Biology)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+)
+([modH1_Chemistry] of MODULE 
+(moduleid  H1_Chemistry)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+)
+([modH1_Physics] of MODULE 
+(moduleid  H1_Physics)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+)
+([modH2_Biology] of MODULE 
+(moduleid  H2_Biology)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+)
+([modH2_Physics] of MODULE 
+(moduleid  H2_Physics)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+)
 ([modHM5101] of MODULE 
 (moduleid  HM5101)
 (mc 4)
@@ -17236,16 +15793,6 @@ NONCS
 (moduleid  HM5106)
 (mc 4)
 (modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modHR2002] of MODULE 
-(moduleid  HR2002)
-(mc 3)
-(modulelevel 2)
 (moduletype 
 UE
 breadth
@@ -17374,16 +15921,6 @@ NONCS
 )
 ([modHY2256] of MODULE 
 (moduleid  HY2256)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modHY2259] of MODULE 
-(moduleid  HY2259)
 (mc 4)
 (modulelevel 2)
 (moduletype 
@@ -17532,28 +16069,8 @@ breadth
 NONCS
 )
 )
-([modHY4205] of MODULE 
-(moduleid  HY4205)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modHY4210] of MODULE 
 (moduleid  HY4210)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modHY4211] of MODULE 
-(moduleid  HY4211)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -17582,26 +16099,6 @@ breadth
 NONCS
 )
 )
-([modHY4215] of MODULE 
-(moduleid  HY4215)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modHY4216] of MODULE 
-(moduleid  HY4216)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modHY4218] of MODULE 
 (moduleid  HY4218)
 (mc 5)
@@ -17622,38 +16119,8 @@ breadth
 NONCS
 )
 )
-([modHY4222] of MODULE 
-(moduleid  HY4222)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modHY4227] of MODULE 
 (moduleid  HY4227)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modHY4401] of MODULE 
-(moduleid  HY4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modHY4660] of MODULE 
-(moduleid  HY4660)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -17774,16 +16241,6 @@ NONCS
 )
 ([modID1105] of MODULE 
 (moduleid  ID1105)
-(mc 8)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modID1106] of MODULE 
-(moduleid  ID1106)
 (mc 8)
 (modulelevel 1)
 (moduletype 
@@ -17975,16 +16432,6 @@ NONCS
 ([modID4105] of MODULE 
 (moduleid  ID4105)
 (mc 10)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modID4106] of MODULE 
-(moduleid  ID4106)
-(mc 12)
 (modulelevel 4)
 (moduletype 
 UE
@@ -18332,16 +16779,6 @@ breadth
 NONCS
 )
 )
-([modIE3100E] of MODULE 
-(moduleid  IE3100E)
-(mc 8)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modIE3100R] of MODULE 
 (moduleid  IE3100R)
 (mc 8)
@@ -18396,26 +16833,6 @@ NONCS
 (moduleid  IE3120)
 (mc 4)
 (modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIE4100] of MODULE 
-(moduleid  IE4100)
-(mc 12)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIE4100E] of MODULE 
-(moduleid  IE4100E)
-(mc 12)
-(modulelevel 4)
 (moduletype 
 UE
 breadth
@@ -18762,96 +17179,6 @@ breadth
 NONCS
 )
 )
-([modIEM1201M] of MODULE 
-(moduleid  IEM1201M)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIEM1201N] of MODULE 
-(moduleid  IEM1201N)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIEM1201P] of MODULE 
-(moduleid  IEM1201P)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIEM1201Q] of MODULE 
-(moduleid  IEM1201Q)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIEM1201R] of MODULE 
-(moduleid  IEM1201R)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIEM1201S] of MODULE 
-(moduleid  IEM1201S)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIEM1201T] of MODULE 
-(moduleid  IEM1201T)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIEM2201E] of MODULE 
-(moduleid  IEM2201E)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIEM2201H] of MODULE 
-(moduleid  IEM2201H)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modIEM2201J] of MODULE 
 (moduleid  IEM2201J)
 (mc 4)
@@ -18862,38 +17189,8 @@ breadth
 NONCS
 )
 )
-([modIEM2201K] of MODULE 
-(moduleid  IEM2201K)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIEM2201L] of MODULE 
-(moduleid  IEM2201L)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modIEU3550] of MODULE 
 (moduleid  IEU3550)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modINM3550] of MODULE 
-(moduleid  INM3550)
 (mc 4)
 (modulelevel 3)
 (moduletype 
@@ -19132,16 +17429,6 @@ breadth
 NONCS
 )
 )
-([modIS4100] of MODULE 
-(moduleid  IS4100)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modIS4102] of MODULE 
 (moduleid  IS4102)
 (mc 8)
@@ -19192,16 +17479,6 @@ breadth
 NONCS
 )
 )
-([modIS4226] of MODULE 
-(moduleid  IS4226)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modIS4227] of MODULE 
 (moduleid  IS4227)
 (mc 4)
@@ -19242,16 +17519,6 @@ breadth
 NONCS
 )
 )
-([modIS4240] of MODULE 
-(moduleid  IS4240)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modIS4241] of MODULE 
 (moduleid  IS4241)
 (mc 4)
@@ -19262,28 +17529,8 @@ breadth
 NONCS
 )
 )
-([modIS4243] of MODULE 
-(moduleid  IS4243)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modIS4250] of MODULE 
 (moduleid  IS4250)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIS4260] of MODULE 
-(moduleid  IS4260)
 (mc 4)
 (modulelevel 4)
 (moduletype 
@@ -19562,16 +17809,6 @@ breadth
 NONCS
 )
 )
-([modIT1001] of MODULE 
-(moduleid  IT1001)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modIT1004] of MODULE 
 (moduleid  IT1004)
 (mc 4)
@@ -19586,36 +17823,6 @@ NONCS
 (moduleid  IT1005)
 (mc 4)
 (modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIT1006] of MODULE 
-(moduleid  IT1006)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIT2001] of MODULE 
-(moduleid  IT2001)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modIT2002] of MODULE 
-(moduleid  IT2002)
-(mc 4)
-(modulelevel 2)
 (moduletype 
 UE
 breadth
@@ -19722,16 +17929,6 @@ breadth
 NONCS
 )
 )
-([modJS3101] of MODULE 
-(moduleid  JS3101)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modJS3208] of MODULE 
 (moduleid  JS3208)
 (mc 4)
@@ -19802,16 +17999,6 @@ breadth
 NONCS
 )
 )
-([modJS3550] of MODULE 
-(moduleid  JS3550)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modJS4101] of MODULE 
 (moduleid  JS4101)
 (mc 5)
@@ -19832,48 +18019,8 @@ breadth
 NONCS
 )
 )
-([modJS4209] of MODULE 
-(moduleid  JS4209)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modJS4213] of MODULE 
 (moduleid  JS4213)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modJS4214] of MODULE 
-(moduleid  JS4214)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modJS4216] of MODULE 
-(moduleid  JS4216)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modJS4217] of MODULE 
-(moduleid  JS4217)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -19892,38 +18039,8 @@ breadth
 NONCS
 )
 )
-([modJS4227] of MODULE 
-(moduleid  JS4227)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modJS4230] of MODULE 
 (moduleid  JS4230)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modJS4401] of MODULE 
-(moduleid  JS4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modJS4660] of MODULE 
-(moduleid  JS4660)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -20566,16 +18683,6 @@ NONCS
 (moduleid  LAG4202)
 (mc 5)
 (modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modLAH1201] of MODULE 
-(moduleid  LAH1201)
-(mc 4)
-(modulelevel 1)
 (moduletype 
 UE
 breadth
@@ -22072,16 +20179,6 @@ breadth
 NONCS
 )
 )
-([modLL4061] of MODULE 
-(moduleid  LL4061)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modLL4062] of MODULE 
 (moduleid  LL4062)
 (mc 4)
@@ -22204,16 +20301,6 @@ NONCS
 )
 ([modLL4081] of MODULE 
 (moduleid  LL4081)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modLL4082] of MODULE 
-(moduleid  LL4082)
 (mc 4)
 (modulelevel 4)
 (moduletype 
@@ -22354,16 +20441,6 @@ NONCS
 )
 ([modLL4133] of MODULE 
 (moduleid  LL4133)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modLL4134] of MODULE 
-(moduleid  LL4134)
 (mc 4)
 (modulelevel 4)
 (moduletype 
@@ -22612,16 +20689,6 @@ breadth
 NONCS
 )
 )
-([modLL4202] of MODULE 
-(moduleid  LL4202)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modLL4203] of MODULE 
 (moduleid  LL4203)
 (mc 4)
@@ -22824,16 +20891,6 @@ NONCS
 )
 ([modLL4233] of MODULE 
 (moduleid  LL4233)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modLL4234] of MODULE 
-(moduleid  LL4234)
 (mc 4)
 (modulelevel 4)
 (moduletype 
@@ -25565,16 +23622,6 @@ NONCS
 SCIENCE
 )
 )
-([modLSM1401] of MODULE 
-(moduleid  LSM1401)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modLSM2101] of MODULE 
 (moduleid  LSM2101)
 (mc 4)
@@ -25985,16 +24032,6 @@ breadth
 NONCS
 )
 )
-([modLSM4199] of MODULE 
-(moduleid  LSM4199)
-(mc 16)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modLSM4211] of MODULE 
 (moduleid  LSM4211)
 (mc 4)
@@ -26307,16 +24344,6 @@ NONCS
 )
 ([modMA1101R] of MODULE 
 (moduleid  MA1101R)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modMA1102R] of MODULE 
-(moduleid  MA1102R)
 (mc 4)
 (modulelevel 1)
 (moduletype 
@@ -26810,16 +24837,6 @@ breadth
 NONCS
 )
 )
-([modMA3312] of MODULE 
-(moduleid  MA3312)
-(mc 8)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modMA4199] of MODULE 
 (moduleid  MA4199)
 (mc 12)
@@ -27050,16 +25067,6 @@ breadth
 NONCS
 )
 )
-([modMA5198] of MODULE 
-(moduleid  MA5198)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modMA5203] of MODULE 
 (moduleid  MA5203)
 (mc 4)
@@ -27253,16 +25260,6 @@ NONCS
 ([modMA5260] of MODULE 
 (moduleid  MA5260)
 (mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modMA5295] of MODULE 
-(moduleid  MA5295)
-(mc 8)
 (modulelevel 5)
 (moduletype 
 UE
@@ -28210,26 +26207,6 @@ breadth
 NONCS
 )
 )
-([modME4101A] of MODULE 
-(moduleid  ME4101A)
-(mc 8)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modME4105] of MODULE 
-(moduleid  ME4105)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modME4211] of MODULE 
 (moduleid  ME4211)
 (mc 4)
@@ -29080,16 +27057,6 @@ breadth
 NONCS
 )
 )
-([modMKT3429] of MODULE 
-(moduleid  MKT3429)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modMKT3513] of MODULE 
 (moduleid  MKT3513)
 (mc 4)
@@ -29132,16 +27099,6 @@ NONCS
 )
 ([modMKT4415C] of MODULE 
 (moduleid  MKT4415C)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modMKT4419] of MODULE 
-(moduleid  MKT4419)
 (mc 4)
 (modulelevel 4)
 (moduletype 
@@ -29540,16 +27497,6 @@ breadth
 NONCS
 )
 )
-([modMNO3329] of MODULE 
-(moduleid  MNO3329)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modMNO3330] of MODULE 
 (moduleid  MNO3330)
 (mc 4)
@@ -29580,16 +27527,6 @@ breadth
 NONCS
 )
 )
-([modMNO4313C] of MODULE 
-(moduleid  MNO4313C)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modMNO4313E] of MODULE 
 (moduleid  MNO4313E)
 (mc 4)
@@ -29602,16 +27539,6 @@ NONCS
 )
 ([modMNO4315] of MODULE 
 (moduleid  MNO4315)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modMNO4319] of MODULE 
-(moduleid  MNO4319)
 (mc 4)
 (modulelevel 4)
 (moduletype 
@@ -29770,48 +27697,8 @@ breadth
 NONCS
 )
 )
-([modMS4201] of MODULE 
-(moduleid  MS4201)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modMS4204] of MODULE 
 (moduleid  MS4204)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modMS4401] of MODULE 
-(moduleid  MS4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modMS4660] of MODULE 
-(moduleid  MS4660)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modMS4880A] of MODULE 
-(moduleid  MS4880A)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -30790,26 +28677,6 @@ breadth
 NONCS
 )
 )
-([modMUA2192] of MODULE 
-(moduleid  MUA2192)
-(mc 2)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modMUA2193] of MODULE 
-(moduleid  MUA2193)
-(mc 2)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modMUA2196] of MODULE 
 (moduleid  MUA2196)
 (mc 2)
@@ -31310,16 +29177,6 @@ breadth
 NONCS
 )
 )
-([modMUA3264] of MODULE 
-(moduleid  MUA3264)
-(mc 3)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modMUA3270] of MODULE 
 (moduleid  MUA3270)
 (mc 4)
@@ -31433,16 +29290,6 @@ NONCS
 ([modMUA4162] of MODULE 
 (moduleid  MUA4162)
 (mc 12)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modMUA4172] of MODULE 
-(moduleid  MUA4172)
-(mc 4)
 (modulelevel 4)
 (moduletype 
 UE
@@ -32000,16 +29847,6 @@ breadth
 NONCS
 )
 )
-([modMUT4203] of MODULE 
-(moduleid  MUT4203)
-(mc 3)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modMW5200] of MODULE 
 (moduleid  MW5200)
 (mc 12)
@@ -32480,46 +30317,6 @@ breadth
 NONCS
 )
 )
-([modNM3550] of MODULE 
-(moduleid  NM3550)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNM3551] of MODULE 
-(moduleid  NM3551)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNM4102] of MODULE 
-(moduleid  NM4102)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNM4202] of MODULE 
-(moduleid  NM4202)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modNM4203] of MODULE 
 (moduleid  NM4203)
 (mc 5)
@@ -32550,58 +30347,8 @@ breadth
 NONCS
 )
 )
-([modNM4207] of MODULE 
-(moduleid  NM4207)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNM4208] of MODULE 
-(moduleid  NM4208)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNM4209] of MODULE 
-(moduleid  NM4209)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNM4210] of MODULE 
-(moduleid  NM4210)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modNM4211] of MODULE 
 (moduleid  NM4211)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNM4212] of MODULE 
-(moduleid  NM4212)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -32620,16 +30367,6 @@ breadth
 NONCS
 )
 )
-([modNM4218] of MODULE 
-(moduleid  NM4218)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modNM4219] of MODULE 
 (moduleid  NM4219)
 (mc 5)
@@ -32640,28 +30377,8 @@ breadth
 NONCS
 )
 )
-([modNM4221] of MODULE 
-(moduleid  NM4221)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modNM4225] of MODULE 
 (moduleid  NM4225)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNM4226] of MODULE 
-(moduleid  NM4226)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -32700,50 +30417,10 @@ breadth
 NONCS
 )
 )
-([modNM4401] of MODULE 
-(moduleid  NM4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNM4660] of MODULE 
-(moduleid  NM4660)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modNM4881A] of MODULE 
 (moduleid  NM4881A)
 (mc 5)
 (modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNM4883B] of MODULE 
-(moduleid  NM4883B)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNM5201R] of MODULE 
-(moduleid  NM5201R)
-(mc 5)
-(modulelevel 5)
 (moduletype 
 UE
 breadth
@@ -32763,16 +30440,6 @@ NONCS
 ([modNM5205] of MODULE 
 (moduleid  NM5205)
 (mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNM5205R] of MODULE 
-(moduleid  NM5205R)
-(mc 5)
 (modulelevel 5)
 (moduletype 
 UE
@@ -32823,16 +30490,6 @@ NONCS
 ([modNM5212] of MODULE 
 (moduleid  NM5212)
 (mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNM5212R] of MODULE 
-(moduleid  NM5212R)
-(mc 5)
 (modulelevel 5)
 (moduletype 
 UE
@@ -33252,16 +30909,6 @@ NONCS
 )
 ([modNUR4101] of MODULE 
 (moduleid  NUR4101)
-(mc 8)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modNUR4102] of MODULE 
-(moduleid  NUR4102)
 (mc 8)
 (modulelevel 4)
 (moduletype 
@@ -33700,16 +31347,6 @@ breadth
 NONCS
 )
 )
-([modOT5205] of MODULE 
-(moduleid  OT5205)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modOT5206] of MODULE 
 (moduleid  OT5206)
 (mc 4)
@@ -33979,28 +31616,8 @@ breadth
 NONCS
 )
 )
-([modPC2130] of MODULE 
-(moduleid  PC2130)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPC2130B] of MODULE 
 (moduleid  PC2130B)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPC2131] of MODULE 
-(moduleid  PC2131)
 (mc 4)
 (modulelevel 2)
 (moduletype 
@@ -34099,16 +31716,6 @@ breadth
 NONCS
 )
 )
-([modPC3130] of MODULE 
-(moduleid  PC3130)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPC3193] of MODULE 
 (moduleid  PC3193)
 (mc 4)
@@ -34151,16 +31758,6 @@ NONCS
 )
 ([modPC3235] of MODULE 
 (moduleid  PC3235)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPC3236] of MODULE 
-(moduleid  PC3236)
 (mc 4)
 (modulelevel 3)
 (moduletype 
@@ -34292,16 +31889,6 @@ NONCS
 ([modPC3311] of MODULE 
 (moduleid  PC3311)
 (mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPC3312] of MODULE 
-(moduleid  PC3312)
-(mc 8)
 (modulelevel 3)
 (moduletype 
 UE
@@ -34751,16 +32338,6 @@ NONCS
 )
 ([modPF2104] of MODULE 
 (moduleid  PF2104)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPF2105] of MODULE 
-(moduleid  PF2105)
 (mc 4)
 (modulelevel 2)
 (moduletype 
@@ -35309,38 +32886,8 @@ breadth
 NONCS
 )
 )
-([modPH4201] of MODULE 
-(moduleid  PH4201)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPH4202] of MODULE 
 (moduleid  PH4202)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPH4205] of MODULE 
-(moduleid  PH4205)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPH4206] of MODULE 
-(moduleid  PH4206)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -35369,58 +32916,8 @@ breadth
 NONCS
 )
 )
-([modPH4216] of MODULE 
-(moduleid  PH4216)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPH4241] of MODULE 
-(moduleid  PH4241)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPH4261] of MODULE 
 (moduleid  PH4261)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPH4401] of MODULE 
-(moduleid  PH4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPH4550] of MODULE 
-(moduleid  PH4550)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPH4660] of MODULE 
-(moduleid  PH4660)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -35459,16 +32956,6 @@ breadth
 NONCS
 )
 )
-([modPH5430R] of MODULE 
-(moduleid  PH5430R)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPH5660] of MODULE 
 (moduleid  PH5660)
 (mc 4)
@@ -35491,16 +32978,6 @@ NONCS
 )
 ([modPH6540] of MODULE 
 (moduleid  PH6540)
-(mc 4)
-(modulelevel 6)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPH6660] of MODULE 
-(moduleid  PH6660)
 (mc 4)
 (modulelevel 6)
 (moduletype 
@@ -35899,28 +33376,8 @@ breadth
 NONCS
 )
 )
-([modPL3551] of MODULE 
-(moduleid  PL3551)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPL4201] of MODULE 
 (moduleid  PL4201)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4202] of MODULE 
-(moduleid  PL4202)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -35939,38 +33396,8 @@ breadth
 NONCS
 )
 )
-([modPL4205] of MODULE 
-(moduleid  PL4205)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPL4206] of MODULE 
 (moduleid  PL4206)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4207] of MODULE 
-(moduleid  PL4207)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4208] of MODULE 
-(moduleid  PL4208)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -35999,88 +33426,8 @@ breadth
 NONCS
 )
 )
-([modPL4218] of MODULE 
-(moduleid  PL4218)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4219] of MODULE 
-(moduleid  PL4219)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4221] of MODULE 
-(moduleid  PL4221)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4222] of MODULE 
-(moduleid  PL4222)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPL4223] of MODULE 
 (moduleid  PL4223)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4224] of MODULE 
-(moduleid  PL4224)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4226] of MODULE 
-(moduleid  PL4226)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4228] of MODULE 
-(moduleid  PL4228)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4229] of MODULE 
-(moduleid  PL4229)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -36099,58 +33446,8 @@ breadth
 NONCS
 )
 )
-([modPL4231] of MODULE 
-(moduleid  PL4231)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPL4233] of MODULE 
 (moduleid  PL4233)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4234] of MODULE 
-(moduleid  PL4234)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4235] of MODULE 
-(moduleid  PL4235)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4401] of MODULE 
-(moduleid  PL4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4660] of MODULE 
-(moduleid  PL4660)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -36171,26 +33468,6 @@ NONCS
 )
 ([modPL4880G] of MODULE 
 (moduleid  PL4880G)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4880I] of MODULE 
-(moduleid  PL4880I)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPL4880J] of MODULE 
-(moduleid  PL4880J)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -37709,16 +34986,6 @@ breadth
 NONCS
 )
 )
-([modPR4199] of MODULE 
-(moduleid  PR4199)
-(mc 12)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPR4201] of MODULE 
 (moduleid  PR4201)
 (mc 4)
@@ -37759,28 +35026,8 @@ breadth
 NONCS
 )
 )
-([modPR5113] of MODULE 
-(moduleid  PR5113)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPR5115] of MODULE 
 (moduleid  PR5115)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPR5130] of MODULE 
-(moduleid  PR5130)
 (mc 4)
 (modulelevel 5)
 (moduletype 
@@ -37809,16 +35056,6 @@ breadth
 NONCS
 )
 )
-([modPR5133] of MODULE 
-(moduleid  PR5133)
-(mc 2)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPR5134] of MODULE 
 (moduleid  PR5134)
 (mc 4)
@@ -37831,76 +35068,6 @@ NONCS
 )
 ([modPR5135] of MODULE 
 (moduleid  PR5135)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPR5136] of MODULE 
-(moduleid  PR5136)
-(mc 2)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPR5150] of MODULE 
-(moduleid  PR5150)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPR5151] of MODULE 
-(moduleid  PR5151)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPR5152] of MODULE 
-(moduleid  PR5152)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPR5153] of MODULE 
-(moduleid  PR5153)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPR5154] of MODULE 
-(moduleid  PR5154)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPR5198] of MODULE 
-(moduleid  PR5198)
 (mc 4)
 (modulelevel 5)
 (moduletype 
@@ -37959,16 +35126,6 @@ breadth
 NONCS
 )
 )
-([modPR5217] of MODULE 
-(moduleid  PR5217)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPR5218] of MODULE 
 (moduleid  PR5218)
 (mc 4)
@@ -37999,68 +35156,8 @@ breadth
 NONCS
 )
 )
-([modPR5230] of MODULE 
-(moduleid  PR5230)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPR5239] of MODULE 
-(moduleid  PR5239)
-(mc 12)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPR5250] of MODULE 
-(moduleid  PR5250)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPR5251] of MODULE 
-(moduleid  PR5251)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPR5252] of MODULE 
-(moduleid  PR5252)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPR5301] of MODULE 
 (moduleid  PR5301)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPR5302] of MODULE 
-(moduleid  PR5302)
 (mc 4)
 (modulelevel 5)
 (moduletype 
@@ -38359,16 +35456,6 @@ breadth
 NONCS
 )
 )
-([modPS3257] of MODULE 
-(moduleid  PS3257)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPS3258] of MODULE 
 (moduleid  PS3258)
 (mc 4)
@@ -38429,36 +35516,6 @@ breadth
 NONCS
 )
 )
-([modPS3550] of MODULE 
-(moduleid  PS3550)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPS3551] of MODULE 
-(moduleid  PS3551)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPS3880B] of MODULE 
-(moduleid  PS3880B)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPS3880H] of MODULE 
 (moduleid  PS3880H)
 (mc 4)
@@ -38471,26 +35528,6 @@ NONCS
 )
 ([modPS4201] of MODULE 
 (moduleid  PS4201)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPS4202] of MODULE 
-(moduleid  PS4202)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPS4203] of MODULE 
-(moduleid  PS4203)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -38539,78 +35576,8 @@ breadth
 NONCS
 )
 )
-([modPS4209] of MODULE 
-(moduleid  PS4209)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPS4213] of MODULE 
 (moduleid  PS4213)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPS4218] of MODULE 
-(moduleid  PS4218)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPS4220] of MODULE 
-(moduleid  PS4220)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPS4225] of MODULE 
-(moduleid  PS4225)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPS4227] of MODULE 
-(moduleid  PS4227)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPS4401] of MODULE 
-(moduleid  PS4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPS4660] of MODULE 
-(moduleid  PS4660)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -38649,48 +35616,8 @@ breadth
 NONCS
 )
 )
-([modPS4882D] of MODULE 
-(moduleid  PS4882D)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modPS4882E] of MODULE 
 (moduleid  PS4882E)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPS4882H] of MODULE 
-(moduleid  PS4882H)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPS4883A] of MODULE 
-(moduleid  PS4883A)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modPS4883B] of MODULE 
-(moduleid  PS4883B)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -38899,16 +35826,6 @@ breadth
 NONCS
 )
 )
-([modPY1106] of MODULE 
-(moduleid  PY1106)
-(mc 4)
-(modulelevel 1)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modQF3101] of MODULE 
 (moduleid  QF3101)
 (mc 4)
@@ -38929,29 +35846,9 @@ breadth
 NONCS
 )
 )
-([modQF3312] of MODULE 
-(moduleid  QF3312)
-(mc 8)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modQF4102] of MODULE 
 (moduleid  QF4102)
 (mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modQF4199] of MODULE 
-(moduleid  QF4199)
-(mc 12)
 (modulelevel 4)
 (moduletype 
 UE
@@ -40129,26 +37026,6 @@ breadth
 NONCS
 )
 )
-([modSC3551] of MODULE 
-(moduleid  SC3551)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSC4101] of MODULE 
-(moduleid  SC4101)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modSC4201] of MODULE 
 (moduleid  SC4201)
 (mc 5)
@@ -40179,16 +37056,6 @@ breadth
 NONCS
 )
 )
-([modSC4210] of MODULE 
-(moduleid  SC4210)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modSC4212] of MODULE 
 (moduleid  SC4212)
 (mc 5)
@@ -40209,16 +37076,6 @@ breadth
 NONCS
 )
 )
-([modSC4218] of MODULE 
-(moduleid  SC4218)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modSC4219] of MODULE 
 (moduleid  SC4219)
 (mc 5)
@@ -40229,78 +37086,8 @@ breadth
 NONCS
 )
 )
-([modSC4220] of MODULE 
-(moduleid  SC4220)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSC4221] of MODULE 
-(moduleid  SC4221)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSC4222] of MODULE 
-(moduleid  SC4222)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSC4223] of MODULE 
-(moduleid  SC4223)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSC4225] of MODULE 
-(moduleid  SC4225)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modSC4226] of MODULE 
 (moduleid  SC4226)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSC4401] of MODULE 
-(moduleid  SC4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSC4660] of MODULE 
-(moduleid  SC4660)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -40321,16 +37108,6 @@ NONCS
 )
 ([modSC4882A] of MODULE 
 (moduleid  SC4882A)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSC4882B] of MODULE 
-(moduleid  SC4882B)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -40372,16 +37149,6 @@ NONCS
 ([modSC5102] of MODULE 
 (moduleid  SC5102)
 (mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSC5102R] of MODULE 
-(moduleid  SC5102R)
-(mc 5)
 (modulelevel 5)
 (moduletype 
 UE
@@ -40669,16 +37436,6 @@ breadth
 NONCS
 )
 )
-([modSE2660] of MODULE 
-(moduleid  SE2660)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modSE3211] of MODULE 
 (moduleid  SE3211)
 (mc 4)
@@ -40729,16 +37486,6 @@ breadth
 NONCS
 )
 )
-([modSE3224] of MODULE 
-(moduleid  SE3224)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modSE3226] of MODULE 
 (moduleid  SE3226)
 (mc 4)
@@ -40751,26 +37498,6 @@ NONCS
 )
 ([modSE3227] of MODULE 
 (moduleid  SE3227)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSE3550] of MODULE 
-(moduleid  SE3550)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSE3660] of MODULE 
-(moduleid  SE3660)
 (mc 4)
 (modulelevel 3)
 (moduletype 
@@ -40801,26 +37528,6 @@ NONCS
 )
 ([modSE4220] of MODULE 
 (moduleid  SE4220)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSE4401] of MODULE 
-(moduleid  SE4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSE4660] of MODULE 
-(moduleid  SE4660)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -40929,29 +37636,9 @@ breadth
 NONCS
 )
 )
-([modSE5233R] of MODULE 
-(moduleid  SE5233R)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modSE5241] of MODULE 
 (moduleid  SE5241)
 (mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSE5241R] of MODULE 
-(moduleid  SE5241R)
-(mc 5)
 (modulelevel 5)
 (moduletype 
 UE
@@ -42475,35 +39162,8 @@ SS
 NONCS
 )
 )
-([modSSU2001] of MODULE 
-(moduleid  SSU2001)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-SS
-NONCS
-)
-)
 ([modSSU2002] of MODULE 
 (moduleid  SSU2002)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-SS
-NONCS
-)
-)
-([modSSU2003] of MODULE 
-(moduleid  SSU2003)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-SS
-NONCS
-)
-)
-([modSSU2004] of MODULE 
-(moduleid  SSU2004)
 (mc 4)
 (modulelevel 2)
 (moduletype 
@@ -42726,26 +39386,6 @@ NONCS
 (moduleid  ST3311)
 (mc 4)
 (modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modST3312] of MODULE 
-(moduleid  ST3312)
-(mc 8)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modST4199] of MODULE 
-(moduleid  ST4199)
-(mc 12)
-(modulelevel 4)
 (moduletype 
 UE
 breadth
@@ -43022,38 +39662,8 @@ breadth
 NONCS
 )
 )
-([modSW2101] of MODULE 
-(moduleid  SW2101)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modSW2104] of MODULE 
 (moduleid  SW2104)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSW2105] of MODULE 
-(moduleid  SW2105)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSW2106] of MODULE 
-(moduleid  SW2106)
 (mc 4)
 (modulelevel 2)
 (moduletype 
@@ -43074,16 +39684,6 @@ NONCS
 )
 ([modSW3103A] of MODULE 
 (moduleid  SW3103A)
-(mc 8)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSW3104] of MODULE 
-(moduleid  SW3104)
 (mc 8)
 (modulelevel 3)
 (moduletype 
@@ -43182,16 +39782,6 @@ breadth
 NONCS
 )
 )
-([modSW3551] of MODULE 
-(moduleid  SW3551)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modSW4101] of MODULE 
 (moduleid  SW4101)
 (mc 5)
@@ -43224,56 +39814,6 @@ NONCS
 )
 ([modSW4202] of MODULE 
 (moduleid  SW4202)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSW4213] of MODULE 
-(moduleid  SW4213)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSW4214] of MODULE 
-(moduleid  SW4214)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSW4216] of MODULE 
-(moduleid  SW4216)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSW4401] of MODULE 
-(moduleid  SW4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modSW4660] of MODULE 
-(moduleid  SW4660)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -43792,16 +40332,6 @@ breadth
 NONCS
 )
 )
-([modTE4001] of MODULE 
-(moduleid  TE4001)
-(mc 12)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modTG1401] of MODULE 
 (moduleid  TG1401)
 (mc 4)
@@ -43822,36 +40352,6 @@ breadth
 NONCS
 )
 )
-([modTG3001] of MODULE 
-(moduleid  TG3001)
-(mc 12)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modTG3101A] of MODULE 
-(moduleid  TG3101A)
-(mc 2)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modTG3101B] of MODULE 
-(moduleid  TG3101B)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modTM2401] of MODULE 
 (moduleid  TM2401)
 (mc 4)
@@ -43866,16 +40366,6 @@ NONCS
 (moduleid  TM3101)
 (mc 6)
 (modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modTM4101] of MODULE 
-(moduleid  TM4101)
-(mc 12)
-(modulelevel 4)
 (moduletype 
 UE
 breadth
@@ -43922,28 +40412,8 @@ breadth
 NONCS
 )
 )
-([modTP5026] of MODULE 
-(moduleid  TP5026)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modTP5027] of MODULE 
 (moduleid  TP5027)
-(mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modTP5028] of MODULE 
-(moduleid  TP5028)
 (mc 4)
 (modulelevel 5)
 (moduletype 
@@ -44102,16 +40572,6 @@ breadth
 NONCS
 )
 )
-([modTS3103] of MODULE 
-(moduleid  TS3103)
-(mc 8)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modTS3231] of MODULE 
 (moduleid  TS3231)
 (mc 4)
@@ -44252,28 +40712,8 @@ breadth
 NONCS
 )
 )
-([modTS4213] of MODULE 
-(moduleid  TS4213)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modTS4216] of MODULE 
 (moduleid  TS4216)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modTS4217] of MODULE 
-(moduleid  TS4217)
 (mc 5)
 (modulelevel 4)
 (moduletype 
@@ -44322,59 +40762,9 @@ breadth
 NONCS
 )
 )
-([modTS4401] of MODULE 
-(moduleid  TS4401)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modTS4660] of MODULE 
-(moduleid  TS4660)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modTS4880B] of MODULE 
-(moduleid  TS4880B)
-(mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modTS5101R] of MODULE 
-(moduleid  TS5101R)
-(mc 5)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modTS5212] of MODULE 
 (moduleid  TS5212)
 (mc 4)
-(modulelevel 5)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modTS5212R] of MODULE 
-(moduleid  TS5212R)
-(mc 5)
 (modulelevel 5)
 (moduletype 
 UE
@@ -44672,86 +41062,6 @@ breadth
 NONCS
 )
 )
-([modUIS3921] of MODULE 
-(moduleid  UIS3921)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS3921R] of MODULE 
-(moduleid  UIS3921R)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS3922] of MODULE 
-(moduleid  UIS3922)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS3922R] of MODULE 
-(moduleid  UIS3922R)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS3923] of MODULE 
-(moduleid  UIS3923)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS3923R] of MODULE 
-(moduleid  UIS3923R)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS3924] of MODULE 
-(moduleid  UIS3924)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS3924R] of MODULE 
-(moduleid  UIS3924R)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modUIS3929R] of MODULE 
 (moduleid  UIS3929R)
 (mc 8)
@@ -44842,28 +41152,8 @@ breadth
 NONCS
 )
 )
-([modUIS3943] of MODULE 
-(moduleid  UIS3943)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modUIS3943R] of MODULE 
 (moduleid  UIS3943R)
-(mc 4)
-(modulelevel 3)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS3944] of MODULE 
-(moduleid  UIS3944)
 (mc 4)
 (modulelevel 3)
 (moduletype 
@@ -44925,86 +41215,6 @@ NONCS
 ([modUIS4914R] of MODULE 
 (moduleid  UIS4914R)
 (mc 5)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS4921] of MODULE 
-(moduleid  UIS4921)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS4921R] of MODULE 
-(moduleid  UIS4921R)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS4922] of MODULE 
-(moduleid  UIS4922)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS4922R] of MODULE 
-(moduleid  UIS4922R)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS4923] of MODULE 
-(moduleid  UIS4923)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS4923R] of MODULE 
-(moduleid  UIS4923R)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS4924] of MODULE 
-(moduleid  UIS4924)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS4924R] of MODULE 
-(moduleid  UIS4924R)
-(mc 4)
 (modulelevel 4)
 (moduletype 
 UE
@@ -45092,28 +41302,8 @@ breadth
 NONCS
 )
 )
-([modUIS4943] of MODULE 
-(moduleid  UIS4943)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modUIS4943R] of MODULE 
 (moduleid  UIS4943R)
-(mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIS4944] of MODULE 
-(moduleid  UIS4944)
 (mc 4)
 (modulelevel 4)
 (moduletype 
@@ -45144,16 +41334,6 @@ NONCS
 )
 ([modUIT2205] of MODULE 
 (moduleid  UIT2205)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUIT2206] of MODULE 
-(moduleid  UIT2206)
 (mc 4)
 (modulelevel 2)
 (moduletype 
@@ -45202,16 +41382,6 @@ breadth
 NONCS
 )
 )
-([modULT2299E] of MODULE 
-(moduleid  ULT2299E)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modUNL2201] of MODULE 
 (moduleid  UNL2201)
 (mc 4)
@@ -45252,28 +41422,8 @@ breadth
 NONCS
 )
 )
-([modUPC2207] of MODULE 
-(moduleid  UPC2207)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modUPC2208] of MODULE 
 (moduleid  UPC2208)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUPI2206] of MODULE 
-(moduleid  UPI2206)
 (mc 4)
 (modulelevel 2)
 (moduletype 
@@ -45292,58 +41442,8 @@ breadth
 NONCS
 )
 )
-([modUQF2101B] of MODULE 
-(moduleid  UQF2101B)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modUQF2101E] of MODULE 
 (moduleid  UQF2101E)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUQF2101F] of MODULE 
-(moduleid  UQF2101F)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUQF2101G] of MODULE 
-(moduleid  UQF2101G)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUQF2101H] of MODULE 
-(moduleid  UQF2101H)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUQR2211] of MODULE 
-(moduleid  UQR2211)
 (mc 4)
 (modulelevel 2)
 (moduletype 
@@ -45432,36 +41532,6 @@ breadth
 NONCS
 )
 )
-([modUSE2316] of MODULE 
-(moduleid  USE2316)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUSE2317] of MODULE 
-(moduleid  USE2317)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUSE2318] of MODULE 
-(moduleid  USE2318)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modUSP3501] of MODULE 
 (moduleid  USP3501)
 (mc 4)
@@ -45514,16 +41584,6 @@ NONCS
 )
 ([modUWC2101B] of MODULE 
 (moduleid  UWC2101B)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modUWC2101C] of MODULE 
-(moduleid  UWC2101C)
 (mc 4)
 (modulelevel 2)
 (moduletype 
@@ -45592,16 +41652,6 @@ breadth
 NONCS
 )
 )
-([modUWC2101Y] of MODULE 
-(moduleid  UWC2101Y)
-(mc 4)
-(modulelevel 2)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modUWC2102E] of MODULE 
 (moduleid  UWC2102E)
 (mc 4)
@@ -45632,16 +41682,6 @@ breadth
 NONCS
 )
 )
-([modXFA4402] of MODULE 
-(moduleid  XFA4402)
-(mc 15)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
 ([modXFA4403] of MODULE 
 (moduleid  XFA4403)
 (mc 15)
@@ -45655,16 +41695,6 @@ NONCS
 ([modXFB4001] of MODULE 
 (moduleid  XFB4001)
 (mc 12)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modXFB4002] of MODULE 
-(moduleid  XFB4002)
-(mc 15)
 (modulelevel 4)
 (moduletype 
 UE
@@ -45955,16 +41985,6 @@ NONCS
 ([modZB4171] of MODULE 
 (moduleid  ZB4171)
 (mc 4)
-(modulelevel 4)
-(moduletype 
-UE
-breadth
-NONCS
-)
-)
-([modZB4199] of MODULE 
-(moduleid  ZB4199)
-(mc 12)
 (modulelevel 4)
 (moduletype 
 UE

@@ -283,10 +283,6 @@
 (moduleid  CL3211)
 (modulepreq O_Level_Chinese AO_Level_Chinese A_Level_Chinese H1_Chinese H2_Chinese H3_Chinese)
 )
-([preqCL32810] of MODULEPREQ 
-(moduleid  CL3281)
-(modulepreq CL2280 CL2281)
-)
 ([preqCM11210] of MODULEPREQ 
 (moduleid  CM1121)
 (modulepreq A_level_Chemistry H2_Chemistry CM1417)
@@ -1963,6 +1959,14 @@
 (moduleid  IS2150)
 (modulepreq IS1112)
 )
+([preqIS31010] of MODULEPREQ 
+(moduleid  IS3101)
+(modulepreq CS2250 IS1103)
+)
+([preqIS31011] of MODULEPREQ 
+(moduleid  IS3101)
+(modulepreq CS2250 IS1105)
+)
 ([preqIS31500] of MODULEPREQ 
 (moduleid  IS3150)
 (modulepreq IS1112 ])
@@ -1970,6 +1974,38 @@
 ([preqIS31501] of MODULEPREQ 
 (moduleid  IS3150)
 (modulepreq [IS1105)
+)
+([preqIS32200] of MODULEPREQ 
+(moduleid  IS3220)
+(modulepreq CS2250 IS1103)
+)
+([preqIS32201] of MODULEPREQ 
+(moduleid  IS3220)
+(modulepreq CS2250 IS1105)
+)
+([preqIS32210] of MODULEPREQ 
+(moduleid  IS3221)
+(modulepreq CS2250 IS1103)
+)
+([preqIS32211] of MODULEPREQ 
+(moduleid  IS3221)
+(modulepreq CS2250 IS1105)
+)
+([preqIS32220] of MODULEPREQ 
+(moduleid  IS3222)
+(modulepreq CS2250 IS1103)
+)
+([preqIS32221] of MODULEPREQ 
+(moduleid  IS3222)
+(modulepreq CS2250 IS1105)
+)
+([preqIS32230] of MODULEPREQ 
+(moduleid  IS3223)
+(modulepreq CS2250 IS1103)
+)
+([preqIS32231] of MODULEPREQ 
+(moduleid  IS3223)
+(modulepreq CS2250 IS1105)
 )
 ([preqIS32300] of MODULEPREQ 
 (moduleid  IS3230)
@@ -1986,6 +2022,14 @@
 ([preqIS32400] of MODULEPREQ 
 (moduleid  IS3240)
 (modulepreq [EC1101 EC1101E EC1301 EC1310 EC1311 A_Level_Economics BSP1005 ])
+)
+([preqIS32410] of MODULEPREQ 
+(moduleid  IS3241)
+(modulepreq CS2250 IS1103)
+)
+([preqIS32411] of MODULEPREQ 
+(moduleid  IS3241)
+(modulepreq CS2250 IS1105)
 )
 ([preqIS32420] of MODULEPREQ 
 (moduleid  IS3242)
@@ -2863,6 +2907,14 @@
 (moduleid  MKT4413)
 (modulepreq MKT2401)
 )
+([preqMLE11010] of MODULEPREQ 
+(moduleid  MLE1101)
+(modulepreq A_Level_Physics H1_Physics H2_Physics PC1221)
+)
+([preqMLE11011] of MODULEPREQ 
+(moduleid  MLE1101)
+(modulepreq A_Level_Physics H1_Physics H2_Physics PC1222)
+)
 ([preqMLE21030] of MODULEPREQ 
 (moduleid  MLE2103)
 (modulepreq MLE2102)
@@ -3187,6 +3239,22 @@
 (moduleid  PA2106)
 (modulepreq PR1908)
 )
+([preqPC11430] of MODULEPREQ 
+(moduleid  PC1143)
+(modulepreq A_Level_Physics H1_Physics H2_Physics PC1221)
+)
+([preqPC11431] of MODULEPREQ 
+(moduleid  PC1143)
+(modulepreq A_Level_Physics H1_Physics H2_Physics PC1222)
+)
+([preqPC11440] of MODULEPREQ 
+(moduleid  PC1144)
+(modulepreq A_Level_Physics H1_Physics H2_Physics PC1221)
+)
+([preqPC11441] of MODULEPREQ 
+(moduleid  PC1144)
+(modulepreq A_Level_Physics H1_Physics H2_Physics PC1222)
+)
 ([preqPC12210] of MODULEPREQ 
 (moduleid  PC1221)
 (modulepreq O_level_Physics O_Level_CombinedPhysics)
@@ -3195,9 +3263,25 @@
 (moduleid  PC1222)
 (modulepreq O_level_Physics O_Level_CombinedPhysics)
 )
+([preqPC14310] of MODULEPREQ 
+(moduleid  PC1431)
+(modulepreq A_Level_Physics H1_Physics H2_Physics PC1221)
+)
+([preqPC14311] of MODULEPREQ 
+(moduleid  PC1431)
+(modulepreq A_Level_Physics H1_Physics H2_Physics PC1222)
+)
 ([preqPC1431FC0] of MODULEPREQ 
 (moduleid  PC1431FC)
 (modulepreq A_level_Physics H2_Physics)
+)
+([preqPC14320] of MODULEPREQ 
+(moduleid  PC1432)
+(modulepreq A_Level_Physics H1_Physics H2_Physics PC1221)
+)
+([preqPC14321] of MODULEPREQ 
+(moduleid  PC1432)
+(modulepreq A_Level_Physics H1_Physics H2_Physics PC1222)
 )
 ([preqPC2130B0] of MODULEPREQ 
 (moduleid  PC2130B)
