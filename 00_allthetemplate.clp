@@ -12,6 +12,9 @@
 )
 
 
+(defmodule MAIN
+  (export deftemplate initial-fact))
+
 
 (defmodule INITIALIZE
   (export defclass MODULE)
@@ -37,6 +40,7 @@
   )
 (defmodule MODULESELECTION
    (import INITIALIZE defclass ?ALL)  
+   (import MAIN deftemplate initial-fact)
 )
  
 (defmodule TIMETABLE
@@ -85,7 +89,13 @@
     (is-a USER)
 	(slot moduleid )		
  )
- 
+
+
+; for new check for prereqs ;
+(defclass MODULESELECTION::ELIGIBLEMODULECANSCHEDULE
+  (is-a USER)
+  (slot moduleid))
+
  ; pre-requisite that cannot be done using normal rule matching
  (defclass INITIALIZE::SPECIALPREREQMODULE
    (is-a USER)
@@ -200,4 +210,6 @@
   (slot exam-date)
   (slot exam-time)
   )
+
+
 

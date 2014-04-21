@@ -14,7 +14,7 @@
 (defclass TIMETABLE::CURRENTSELECTION
   (is-a USER)
   (slot moduleid)
-  (slot moduletagtotalscore (type NUMBER))
+  (slot moduletagscore (type NUMBER))
   (slot semester (type NUMBER))
   (slot moduleoption)
   (slot exam-date)
@@ -23,7 +23,7 @@
 (defclass TIMETABLE::PROBABLEMODULE
   (is-a USER)
   (slot moduleid)
-  (slot moduletagtotalscore (type NUMBER))
+  (slot moduletagscore (type NUMBER))
   (slot mc (type NUMBER))
   (slot is-checked (default unchecked)))
   

@@ -37,7 +37,7 @@
               (neq (member$ ?taken:moduleid ?preq:modulepreq) FALSE)))))))
   (make-instance (sym-cat PM- ?candidate:moduleid) of PROBABLEMODULE
     (moduleid ?candidate:moduleid)
-    (moduletagtotalscore ?candidate:moduletagtotalscore)
+    (moduletagscore ?candidate:moduletagscore)
     (mc ?module:mc)))
 (send ?current-data put-current-stage 2))
 
@@ -45,14 +45,14 @@
 
 (defrule TIMETABLE::update-max-score 
 ?current-data <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-stage 2)(current-max ?max))
-?probable <- (object (is-a PROBABLEMODULE) (moduletagtotalscore ?score)(is-checked unchecked))
+?probable <- (object (is-a PROBABLEMODULE) (moduletagscore ?score)(is-checked unchecked))
 (test
   (not
     (any-instancep
       ((?othermod PROBABLEMODULE))
       (and
         (eq ?othermod:is-checked unchecked)
-        (> ?othermod:moduletagtotalscore ?score)))))
+        (> ?othermod:moduletagscore ?score)))))
 =>
 (send ?current-data put-current-max ?score)
 (send ?current-data put-current-stage 3))
@@ -61,7 +61,7 @@
 
 (defrule TIMETABLE::check-max-score-module (declare (salience 1))
 ?current-data <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-stage 3)(current-max ?max)(current-mc ?mc))
-?probable <- (object (is-a PROBABLEMODULE) (moduleid ?probable-id) (moduletagtotalscore ?max)(is-checked unchecked)(mc ?mod-mc))
+?probable <- (object (is-a PROBABLEMODULE) (moduleid ?probable-id) (moduletagscore ?max)(is-checked unchecked)(mc ?mod-mc))
 ?probable-exam <- (object (is-a EXAM) (moduleid ?probable-id) (exam-date ?probable-exam-date)(exam-time ?probable-exam-time))
 ?probable-option-test <- (object (is-a MODULETIME)(moduleid ?probable-id)(moduleoption ?probable-module-option))
 ?probable-option <- (object (is-a MODULEOPTION)(option ?probable-module-option))
@@ -110,7 +110,7 @@ then
 ; if successful then add module to selection ;
   (make-instance (sym-cat CS- ?probable-id) of CURRENTSELECTION
     (moduleid ?probable-id)
-    (moduletagtotalscore ?max)
+    (moduletagscore ?max)
     (semester ?sem)
     (exam-date ?probable-exam-date)
     (exam-time ?probable-exam-time)
@@ -124,7 +124,7 @@ then
 
 (defrule TIMETABLE::no-matches
 ?current-data <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-stage 3)(current-max ?max))
-?probable <- (object (is-a PROBABLEMODULE) (moduleid ?probable-id) (moduletagtotalscore ?max)(is-checked unchecked))
+?probable <- (object (is-a PROBABLEMODULE) (moduleid ?probable-id) (moduletagscore ?max)(is-checked unchecked))
 =>
 (send ?probable put-is-checked checked)
 (send ?current-data put-current-max 0)
@@ -257,14 +257,14 @@ then (send ?current-data put-url (sym-cat (send ?current-data get-url) ?selected
 
 (defrule TIMETABLE::generate-candidate-module-list (declare (salience 1))
 ?current-data <- (object (is-a CURRENTDATA) (current-stage -3))
-?candidate <- (object (is-a CANDIDATEMODULE) (moduleid ?candidate-id))
+?candidate <- (object (is-a CANDIDATEMODULE) (moduleid ?candidate-id)(moduletagscore ?score)(location ?candidate-location))
 (test
   (not
     (any-instancep
       ((?printed PRINTEDMODULE))
       (eq ?printed:moduleid ?candidate-id))))
 =>
-(send ?current-data put-module-list (sym-cat (send ?current-data get-module-list) ?candidate-id))
+(send ?current-data put-module-list (sym-cat (send ?current-data get-module-list) ?candidate-id "|" ?score "|" ?candidate-location))
 (send ?current-data put-current-stage -4)
 (make-instance (sym-cat PP- ?candidate-id) of PRINTEDMODULE (moduleid ?candidate-id)))
 
@@ -277,7 +277,7 @@ then (send ?current-data put-url (sym-cat (send ?current-data get-url) ?selected
       ((?printed PRINTEDMODULE))
       (eq ?printed:moduleid ?candidate-id))))
 =>
-(send ?current-data put-module-list (sym-cat (send ?current-data get-module-list) ","))
+(send ?current-data put-module-list (sym-cat (send ?current-data get-module-list) "@"))
 (send ?current-data put-current-stage -3))
 
 (defrule TIMETABLE::generate-finished-module-list
