@@ -641,7 +641,7 @@ namespace CS4244
                 List<List<string>> allInstances = u.getAllInstances();
 
                 System.IO.StreamWriter aaronwriter = new System.IO.StreamWriter("C:\\Users\\User\\Documents\\GitHub\\CS4244\\input.txt", false);
-                aaronwriter.WriteLine("(definstances INITIALIZE::aaronwong ");
+                aaronwriter.WriteLine("(definstances INITIALIZE::aaronwong");
 
                 string interestMulti = f3.numericUpDown1.Value.ToString();
                 string uninterestMulti = f3.numericUpDown2.Value.ToString();

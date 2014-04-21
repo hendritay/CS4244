@@ -425,6 +425,7 @@ namespace CS4244
             string breadthMC = "8";
             string focusAreaMC = "";
             string focusAreaLevel4 = "";
+            string scienceMC = "12";
             int count = 0;
 
             // Handle JC exemptions
@@ -459,6 +460,14 @@ namespace CS4244
                     if (!_breadth[0].Equals(""))
                     {
                         breadthMC = (8 - _breadth.Count() * 4).ToString();
+                    }
+                }
+
+                if (_scienceMods.Count != 0)
+                {
+                    if (!_scienceMods[0].Equals(""))
+                    {
+                        scienceMC = (12 - _scienceMods.Count * 4).ToString();
                     }
                 }
             }
@@ -500,6 +509,14 @@ namespace CS4244
                         breadthMC = (4 - _breadth.Count() * 4).ToString();
                     }
                 }
+
+                if (_scienceMods.Count != 0)
+                {
+                    if (!_scienceMods[0].Equals(""))
+                    {
+                        scienceMC = (12 - _scienceMods.Count * 4).ToString();
+                    }
+                }
             }
             
             // FocusAreaMC Calculation
@@ -515,7 +532,7 @@ namespace CS4244
 
             focusAreaLevel4 = (3 - count).ToString();
 
-            _requirementInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(breadth " + breadthMC + ")(focusareamc " + focusAreaMC + ")(focusarealevel4 " + focusAreaLevel4 + "))");
+            _requirementInstance.Add("(make-instance [REQUIREMENT] of REQUIREMENT (UE " + ueMC + ")(GEM " + gemMC + ")(SS " + ssMC + ")(breadth " + breadthMC + ")(focusareamc " + focusAreaMC + ")(focusarealevel4 " + focusAreaLevel4 + ")(science " + scienceMC + "))");
         }
 
         public List<string> getRequirementInstance()
