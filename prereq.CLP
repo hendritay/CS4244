@@ -1,7 +1,8 @@
 
 
 
-(defrule INTIALIZE::direct-schedule
+(defrule INITIALIZE::direct-schedule
+  (object (is-a REQUIREMENT))
 =>
 (delayed-do-for-all-instances
   ((?module MODULE))

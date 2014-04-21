@@ -1,6 +1,4 @@
 
-(defmodule MAIN
-  (export deftemplate initial-fact))
 
 
 
@@ -27,7 +25,7 @@
   )
 (defmodule MODULESELECTION
    (import INITIALIZE defclass ?ALL)  
-   (import MAIN deftemplate initial-fact)
+   
 )
 
 (defmodule TIMETABLE

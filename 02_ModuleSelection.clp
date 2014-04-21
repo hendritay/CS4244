@@ -14,7 +14,7 @@
   (make-instance ?instancename of ALLMODULE (moduleid ?moduleid))
        
 ; if 60 mc rules has not kicked in
-  (if and((eq ?level 1) (?desire YES) then    
+  (if (and (eq ?level 1) (eq ?desire YES)) then    
      (bind ?currmc (send ?require get-level1mc))  
 	 (bind ?newmc (+ ?currmc  ?mc))
      (send ?require put-level1mc  ?newmc)
