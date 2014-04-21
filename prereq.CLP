@@ -1,9 +1,7 @@
 
-(deffacts MODULESELECTION::the-facts
-  (focus MODULESELECTION))
 
 
-(defrule MODULESELECTION::direct-schedule
+(defrule INTIALIZE::direct-schedule
 =>
 (delayed-do-for-all-instances
   ((?module MODULE))

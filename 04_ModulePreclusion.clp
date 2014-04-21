@@ -8,7 +8,7 @@
 	=>   
 		
 		(bind ?moduleid (send ?objmodule get-moduleid))
-		(printout t ?moduleid crlf)			
+		
 		; include in alreadypreclude list 
 		
 		(unmake-instance ?objmodule)

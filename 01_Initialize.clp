@@ -7,24 +7,28 @@
 ; Copy from moduletaken to all module list 
 (defrule MODULESELECTION::CopyFromModuleTaken
    (object (is-a MODULETAKEN) (moduleid ?moduleid))
+   (object (is-a MODULE) (moduleid ?moduleid) (modulelevel ?level) (mc ?mc))
+   ?require <- (object (is-a REQUIREMENT))
  => 
   (bind ?instancename (symbol-to-instance-name (sym-cat allmodule ?moduleid)))
   (make-instance ?instancename of ALLMODULE (moduleid ?moduleid))
+  
+  (if (eq ?level 1)  then   
+     (bind ?currmc (send ?require get-level1mc))  
+	 (bind ?newmc (+ ?currmc  ?mc))
+     (send ?require put-level1mc  ?newmc)
+	)
+  
  )
  
 (defrule INITIALIZE::moveRequiredCoreModuleToCandidateModule 
     (object (is-a REQUIREDCOREMODULE) (moduleid ?moduleid))
+	(object (is-a MODULE) (moduleid ?moduleid) (moduletagscore ?score))
 	(not (exists (object (is-a MODULETAKEN) (moduleid ?moduleid))))
 =>      
     (bind ?instancename (symbol-to-instance-name (sym-cat candidatemodule ?moduleid)))	   
-	(make-instance ?instancename of CANDIDATEMODULE (moduleid ?moduleid))	
+	(make-instance ?instancename of CANDIDATEMODULE (moduleid ?moduleid) (location REQUIREDMODULE) (moduletagscore ?score))	
 )
-
-
-  
-
-
-
  
 ; Rule that matches only based on the module taken 
 ; ---------------------------------------------------------------
@@ -89,7 +93,7 @@
    (send ?objectmodule put-moduletype ?totaltype)
    (send ?focusarea put-check YES)
    
-   (send ?objectmodule print)
+  
    
 )
 

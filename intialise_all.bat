@@ -8,9 +8,10 @@
 (load "01_Initialize_2.clp")
 (load "01_b_cleaning.clp")
 (load "02_ModuleSelection.clp")
+(load "prereq.clp")
 (load "03_ModulePrereqSelect.clp")
 (load "04_ModulePreclusion.clp")
-
+(load "05_ModuleSelection.clp")
 (load "05_ModuleSelection_2.clp")
 
 (load "ModuleInformation_Fact.clp")
@@ -24,7 +25,6 @@
 (run)
 (focus AFTERINITIALIZE)
 (run)
-
 (focus CLEANING)
 (run)
 (focus MODULESELECTION)

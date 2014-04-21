@@ -1,19 +1,7 @@
 
-(deffacts MAIN::control-execution
-	(phase-sequence1 INITIALIZE CLEANING MODULESELECTION TIMETABLE)
-)
-
-(defrule MAIN::change-phase
-	?list <- (phase-sequence  ?next-phase  $?other-phases)
-=>
-	(focus ?next-phase)
-	(retract ?list)
-	(assert (phase-sequence  ?other-phases  ?next-phase))
-)
-
-
 (defmodule MAIN
   (export deftemplate initial-fact))
+
 
 
 (defmodule INITIALIZE
@@ -21,11 +9,10 @@
   (export defclass MODULEPREQ)
   (export defclass MODULETAKEN)
   (export defclass REQUIREMENT)
-  (export defclass ELIGIBLEMODULE)
-  (export defclass ELIGIBLEMODULESEMESTER2)
+  (export defclass ELIGIBLEMODULE)  
   (export defclass ALLMODULE)
   (export defclass CANDIDATEMODULE)  
-  
+  (export defclass ELIGIBLEMODULECANSCHEDULE)
   (export defclass FOCUSAREA) 
   (export defclass SPECIALPREREQMODULE) 
   
@@ -42,10 +29,9 @@
    (import INITIALIZE defclass ?ALL)  
    (import MAIN deftemplate initial-fact)
 )
- 
+
 (defmodule TIMETABLE
-  (import INITIALIZE defclass ?ALL)
-  
+  (import INITIALIZE defclass ?ALL)  
 )
 
 
@@ -81,21 +67,14 @@
     (is-a USER)
 	(slot moduleid )	
 	(slot moduletagscore  (type NUMBER))
+	(slot modulelevel (type NUMBER))
+	(slot desirable (default YES))
 	(multislot moduletype)
 	(slot sacrificable)
  )
  
- (defclass INITIALIZE::ELIGIBLEMODULESEMESTER2
-    (is-a USER)
-	(slot moduleid )		
- )
-
-
-; for new check for prereqs ;
-(defclass MODULESELECTION::ELIGIBLEMODULECANSCHEDULE
-  (is-a USER)
-  (slot moduleid))
-
+ 
+ 
  ; pre-requisite that cannot be done using normal rule matching
  (defclass INITIALIZE::SPECIALPREREQMODULE
    (is-a USER)
@@ -181,7 +160,7 @@
 	(slot science (default 12)(create-accessor read-write))
 	(slot takeFYP (create-accessor read-write) (default NO))	
 	(slot takeFYPlevel4 (default 3) (create-accessor read-write))	
-	(slot level1mc (create-accessor read-write) (default 60) )
+	(slot level1mc (create-accessor read-write) (default 0) )
   )
   
   (defclass INITIALIZE::FOCUSAREA
@@ -211,5 +190,7 @@
   (slot exam-time)
   )
 
-
-
+; pauline
+  (defclass INITIALIZE::ELIGIBLEMODULECANSCHEDULE
+	(is-a USER)
+     (slot moduleid))
