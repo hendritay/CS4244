@@ -24,10 +24,12 @@
 (defrule INITIALIZE::moveRequiredCoreModuleToCandidateModule 
     (object (is-a REQUIREDCOREMODULE) (moduleid ?moduleid))
 	(object (is-a MODULE) (moduleid ?moduleid) (moduletagscore ?score))
-	(not (exists (object (is-a MODULETAKEN) (moduleid ?moduleid))))
+	(not  (object (is-a MODULETAKEN) (moduleid ?moduleid)))
 =>      
     (bind ?instancename (symbol-to-instance-name (sym-cat candidatemodule ?moduleid)))	   
 	(make-instance ?instancename of CANDIDATEMODULE (moduleid ?moduleid) (location REQUIREDMODULE) (moduletagscore ?score))	
+	
+	
 )
  
 ; Rule that matches only based on the module taken 

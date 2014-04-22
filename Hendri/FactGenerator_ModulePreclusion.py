@@ -7,7 +7,7 @@ c = db.cursor()
 c.execute("SELECT * FROM ModulePreclusion ORDER BY ModuleCode")
 table = c.fetchall()
 
-print "(definstances MODULESELECTION::MODULEPRECLUDELIST "
+print "(definstances INITALIZE::MODULEPRECLUDELIST "
 i = 0;
 OldModuleCode = ""
 

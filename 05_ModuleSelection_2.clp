@@ -85,7 +85,7 @@
 	(not  (object (is-a ELIGIBLEMODULE) (moduletype $? CS $?) (moduletagscore ?anyscore&:(> ?anyscore ?score))))
 	
  =>
-	(printout t "hello")
+	
     (bind ?instancename (symbol-to-instance-name (sym-cat allmodule ?moduleid)))	   
 	(make-instance ?instancename of ALLMODULE (moduleid ?moduleid))
 	

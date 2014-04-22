@@ -14,7 +14,8 @@
   (export defclass FOCUSAREA) 
   (export defclass SPECIALPREREQMODULE) 
   (export defclass REQUIREDCOREMODULE) 
-  
+  (export defclass MODULEPRECLUDE) 
+  (export defclass ALREADYPRECLUDE) 
   
  )
  
@@ -113,14 +114,14 @@
   (multislot modulepreq)
  )
 
-(defclass MODULESELECTION::MODULEPRECLUDE
+(defclass INITIALIZE::MODULEPRECLUDE
   (is-a USER)
   (slot moduleid)
   (slot moduleidpreclusion)
 )
 
 ; to store preclude list so that it won't be taken during eligible module
-(defclass MODULESELECTION::ALREADYPRECLUDE
+(defclass INITIALIZE::ALREADYPRECLUDE
   (is-a USER)
   (slot moduleid)
  )
