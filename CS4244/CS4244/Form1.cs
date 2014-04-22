@@ -13,7 +13,13 @@ namespace CS4244
 {
     public partial class Form1 : Form
     {
+       
+        public static string BasicPath = @"C:\study\CS4244\CS4244\CS4244\CS4244";
+        public static string ClipsPath = @"C:\study\CS4244\CS4244";
+        public static string dbConnectionString = "Data Source=" + BasicPath + @"\CS4244.sqlite;Version=3;";
+
         Form3 f3 = new Form3();
+
 
         public Form1()
         {
@@ -21,7 +27,6 @@ namespace CS4244
             initModules();
         }
 
-        string dbConnectionString = @"Data Source=C:\Users\User\Documents\Visual Studio 2010\Projects\CS4244\CS4244\CS4244.sqlite;Version=3;";
         //string dbConnectionString = "URI=file:./Debug/CS4244.sqlite;Version=3;";
         //string dbConnectionString = @"Data Source=/Debug/CS4244.sqlite;Version=3;";
 
@@ -629,20 +634,20 @@ namespace CS4244
                 Process p = new Process();
                 p.StartInfo.UseShellExecute = false;
                 p.StartInfo.CreateNoWindow = true;
-
+                p.StartInfo.WorkingDirectory = ClipsPath;
                 p.StartInfo.RedirectStandardInput = true;
                 p.StartInfo.RedirectStandardOutput = true;
-                p.StartInfo.FileName = "C:\\Users\\User\\Documents\\GitHub\\CS4244\\Clips.exe";
+                p.StartInfo.FileName = ClipsPath + @"\Clips.exe";
                 p.Start();
 
                 System.IO.StreamWriter writer = p.StandardInput;
                 System.IO.StreamReader reader = p.StandardOutput;
 
-                writer.WriteLine("(batch C:/Users/User/Documents/GitHub/CS4244/initialiseAll.bat)");
+                writer.WriteLine("(batch intialise_all.bat)");
 
                 List<List<string>> allInstances = u.getAllInstances();
 
-                System.IO.StreamWriter aaronwriter = new System.IO.StreamWriter("C:\\Users\\User\\Documents\\GitHub\\CS4244\\input.txt", false);
+                System.IO.StreamWriter aaronwriter = new System.IO.StreamWriter(ClipsPath + "\\input.txt", false);
                 aaronwriter.WriteLine("(definstances INITIALIZE::aaronwong");
 
                 string interestMulti = f3.numericUpDown1.Value.ToString();
@@ -665,11 +670,7 @@ namespace CS4244
                 aaronwriter.WriteLine(")");
                 aaronwriter.Close();
 
-                writer.WriteLine("(focus TIMETABLE)");
-                writer.WriteLine("(run)");
-                writer.WriteLine("(focus TIMETABLE)");
-                writer.WriteLine("(print-out-url)");
-                writer.WriteLine("");
+                
 
                 string[] texts = null;
 
@@ -688,7 +689,7 @@ namespace CS4244
                 writer.WriteLine("(find-all-candidate-module)");
                 writer.WriteLine("");
                 string moduleList = reader.ReadLine();
-                string url = texts[1];
+                string url = texts[0];
 
                 string[] yahoo = moduleList.Split('@');
 
@@ -817,6 +818,16 @@ namespace CS4244
         private void button20_Click(object sender, EventArgs e)
         {
             f3.ShowDialog();
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

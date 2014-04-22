@@ -302,8 +302,8 @@ namespace CS4244
             string fArea = _focusArea;
             focusArea = _focusAreas;
 
-            string dbConnectionString = @"Data Source=C:\Users\User\Documents\Visual Studio 2010\Projects\CS4244\CS4244\CS4244.sqlite;Version=3;";
-            SQLiteConnection con = new SQLiteConnection(dbConnectionString);
+            
+            SQLiteConnection con = new SQLiteConnection(Form1.dbConnectionString);
 
             try
             {

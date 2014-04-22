@@ -11,13 +11,13 @@
  =>
     
 	(bind ?candidatemodule (symbol-to-instance-name (sym-cat candidatemodule ?moduleid)))	   
-	(make-instance ?candidatemodule of CANDIDATEMODULE (moduleid ?moduleid) (moduletagscore ?score) (location SelectSS))		
+	(make-instance ?candidatemodule of CANDIDATEMODULE (moduleid ?moduleid) (moduletagscore ?score) (location SS))		
    
     (unmake-instance ?eligiblemodule)
 	
 	(bind ?newcredit (- ?sscredit ?mc))
 	(send ?requirement put-SS ?newcredit)
-	(printout t "SelectSS")
+	
  )
  
  
@@ -31,13 +31,13 @@
  =>
     
 	(bind ?candidatemodule (symbol-to-instance-name (sym-cat candidatemodule ?moduleid)))	   
-	(make-instance ?candidatemodule of CANDIDATEMODULE (moduleid ?moduleid) (moduletagscore ?score) (location SelectGEM))		
+	(make-instance ?candidatemodule of CANDIDATEMODULE (moduleid ?moduleid) (moduletagscore ?score) (location GEM))		
    
     (unmake-instance ?eligiblemodule)
 	
 	(bind ?newcredit (- ?gemcredit ?mc))
 	(send ?requirement put-GEM ?newcredit)
-	(printout t "SelectGEM")
+
  )
  
  
@@ -50,7 +50,7 @@
  =>
     
 	(bind ?candidatemodule (symbol-to-instance-name (sym-cat candidatemodule ?moduleid)))	   
-	(make-instance ?candidatemodule of CANDIDATEMODULE (moduleid ?moduleid) (moduletagscore ?score) (location SelectScience))		
+	(make-instance ?candidatemodule of CANDIDATEMODULE (moduleid ?moduleid) (moduletagscore ?score) (location Science))		
    
     (unmake-instance ?eligiblemodule)
 	
@@ -66,7 +66,7 @@
  =>
     
 	(bind ?candidatemodule (symbol-to-instance-name (sym-cat candidatemodule ?moduleid)))	   
-	(make-instance ?candidatemodule of CANDIDATEMODULE (moduleid ?moduleid) (moduletagscore ?tagscore) (location SelectUE))		
+	(make-instance ?candidatemodule of CANDIDATEMODULE (moduleid ?moduleid) (moduletagscore ?tagscore) (location UE))		
    
     (unmake-instance ?eligiblemodule)
 	
@@ -106,5 +106,5 @@
 	
 	(bind ?newcredit (- ?breadth ?mc))
 	(send ?requirement put-breadth ?newcredit)
-	(printout t "breadth")
+	
  )

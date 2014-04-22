@@ -117,3 +117,13 @@ else
 (send ?moduleinfo put-moduletagscore ?newscore)
 
  )
+ 
+ ; Interested Module to give higher score
+ (defrule INITIALIZE::rule_cs_score
+   
+   (object (is-a SCORE) (csscore ?score))
+   ?module <- (object (is-a MODULE) (moduletype $? CS $?) (moduleid ?moduleid))
+  =>
+    (bind ?currentscore (send ?module get-moduletagscore))   
+    (send ?module put-moduletagscore (+ ?currentscore ?score))
+ )

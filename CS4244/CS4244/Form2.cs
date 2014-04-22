@@ -23,9 +23,9 @@ namespace CS4244
             string[] values = value.Split('|');
             string moduleCode = values[0];
             string moduleName = "";
-            string dbConnectionString = @"Data Source=C:\Users\User\Documents\Visual Studio 2010\Projects\CS4244\CS4244\CS4244.sqlite;Version=3;";
+            
 
-            SQLiteConnection con = new SQLiteConnection(dbConnectionString);
+            SQLiteConnection con = new SQLiteConnection(Form1.dbConnectionString);
 
             try
             {
@@ -47,6 +47,11 @@ namespace CS4244
             }
 
             dataGridView1.Rows.Add(values[0], moduleName, values[1], values[2]);
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -89,7 +89,7 @@
             this.numericUpDown1.Size = new System.Drawing.Size(94, 35);
             this.numericUpDown1.TabIndex = 0;
             this.numericUpDown1.Value = new decimal(new int[] {
-            5,
+            50,
             0,
             0,
             0});
@@ -107,7 +107,7 @@
             this.numericUpDown2.Size = new System.Drawing.Size(94, 35);
             this.numericUpDown2.TabIndex = 1;
             this.numericUpDown2.Value = new decimal(new int[] {
-            5,
+            50,
             0,
             0,
             0});
@@ -145,7 +145,7 @@
             this.numericUpDown3.Size = new System.Drawing.Size(95, 35);
             this.numericUpDown3.TabIndex = 2;
             this.numericUpDown3.Value = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});
@@ -173,7 +173,7 @@
             this.numericUpDown4.Size = new System.Drawing.Size(95, 35);
             this.numericUpDown4.TabIndex = 3;
             this.numericUpDown4.Value = new decimal(new int[] {
-            5,
+            15,
             0,
             0,
             0});
@@ -219,7 +219,7 @@
             this.numericUpDown6.Size = new System.Drawing.Size(94, 35);
             this.numericUpDown6.TabIndex = 5;
             this.numericUpDown6.Value = new decimal(new int[] {
-            5,
+            30,
             0,
             0,
             0});
@@ -257,7 +257,7 @@
             this.numericUpDown7.Size = new System.Drawing.Size(95, 35);
             this.numericUpDown7.TabIndex = 6;
             this.numericUpDown7.Value = new decimal(new int[] {
-            5,
+            25,
             0,
             0,
             0});
@@ -285,7 +285,7 @@
             this.numericUpDown8.Size = new System.Drawing.Size(95, 35);
             this.numericUpDown8.TabIndex = 26;
             this.numericUpDown8.Value = new decimal(new int[] {
-            5,
+            20,
             0,
             0,
             0});

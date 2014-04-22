@@ -47,6 +47,9 @@ for row in table:
 	if ModuleCode in ScienceModule:
 		print "SCIENCE"
 		
+	if row["ModuleLevel"] == 0:
+		print "(desirable NO)"
+		
 	print ")"
 	
 	print ")"

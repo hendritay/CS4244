@@ -10,7 +10,7 @@
 	(make-instance ?instancename of ALLMODULE (moduleid ?moduleid))
 	
 	(bind ?candidatemodule (symbol-to-instance-name (sym-cat candidatemodule ?moduleid)))	   
-	(make-instance ?candidatemodule of CANDIDATEMODULE (moduleid ?moduleid) (location SelectFocusAreaRule1_ThreePrimary ) (moduletagscore ?score))		
+	(make-instance ?candidatemodule of CANDIDATEMODULE (moduleid ?moduleid) (location FocusAreaPrimary ) (moduletagscore ?score))		
    
     (unmake-instance ?eligiblemodule)
 	
@@ -57,7 +57,7 @@
 	
 	
 	(bind ?candidatemodule (symbol-to-instance-name (sym-cat candidatemodule ?moduleid)))	   
-	(make-instance ?candidatemodule of CANDIDATEMODULE (moduleid ?moduleid) (location FocusArea_3Level4) (moduletagscore ?score))		
+	(make-instance ?candidatemodule of CANDIDATEMODULE (moduleid ?moduleid) (location FocusAreaPrimaryLevel4 ) (moduletagscore ?score))		
    
    
     (unmake-instance ?eligiblemodule)

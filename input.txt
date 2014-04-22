@@ -1,5 +1,5 @@
 (definstances INITIALIZE::aaronwong
-([CustomScore] of SCORE (focusscoreprimary 5) (focussecondary 5) (interestedmodule 5) (notinterestedmodule 5) (level1additionalscore 5) (level2additionalscore 5) (level3additionalscore 5) (csscore 5))
+([CustomScore] of SCORE (focusscoreprimary 30) (focussecondary 25) (interestedmodule 50) (notinterestedmodule 50) (level1additionalscore 20) (level2additionalscore 15) (level3additionalscore 5) (csscore 20))
 ( [TagACCOUNTING] of INTERESTEDTAG (tag ACCOUNTING))
 ( [FocusAreaCS3230] of FOCUSAREA (moduleid CS3230) (type PRIMARY))
 ( [FocusAreaCS3236] of FOCUSAREA (moduleid CS3236) (type PRIMARY))
@@ -10,7 +10,6 @@
 ( [FocusAreaCS5234] of FOCUSAREA (moduleid CS5234) (type ELECTIVE))
 ( [FocusAreaCS5237] of FOCUSAREA (moduleid CS5237) (type ELECTIVE))
 ( [FocusAreaCS5238] of FOCUSAREA (moduleid CS5238) (type ELECTIVE))
-( [allmoduleCS2020] of MODULETAKEN (moduleid CS2020))
 ( [REQUIREMENT] of REQUIREMENT (UE 20)(GEM 8)(SS 4)(breadth 8)(focusareamc 24)(focusarealevel4 3)(science 12))
 ( [RequiredModuleCS1010] of REQUIREDCOREMODULE (moduleid CS1010))
 ( [RequiredModuleCS1020] of REQUIREDCOREMODULE (moduleid CS1020))
@@ -29,6 +28,6 @@
 ( [RequiredModuleST2334] of REQUIREDCOREMODULE (moduleid ST2334))
 ( [RequiredModulePC1222] of REQUIREDCOREMODULE (moduleid PC1222))
 ( [RequiredModuleCP4101] of REQUIREDCOREMODULE (moduleid CP4101))
-( [RequiredModuleCS3281] of REQUIREDCOREMODULE (moduleid CS3281))
-( [RequiredModuleCS3282] of REQUIREDCOREMODULE (moduleid CS3282))
+( [RequiredModuleCS3201] of REQUIREDCOREMODULE (moduleid CS3201))
+( [RequiredModuleCS3202] of REQUIREDCOREMODULE (moduleid CS3202))
 )

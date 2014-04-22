@@ -269,7 +269,7 @@
 )
 ([precBSP20016] of MODULEPRECLUDE 
 (moduleid  BSP2001)
-(moduleidpreclusion EC2102.)
+(moduleidpreclusion EC2102)
 )
 ([precBSP20017] of MODULEPRECLUDE 
 (moduleid  BSP2001)
@@ -353,7 +353,7 @@
 )
 ([precBSP45121] of MODULEPRECLUDE 
 (moduleid  BSP4512)
-(moduleidpreclusion BK4009.)
+(moduleidpreclusion BK4009)
 )
 ([precBSP45122] of MODULEPRECLUDE 
 (moduleid  BSP4512)
@@ -573,7 +573,7 @@
 )
 ([precCS10106] of MODULEPRECLUDE 
 (moduleid  CS1010)
-(moduleidpreclusion CS1101S.)
+(moduleidpreclusion CS1101S)
 )
 ([precCS1010E0] of MODULEPRECLUDE 
 (moduleid  CS1010E)
@@ -861,7 +861,7 @@
 )
 ([precCS21061] of MODULEPRECLUDE 
 (moduleid  CS2106)
-(moduleidpreclusion EE4214.)
+(moduleidpreclusion EE4214)
 )
 ([precCS2106R0] of MODULEPRECLUDE 
 (moduleid  CS2106R)
@@ -869,7 +869,7 @@
 )
 ([precCS2106R1] of MODULEPRECLUDE 
 (moduleid  CS2106R)
-(moduleidpreclusion EE4214.)
+(moduleidpreclusion EE4214)
 )
 ([precCS31030] of MODULEPRECLUDE 
 (moduleid  CS3103)
@@ -905,7 +905,7 @@
 )
 ([precCS32843] of MODULEPRECLUDE 
 (moduleid  CS3284)
-(moduleidpreclusion CS4204.)
+(moduleidpreclusion CS4204)
 )
 ([precCS43400] of MODULEPRECLUDE 
 (moduleid  CS4340)
@@ -937,7 +937,7 @@
 )
 ([precDSC20064] of MODULEPRECLUDE 
 (moduleid  DSC2006)
-(moduleidpreclusion IE3120.)
+(moduleidpreclusion IE3120)
 )
 ([precDSC20080] of MODULEPRECLUDE 
 (moduleid  DSC2008)
@@ -973,7 +973,7 @@
 )
 ([precDSC32014] of MODULEPRECLUDE 
 (moduleid  DSC3201)
-(moduleidpreclusion CS5262.)
+(moduleidpreclusion CS5262)
 )
 ([precDSC32015] of MODULEPRECLUDE 
 (moduleid  DSC3201)
@@ -1017,7 +1017,7 @@
 )
 ([precDSC32162] of MODULEPRECLUDE 
 (moduleid  DSC3216)
-(moduleidpreclusion BK3519.)
+(moduleidpreclusion BK3519)
 )
 ([precDSC32163] of MODULEPRECLUDE 
 (moduleid  DSC3216)
@@ -1089,7 +1089,7 @@
 )
 ([precEC13017] of MODULEPRECLUDE 
 (moduleid  EC1301)
-(moduleidpreclusion BZ2001.)
+(moduleidpreclusion BZ2001)
 )
 ([precEC13018] of MODULEPRECLUDE 
 (moduleid  EC1301)
@@ -1553,7 +1553,7 @@
 )
 ([precEG33017] of MODULEPRECLUDE 
 (moduleid  EG3301)
-(moduleidpreclusion ESP3902 ESP3903)
+(moduleidpreclusion ESP3902 )
 )
 ([precEG33018] of MODULEPRECLUDE 
 (moduleid  EG3301)
@@ -1571,6 +1571,11 @@
 (moduleid  EG3301)
 (moduleidpreclusion MLE3103)
 )
+([precEG330111] of MODULEPRECLUDE 
+(moduleid  EG3301)
+(moduleidpreclusion ESP3903)
+)
+
 ([precEG43010] of MODULEPRECLUDE 
 (moduleid  EG4301)
 (moduleidpreclusion BN4101R)
@@ -1581,7 +1586,7 @@
 )
 ([precEG43012] of MODULEPRECLUDE 
 (moduleid  EG4301)
-(moduleidpreclusion CN4118R CG4001)
+(moduleidpreclusion CN4118R )
 )
 ([precEG43013] of MODULEPRECLUDE 
 (moduleid  EG4301)
@@ -1725,7 +1730,7 @@
 )
 ([precEN1101E2] of MODULEPRECLUDE 
 (moduleid  EN1101E)
-(moduleidpreclusion EN2101E.)
+(moduleidpreclusion EN2101E)
 )
 ([precEN1101E3] of MODULEPRECLUDE 
 (moduleid  EN1101E)
@@ -1773,7 +1778,7 @@
 )
 ([precES11024] of MODULEPRECLUDE 
 (moduleid  ES1102)
-(moduleidpreclusion EM1101.)
+(moduleidpreclusion EM1101)
 )
 ([precES11025] of MODULEPRECLUDE 
 (moduleid  ES1102)
@@ -1845,7 +1850,7 @@
 )
 ([precES20026] of MODULEPRECLUDE 
 (moduleid  ES2002)
-(moduleidpreclusion UWC2101.)
+(moduleidpreclusion UWC2101)
 )
 ([precES2007S0] of MODULEPRECLUDE 
 (moduleid  ES2007S)
@@ -1857,7 +1862,7 @@
 )
 ([precES2007S2] of MODULEPRECLUDE 
 (moduleid  ES2007S)
-(moduleidpreclusion CS2301.)
+(moduleidpreclusion CS2301)
 )
 ([precES2007S3] of MODULEPRECLUDE 
 (moduleid  ES2007S)
@@ -1973,7 +1978,7 @@
 )
 ([precFIN20046] of MODULEPRECLUDE 
 (moduleid  FIN2004)
-(moduleidpreclusion FNA2004 .)
+(moduleidpreclusion FNA2004 )
 )
 ([precFIN2004X0] of MODULEPRECLUDE 
 (moduleid  FIN2004X)
@@ -2217,7 +2222,7 @@
 )
 ([precFIN31170] of MODULEPRECLUDE 
 (moduleid  FIN3117)
-(moduleidpreclusion FE5105.)
+(moduleidpreclusion FE5105)
 )
 ([precFIN31171] of MODULEPRECLUDE 
 (moduleid  FIN3117)
@@ -2261,7 +2266,7 @@
 )
 ([precGE1101E0] of MODULEPRECLUDE 
 (moduleid  GE1101E)
-(moduleidpreclusion GE1101E.)
+(moduleidpreclusion GE1101E)
 )
 ([precGE1101E1] of MODULEPRECLUDE 
 (moduleid  GE1101E)
@@ -2297,15 +2302,15 @@
 )
 ([precGEK10003] of MODULEPRECLUDE 
 (moduleid  GEK1000)
-(moduleidpreclusion EN2101E.)
+(moduleidpreclusion EN2101E)
 )
 ([precGEK10010] of MODULEPRECLUDE 
 (moduleid  GEK1001)
-(moduleidpreclusion GE1101E.)
+(moduleidpreclusion GE1101E)
 )
 ([precGEK10020] of MODULEPRECLUDE 
 (moduleid  GEK1002)
-(moduleidpreclusion JS1101E.)
+(moduleidpreclusion JS1101E)
 )
 ([precGEK10030] of MODULEPRECLUDE 
 (moduleid  GEK1003)
@@ -2317,7 +2322,7 @@
 )
 ([precGEK10032] of MODULEPRECLUDE 
 (moduleid  GEK1003)
-(moduleidpreclusion PS1101E.)
+(moduleidpreclusion PS1101E)
 )
 ([precGEK10080] of MODULEPRECLUDE 
 (moduleid  GEK1008)
@@ -2325,7 +2330,7 @@
 )
 ([precGEK10081] of MODULEPRECLUDE 
 (moduleid  GEK1008)
-(moduleidpreclusion GEM1008K.)
+(moduleidpreclusion GEM1008K)
 )
 ([precGEK10082] of MODULEPRECLUDE 
 (moduleid  GEK1008)
@@ -2349,7 +2354,7 @@
 )
 ([precGEK10121] of MODULEPRECLUDE 
 (moduleid  GEK1012)
-(moduleidpreclusion GEK1006.)
+(moduleidpreclusion GEK1006)
 )
 ([precGEK10220] of MODULEPRECLUDE 
 (moduleid  GEK1022)
@@ -2365,11 +2370,11 @@
 )
 ([precGEK10640] of MODULEPRECLUDE 
 (moduleid  GEK1064)
-(moduleidpreclusion PL1101E.)
+(moduleidpreclusion PL1101E)
 )
 ([precGEK10660] of MODULEPRECLUDE 
 (moduleid  GEK1066)
-(moduleidpreclusion GEK 1052)
+(moduleidpreclusion GEK1052)
 )
 ([precGEK20010] of MODULEPRECLUDE 
 (moduleid  GEK2001)
@@ -2397,7 +2402,7 @@
 )
 ([precGEK20034] of MODULEPRECLUDE 
 (moduleid  GEK2003)
-(moduleidpreclusion PS2249.)
+(moduleidpreclusion PS2249)
 )
 ([precGEK20035] of MODULEPRECLUDE 
 (moduleid  GEK2003)
@@ -2421,7 +2426,7 @@
 )
 ([precGEK20103] of MODULEPRECLUDE 
 (moduleid  GEK2010)
-(moduleidpreclusion PS2239.)
+(moduleidpreclusion PS2239)
 )
 ([precGEK20240] of MODULEPRECLUDE 
 (moduleid  GEK2024)
@@ -2505,7 +2510,7 @@
 )
 ([precGEM20271] of MODULEPRECLUDE 
 (moduleid  GEM2027)
-(moduleidpreclusion NM4200 I)
+(moduleidpreclusion NM4200I)
 )
 ([precGEM25090] of MODULEPRECLUDE 
 (moduleid  GEM2509)
@@ -2641,7 +2646,7 @@
 )
 ([precIS21012] of MODULEPRECLUDE 
 (moduleid  IS2101)
-(moduleidpreclusion CS2103T.)
+(moduleidpreclusion CS2103T)
 )
 ([precIS21013] of MODULEPRECLUDE 
 (moduleid  IS2101)
@@ -2733,7 +2738,7 @@
 )
 ([precJS1101E1] of MODULEPRECLUDE 
 (moduleid  JS1101E)
-(moduleidpreclusion JS1101E.)
+(moduleidpreclusion JS1101E)
 )
 ([precJS22240] of MODULEPRECLUDE 
 (moduleid  JS2224)
@@ -2825,7 +2830,7 @@
 )
 ([precLSM13016] of MODULEPRECLUDE 
 (moduleid  LSM1301)
-(moduleidpreclusion LSM1301FC.)
+(moduleidpreclusion LSM1301FC)
 )
 ([precLSM13017] of MODULEPRECLUDE 
 (moduleid  LSM1301)
@@ -2837,7 +2842,7 @@
 )
 ([precLSM1301FC1] of MODULEPRECLUDE 
 (moduleid  LSM1301FC)
-(moduleidpreclusion LSM1301.)
+(moduleidpreclusion LSM1301)
 )
 ([precLSM1301FC2] of MODULEPRECLUDE 
 (moduleid  LSM1301FC)
@@ -2997,7 +3002,7 @@
 )
 ([precMA130112] of MODULEPRECLUDE 
 (moduleid  MA1301)
-(moduleidpreclusion MD_A_Level H2_Mathematic)
+(moduleidpreclusion H2_Mathematic)
 )
 ([precMA130113] of MODULEPRECLUDE 
 (moduleid  MA1301)
@@ -3005,7 +3010,7 @@
 )
 ([precMA1301FC0] of MODULEPRECLUDE 
 (moduleid  MA1301FC)
-(moduleidpreclusion MD_A_Level_Mathematics  H2_Mathematics.  MA1301.)
+(moduleidpreclusion MD_A_Level_Mathematics )
 )
 ([precMA13120] of MODULEPRECLUDE 
 (moduleid  MA1312)
@@ -3053,7 +3058,7 @@
 )
 ([precMA15057] of MODULEPRECLUDE 
 (moduleid  MA1505)
-(moduleidpreclusion PC2174.)
+(moduleidpreclusion PC2174)
 )
 ([precMA15060] of MODULEPRECLUDE 
 (moduleid  MA1506)
@@ -3141,7 +3146,7 @@
 )
 ([precMA21016] of MODULEPRECLUDE 
 (moduleid  MA2101)
-(moduleidpreclusion MQ2203.)
+(moduleidpreclusion MQ2203)
 )
 ([precMA21080] of MODULEPRECLUDE 
 (moduleid  MA2108)
@@ -3173,7 +3178,7 @@
 )
 ([precMA21087] of MODULEPRECLUDE 
 (moduleid  MA2108)
-(moduleidpreclusion ME2492.)
+(moduleidpreclusion ME2492)
 )
 ([precMA21088] of MODULEPRECLUDE 
 (moduleid  MA2108)
@@ -3217,7 +3222,7 @@
 )
 ([precMA2108S7] of MODULEPRECLUDE 
 (moduleid  MA2108S)
-(moduleidpreclusion ME2492.)
+(moduleidpreclusion ME2492)
 )
 ([precMA2108S8] of MODULEPRECLUDE 
 (moduleid  MA2108S)
@@ -3285,7 +3290,7 @@
 )
 ([precMA31105] of MODULEPRECLUDE 
 (moduleid  MA3110)
-(moduleidpreclusion ST2236.)
+(moduleidpreclusion ST2236)
 )
 ([precMA3110S0] of MODULEPRECLUDE 
 (moduleid  MA3110S)
@@ -3341,11 +3346,11 @@
 )
 ([precMA32380] of MODULEPRECLUDE 
 (moduleid  MA3238)
-(moduleidpreclusion MA3238.)
+(moduleidpreclusion MA3238)
 )
 ([precMA32381] of MODULEPRECLUDE 
 (moduleid  MA3238)
-(moduleidpreclusion ST3236.)
+(moduleidpreclusion ST3236)
 )
 ([precMA32520] of MODULEPRECLUDE 
 (moduleid  MA3252)
@@ -3457,7 +3462,7 @@
 )
 ([precMKT10030] of MODULEPRECLUDE 
 (moduleid  MKT1003)
-(moduleidpreclusion BH1003 .)
+(moduleidpreclusion BH1003 )
 )
 ([precMKT10031] of MODULEPRECLUDE 
 (moduleid  MKT1003)
@@ -4017,7 +4022,7 @@
 )
 ([precPC12212] of MODULEPRECLUDE 
 (moduleid  PC1221)
-(moduleidpreclusion MD_A_level H2_Physics)
+(moduleidpreclusion H2_Physics)
 )
 ([precPC12213] of MODULEPRECLUDE 
 (moduleid  PC1221)
@@ -4045,7 +4050,7 @@
 )
 ([precPC12221] of MODULEPRECLUDE 
 (moduleid  PC1222)
-(moduleidpreclusion H2 pass in Physics)
+(moduleidpreclusion H2_Physics)
 )
 ([precPC12222] of MODULEPRECLUDE 
 (moduleid  PC1222)
@@ -4089,7 +4094,7 @@
 )
 ([precPC1431FC0] of MODULEPRECLUDE 
 (moduleid  PC1431FC)
-(moduleidpreclusion PC1431.)
+(moduleidpreclusion PC1431)
 )
 ([precPC14320] of MODULEPRECLUDE 
 (moduleid  PC1432)
@@ -4233,7 +4238,7 @@
 )
 ([precPS1101E3] of MODULEPRECLUDE 
 (moduleid  PS1101E)
-(moduleidpreclusion PS1101E.)
+(moduleidpreclusion PS1101E)
 )
 ([precPS22030] of MODULEPRECLUDE 
 (moduleid  PS2203)
@@ -4301,7 +4306,7 @@
 )
 ([precPS22394] of MODULEPRECLUDE 
 (moduleid  PS2239)
-(moduleidpreclusion PS2239.)
+(moduleidpreclusion PS2239)
 )
 ([precPS22400] of MODULEPRECLUDE 
 (moduleid  PS2240)
@@ -4349,7 +4354,7 @@
 )
 ([precPS22495] of MODULEPRECLUDE 
 (moduleid  PS2249)
-(moduleidpreclusion PS2249.)
+(moduleidpreclusion PS2249)
 )
 ([precPS22496] of MODULEPRECLUDE 
 (moduleid  PS2249)
@@ -4557,7 +4562,7 @@
 )
 ([precSE1101E2] of MODULEPRECLUDE 
 (moduleid  SE1101E)
-(moduleidpreclusion GEM1008K.)
+(moduleidpreclusion GEM1008K)
 )
 ([precSE1101E3] of MODULEPRECLUDE 
 (moduleid  SE1101E)
@@ -4761,7 +4766,7 @@
 )
 ([precST12322] of MODULEPRECLUDE 
 (moduleid  ST1232)
-(moduleidpreclusion DSC2008.)
+(moduleidpreclusion DSC2008)
 )
 ([precST12323] of MODULEPRECLUDE 
 (moduleid  ST1232)
@@ -4853,11 +4858,11 @@
 )
 ([precST32360] of MODULEPRECLUDE 
 (moduleid  ST3236)
-(moduleidpreclusion MA3238.)
+(moduleidpreclusion MA3238)
 )
 ([precST32361] of MODULEPRECLUDE 
 (moduleid  ST3236)
-(moduleidpreclusion ST3236.)
+(moduleidpreclusion ST3236)
 )
 ([precST42380] of MODULEPRECLUDE 
 (moduleid  ST4238)
