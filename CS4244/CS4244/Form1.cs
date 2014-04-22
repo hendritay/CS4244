@@ -22,6 +22,8 @@ namespace CS4244
         }
 
         string dbConnectionString = @"Data Source=C:\Users\User\Documents\Visual Studio 2010\Projects\CS4244\CS4244\CS4244.sqlite;Version=3;";
+        //string dbConnectionString = "URI=file:./Debug/CS4244.sqlite;Version=3;";
+        //string dbConnectionString = @"Data Source=/Debug/CS4244.sqlite;Version=3;";
 
         private void initModules()
         {
