@@ -13,6 +13,8 @@
   (export defclass ELIGIBLEMODULECANSCHEDULE)
   (export defclass FOCUSAREA) 
   (export defclass SPECIALPREREQMODULE) 
+  (export defclass REQUIREDCOREMODULE) 
+  
   
  )
  

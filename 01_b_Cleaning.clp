@@ -14,7 +14,7 @@
   
   
 (defrule CLEANING::CleaningEligible3
-   (object (is-a SPECIALPREREQMODULE) (moduleid ?moduleid))
+   (object (is-a REQUIREDCOREMODULE) (moduleid ?moduleid))
    ?instance <- (object (is-a ELIGIBLEMODULE) (moduleid ?moduleid))
  =>
    (unmake-instance ?instance)
