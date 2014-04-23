@@ -21,7 +21,6 @@
 
 (defrule TIMETABLE::filter-by-prereqs (declare (salience 1))
 ?current-data <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-stage 1))
-?emcs <- (object (is-a ELIGIBLEMODULECANSCHEDULE) (moduleid ?mod-id))
 ?candidate <- (object (is-a CANDIDATEMODULE) (moduleid ?mod-id)(moduletagscore ?score))
 ?module <- (object (is-a MODULE)(moduleid ?mod-id)(mc ?mod-mc))
 (test
