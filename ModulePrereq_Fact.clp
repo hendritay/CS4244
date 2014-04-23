@@ -305,7 +305,7 @@
 )
 ([preqCM21010] of MODULEPREQ 
 (moduleid  CM2101)
-(modulepreq CM1131 CM1401 by department approval.)
+(modulepreq CM1131 CM1401)
 )
 ([preqCM21110] of MODULEPREQ 
 (moduleid  CM2111)
@@ -1033,7 +1033,7 @@
 )
 ([preqCS42150] of MODULEPREQ 
 (moduleid  CS4215)
-(modulepreq CS2010 )
+(modulepreq CS2010)
 )
 ([preqCS42151] of MODULEPREQ 
 (moduleid  CS4215)
@@ -1333,7 +1333,7 @@
 )
 ([preqEE10030] of MODULEPREQ 
 (moduleid  EE1003)
-(modulepreq A_level_Mathematics )
+(modulepreq A_level_Mathematics)
 )
 ([preqEE10031] of MODULEPREQ 
 (moduleid  EE1003)
@@ -1605,7 +1605,7 @@
 )
 ([preqEL32090] of MODULEPREQ 
 (moduleid  EL3209)
-(modulepreq EL1101E GEK1011.)
+(modulepreq EL1101E GEK1011)
 )
 ([preqEL32520] of MODULEPREQ 
 (moduleid  EL3252)
@@ -1633,7 +1633,7 @@
 )
 ([preqEN3880A0] of MODULEPREQ 
 (moduleid  EN3880A)
-(modulepreq EN1101E EN2101E GEK1000 EN2203 EN2204.)
+(modulepreq EN1101E EN2101E GEK1000 EN2203 EN2204)
 )
 ([preqENV31010] of MODULEPREQ 
 (moduleid  ENV3101)
@@ -1641,7 +1641,7 @@
 )
 ([preqES11020] of MODULEPREQ 
 (moduleid  ES1102)
-(modulepreq ES1000.)
+(modulepreq ES1000)
 )
 ([preqES1501A0] of MODULEPREQ 
 (moduleid  ES1501A)
@@ -1689,11 +1689,11 @@
 )
 ([preqFDP20010] of MODULEPREQ 
 (moduleid  FDP2001)
-(modulepreq A-level mathematics)
+(modulepreq A_level_mathematics)
 )
 ([preqFDP20020] of MODULEPREQ 
 (moduleid  FDP2002)
-(modulepreq A-level Physics)
+(modulepreq A_level_Physics)
 )
 ([preqFIN20040] of MODULEPREQ 
 (moduleid  FIN2004)
@@ -1901,7 +1901,7 @@
 )
 ([preqIE21300] of MODULEPREQ 
 (moduleid  IE2130)
-(modulepreq MA1505 MA1506  SA1101 ST1131 ST1131A ST1232 ST2334.)
+(modulepreq MA1505 MA1506 SA1101 ST1131 ST1131A ST1232 ST2334)
 )
 ([preqIE3100R0] of MODULEPREQ 
 (moduleid  IE3100R)
@@ -1969,7 +1969,7 @@
 )
 ([preqIS31500] of MODULEPREQ 
 (moduleid  IS3150)
-(modulepreq IS1112 ])
+(modulepreq IS1112)
 )
 ([preqIS31501] of MODULEPREQ 
 (moduleid  IS3150)
@@ -2021,7 +2021,7 @@
 )
 ([preqIS32400] of MODULEPREQ 
 (moduleid  IS3240)
-(modulepreq [EC1101 EC1101E EC1301 EC1310 EC1311 A_Level_Economics BSP1005 ])
+(modulepreq EC1101 EC1101E EC1301 EC1310 EC1311 A_Level_Economics BSP1005)
 )
 ([preqIS32410] of MODULEPREQ 
 (moduleid  IS3241)
@@ -2057,7 +2057,7 @@
 )
 ([preqIS42270] of MODULEPREQ 
 (moduleid  IS4227)
-(modulepreq [CS3361 of IS3220])
+(modulepreq CS3361 IS3220)
 )
 ([preqIT10060] of MODULEPREQ 
 (moduleid  IT1006)
@@ -2165,19 +2165,19 @@
 )
 ([preqLAJ22010] of MODULEPREQ 
 (moduleid  LAJ2201)
-(modulepreq Passed LAJ1201)
+(modulepreq LAJ1201)
 )
 ([preqLAJ22020] of MODULEPREQ 
 (moduleid  LAJ2202)
-(modulepreq Passed LAJ2201)
+(modulepreq LAJ2201)
 )
 ([preqLAJ22030] of MODULEPREQ 
 (moduleid  LAJ2203)
-(modulepreq Passed LAJ2202)
+(modulepreq LAJ2202)
 )
 ([preqLAJ32010] of MODULEPREQ 
 (moduleid  LAJ3201)
-(modulepreq Passed LAJ2203)
+(modulepreq LAJ2203)
 )
 ([preqLAJ32020] of MODULEPREQ 
 (moduleid  LAJ3202)
@@ -2405,7 +2405,7 @@
 )
 ([preqLSM32570] of MODULEPREQ 
 (moduleid  LSM3257)
-(modulepreq ST1232  AND LSM2251)
+(modulepreq ST1232 LSM2251)
 )
 ([preqLSM32620] of MODULEPREQ 
 (moduleid  LSM3262)
@@ -2433,7 +2433,7 @@
 )
 ([preqLSM42150] of MODULEPREQ 
 (moduleid  LSM4215)
-(modulepreq LSM3212 AND LSM3214)
+(modulepreq LSM3212 LSM3214)
 )
 ([preqLSM42210] of MODULEPREQ 
 (moduleid  LSM4221)
@@ -2881,11 +2881,11 @@
 )
 ([preqMKT3418A0] of MODULEPREQ 
 (moduleid  MKT3418A)
-(modulepreq MKT1003 BH1003 BZ1003 BK2003 TR2201.)
+(modulepreq MKT1003 BH1003 BZ1003 BK2003 TR2201)
 )
 ([preqMKT3418B0] of MODULEPREQ 
 (moduleid  MKT3418B)
-(modulepreq MKT1003 BH1003 BZ1003 BK2003 TR2201.)
+(modulepreq MKT1003 BH1003 BZ1003 BK2003 TR2201)
 )
 ([preqMKT34240] of MODULEPREQ 
 (moduleid  MKT3424)
@@ -3077,7 +3077,7 @@
 )
 ([preqMUA21910] of MODULEPREQ 
 (moduleid  MUA2191)
-(modulepreq MUA 2190)
+(modulepreq MUA2190)
 )
 ([preqMUA31200] of MODULEPREQ 
 (moduleid  MUA3120)
@@ -3105,11 +3105,11 @@
 )
 ([preqMUA31910] of MODULEPREQ 
 (moduleid  MUA3191)
-(modulepreq MUA 3190)
+(modulepreq MUA3190)
 )
 ([preqMUA31950] of MODULEPREQ 
 (moduleid  MUA3195)
-(modulepreq MUA 3194)
+(modulepreq MUA3194)
 )
 ([preqMUA32060] of MODULEPREQ 
 (moduleid  MUA3206)
@@ -3129,7 +3129,7 @@
 )
 ([preqMUA41910] of MODULEPREQ 
 (moduleid  MUA4191)
-(modulepreq MUA 4190)
+(modulepreq MUA4190)
 )
 ([preqMUA42030] of MODULEPREQ 
 (moduleid  MUA4203)
@@ -3285,11 +3285,11 @@
 )
 ([preqPC2130B0] of MODULEPREQ 
 (moduleid  PC2130B)
-(modulepreq PC1144 PC1432 PC1433.)
+(modulepreq PC1144 PC1432 PC1433)
 )
 ([preqPC21330] of MODULEPREQ 
 (moduleid  PC2133)
-(modulepreq PC1144 PC1433.)
+(modulepreq PC1144 PC1433)
 )
 ([preqPC21930] of MODULEPREQ 
 (moduleid  PC2193)
@@ -3317,7 +3317,7 @@
 )
 ([preqPC32410] of MODULEPREQ 
 (moduleid  PC3241)
-(modulepreq PC2131 PC2231 PC3235 MLE2104 PC2133 EE2005.)
+(modulepreq PC2131 PC2231 PC3235 MLE2104 PC2133 EE2005)
 )
 ([preqPC32430] of MODULEPREQ 
 (moduleid  PC3243)

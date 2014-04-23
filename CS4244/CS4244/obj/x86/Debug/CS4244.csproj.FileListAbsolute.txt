@@ -36,3 +36,14 @@ C:\study\CS4244\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.Form3.resources
 C:\study\CS4244\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.Properties.Resources.resources
 C:\study\CS4244\CS4244\CS4244\CS4244\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\study\CS4244\CS4244\CS4244\CS4244\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Study\CS4244\Project\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.exe
+C:\Study\CS4244\Project\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.pdb
+C:\Study\CS4244\Project\CS4244\CS4244\CS4244\bin\Debug\CS4244.exe
+C:\Study\CS4244\Project\CS4244\CS4244\CS4244\bin\Debug\CS4244.pdb
+C:\Study\CS4244\Project\CS4244\CS4244\CS4244\bin\Debug\System.Data.SQLite.pdb
+C:\Study\CS4244\Project\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.csprojResolveAssemblyReference.cache
+C:\Study\CS4244\Project\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.Form1.resources
+C:\Study\CS4244\Project\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.Form2.resources
+C:\Study\CS4244\Project\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.Form3.resources
+C:\Study\CS4244\Project\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.Properties.Resources.resources
+C:\Study\CS4244\Project\CS4244\CS4244\CS4244\obj\x86\Debug\CS4244.csproj.GenerateResource.Cache

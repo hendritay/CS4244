@@ -229,6 +229,17 @@ breadth
 NONCS
 )
 )
+([modAO_level_mathematics] of MODULE 
+(moduleid  AO_level_mathematics)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+(desirable NO)
+)
 ([modAR1101] of MODULE 
 (moduleid  AR1101)
 (mc 8)
@@ -1089,6 +1100,28 @@ breadth
 NONCS
 )
 )
+([modA_Level_Biology] of MODULE 
+(moduleid  A_Level_Biology)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+(desirable NO)
+)
+([modA_Level_Chemistry] of MODULE 
+(moduleid  A_Level_Chemistry)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+(desirable NO)
+)
 ([modA_level_mathematics] of MODULE 
 (moduleid  A_level_mathematics)
 (mc 0)
@@ -1098,6 +1131,7 @@ UE
 breadth
 NONCS
 )
+(desirable NO)
 )
 ([modA_level_Physics] of MODULE 
 (moduleid  A_level_Physics)
@@ -1108,6 +1142,7 @@ UE
 breadth
 NONCS
 )
+(desirable NO)
 )
 ([modBAA6001] of MODULE 
 (moduleid  BAA6001)
@@ -15708,6 +15743,7 @@ UE
 breadth
 NONCS
 )
+(desirable NO)
 )
 ([modH1_Chemistry] of MODULE 
 (moduleid  H1_Chemistry)
@@ -15718,6 +15754,29 @@ UE
 breadth
 NONCS
 )
+(desirable NO)
+)
+([modH1_Chinese] of MODULE 
+(moduleid  H1_Chinese)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+(desirable NO)
+)
+([modH1_Mathematics] of MODULE 
+(moduleid  H1_Mathematics)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+(desirable NO)
 )
 ([modH1_Physics] of MODULE 
 (moduleid  H1_Physics)
@@ -15728,6 +15787,7 @@ UE
 breadth
 NONCS
 )
+(desirable NO)
 )
 ([modH2_Biology] of MODULE 
 (moduleid  H2_Biology)
@@ -15738,6 +15798,40 @@ UE
 breadth
 NONCS
 )
+(desirable NO)
+)
+([modH2_Chemistry] of MODULE 
+(moduleid  H2_Chemistry)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+(desirable NO)
+)
+([modH2_Chinese] of MODULE 
+(moduleid  H2_Chinese)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+(desirable NO)
+)
+([modH2_Mathematics] of MODULE 
+(moduleid  H2_Mathematics)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+(desirable NO)
 )
 ([modH2_Physics] of MODULE 
 (moduleid  H2_Physics)
@@ -15748,6 +15842,7 @@ UE
 breadth
 NONCS
 )
+(desirable NO)
 )
 ([modHM5101] of MODULE 
 (moduleid  HM5101)
@@ -31406,6 +31501,50 @@ UE
 breadth
 NONCS
 )
+)
+([modO_level_Additional_Mathematics] of MODULE 
+(moduleid  O_level_Additional_Mathematics)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+(desirable NO)
+)
+([modO_Level_Chinese] of MODULE 
+(moduleid  O_Level_Chinese)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+(desirable NO)
+)
+([modO_Level_CombinedPhysics] of MODULE 
+(moduleid  O_Level_CombinedPhysics)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+(desirable NO)
+)
+([modO_Level_physics] of MODULE 
+(moduleid  O_Level_physics)
+(mc 0)
+(modulelevel 0)
+(moduletype 
+UE
+breadth
+NONCS
+)
+(desirable NO)
 )
 ([modPA2106] of MODULE 
 (moduleid  PA2106)

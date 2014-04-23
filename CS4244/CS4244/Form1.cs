@@ -13,9 +13,9 @@ namespace CS4244
 {
     public partial class Form1 : Form
     {
-       
-        public static string BasicPath = @"C:\study\CS4244\CS4244\CS4244\CS4244";
-        public static string ClipsPath = @"C:\study\CS4244\CS4244";
+
+        public static string BasicPath = @"C:\Study\CS4244\Project\CS4244\CS4244\CS4244";
+        public static string ClipsPath = @"C:\Study\CS4244\Project\CS4244";
         public static string dbConnectionString = "Data Source=" + BasicPath + @"\CS4244.sqlite;Version=3;";
 
         Form3 f3 = new Form3();
