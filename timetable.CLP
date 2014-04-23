@@ -19,27 +19,31 @@
 
 ; step 1: filter to get candidate modules who don't have unmet prereqs ;
 
-(defrule TIMETABLE::filter-by-prereqs
+(defrule TIMETABLE::filter-by-prereqs (declare (salience 1))
 ?current-data <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-stage 1))
-=>
-(delayed-do-for-all-instances
-  ((?candidate CANDIDATEMODULE)(?module MODULE))
-  (and
-    (eq ?candidate:moduleid ?module:moduleid)
+?emcs <- (object (is-a ELIGIBLEMODULECANSCHEDULE) (moduleid ?mod-id))
+?module <- (object (is-a MODULE)(moduleid ?mod-id)(mc ?mod-mc)(moduletagscore ?score))
+(test
     (not
       (any-instancep
         ((?preq MODULEPREQ))
         (and
-          (eq ?preq:moduleid ?candidate:moduleid)
+          (eq ?preq:moduleid ?mod-id)
           (not
             (any-instancep
               ((?taken MODULETAKEN))
               (neq (member$ ?taken:moduleid ?preq:modulepreq) FALSE)))))))
-  (make-instance (sym-cat PM- ?candidate:moduleid) of PROBABLEMODULE
-    (moduleid ?candidate:moduleid)
-    (moduletagscore ?candidate:moduletagscore)
-    (mc ?module:mc)))
+=>
+  (make-instance (sym-cat PM- ?mod-id) of PROBABLEMODULE
+    (moduleid ?mod-id)
+    (moduletagscore ?score)
+    (mc ?mod-mc)))
+
+(defrule TIMETABLE::done-prereqs
+?current-data <- (object (is-a CURRENTDATA) (current-sem ?sem) (current-stage 1)(current-max ?max))
+=>
 (send ?current-data put-current-stage 2))
+
 
 ; step 2: get max score module ;
 
