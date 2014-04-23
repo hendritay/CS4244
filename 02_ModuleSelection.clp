@@ -36,7 +36,7 @@
 
 (defrule MODULESELECTION::CheckForFocusArea
 (declare (salience 5))
-   (object (is-a CANDIDATEMODULE) (moduleid ?moduleid) (location ?location&:(neq ?location SelectFocusAreaRule1_ThreePrimary)))
+   (object (is-a CANDIDATEMODULE) (moduleid ?moduleid) (location ?location&:(neq ?location FocusAreaPrimary)))
    (object (is-a FOCUSAREA) (type PRIMARY) (moduleid ?moduleid))
    ?require <- (object (is-a REQUIREMENT))
  =>
