@@ -97,6 +97,7 @@
             this.label7 = new System.Windows.Forms.Label();
             this.panel6 = new System.Windows.Forms.Panel();
             this.listBox2 = new System.Windows.Forms.ListBox();
+            this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.comboBox6 = new System.Windows.Forms.ComboBox();
             this.label6 = new System.Windows.Forms.Label();
@@ -136,7 +137,6 @@
             this.addButton4 = new System.Windows.Forms.Button();
             this.preferenceBox = new System.Windows.Forms.ComboBox();
             this.preferenceLabel = new System.Windows.Forms.Label();
-            this.button5 = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.JCPolyPanel.SuspendLayout();
@@ -173,7 +173,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(906, 552);
+            this.button1.Location = new System.Drawing.Point(897, 552);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(100, 40);
             this.button1.TabIndex = 8;
@@ -217,9 +217,9 @@
             // 
             // button20
             // 
-            this.button20.Location = new System.Drawing.Point(6, 540);
+            this.button20.Location = new System.Drawing.Point(14, 552);
             this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(115, 40);
+            this.button20.Size = new System.Drawing.Size(147, 40);
             this.button20.TabIndex = 9;
             this.button20.Text = "Advanced Settings";
             this.button20.UseVisualStyleBackColor = true;
@@ -945,6 +945,16 @@
             this.listBox2.Size = new System.Drawing.Size(469, 72);
             this.listBox2.TabIndex = 8;
             // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(431, 32);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(43, 29);
+            this.button5.TabIndex = 8;
+            this.button5.Text = "-";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
             // button6
             // 
             this.button6.Location = new System.Drawing.Point(365, 33);
@@ -1175,7 +1185,7 @@
             // 
             // delButton3
             // 
-            this.delButton3.Location = new System.Drawing.Point(433, 34);
+            this.delButton3.Location = new System.Drawing.Point(430, 34);
             this.delButton3.Name = "delButton3";
             this.delButton3.Size = new System.Drawing.Size(43, 29);
             this.delButton3.TabIndex = 8;
@@ -1364,16 +1374,6 @@
             this.preferenceLabel.Size = new System.Drawing.Size(202, 30);
             this.preferenceLabel.TabIndex = 0;
             this.preferenceLabel.Text = "Personal Preference:";
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(431, 32);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(43, 29);
-            this.button5.TabIndex = 8;
-            this.button5.Text = "-";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // Form1
             // 
