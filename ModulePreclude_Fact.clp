@@ -1,4 +1,4 @@
-(definstances INITALIZE::MODULEPRECLUDELIST 
+(definstances INITIALIZE::MODULEPRECLUDELIST 
 ([precACC10020] of MODULEPRECLUDE 
 (moduleid  ACC1002)
 (moduleidpreclusion FNA1002)
@@ -2349,7 +2349,7 @@
 )
 ([precGEK10660] of MODULEPRECLUDE 
 (moduleid  GEK1066)
-(moduleidpreclusion GEK 1052)
+(moduleidpreclusion GEK1052)
 )
 ([precGEK20010] of MODULEPRECLUDE 
 (moduleid  GEK2001)
@@ -2485,7 +2485,7 @@
 )
 ([precGEM20271] of MODULEPRECLUDE 
 (moduleid  GEM2027)
-(moduleidpreclusion NM4200 I)
+(moduleidpreclusion NM4200I)
 )
 ([precGEM25090] of MODULEPRECLUDE 
 (moduleid  GEM2509)

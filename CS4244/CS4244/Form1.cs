@@ -500,6 +500,7 @@ namespace CS4244
         // Tab3 Done
         private void button14_Click(object sender, EventArgs e)
         {
+            
             User u = new User();
 
             List<string> fields = new List<string>();
@@ -636,6 +637,9 @@ namespace CS4244
                 u.createRequiredModulesInstance();
                 u.OutputEverything();
 
+                progressBar2.Show ();
+                Application.DoEvents();
+
                 Process p = new Process();
                 p.StartInfo.UseShellExecute = false;
                 p.StartInfo.CreateNoWindow = true;
@@ -681,6 +685,7 @@ namespace CS4244
 
                 while (!reader.EndOfStream)
                 {
+                    Application.DoEvents();
                     string text = reader.ReadLine();
                     Console.WriteLine("Output: " + text);
 
@@ -707,6 +712,8 @@ namespace CS4244
                     if (!element.Equals(""))
                         form2.addElement(element.Replace("CLIPS> ", ""));
                 }
+                progressBar2.Hide();
+
                 form2.ShowDialog();
             }
             else

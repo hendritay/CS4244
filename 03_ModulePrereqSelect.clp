@@ -9,7 +9,7 @@
 	  (object (is-a ALLMODULE) (moduleid ?somemodule) )	  
 	  ?objmodule <- (object (is-a MODULEPREQ) (modulepreq $? ?somemodule $?) (moduleid ?moduleid))
 	   (object (is-a MODULE) (moduleid ?moduleid) (moduletagscore ?score) (moduletype $?moduletype) (modulelevel ?level))	  
-	  (not (object (is-a REQUIREDMODULE) (moduleid ?moduleid)))
+	  (not (object (is-a REQUIREDCOREMODULE) (moduleid ?moduleid)))
 	  
 	=> 		
 		

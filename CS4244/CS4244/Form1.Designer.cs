@@ -137,6 +137,10 @@
             this.addButton4 = new System.Windows.Forms.Button();
             this.preferenceBox = new System.Windows.Forms.ComboBox();
             this.preferenceLabel = new System.Windows.Forms.Label();
+<<<<<<< HEAD
+            this.progressBar2 = new System.Windows.Forms.ProgressBar();
+=======
+>>>>>>> 4c5f1d97a891cce519913be6c31aa9d4a72dbbad
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.JCPolyPanel.SuspendLayout();
@@ -1117,6 +1121,7 @@
             // 
             // tabPage3
             // 
+            this.tabPage3.Controls.Add(this.progressBar2);
             this.tabPage3.Controls.Add(this.button15);
             this.tabPage3.Controls.Add(this.button14);
             this.tabPage3.Controls.Add(this.panel3);
@@ -1375,6 +1380,18 @@
             this.preferenceLabel.TabIndex = 0;
             this.preferenceLabel.Text = "Personal Preference:";
             // 
+<<<<<<< HEAD
+            // progressBar2
+            // 
+            this.progressBar2.Location = new System.Drawing.Point(26, 552);
+            this.progressBar2.Name = "progressBar2";
+            this.progressBar2.Size = new System.Drawing.Size(210, 23);
+            this.progressBar2.Style = System.Windows.Forms.ProgressBarStyle.Marquee;
+            this.progressBar2.TabIndex = 19;
+            this.progressBar2.Visible = false;
+            // 
+=======
+>>>>>>> 4c5f1d97a891cce519913be6c31aa9d4a72dbbad
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1553,8 +1570,17 @@
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Button button20;
         private System.Windows.Forms.Button button5;
+<<<<<<< HEAD
+        private System.Windows.Forms.ProgressBar progressBar2;
 
 
     }
 }
 
+=======
+
+
+    }
+}
+
+>>>>>>> 4c5f1d97a891cce519913be6c31aa9d4a72dbbad
