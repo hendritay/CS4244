@@ -14,12 +14,12 @@ namespace CS4244
     public partial class Form1 : Form
     {
         // Hendri Path
-        //public static string BasicPath = @"C:\Study\CS4244\Project\CS4244\CS4244\CS4244";
-        //public static string ClipsPath = @"C:\Study\CS4244\Project\CS4244";
+        public static string BasicPath = @"C:\Study\CS4244\Project\CS4244\CS4244\CS4244";
+        public static string ClipsPath = @"C:\Study\CS4244\Project\CS4244";
 
         // Aaron Path
-        public static string BasicPath = @"C:\Users\User\Documents\GitHub\CS4244\CS4244\CS4244";
-        public static string ClipsPath = @"C:\Users\User\Documents\GitHub\CS4244";
+        //public static string BasicPath = @"C:\Users\User\Documents\GitHub\CS4244\CS4244\CS4244";
+        //public static string ClipsPath = @"C:\Users\User\Documents\GitHub\CS4244";
 
         public static string dbConnectionString = "Data Source=" + BasicPath + @"\CS4244.sqlite;Version=3;";
 
@@ -637,7 +637,7 @@ namespace CS4244
                 u.createRequiredModulesInstance();
                 u.OutputEverything();
 
-                progressBar2.Show ();
+                progressBar1.Show ();
                 Application.DoEvents();
 
                 Process p = new Process();
@@ -712,7 +712,7 @@ namespace CS4244
                     if (!element.Equals(""))
                         form2.addElement(element.Replace("CLIPS> ", ""));
                 }
-                progressBar2.Hide();
+                progressBar1.Hide();
 
                 form2.ShowDialog();
             }
